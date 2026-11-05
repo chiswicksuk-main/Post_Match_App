@@ -1,4 +1,227 @@
 ﻿Date,Round,Match,Home,Away,CompetitionID,MatchID
+2026-10-24,29,Qingdao West Coast 1-1 Yunnan Yukun,Qingdao West Coast,Yunnan Yukun,e6818x4pwankpph8awr91m1hw,8vsg9go3nyw3ue3wl922opbf8
+2026-10-24,29,Chongqing Tonglianglong 2-0 Qingdao Hainiu,Chongqing Tonglianglong,Qingdao Hainiu,e6818x4pwankpph8awr91m1hw,8v6m0bctz5blsq96salwi1lp0
+2026-10-24,29,Liaoning Tieren 2-4 Zhejiang,Liaoning Tieren,Zhejiang,e6818x4pwankpph8awr91m1hw,8unirtf6yrhph3oxkxjemhlp0
+2026-10-24,29,Shenzhen Peng City 2-1 Shanghai Shenhua,Shenzhen Peng City,Shanghai Shenhua,e6818x4pwankpph8awr91m1hw,8u48pc0obwestp719ril8bthw
+2026-10-24,29,Henan 3-4 Beijing Guoan,Henan,Beijing Guoan,e6818x4pwankpph8awr91m1hw,8tgw3wioeaydp54rtqpdhm1hw
+2026-10-24,29,Wuhan Three Towns 3-5 Shandong Taishan,Wuhan Three Towns,Shandong Taishan,e6818x4pwankpph8awr91m1hw,8s4tpcxmvpwf27dlnw5jbllas
+2026-10-24,29,Chengdu Rongcheng 0-1 Dalian Yingbo,Chengdu Rongcheng,Dalian Yingbo,e6818x4pwankpph8awr91m1hw,8rd111pd30865bsf94xke9yqc
+2026-10-24,29,Tianjin Jinmen Tiger 1-3 Shanghai Port,Tianjin Jinmen Tiger,Shanghai Port,e6818x4pwankpph8awr91m1hw,8qul7v13k9h7ywhkmmp9shbtg
+2026-10-18,28,Shanghai Port 3-0 Chengdu Rongcheng,Shanghai Port,Chengdu Rongcheng,e6818x4pwankpph8awr91m1hw,8qcdf9ivl2i94sfe6wv29i42c
+2026-10-18,28,Beijing Guoan 1-0 Qingdao West Coast,Beijing Guoan,Qingdao West Coast,e6818x4pwankpph8awr91m1hw,8psxpb5fcdnoer75feckq4pw4
+2026-10-18,28,Wuhan Three Towns 1-3 Shanghai Shenhua,Wuhan Three Towns,Shanghai Shenhua,e6818x4pwankpph8awr91m1hw,8paboo0w6nqxifg3sgcg74qhg
+2026-10-17,28,Shandong Taishan 5-0 Zhejiang,Shandong Taishan,Zhejiang,e6818x4pwankpph8awr91m1hw,8opy35pbjnxql7zb5ev9u80es
+2026-10-17,28,Yunnan Yukun 1-1 Chongqing Tonglianglong,Yunnan Yukun,Chongqing Tonglianglong,e6818x4pwankpph8awr91m1hw,8o2gszsgzt10tpkz8spiw3l78
+2026-10-17,28,Qingdao Hainiu 0-4 Liaoning Tieren,Qingdao Hainiu,Liaoning Tieren,e6818x4pwankpph8awr91m1hw,8niq7sowro1rj00axvh8wuhw4
+2026-10-17,28,Dalian Yingbo 3-1 Shenzhen Peng City,Dalian Yingbo,Shenzhen Peng City,e6818x4pwankpph8awr91m1hw,8mon0x5u1wm4p0xuqr6wnq8t0
+2026-10-16,28,Henan 0-1 Tianjin Jinmen Tiger,Henan,Tianjin Jinmen Tiger,e6818x4pwankpph8awr91m1hw,8m5yl3l3nyueh4o8yqno04v10
+2026-10-11,27,Chongqing Tonglianglong 1-1 Shandong Taishan,Chongqing Tonglianglong,Shandong Taishan,e6818x4pwankpph8awr91m1hw,8ljzqxfh2lbbogoi5zkhg86c4
+2026-10-11,27,Liaoning Tieren 1-1 Wuhan Three Towns,Liaoning Tieren,Wuhan Three Towns,e6818x4pwankpph8awr91m1hw,8l1g81ctq8z6nfwv0kbi9i42c
+2026-10-11,27,Qingdao West Coast 0-4 Dalian Yingbo,Qingdao West Coast,Dalian Yingbo,e6818x4pwankpph8awr91m1hw,8kiz2qjsgiw2a6vgke68cr09g
+2026-10-10,27,Chengdu Rongcheng 0-1 Tianjin Jinmen Tiger,Chengdu Rongcheng,Tianjin Jinmen Tiger,e6818x4pwankpph8awr91m1hw,8ji55lqfa3tnme4a01lssx8no
+2026-10-10,27,Shanghai Shenhua 7-1 Yunnan Yukun,Shanghai Shenhua,Yunnan Yukun,e6818x4pwankpph8awr91m1hw,8ixzq48n62rfhnau6m5hmv8d0
+2026-10-09,27,Zhejiang 2-4 Shanghai Port,Zhejiang,Shanghai Port,e6818x4pwankpph8awr91m1hw,8ie6k2pk6tfk8sqes880iuu50
+2026-10-09,27,Qingdao Hainiu 0-3 Beijing Guoan,Qingdao Hainiu,Beijing Guoan,e6818x4pwankpph8awr91m1hw,8k0kkw9q7t35172sozekqth5g
+2026-10-09,27,Shenzhen Peng City 2-2 Henan,Shenzhen Peng City,Henan,e6818x4pwankpph8awr91m1hw,8htgbuh6lz49h6uynfjyhoe1g
+2026-09-18,22,Zhejiang 4-1 Wuhan Three Towns,Zhejiang,Wuhan Three Towns,e6818x4pwankpph8awr91m1hw,7wvy3glfx3b1cq4n4jsjqcahg
+2026-09-12,18,Wuhan Three Towns 1-1 Henan,Wuhan Three Towns,Henan,e6818x4pwankpph8awr91m1hw,7bz86a4xl8hb0rm4fyrwu347o
+2026-09-12,18,Tianjin Jinmen Tiger 1-0 Liaoning Tieren,Tianjin Jinmen Tiger,Liaoning Tieren,e6818x4pwankpph8awr91m1hw,7elqren5n59mu0vl7uy1i4h78
+2026-09-06,26,Tianjin Jinmen Tiger 2-1 Zhejiang,Tianjin Jinmen Tiger,Zhejiang,e6818x4pwankpph8awr91m1hw,8havvc67tqfpstsw53gb5gmc4
+2026-09-06,26,Henan 0-0 Chengdu Rongcheng,Henan,Chengdu Rongcheng,e6818x4pwankpph8awr91m1hw,8gsel9lqk8wzxjv37myges844
+2026-09-06,26,Yunnan Yukun 5-0 Liaoning Tieren,Yunnan Yukun,Liaoning Tieren,e6818x4pwankpph8awr91m1hw,8g9sl1u9bqfaab0d8tmvzpo9g
+2026-09-06,26,Chongqing Tonglianglong 1-3 Shanghai Shenhua,Chongqing Tonglianglong,Shanghai Shenhua,e6818x4pwankpph8awr91m1hw,8frjq1wwuygw9kogn8gqx7j84
+2026-09-05,26,Shandong Taishan 1-1 Shenzhen Peng City,Shandong Taishan,Shenzhen Peng City,e6818x4pwankpph8awr91m1hw,8f937kd6uvf0c9222imc0h5hw
+2026-09-05,26,Dalian Yingbo 2-1 Qingdao Hainiu,Dalian Yingbo,Qingdao Hainiu,e6818x4pwankpph8awr91m1hw,8eqv2u3cq423eh3vu9nwrsxzo
+2026-09-05,26,Shanghai Port 0-0 Beijing Guoan,Shanghai Port,Beijing Guoan,e6818x4pwankpph8awr91m1hw,8e381tdjtl1z4thuxfvq7b9xw
+2026-09-05,26,Wuhan Three Towns 2-2 Qingdao West Coast,Wuhan Three Towns,Qingdao West Coast,e6818x4pwankpph8awr91m1hw,8dl3tgjk1roo40sjkn3pqydck
+2026-08-29,25,Henan 1-1 Chongqing Tonglianglong,Henan,Chongqing Tonglianglong,e6818x4pwankpph8awr91m1hw,8czzh4kxjlfyckhs0zikg1fro
+2026-08-29,25,Chengdu Rongcheng 2-1 Liaoning Tieren,Chengdu Rongcheng,Liaoning Tieren,e6818x4pwankpph8awr91m1hw,8bd4hv98la2j9rsk3ulmo83ys
+2026-08-29,25,Tianjin Jinmen Tiger 1-1 Qingdao West Coast,Tianjin Jinmen Tiger,Qingdao West Coast,e6818x4pwankpph8awr91m1hw,8ase727hwbfwfswtgrn75b6dw
+2026-08-29,25,Zhejiang 6-0 Yunnan Yukun,Zhejiang,Yunnan Yukun,e6818x4pwankpph8awr91m1hw,8a7i3s3t2a3curbtkhb7r4qhg
+2026-08-29,25,Qingdao Hainiu 1-5 Wuhan Three Towns,Qingdao Hainiu,Wuhan Three Towns,e6818x4pwankpph8awr91m1hw,8cgl76b6kfij83elezktff47o
+2026-08-28,25,Shenzhen Peng City 0-1 Shanghai Port,Shenzhen Peng City,Shanghai Port,e6818x4pwankpph8awr91m1hw,89omc5gj9js7icllae9zqutck
+2026-08-28,25,Shanghai Shenhua 2-3 Shandong Taishan,Shanghai Shenhua,Shandong Taishan,e6818x4pwankpph8awr91m1hw,8bvscv1w5kthdhmkb6m9w2tjo
+2026-08-28,25,Dalian Yingbo 1-1 Beijing Guoan,Dalian Yingbo,Beijing Guoan,e6818x4pwankpph8awr91m1hw,8952g91y1l2aa5mfvok8d1puc
+2026-08-23,24,Chongqing Tonglianglong 0-1 Dalian Yingbo,Chongqing Tonglianglong,Dalian Yingbo,e6818x4pwankpph8awr91m1hw,88km3rw2kjz9y134ph7id0j6c
+2026-08-23,24,Shanghai Port 2-1 Qingdao Hainiu,Shanghai Port,Qingdao Hainiu,e6818x4pwankpph8awr91m1hw,87qvc4kn1otsz1jv4hwwr7310
+2026-08-23,24,Liaoning Tieren 4-4 Henan,Liaoning Tieren,Henan,e6818x4pwankpph8awr91m1hw,8736l3ssc3lr9keem9ukhwidw
+2026-08-22,24,Qingdao West Coast 2-0 Shandong Taishan,Qingdao West Coast,Shandong Taishan,e6818x4pwankpph8awr91m1hw,86ga1vrf4ummuktlr54vibdas
+2026-08-22,24,Beijing Guoan 3-3 Yunnan Yukun,Beijing Guoan,Yunnan Yukun,e6818x4pwankpph8awr91m1hw,85w0ub3dgtk9vjcw92irhe9sk
+2026-08-22,24,Shenzhen Peng City 1-1 Zhejiang,Shenzhen Peng City,Zhejiang,e6818x4pwankpph8awr91m1hw,85dine158e3ambd119mkwbj84
+2026-08-22,24,Chengdu Rongcheng 4-5 Shanghai Shenhua,Chengdu Rongcheng,Shanghai Shenhua,e6818x4pwankpph8awr91m1hw,84vc3fertyhf9hwv9zj4q9q1g
+2026-08-22,24,Wuhan Three Towns 0-0 Tianjin Jinmen Tiger,Wuhan Three Towns,Tianjin Jinmen Tiger,e6818x4pwankpph8awr91m1hw,840mf1ofx7lxhp5t1nc6amo7o
+2026-08-19,18,Shanghai Port 1-1 Dalian Yingbo,Shanghai Port,Dalian Yingbo,e6818x4pwankpph8awr91m1hw,7f5jiwzp5jzhfmr76hf5scbo4
+2026-08-18,18,Shanghai Shenhua 0-3 Beijing Guoan,Shanghai Shenhua,Beijing Guoan,e6818x4pwankpph8awr91m1hw,7d0pav2lbsf28wpyhxvx19kpg
+2026-08-15,23,Shanghai Shenhua 4-1 Henan,Shanghai Shenhua,Henan,e6818x4pwankpph8awr91m1hw,83flpptj2bz6nbz443467rfh0
+2026-08-15,23,Yunnan Yukun 3-1 Dalian Yingbo,Yunnan Yukun,Dalian Yingbo,e6818x4pwankpph8awr91m1hw,82s87ky4sv1ijutk9rgtbygb8
+2026-08-15,23,Zhejiang 2-3 Chengdu Rongcheng,Zhejiang,Chengdu Rongcheng,e6818x4pwankpph8awr91m1hw,8281pbszjnlx5o8k8onfazqc4
+2026-08-15,23,Tianjin Jinmen Tiger 2-4 Beijing Guoan,Tianjin Jinmen Tiger,Beijing Guoan,e6818x4pwankpph8awr91m1hw,81po1759neralepgwtvnsles4
+2026-08-15,23,Liaoning Tieren 1-2 Shenzhen Peng City,Liaoning Tieren,Shenzhen Peng City,e6818x4pwankpph8awr91m1hw,814br9zc41v9agj76yt0qh0d0
+2026-08-14,23,Qingdao West Coast 0-0 Chongqing Tonglianglong,Qingdao West Coast,Chongqing Tonglianglong,e6818x4pwankpph8awr91m1hw,80loemznqkoijtukz26qhludw
+2026-08-14,23,Wuhan Three Towns 2-3 Shanghai Port,Wuhan Three Towns,Shanghai Port,e6818x4pwankpph8awr91m1hw,802ywzh7fbtetf6clckb3q42c
+2026-08-14,23,Shandong Taishan 3-1 Qingdao Hainiu,Shandong Taishan,Qingdao Hainiu,e6818x4pwankpph8awr91m1hw,7zknoe2kcz0amakr4o84h71uc
+2026-08-09,22,Shandong Taishan 2-1 Tianjin Jinmen Tiger,Shandong Taishan,Tianjin Jinmen Tiger,e6818x4pwankpph8awr91m1hw,7z26jj9mlc5c2020u4yfij9qs
+2026-08-09,22,Chongqing Tonglianglong 2-3 Shanghai Port,Chongqing Tonglianglong,Shanghai Port,e6818x4pwankpph8awr91m1hw,7yiga8efgbfo5wrduc8q2sljo
+2026-08-09,22,Henan 0-0 Qingdao West Coast,Henan,Qingdao West Coast,e6818x4pwankpph8awr91m1hw,7xzu36mexjnoyr00zlxvmt638
+2026-08-08,22,Yunnan Yukun 1-0 Chengdu Rongcheng,Yunnan Yukun,Chengdu Rongcheng,e6818x4pwankpph8awr91m1hw,7xei28xbvcy80zucztgbzep78
+2026-08-08,22,Dalian Yingbo 1-0 Liaoning Tieren,Dalian Yingbo,Liaoning Tieren,e6818x4pwankpph8awr91m1hw,7wcwq15d1la3u90o3mluc8pas
+2026-08-08,22,Qingdao Hainiu 0-1 Shanghai Shenhua,Qingdao Hainiu,Shanghai Shenhua,e6818x4pwankpph8awr91m1hw,7vubgda3f8bw40h8a8md5mdck
+2026-08-07,22,Beijing Guoan 4-0 Shenzhen Peng City,Beijing Guoan,Shenzhen Peng City,e6818x4pwankpph8awr91m1hw,7vbtecgm8qye7yq6y9fx9m68k
+2026-08-02,21,Shenzhen Peng City 2-0 Chongqing Tonglianglong,Shenzhen Peng City,Chongqing Tonglianglong,e6818x4pwankpph8awr91m1hw,7timq954uy2l381jbwrlnlb10
+2026-08-02,21,Liaoning Tieren 3-1 Shanghai Shenhua,Liaoning Tieren,Shanghai Shenhua,e6818x4pwankpph8awr91m1hw,7uso0piw8es91etw6k04dwcus
+2026-08-02,21,Qingdao West Coast 2-0 Qingdao Hainiu,Qingdao West Coast,Qingdao Hainiu,e6818x4pwankpph8awr91m1hw,7u95zve6md9l3qrksg3t7hpg4
+2026-08-01,21,Chengdu Rongcheng 1-1 Wuhan Three Towns,Chengdu Rongcheng,Wuhan Three Towns,e6818x4pwankpph8awr91m1hw,7suh0b3w17oko08fitmwxyyvo
+2026-08-01,21,Beijing Guoan 2-1 Zhejiang,Beijing Guoan,Zhejiang,e6818x4pwankpph8awr91m1hw,7rm65ls0f7palbgh9wral22hg
+2026-08-01,21,Shanghai Port 0-1 Shandong Taishan,Shanghai Port,Shandong Taishan,e6818x4pwankpph8awr91m1hw,7qz6b2tta2hel77tr91rp4u1g
+2026-08-01,21,Tianjin Jinmen Tiger 3-2 Yunnan Yukun,Tianjin Jinmen Tiger,Yunnan Yukun,e6818x4pwankpph8awr91m1hw,7qc0emxcynxgmlnqs0dc10wlw
+2026-07-31,21,Henan 1-1 Dalian Yingbo,Henan,Dalian Yingbo,e6818x4pwankpph8awr91m1hw,7prr5n9hewqozx2qjc7p92bys
+2026-07-26,20,Zhejiang 3-2 Dalian Yingbo,Zhejiang,Dalian Yingbo,e6818x4pwankpph8awr91m1hw,7oou5l1yz607s0axe7385dfro
+2026-07-26,20,Chengdu Rongcheng 2-2 Beijing Guoan,Chengdu Rongcheng,Beijing Guoan,e6818x4pwankpph8awr91m1hw,7o5ou8wlbrt3ce0tiivrmts7o
+2026-07-26,20,Shandong Taishan 1-2 Henan,Shandong Taishan,Henan,e6818x4pwankpph8awr91m1hw,7nmf8rg19m72koyi2jd795pn8
+2026-07-26,20,Yunnan Yukun 4-3 Shenzhen Peng City,Yunnan Yukun,Shenzhen Peng City,e6818x4pwankpph8awr91m1hw,7n335dt8r0jfiny08zjatwkr8
+2026-07-25,20,Wuhan Three Towns 1-0 Chongqing Tonglianglong,Wuhan Three Towns,Chongqing Tonglianglong,e6818x4pwankpph8awr91m1hw,7mg5mnwl5627futgn7ct5j190
+2026-07-25,20,Shanghai Port 2-0 Shanghai Shenhua,Shanghai Port,Shanghai Shenhua,e6818x4pwankpph8awr91m1hw,7ln0omhf5qyna6onk5rjm86qc
+2026-07-25,20,Liaoning Tieren 0-1 Qingdao West Coast,Liaoning Tieren,Qingdao West Coast,e6818x4pwankpph8awr91m1hw,7l34xusfylccfpxgb0foyjrx0
+2026-07-25,20,Qingdao Hainiu 0-2 Tianjin Jinmen Tiger,Qingdao Hainiu,Tianjin Jinmen Tiger,e6818x4pwankpph8awr91m1hw,7kk38q5hdoy7lad9bivo8ql90
+2026-07-18,19,Wuhan Three Towns 2-0 Shenzhen Peng City,Wuhan Three Towns,Shenzhen Peng City,e6818x4pwankpph8awr91m1hw,7jsgxug84ua8xfstb0zcrmcyc
+2026-07-18,19,Dalian Yingbo 3-1 Shandong Taishan,Dalian Yingbo,Shandong Taishan,e6818x4pwankpph8awr91m1hw,7j8gw9rg28bdbeakhv4j8rhn8
+2026-07-18,19,Shanghai Shenhua 0-2 Tianjin Jinmen Tiger,Shanghai Shenhua,Tianjin Jinmen Tiger,e6818x4pwankpph8awr91m1hw,7inqf2hl250x7uheyo02cz1g4
+2026-07-18,19,Chongqing Tonglianglong 1-1 Zhejiang,Chongqing Tonglianglong,Zhejiang,e6818x4pwankpph8awr91m1hw,7hidcg1kqs4r7432k7ffg90d0
+2026-07-17,19,Yunnan Yukun 2-2 Shanghai Port,Yunnan Yukun,Shanghai Port,e6818x4pwankpph8awr91m1hw,7gxgn108oohs5io99o7gw9s0k
+2026-07-17,19,Beijing Guoan 1-1 Liaoning Tieren,Beijing Guoan,Liaoning Tieren,e6818x4pwankpph8awr91m1hw,7g84pzc41udkj4gtp3hbvemtw
+2026-07-17,19,Henan 5-1 Qingdao Hainiu,Henan,Qingdao Hainiu,e6818x4pwankpph8awr91m1hw,7foc3a13oypkjaqb6rqu3fv2s
+2026-07-17,19,Qingdao West Coast 1-1 Chengdu Rongcheng,Qingdao West Coast,Chengdu Rongcheng,e6818x4pwankpph8awr91m1hw,7i4sscachpw9h5lnoyrcgyvx0
+2026-07-14,18,Zhejiang 3-2 Qingdao Hainiu,Zhejiang,Qingdao Hainiu,e6818x4pwankpph8awr91m1hw,7ci21e0q7l8tsmj2tzzrxjd3o
+2026-07-11,18,Chengdu Rongcheng 1-1 Chongqing Tonglianglong,Chengdu Rongcheng,Chongqing Tonglianglong,e6818x4pwankpph8awr91m1hw,7e2x6mg6j6yvcv2p6n0cxq3o4
+2026-07-11,18,Shenzhen Peng City 3-0 Qingdao West Coast,Shenzhen Peng City,Qingdao West Coast,e6818x4pwankpph8awr91m1hw,7djttj5jbvsn1ztid1jilvqqc
+2026-07-10,18,Shandong Taishan 4-3 Yunnan Yukun,Shandong Taishan,Yunnan Yukun,e6818x4pwankpph8awr91m1hw,7bd0tgocljrhe08rkr5c73ok4
+2026-07-05,17,Shanghai Shenhua 3-2 Zhejiang,Shanghai Shenhua,Zhejiang,e6818x4pwankpph8awr91m1hw,7au0ljo2q9b3ov17t5fmz6al0
+2026-07-05,17,Qingdao Hainiu 1-1 Chengdu Rongcheng,Qingdao Hainiu,Chengdu Rongcheng,e6818x4pwankpph8awr91m1hw,7ab7eogsb6wn1tqgcu6u6w6c4
+2026-07-04,17,Tianjin Jinmen Tiger 3-0 Shenzhen Peng City,Tianjin Jinmen Tiger,Shenzhen Peng City,e6818x4pwankpph8awr91m1hw,79s9sewotqt9nyzpqa0q358no
+2026-07-04,17,Dalian Yingbo 3-2 Wuhan Three Towns,Dalian Yingbo,Wuhan Three Towns,e6818x4pwankpph8awr91m1hw,797sliipswewjzcykav6h14ic
+2026-07-04,17,Beijing Guoan 2-0 Shandong Taishan,Beijing Guoan,Shandong Taishan,e6818x4pwankpph8awr91m1hw,78p0qx7lcrmr2odvb7akj6ihg
+2026-07-04,17,Qingdao West Coast 2-1 Shanghai Port,Qingdao West Coast,Shanghai Port,e6818x4pwankpph8awr91m1hw,7869eohrkht3fu0pvp1za9hck
+2026-07-04,17,Liaoning Tieren 3-1 Chongqing Tonglianglong,Liaoning Tieren,Chongqing Tonglianglong,e6818x4pwankpph8awr91m1hw,77o0x1adrago3qvagoebgozkk
+2026-07-03,17,Yunnan Yukun 2-1 Henan,Yunnan Yukun,Henan,e6818x4pwankpph8awr91m1hw,76tj3gwidw0rqf5mjp982q3h0
+2026-06-28,16,Dalian Yingbo 1-4 Shanghai Shenhua,Dalian Yingbo,Shanghai Shenhua,e6818x4pwankpph8awr91m1hw,767f4gtmnn8929ih2473r7ms4
+2026-06-28,16,Qingdao West Coast 3-1 Zhejiang,Qingdao West Coast,Zhejiang,e6818x4pwankpph8awr91m1hw,75odjerpx342nz3pfdbewvy1g
+2026-06-27,16,Beijing Guoan 1-0 Wuhan Three Towns,Beijing Guoan,Wuhan Three Towns,e6818x4pwankpph8awr91m1hw,753gfktgxcx9bnt1xrxx47g9g
+2026-06-27,16,Chongqing Tonglianglong 1-0 Tianjin Jinmen Tiger,Chongqing Tonglianglong,Tianjin Jinmen Tiger,e6818x4pwankpph8awr91m1hw,74kmrrlco8hagjxr2srxtxatw
+2026-06-27,16,Shenzhen Peng City 2-3 Chengdu Rongcheng,Shenzhen Peng City,Chengdu Rongcheng,e6818x4pwankpph8awr91m1hw,741fv2gdme88pd4qin7ebatck
+2026-06-27,16,Henan 1-2 Shanghai Port,Henan,Shanghai Port,e6818x4pwankpph8awr91m1hw,73ihydkvo7f2863as2naxkm50
+2026-06-27,16,Liaoning Tieren 1-5 Shandong Taishan,Liaoning Tieren,Shandong Taishan,e6818x4pwankpph8awr91m1hw,72zt0lhtduhmb4vdvl2k0naqc
+2026-06-26,16,Qingdao Hainiu 4-2 Yunnan Yukun,Qingdao Hainiu,Yunnan Yukun,e6818x4pwankpph8awr91m1hw,72hbxvptr7bjivdq3j9zvon4k
+2026-05-31,15,Wuhan Three Towns 1-1 Yunnan Yukun,Wuhan Three Towns,Yunnan Yukun,e6818x4pwankpph8awr91m1hw,71xu9qu4v02vcz2i24qn87k7o
+2026-05-31,15,Tianjin Jinmen Tiger 1-0 Dalian Yingbo,Tianjin Jinmen Tiger,Dalian Yingbo,e6818x4pwankpph8awr91m1hw,71btakdeuth535ml9epntc9w4
+2026-05-30,15,Chongqing Tonglianglong 2-3 Beijing Guoan,Chongqing Tonglianglong,Beijing Guoan,e6818x4pwankpph8awr91m1hw,70t2weqq4dmvz48bzsgos84r8
+2026-05-30,15,Shenzhen Peng City 3-2 Qingdao Hainiu,Shenzhen Peng City,Qingdao Hainiu,e6818x4pwankpph8awr91m1hw,707ik51elzvcnwd1y3onp2wic
+2026-05-30,15,Chengdu Rongcheng 1-0 Shandong Taishan,Chengdu Rongcheng,Shandong Taishan,e6818x4pwankpph8awr91m1hw,6z5r7181q96t0zolmt49l61hw
+2026-05-30,15,Henan 0-2 Zhejiang,Henan,Zhejiang,e6818x4pwankpph8awr91m1hw,6ykw68bc8anwcpe608ynd826s
+2026-05-30,15,Qingdao West Coast 2-2 Shanghai Shenhua,Qingdao West Coast,Shanghai Shenhua,e6818x4pwankpph8awr91m1hw,6zp0q2k89fr343mi4vrymauc4
+2026-05-29,15,Liaoning Tieren 3-2 Shanghai Port,Liaoning Tieren,Shanghai Port,e6818x4pwankpph8awr91m1hw,6y1rddg8twov5blvijipot79w
+2026-05-24,14,Shanghai Shenhua 1-2 Shenzhen Peng City,Shanghai Shenhua,Shenzhen Peng City,e6818x4pwankpph8awr91m1hw,6xjaz1h41mcuwwp6k99ekbthw
+2026-05-24,14,Zhejiang 0-5 Liaoning Tieren,Zhejiang,Liaoning Tieren,e6818x4pwankpph8awr91m1hw,6x0d2fstzulb73rh97ofdf310
+2026-05-24,14,Shandong Taishan 3-3 Wuhan Three Towns,Shandong Taishan,Wuhan Three Towns,e6818x4pwankpph8awr91m1hw,6wfnzb2kjxmy0zz119xhylc0k
+2026-05-24,14,Yunnan Yukun 2-3 Qingdao West Coast,Yunnan Yukun,Qingdao West Coast,e6818x4pwankpph8awr91m1hw,6vd7bfmzt6vet1gpfeexxx0k4
+2026-05-24,14,Qingdao Hainiu 0-1 Chongqing Tonglianglong,Qingdao Hainiu,Chongqing Tonglianglong,e6818x4pwankpph8awr91m1hw,6vx3qfdfmr1n8g7r4riu2lnv8
+2026-05-23,14,Dalian Yingbo 2-0 Chengdu Rongcheng,Dalian Yingbo,Chengdu Rongcheng,e6818x4pwankpph8awr91m1hw,6uuu7gv1qxi6etuxiovkl5d04
+2026-05-23,14,Beijing Guoan 1-2 Henan,Beijing Guoan,Henan,e6818x4pwankpph8awr91m1hw,6ubut57hovxx1w3z1xuxvnw9g
+2026-05-23,14,Shanghai Port 1-1 Tianjin Jinmen Tiger,Shanghai Port,Tianjin Jinmen Tiger,e6818x4pwankpph8awr91m1hw,6tsrvmnanligggmm73ahj7t3o
+2026-05-20,13,Zhejiang 4-1 Shandong Taishan,Zhejiang,Shandong Taishan,e6818x4pwankpph8awr91m1hw,6t899cziq2ps3wnu7yipa6syc
+2026-05-20,13,Chongqing Tonglianglong 0-0 Yunnan Yukun,Chongqing Tonglianglong,Yunnan Yukun,e6818x4pwankpph8awr91m1hw,6spp8dhvd7cmhcik7uqdevml0
+2026-05-20,13,Shanghai Shenhua 2-2 Wuhan Three Towns,Shanghai Shenhua,Wuhan Three Towns,e6818x4pwankpph8awr91m1hw,6s7lrmr1hlgozmtw0yxi6qk2c
+2026-05-20,13,Liaoning Tieren 2-1 Qingdao Hainiu,Liaoning Tieren,Qingdao Hainiu,e6818x4pwankpph8awr91m1hw,6rmxipkcmw45yuopyqn4c10r8
+2026-05-19,13,Chengdu Rongcheng 0-1 Shanghai Port,Chengdu Rongcheng,Shanghai Port,e6818x4pwankpph8awr91m1hw,6r4v1nim0n10ozu5p8dyqf7kk
+2026-05-19,13,Qingdao West Coast 1-1 Beijing Guoan,Qingdao West Coast,Beijing Guoan,e6818x4pwankpph8awr91m1hw,6qmol9rqqrn9ucp5udkj9buvo
+2026-05-19,13,Shenzhen Peng City 1-1 Dalian Yingbo,Shenzhen Peng City,Dalian Yingbo,e6818x4pwankpph8awr91m1hw,6q4hyginzzzgmde24e70r179w
+2026-05-19,13,Tianjin Jinmen Tiger 1-2 Henan,Tianjin Jinmen Tiger,Henan,e6818x4pwankpph8awr91m1hw,6pham1d8iwx74pupmz77oe238
+2026-05-16,12,Yunnan Yukun 1-0 Shanghai Shenhua,Yunnan Yukun,Shanghai Shenhua,e6818x4pwankpph8awr91m1hw,6oturxwl15kfnnjdo2bybmbdg
+2026-05-16,12,Shandong Taishan 3-1 Chongqing Tonglianglong,Shandong Taishan,Chongqing Tonglianglong,e6818x4pwankpph8awr91m1hw,6ob3qzfy2zwd4xt0unwsuldlg
+2026-05-16,12,Wuhan Three Towns 2-2 Liaoning Tieren,Wuhan Three Towns,Liaoning Tieren,e6818x4pwankpph8awr91m1hw,6nsnysm51qghvp9lgglt5yqz8
+2026-05-15,12,Dalian Yingbo 2-3 Qingdao West Coast,Dalian Yingbo,Qingdao West Coast,e6818x4pwankpph8awr91m1hw,6n9exi3rgdcev6tu8sncc75zo
+2026-05-15,12,Beijing Guoan 4-2 Qingdao Hainiu,Beijing Guoan,Qingdao Hainiu,e6818x4pwankpph8awr91m1hw,6mp58sl33ixv41i85c14vj6dw
+2026-05-15,12,Tianjin Jinmen Tiger 1-2 Chengdu Rongcheng,Tianjin Jinmen Tiger,Chengdu Rongcheng,e6818x4pwankpph8awr91m1hw,6m6lqefnzx99jm4am28t5e49g
+2026-05-15,12,Henan 1-0 Shenzhen Peng City,Henan,Shenzhen Peng City,e6818x4pwankpph8awr91m1hw,6lkuopzfh3rxbzdylaps5rklw
+2026-05-15,12,Shanghai Port 2-2 Zhejiang,Shanghai Port,Zhejiang,e6818x4pwankpph8awr91m1hw,6l2e0sk9yn5cfvtf7x68uxxjo
+2026-05-10,11,Qingdao Hainiu 3-1 Dalian Yingbo,Qingdao Hainiu,Dalian Yingbo,e6818x4pwankpph8awr91m1hw,6iz7n1i1f6geenp1ignwuxo2c
+2026-05-10,11,Zhejiang 1-1 Tianjin Jinmen Tiger,Zhejiang,Tianjin Jinmen Tiger,e6818x4pwankpph8awr91m1hw,6k0pvj9jyf5br2u329ottjyfo
+2026-05-10,11,Beijing Guoan 2-2 Shanghai Port,Beijing Guoan,Shanghai Port,e6818x4pwankpph8awr91m1hw,6ji89gerljwjnacpqtfx8bthw
+2026-05-10,11,Liaoning Tieren 1-2 Yunnan Yukun,Liaoning Tieren,Yunnan Yukun,e6818x4pwankpph8awr91m1hw,6igsg2qyhyfsxjsajw8dbpbmc
+2026-05-10,11,Shenzhen Peng City 1-2 Shandong Taishan,Shenzhen Peng City,Shandong Taishan,e6818x4pwankpph8awr91m1hw,6kj88nq3n7zfpugzzgo4trcpg
+2026-05-10,11,Qingdao West Coast 1-1 Wuhan Three Towns,Qingdao West Coast,Wuhan Three Towns,e6818x4pwankpph8awr91m1hw,6hwjyl4au59y01yee9tegx9g4
+2026-05-09,11,Chengdu Rongcheng 3-0 Henan,Chengdu Rongcheng,Henan,e6818x4pwankpph8awr91m1hw,6hb27soefqduzyvwsep2ediqc
+2026-05-09,11,Shanghai Shenhua 2-2 Chongqing Tonglianglong,Shanghai Shenhua,Chongqing Tonglianglong,e6818x4pwankpph8awr91m1hw,6grpxakotrw81chs50p69j95g
+2026-05-06,10,Yunnan Yukun 1-2 Zhejiang,Yunnan Yukun,Zhejiang,e6818x4pwankpph8awr91m1hw,6g6l3y8qoyz7cxojeih3e0oic
+2026-05-06,10,Beijing Guoan 3-0 Dalian Yingbo,Beijing Guoan,Dalian Yingbo,e6818x4pwankpph8awr91m1hw,6fmqtjgcd0gl5lhc0zmg0d79w
+2026-05-06,10,Shanghai Port 1-1 Shenzhen Peng City,Shanghai Port,Shenzhen Peng City,e6818x4pwankpph8awr91m1hw,6f43hphbm9a8s49runujqx6ok
+2026-05-06,10,Wuhan Three Towns 1-3 Qingdao Hainiu,Wuhan Three Towns,Qingdao Hainiu,e6818x4pwankpph8awr91m1hw,6elb0qwzekp0nuecvqunr56ac
+2026-05-05,10,Chongqing Tonglianglong 1-1 Henan,Chongqing Tonglianglong,Henan,e6818x4pwankpph8awr91m1hw,6e2xp8y3wmvvnu4yyknrf0ums
+2026-05-05,10,Liaoning Tieren 0-1 Chengdu Rongcheng,Liaoning Tieren,Chengdu Rongcheng,e6818x4pwankpph8awr91m1hw,6dkohpqtgxjccv6jjny7n455g
+2026-05-05,10,Shandong Taishan 4-1 Shanghai Shenhua,Shandong Taishan,Shanghai Shenhua,e6818x4pwankpph8awr91m1hw,6d0nibcvis48zkh5pcys6utck
+2026-05-05,10,Qingdao West Coast 1-1 Tianjin Jinmen Tiger,Qingdao West Coast,Tianjin Jinmen Tiger,e6818x4pwankpph8awr91m1hw,6ci6shvdzp4k1qkemkofsmjv8
+2026-05-02,9,Yunnan Yukun 3-3 Beijing Guoan,Yunnan Yukun,Beijing Guoan,e6818x4pwankpph8awr91m1hw,6bzevs6czggnca6lchtpv8phw
+2026-05-02,9,Zhejiang 2-1 Shenzhen Peng City,Zhejiang,Shenzhen Peng City,e6818x4pwankpph8awr91m1hw,6bgvftalazeydxra3smwdf28k
+2026-05-02,9,Qingdao Hainiu 3-1 Shanghai Port,Qingdao Hainiu,Shanghai Port,e6818x4pwankpph8awr91m1hw,6axk0uqqsi7mzikg30qamyzh0
+2026-05-01,9,Shanghai Shenhua 2-3 Chengdu Rongcheng,Shanghai Shenhua,Chengdu Rongcheng,e6818x4pwankpph8awr91m1hw,6afarspczrvxpmrn0hb331fys
+2026-05-01,9,Shandong Taishan 1-1 Qingdao West Coast,Shandong Taishan,Qingdao West Coast,e6818x4pwankpph8awr91m1hw,69wtuw11j3ohyypy2v8snju38
+2026-05-01,9,Tianjin Jinmen Tiger 2-2 Wuhan Three Towns,Tianjin Jinmen Tiger,Wuhan Three Towns,e6818x4pwankpph8awr91m1hw,69e7zz8bouw6e3e16i4i7bd3o
+2026-05-01,9,Dalian Yingbo 1-0 Chongqing Tonglianglong,Dalian Yingbo,Chongqing Tonglianglong,e6818x4pwankpph8awr91m1hw,68vpwk9qqht3wwohr9nwohjpw
+2026-05-01,9,Henan 4-0 Liaoning Tieren,Henan,Liaoning Tieren,e6818x4pwankpph8awr91m1hw,68atehduqcpneg3h4my7w25uc
+2026-04-26,8,Henan 0-3 Shanghai Shenhua,Henan,Shanghai Shenhua,e6818x4pwankpph8awr91m1hw,67s4zyyoqu7kix8366scyiwb8
+2026-04-26,8,Dalian Yingbo 1-3 Yunnan Yukun,Dalian Yingbo,Yunnan Yukun,e6818x4pwankpph8awr91m1hw,677dj1pnbmi33rc4qlq4rvehg
+2026-04-26,8,Chongqing Tonglianglong 1-1 Qingdao West Coast,Chongqing Tonglianglong,Qingdao West Coast,e6818x4pwankpph8awr91m1hw,662zc91at32hq1hw6q3nymfis
+2026-04-26,8,Shenzhen Peng City 1-0 Liaoning Tieren,Shenzhen Peng City,Liaoning Tieren,e6818x4pwankpph8awr91m1hw,65if3y9xyi2sl5yh7qm95cmj8
+2026-04-26,8,Qingdao Hainiu 4-1 Shandong Taishan,Qingdao Hainiu,Shandong Taishan,e6818x4pwankpph8awr91m1hw,66myyf6dzjs5mswbqcxzlnztg
+2026-04-25,8,Shanghai Port 4-0 Wuhan Three Towns,Shanghai Port,Wuhan Three Towns,e6818x4pwankpph8awr91m1hw,64xvdrsb8aiy4byhqrxk4vsic
+2026-04-25,8,Beijing Guoan 2-4 Tianjin Jinmen Tiger,Beijing Guoan,Tianjin Jinmen Tiger,e6818x4pwankpph8awr91m1hw,64ffce8ht6eewm1743tvjog0k
+2026-04-25,8,Chengdu Rongcheng 4-0 Zhejiang,Chengdu Rongcheng,Zhejiang,e6818x4pwankpph8awr91m1hw,63x4juuhkp6hbmysqtnpiyrkk
+2026-04-22,7,Shanghai Shenhua 2-0 Qingdao Hainiu,Shanghai Shenhua,Qingdao Hainiu,e6818x4pwankpph8awr91m1hw,63chleh61rj2nmddg37hc1m38
+2026-04-22,7,Qingdao West Coast 0-0 Henan,Qingdao West Coast,Henan,e6818x4pwankpph8awr91m1hw,62uaetunade2g5vhbr0rntv6c
+2026-04-22,7,Liaoning Tieren 0-1 Dalian Yingbo,Liaoning Tieren,Dalian Yingbo,e6818x4pwankpph8awr91m1hw,62bnv145u2ifc81ftmu8gh5hw
+2026-04-21,7,Tianjin Jinmen Tiger 1-2 Shandong Taishan,Tianjin Jinmen Tiger,Shandong Taishan,e6818x4pwankpph8awr91m1hw,61tbvs6q77wrffxxgc25ukh78
+2026-04-21,7,Shanghai Port 1-2 Chongqing Tonglianglong,Shanghai Port,Chongqing Tonglianglong,e6818x4pwankpph8awr91m1hw,61axfgyfuhopnzj3ee2iapqtw
+2026-04-21,7,Wuhan Three Towns 2-0 Zhejiang,Wuhan Three Towns,Zhejiang,e6818x4pwankpph8awr91m1hw,60rs2gf952tzt6cxndgiqq6ms
+2026-04-21,7,Chengdu Rongcheng 2-1 Yunnan Yukun,Chengdu Rongcheng,Yunnan Yukun,e6818x4pwankpph8awr91m1hw,609cvh8t5xlzatdad4wandwr8
+2026-04-21,7,Shenzhen Peng City 0-1 Beijing Guoan,Shenzhen Peng City,Beijing Guoan,e6818x4pwankpph8awr91m1hw,5zpjmjdkmnei1smbpd60yoydw
+2026-04-18,6,Shanghai Shenhua 3-1 Liaoning Tieren,Shanghai Shenhua,Liaoning Tieren,e6818x4pwankpph8awr91m1hw,5z6d1w0ocx3h5i50o1sx8zyms
+2026-04-18,6,Dalian Yingbo 2-1 Henan,Dalian Yingbo,Henan,e6818x4pwankpph8awr91m1hw,5ym6m9tphg0azxysrlxbibdas
+2026-04-17,6,Yunnan Yukun 0-3 Tianjin Jinmen Tiger,Yunnan Yukun,Tianjin Jinmen Tiger,e6818x4pwankpph8awr91m1hw,5xy64m3wuyfz38ru58ofe40lw
+2026-04-17,6,Wuhan Three Towns 0-1 Chengdu Rongcheng,Wuhan Three Towns,Chengdu Rongcheng,e6818x4pwankpph8awr91m1hw,5x9gf75zxr4qfk72kjin8v384
+2026-04-17,6,Zhejiang 0-0 Beijing Guoan,Zhejiang,Beijing Guoan,e6818x4pwankpph8awr91m1hw,5wqun7ch8f15eqo1f2e67h2j8
+2026-04-17,6,Chongqing Tonglianglong 2-0 Shenzhen Peng City,Chongqing Tonglianglong,Shenzhen Peng City,e6818x4pwankpph8awr91m1hw,5w8i41x8xvha3geyrd8pqc5qs
+2026-04-17,6,Shandong Taishan 1-1 Shanghai Port,Shandong Taishan,Shanghai Port,e6818x4pwankpph8awr91m1hw,5vpqt8mm38zg5i90e4obskj6c
+2026-04-17,6,Qingdao Hainiu 0-0 Qingdao West Coast,Qingdao Hainiu,Qingdao West Coast,e6818x4pwankpph8awr91m1hw,5v7mmfp4b9luor3bi4xoiia6s
+2026-04-12,5,Shenzhen Peng City 3-4 Yunnan Yukun,Shenzhen Peng City,Yunnan Yukun,e6818x4pwankpph8awr91m1hw,5uojjxh9snfkg4py63m104844
+2026-04-12,5,Beijing Guoan 1-2 Chengdu Rongcheng,Beijing Guoan,Chengdu Rongcheng,e6818x4pwankpph8awr91m1hw,5u4gsr8kk1hlxsxw9owgcqnmc
+2026-04-12,5,Tianjin Jinmen Tiger 1-1 Qingdao Hainiu,Tianjin Jinmen Tiger,Qingdao Hainiu,e6818x4pwankpph8awr91m1hw,5tjds0mrg9iou2u6a7i9rzbx0
+2026-04-11,5,Shanghai Shenhua 1-0 Shanghai Port,Shanghai Shenhua,Shanghai Port,e6818x4pwankpph8awr91m1hw,5t0vxpu0k7vs3v145f29t2ntg
+2026-04-11,5,Henan 0-1 Shandong Taishan,Henan,Shandong Taishan,e6818x4pwankpph8awr91m1hw,5shompme21xnd82cb8ic2q9sk
+2026-04-11,5,Qingdao West Coast 1-1 Liaoning Tieren,Qingdao West Coast,Liaoning Tieren,e6818x4pwankpph8awr91m1hw,5ry724rh6ki9mzwhiwzmzzsic
+2026-04-11,5,Chongqing Tonglianglong 2-1 Wuhan Three Towns,Chongqing Tonglianglong,Wuhan Three Towns,e6818x4pwankpph8awr91m1hw,5r7fs466qctyu7852bc9b0tuc
+2026-04-10,5,Dalian Yingbo 3-0 Zhejiang,Dalian Yingbo,Zhejiang,e6818x4pwankpph8awr91m1hw,5qgodw36bp0eouz1iripbb6s4
+2026-04-05,4,Tianjin Jinmen Tiger 2-3 Shanghai Shenhua,Tianjin Jinmen Tiger,Shanghai Shenhua,e6818x4pwankpph8awr91m1hw,5ps7zo1cdx1kmnm0mk30bx8us
+2026-04-05,4,Shenzhen Peng City 5-2 Wuhan Three Towns,Shenzhen Peng City,Wuhan Three Towns,e6818x4pwankpph8awr91m1hw,5orl2m18a34u6a5zsjbjesljo
+2026-04-05,4,Zhejiang 0-1 Chongqing Tonglianglong,Zhejiang,Chongqing Tonglianglong,e6818x4pwankpph8awr91m1hw,5n8proj1cdehg162mn9casrv8
+2026-04-04,4,Shanghai Port 2-1 Yunnan Yukun,Shanghai Port,Yunnan Yukun,e6818x4pwankpph8awr91m1hw,5mfqxf21x0zjpfznwf238tf6c
+2026-04-04,4,Shandong Taishan 1-2 Dalian Yingbo,Shandong Taishan,Dalian Yingbo,e6818x4pwankpph8awr91m1hw,5lqupfdr9n8rp9gh8k4l801zo
+2026-04-04,4,Liaoning Tieren 2-1 Beijing Guoan,Liaoning Tieren,Beijing Guoan,e6818x4pwankpph8awr91m1hw,5l3dqoug6yyngwnpu3cgr2vbo
+2026-04-04,4,Qingdao Hainiu 1-0 Henan,Qingdao Hainiu,Henan,e6818x4pwankpph8awr91m1hw,5kgvr105juljeoh33v5ffj76c
+2026-04-03,4,Chengdu Rongcheng 5-1 Qingdao West Coast,Chengdu Rongcheng,Qingdao West Coast,e6818x4pwankpph8awr91m1hw,5jv6mkx5er0vuqdwfd8ova1p0
+2026-03-21,3,Yunnan Yukun 4-0 Shandong Taishan,Yunnan Yukun,Shandong Taishan,e6818x4pwankpph8awr91m1hw,5jb9nu0y3iz5ygzihhdxuq9sk
+2026-03-21,3,Qingdao West Coast 1-0 Shenzhen Peng City,Qingdao West Coast,Shenzhen Peng City,e6818x4pwankpph8awr91m1hw,5io0nc5vzroc6hhn338tv0mqc
+2026-03-21,3,Chongqing Tonglianglong 3-3 Chengdu Rongcheng,Chongqing Tonglianglong,Chengdu Rongcheng,e6818x4pwankpph8awr91m1hw,5i54c9vn5a1zb1abbkz61tno4
+2026-03-21,3,Henan 1-1 Wuhan Three Towns,Henan,Wuhan Three Towns,e6818x4pwankpph8awr91m1hw,5hd815stly9v2cybt4lneb4lw
+2026-03-21,3,Liaoning Tieren 3-0 Tianjin Jinmen Tiger,Liaoning Tieren,Tianjin Jinmen Tiger,e6818x4pwankpph8awr91m1hw,5gtqenlhk2v46n7kcdy3ju8lw
+2026-03-21,3,Beijing Guoan 1-1 Shanghai Shenhua,Beijing Guoan,Shanghai Shenhua,e6818x4pwankpph8awr91m1hw,5gb0r1v0fskczm4l8717r6bdg
+2026-03-20,3,Qingdao Hainiu 1-4 Zhejiang,Qingdao Hainiu,Zhejiang,e6818x4pwankpph8awr91m1hw,5fs53kcysxroav168vgez1gr8
+2026-03-20,3,Dalian Yingbo 1-0 Shanghai Port,Dalian Yingbo,Shanghai Port,e6818x4pwankpph8awr91m1hw,5f9ilrqrdipm2jsvj19664p3o
+2026-03-15,2,Chengdu Rongcheng 1-0 Qingdao Hainiu,Chengdu Rongcheng,Qingdao Hainiu,e6818x4pwankpph8awr91m1hw,5eqtxlyfx6hkvpeloz80jrhuc
+2026-03-15,2,Shanghai Port 4-1 Qingdao West Coast,Shanghai Port,Qingdao West Coast,e6818x4pwankpph8awr91m1hw,5e8wic5rpqpjjiiot1ih5pslw
+2026-03-15,2,Henan 2-1 Yunnan Yukun,Henan,Yunnan Yukun,e6818x4pwankpph8awr91m1hw,5drbi6y5quym9nzbs1ovo1i50
+2026-03-14,2,Shenzhen Peng City 1-0 Tianjin Jinmen Tiger,Shenzhen Peng City,Tianjin Jinmen Tiger,e6818x4pwankpph8awr91m1hw,5d8tp2eb54q1zf55qm4ezxrtg
+2026-03-14,2,Chongqing Tonglianglong 1-0 Liaoning Tieren,Chongqing Tonglianglong,Liaoning Tieren,e6818x4pwankpph8awr91m1hw,5clsmrxeuis9k1phda89t3w2c
+2026-03-14,2,Zhejiang 1-1 Shanghai Shenhua,Zhejiang,Shanghai Shenhua,e6818x4pwankpph8awr91m1hw,5brybupsyybo3svj4ih2nkbh0
+2026-03-14,2,Shandong Taishan 2-1 Beijing Guoan,Shandong Taishan,Beijing Guoan,e6818x4pwankpph8awr91m1hw,5b7itquwb34mvwkmhkc3r4duc
 2026-03-13,2,Wuhan Three Towns 4-1 Dalian Yingbo,Wuhan Three Towns,Dalian Yingbo,e6818x4pwankpph8awr91m1hw,5anxj6kkutrqznjvk2qoyw5jo
 2026-03-08,1,Wuhan Three Towns 0-2 Beijing Guoan,Wuhan Three Towns,Beijing Guoan,e6818x4pwankpph8awr91m1hw,5a5g5bg2i6bdznuqw4mjhal1w
 2026-03-08,1,Zhejiang 2-0 Qingdao West Coast,Zhejiang,Qingdao West Coast,e6818x4pwankpph8awr91m1hw,59il8brg4o1dya7uj8u2jt15g

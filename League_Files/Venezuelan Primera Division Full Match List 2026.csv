@@ -1,44 +1,221 @@
 ﻿Date,Round,Match,Home,Away,CompetitionID,MatchID
-2026-03-13,7,Deportivo La Guaira 0-0 Academia Puerto Cabello,Deportivo La Guaira,Academia Puerto Cabello,55wby45j07iiofu0nuiy08xzo,6zncu0y83macratjkhxilt3x0
-2026-03-08,6,Monagas 3-1 Trujillanos,Monagas,Trujillanos,55wby45j07iiofu0nuiy08xzo,6t9fhgg0zqg751rh9zc7d7vv8
-2026-03-08,6,Metropolitanos 3-2 Portuguesa,Metropolitanos,Portuguesa,55wby45j07iiofu0nuiy08xzo,6var3wkqj62vcb1uegroxs178
-2026-03-08,6,Rayo Zuliano 1-5 UCV,Rayo Zuliano,UCV,55wby45j07iiofu0nuiy08xzo,6tqr0j3phonkkb5qu0xcmwkk4
-2026-03-07,6,Anzoátegui 0-1 Academia Puerto Cabello,Anzoátegui,Academia Puerto Cabello,55wby45j07iiofu0nuiy08xzo,6u8vd1alyc51re1bnf84lgidw
-2026-03-07,6,Caracas 0-1 Deportivo Táchira,Caracas,Deportivo Táchira,55wby45j07iiofu0nuiy08xzo,6ssa9nndbrr3mwqj47ejvvkt0
-2026-03-07,6,Zamora 0-0 Carabobo,Zamora,Carabobo,55wby45j07iiofu0nuiy08xzo,6urobqwfmss6gvyc2kzl2npck
-2026-03-06,6,Estudiantes de Mérida 0-1 Deportivo La Guaira,Estudiantes de Mérida,Deportivo La Guaira,55wby45j07iiofu0nuiy08xzo,6vvv984dy8y2128i75fbu55p0
-2026-03-01,5,Deportivo La Guaira 1-0 Rayo Zuliano,Deportivo La Guaira,Rayo Zuliano,55wby45j07iiofu0nuiy08xzo,6rtqw9dpcpufc6fifks0yndhw
-2026-03-01,5,Trujillanos 1-1 Anzoátegui,Trujillanos,Anzoátegui,55wby45j07iiofu0nuiy08xzo,6pdscukbnd0jzqv9prmsgt05w
-2026-02-28,5,Deportivo Táchira 0-1 Metropolitanos,Deportivo Táchira,Metropolitanos,55wby45j07iiofu0nuiy08xzo,6pv4vdduc7wcxthops606udjo
-2026-02-28,5,Carabobo 0-0 Caracas,Carabobo,Caracas,55wby45j07iiofu0nuiy08xzo,6qc3ik1r3cq342ps13ylpuihg
-2026-02-28,5,UCV 2-1 Zamora,UCV,Zamora,55wby45j07iiofu0nuiy08xzo,6qt2c8kd3ygock1wzr11cnk7o
-2026-02-27,5,Academia Puerto Cabello 1-2 Estudiantes de Mérida,Academia Puerto Cabello,Estudiantes de Mérida,55wby45j07iiofu0nuiy08xzo,6saxsrpw07axhn80uoth8wd1w
-2026-02-27,5,Portuguesa 4-0 Monagas,Portuguesa,Monagas,55wby45j07iiofu0nuiy08xzo,6rc9o0xx500dduby865zy78r8
-2026-02-23,4,Anzoátegui 0-3 Estudiantes de Mérida,Anzoátegui,Estudiantes de Mérida,55wby45j07iiofu0nuiy08xzo,6nzc4o37tbh3101hflk1ysg0k
-2026-02-23,4,Zamora 1-1 Deportivo La Guaira,Zamora,Deportivo La Guaira,55wby45j07iiofu0nuiy08xzo,6og689jn4i9rnrv6z8g6pqz9w
-2026-02-22,4,Monagas 2-3 Deportivo Táchira,Monagas,Deportivo Táchira,55wby45j07iiofu0nuiy08xzo,6mk5q7ifnlkui4vs1erkjw26s
-2026-02-22,4,Caracas 1-2 UCV,Caracas,UCV,55wby45j07iiofu0nuiy08xzo,6m1ifpc0w5ha0wos65k2uo1zo
-2026-02-22,4,Trujillanos 2-2 Portuguesa,Trujillanos,Portuguesa,55wby45j07iiofu0nuiy08xzo,6nhy6kbd96hg7tmvsd2bjvgus
-2026-02-21,4,Rayo Zuliano 2-1 Academia Puerto Cabello,Rayo Zuliano,Academia Puerto Cabello,55wby45j07iiofu0nuiy08xzo,6n12c7hopwa3x349wfkdd4lck
-2026-02-20,4,Metropolitanos 1-1 Carabobo,Metropolitanos,Carabobo,55wby45j07iiofu0nuiy08xzo,6ox0uh70st5uf6m1n1loq3hn8
-2026-02-14,3,Academia Puerto Cabello 2-0 Zamora,Academia Puerto Cabello,Zamora,55wby45j07iiofu0nuiy08xzo,6l43ihcwr70aruymdc3mzdbf8
-2026-02-14,3,Portuguesa 0-3 Anzoátegui,Portuguesa,Anzoátegui,55wby45j07iiofu0nuiy08xzo,6k5lqy7qyaesrx3o56d6suwwk
-2026-02-14,3,Deportivo Táchira 0-0 Trujillanos,Deportivo Táchira,Trujillanos,55wby45j07iiofu0nuiy08xzo,6iqevyricradrfqaum9qptyqc
-2026-02-14,3,Deportivo La Guaira 2-0 Caracas,Deportivo La Guaira,Caracas,55wby45j07iiofu0nuiy08xzo,6knfqrqoiztwcp5gwzk4sdhjo
-2026-02-13,3,UCV 3-2 Metropolitanos,UCV,Metropolitanos,55wby45j07iiofu0nuiy08xzo,6jnz6s8im6w5404v2fvlffqc4
-2026-02-13,3,Carabobo 1-0 Monagas,Carabobo,Monagas,55wby45j07iiofu0nuiy08xzo,6j7f0xr6wqjm9ppl3u7qu0ftg
-2026-02-13,3,Estudiantes de Mérida 1-2 Rayo Zuliano,Estudiantes de Mérida,Rayo Zuliano,55wby45j07iiofu0nuiy08xzo,6lkvh3sbtccl18kuw0g0jp1ck
-2026-02-08,2,Metropolitanos 2-2 Deportivo La Guaira,Metropolitanos,Deportivo La Guaira,55wby45j07iiofu0nuiy08xzo,6hsu8ilnp0n4um218430ty784
-2026-02-08,2,Trujillanos 1-1 Carabobo,Trujillanos,Carabobo,55wby45j07iiofu0nuiy08xzo,6gc24w638y7o16bif6mxo55as
-2026-02-07,2,Monagas 0-3 UCV,Monagas,UCV,55wby45j07iiofu0nuiy08xzo,6fv8lnulofeh5qsdt36sko2dw
-2026-02-07,2,Caracas 1-1 Academia Puerto Cabello,Caracas,Academia Puerto Cabello,55wby45j07iiofu0nuiy08xzo,6feh7dhpq5152krheryp9jz84
-2026-02-07,2,Zamora 3-2 Estudiantes de Mérida,Zamora,Estudiantes de Mérida,55wby45j07iiofu0nuiy08xzo,6haa230wat3kqnf69ij8ahst0
-2026-02-06,2,Anzoátegui 1-3 Rayo Zuliano,Anzoátegui,Rayo Zuliano,55wby45j07iiofu0nuiy08xzo,6gtbakdyj1gpcp9wgp7allqfo
-2026-02-06,2,Portuguesa 1-0 Deportivo Táchira,Portuguesa,Deportivo Táchira,55wby45j07iiofu0nuiy08xzo,6i9ux0n7q4ux5y5lk4ax7x5p0
-2026-02-01,1,UCV 2-0 Trujillanos,UCV,Trujillanos,55wby45j07iiofu0nuiy08xzo,6d93tf5xib0rx39dm4u2h2pec
-2026-02-01,1,Estudiantes de Mérida 2-2 Caracas,Estudiantes de Mérida,Caracas,55wby45j07iiofu0nuiy08xzo,6ewe6tvvbh7em1ks7bw1cjfo4
-2026-01-31,1,Deportivo La Guaira 2-0 Monagas,Deportivo La Guaira,Monagas,55wby45j07iiofu0nuiy08xzo,6dt8zc2f0079gnkrnt9il0b9w
-2026-01-31,1,Carabobo 0-0 Portuguesa,Carabobo,Portuguesa,55wby45j07iiofu0nuiy08xzo,6cpg811hfcf6gu9likfwkawb8
-2026-01-31,1,Rayo Zuliano 0-1 Zamora,Rayo Zuliano,Zamora,55wby45j07iiofu0nuiy08xzo,6bhqpqmfed4j93mpjum41m2ac
-2026-01-30,1,Academia Puerto Cabello 1-1 Metropolitanos,Academia Puerto Cabello,Metropolitanos,55wby45j07iiofu0nuiy08xzo,6ecvnjqym72wjw9ce9m90brx0
-2026-01-29,1,Deportivo Táchira 3-1 Anzoátegui,Deportivo Táchira,Anzoátegui,55wby45j07iiofu0nuiy08xzo,6c4jj8eoo63mqzkx8q1rc1x5g
+2026-11-03,4.0,Deportivo Táchira 3-2 Academia Puerto Cabello,Deportivo Táchira,Academia Puerto Cabello,55wby45j07iiofu0nuiy08xzo,azqzfbhhr730q66kws6ps134k
+2026-11-03,4.0,Monagas 0-2 Caracas,Monagas,Caracas,55wby45j07iiofu0nuiy08xzo,azhjvivj04uxbqfxheju6jspg
+2026-11-01,3.0,Carabobo 1-1 Metropolitanos,Carabobo,Metropolitanos,55wby45j07iiofu0nuiy08xzo,5burfkd7qjhuyf1ylcjvcjx1w
+2026-11-01,3.0,Deportivo La Guaira 2-2 Portuguesa,Deportivo La Guaira,Portuguesa,55wby45j07iiofu0nuiy08xzo,5bl6tyfrxuy416nez81o58p3o
+2026-10-31,3.0,Caracas 2-3 Monagas,Caracas,Monagas,55wby45j07iiofu0nuiy08xzo,az7yqfdzf1kl7tp8xc84ntudw
+2026-10-31,3.0,Academia Puerto Cabello 0-1 Deportivo Táchira,Academia Puerto Cabello,Deportivo Táchira,55wby45j07iiofu0nuiy08xzo,ayyhln8cg3a839gz13bnnph5g
+2026-10-28,2.0,Metropolitanos 0-0 Portuguesa,Metropolitanos,Portuguesa,55wby45j07iiofu0nuiy08xzo,5bbqsp1105m4vkspvorlgyihg
+2026-10-28,2.0,Carabobo 3-1 Deportivo La Guaira,Carabobo,Deportivo La Guaira,55wby45j07iiofu0nuiy08xzo,5ayz42a91ryn17hojoyndvxuc
+2026-10-27,2.0,Deportivo Táchira 2-0 Monagas,Deportivo Táchira,Monagas,55wby45j07iiofu0nuiy08xzo,ayp0u9aftfts9q7bg9e1uwi6s
+2026-10-27,2.0,Academia Puerto Cabello 0-1 Caracas,Academia Puerto Cabello,Caracas,55wby45j07iiofu0nuiy08xzo,aycdhjv8a6htz9r6b4ejfbndg
+2026-10-25,1.0,Deportivo La Guaira 2-2 Metropolitanos,Deportivo La Guaira,Metropolitanos,55wby45j07iiofu0nuiy08xzo,b63evypc302z46p3moii2xij8
+2026-10-25,1.0,Portuguesa 1-3 Carabobo,Portuguesa,Carabobo,55wby45j07iiofu0nuiy08xzo,b5qfk5uz17w9b19t2njp8krv8
+2026-10-24,1.0,Caracas 1-2 Deportivo Táchira,Caracas,Deportivo Táchira,55wby45j07iiofu0nuiy08xzo,dpyw44lyr0r07pw17gk411vdg
+2026-10-24,1.0,Monagas 1-2 Academia Puerto Cabello,Monagas,Academia Puerto Cabello,55wby45j07iiofu0nuiy08xzo,dpm3rkx5k7wfoyohuocuzt7h0
+2026-10-18,13.0,UCV 0-0 Portuguesa,UCV,Portuguesa,55wby45j07iiofu0nuiy08xzo,4nmslgq3ats40h5cb3412p3x0
+2026-10-18,13.0,Estudiantes de Mérida 2-2 Metropolitanos,Estudiantes de Mérida,Metropolitanos,55wby45j07iiofu0nuiy08xzo,4n9uqe88asoqfwbbuapx3t1xw
+2026-10-18,13.0,Academia Puerto Cabello 3-3 Monagas,Academia Puerto Cabello,Monagas,55wby45j07iiofu0nuiy08xzo,4lu2hx8us9qdx50mxdswmohsk
+2026-10-18,13.0,Rayo Zuliano 1-2 Caracas,Rayo Zuliano,Caracas,55wby45j07iiofu0nuiy08xzo,4lgzvwr0pg9bq2c3jht1a13is
+2026-10-17,13.0,Carabobo 2-2 Deportivo Táchira,Carabobo,Deportivo Táchira,55wby45j07iiofu0nuiy08xzo,4mjzuf2mo9a5b1yzrqvihpfys
+2026-10-17,13.0,Zamora 1-2 Anzoátegui,Zamora,Anzoátegui,55wby45j07iiofu0nuiy08xzo,4mwv30oalssp5xs8q8qysvytw
+2026-10-17,13.0,Deportivo La Guaira 1-2 Trujillanos,Deportivo La Guaira,Trujillanos,55wby45j07iiofu0nuiy08xzo,4m7079ewgtpc69finlb6it1ck
+2026-10-11,12.0,Monagas 2-1 Estudiantes de Mérida,Monagas,Estudiantes de Mérida,55wby45j07iiofu0nuiy08xzo,4l41os9eecm7rymxe15585l3o
+2026-10-11,12.0,Caracas 4-1 Zamora,Caracas,Zamora,55wby45j07iiofu0nuiy08xzo,4jo5idq0032u9k0az0y0id3pw
+2026-10-11,12.0,Trujillanos 0-1 Academia Puerto Cabello,Trujillanos,Academia Puerto Cabello,55wby45j07iiofu0nuiy08xzo,4kr6wpyjyjj9fy48nkpc57k0k
+2026-10-11,12.0,Anzoátegui 0-1 Carabobo,Anzoátegui,Carabobo,55wby45j07iiofu0nuiy08xzo,4jba69lbqjyyldttwaiaktq8k
+2026-10-10,12.0,Metropolitanos 4-0 Rayo Zuliano,Metropolitanos,Rayo Zuliano,55wby45j07iiofu0nuiy08xzo,4iyddyj5cqn8rm7xhbex6sf84
+2026-10-10,12.0,Deportivo Táchira 4-1 UCV,Deportivo Táchira,UCV,55wby45j07iiofu0nuiy08xzo,4k11e6g9fqtp72cqc9chz4178
+2026-10-10,12.0,Portuguesa 0-0 Deportivo La Guaira,Portuguesa,Deportivo La Guaira,55wby45j07iiofu0nuiy08xzo,4kduhhi4ocbkqqs9ip5s0po2c
+2026-09-20,11.0,Estudiantes de Mérida 1-1 Trujillanos,Estudiantes de Mérida,Trujillanos,55wby45j07iiofu0nuiy08xzo,4h610muvpfn6f4pnqqnpmnuvo
+2026-09-20,11.0,Zamora 1-3 Metropolitanos,Zamora,Metropolitanos,55wby45j07iiofu0nuiy08xzo,4i8n8c1e4vbginp84co60zpxw
+2026-09-20,11.0,Anzoátegui 1-1 Caracas,Anzoátegui,Caracas,55wby45j07iiofu0nuiy08xzo,4ggcq5mjgxykpgo2o2n6l13pw
+2026-09-19,11.0,Deportivo La Guaira 2-4 Deportivo Táchira,Deportivo La Guaira,Deportivo Táchira,55wby45j07iiofu0nuiy08xzo,4hivx2u7dkcy3uh49d5l3xj4k
+2026-09-19,11.0,Academia Puerto Cabello 2-1 Portuguesa,Academia Puerto Cabello,Portuguesa,55wby45j07iiofu0nuiy08xzo,4ilj9k7q0zfldowvykn3bpzbo
+2026-09-19,11.0,UCV 1-1 Carabobo,UCV,Carabobo,55wby45j07iiofu0nuiy08xzo,4hvs8rtpf5euolrmcfyvn0t1w
+2026-09-19,11.0,Rayo Zuliano 1-1 Monagas,Rayo Zuliano,Monagas,55wby45j07iiofu0nuiy08xzo,4gt8mtal9z57nrcljeh4jov10
+2026-09-16,10.0,Metropolitanos 3-0 Caracas,Metropolitanos,Caracas,55wby45j07iiofu0nuiy08xzo,4dy1rmw5kbeusvnhmicuqckr8
+2026-09-16,10.0,Trujillanos 2-4 Rayo Zuliano,Trujillanos,Rayo Zuliano,55wby45j07iiofu0nuiy08xzo,4eawc5kpiiuhhufo0u0g9u0b8
+2026-09-16,10.0,Monagas 1-0 Zamora,Monagas,Zamora,55wby45j07iiofu0nuiy08xzo,4f0t45cvjqjg80o47g5824bo4
+2026-09-16,10.0,Portuguesa 2-1 Estudiantes de Mérida,Portuguesa,Estudiantes de Mérida,55wby45j07iiofu0nuiy08xzo,4g3iinpsohd7q2t8djuynfbbo
+2026-09-15,10.0,UCV 1-0 Anzoátegui,UCV,Anzoátegui,55wby45j07iiofu0nuiy08xzo,4enu6buozevtxvow0il22hg5w
+2026-09-15,10.0,Deportivo Táchira 1-1 Academia Puerto Cabello,Deportivo Táchira,Academia Puerto Cabello,55wby45j07iiofu0nuiy08xzo,4fqld2pihl9qxt1ovv3jn5wd0
+2026-09-15,10.0,Carabobo 1-0 Deportivo La Guaira,Carabobo,Deportivo La Guaira,55wby45j07iiofu0nuiy08xzo,4fdokwroquf1j2ekcxkcyfqj8
+2026-09-13,9.0,Caracas 0-1 Monagas,Caracas,Monagas,55wby45j07iiofu0nuiy08xzo,4bghvmzp89nv2hx3g4jt5dus4
+2026-09-13,9.0,Zamora 1-2 Trujillanos,Zamora,Trujillanos,55wby45j07iiofu0nuiy08xzo,4bt848kdabdnq6dttfgbbfj84
+2026-09-13,9.0,Rayo Zuliano 1-1 Portuguesa,Rayo Zuliano,Portuguesa,55wby45j07iiofu0nuiy08xzo,4dl5u2kv67yrosb9yekq1c9w4
+2026-09-12,9.0,Academia Puerto Cabello 0-2 Carabobo,Academia Puerto Cabello,Carabobo,55wby45j07iiofu0nuiy08xzo,4cipkpwguelu2tevgmduackr8
+2026-09-12,9.0,Deportivo La Guaira 0-2 UCV,Deportivo La Guaira,UCV,55wby45j07iiofu0nuiy08xzo,4cvhki7g1r5bnjgtuckq04104
+2026-09-12,9.0,Estudiantes de Mérida 2-0 Deportivo Táchira,Estudiantes de Mérida,Deportivo Táchira,55wby45j07iiofu0nuiy08xzo,4c5y9ou9nyw2ndz649tp6i5g4
+2026-09-12,9.0,Anzoátegui 0-2 Metropolitanos,Anzoátegui,Metropolitanos,55wby45j07iiofu0nuiy08xzo,4d8bkc89te16ncs6k19wt5xjo
+2026-09-07,8.0,UCV 0-0 Academia Puerto Cabello,UCV,Academia Puerto Cabello,55wby45j07iiofu0nuiy08xzo,4apxvduwh8hfw7bhkgyqg9qfo
+2026-09-07,8.0,Carabobo 1-0 Estudiantes de Mérida,Carabobo,Estudiantes de Mérida,55wby45j07iiofu0nuiy08xzo,4b3o0ggox65f86p5z0wdl5yc4
+2026-09-06,8.0,Deportivo La Guaira 2-0 Anzoátegui,Deportivo La Guaira,Anzoátegui,55wby45j07iiofu0nuiy08xzo,49n1anf8355ynfmnl00blolxw
+2026-09-06,8.0,Deportivo Táchira 3-1 Rayo Zuliano,Deportivo Táchira,Rayo Zuliano,55wby45j07iiofu0nuiy08xzo,49a6iyrzcuodfhop7zqce8aok
+2026-09-06,8.0,Trujillanos 0-1 Caracas,Trujillanos,Caracas,55wby45j07iiofu0nuiy08xzo,48xbhkugf31g8lctiuzzzgd90
+2026-09-06,8.0,Monagas 0-1 Metropolitanos,Monagas,Metropolitanos,55wby45j07iiofu0nuiy08xzo,4acwrzrwgsgtzfkfz8ad2hn9w
+2026-09-05,8.0,Portuguesa 1-1 Zamora,Portuguesa,Zamora,55wby45j07iiofu0nuiy08xzo,49zyxus05o1qn5jwyk3sy5zpw
+2026-09-03,7.0,Academia Puerto Cabello 1-1 Deportivo La Guaira,Academia Puerto Cabello,Deportivo La Guaira,55wby45j07iiofu0nuiy08xzo,48kg2s9u33d6pezf6n63t9444
+2026-09-03,7.0,Metropolitanos 4-1 Trujillanos,Metropolitanos,Trujillanos,55wby45j07iiofu0nuiy08xzo,46s3018sw9eaqvt63bfm31jx0
+2026-09-03,7.0,Estudiantes de Mérida 1-1 UCV,Estudiantes de Mérida,UCV,55wby45j07iiofu0nuiy08xzo,47usjq36d39kg64nxbzgs1dec
+2026-09-03,7.0,Anzoátegui 1-3 Monagas,Anzoátegui,Monagas,55wby45j07iiofu0nuiy08xzo,46ecfkb0352t88v4l2jtcdzpw
+2026-09-03,7.0,Rayo Zuliano 4-3 Carabobo,Rayo Zuliano,Carabobo,55wby45j07iiofu0nuiy08xzo,47hvflct7owrfaq4595m757v8
+2026-09-02,7.0,Caracas 1-1 Portuguesa,Caracas,Portuguesa,55wby45j07iiofu0nuiy08xzo,487m9xt9apg0psmdkl52aj5sk
+2026-09-02,7.0,Zamora 2-5 Deportivo Táchira,Zamora,Deportivo Táchira,55wby45j07iiofu0nuiy08xzo,474zhp3dbrozc54redqdv2wwk
+2026-08-31,6.0,Academia Puerto Cabello 3-0 Anzoátegui,Academia Puerto Cabello,Anzoátegui,55wby45j07iiofu0nuiy08xzo,44yxczp3ww0au07vof9gc3qqc
+2026-08-31,6.0,UCV 4-1 Rayo Zuliano,UCV,Rayo Zuliano,55wby45j07iiofu0nuiy08xzo,44m55tbjwxhx2ih369z8carkk
+2026-08-30,6.0,Deportivo La Guaira 1-2 Estudiantes de Mérida,Deportivo La Guaira,Estudiantes de Mérida,55wby45j07iiofu0nuiy08xzo,461en3owu1bbb5qnfqrs9i8t0
+2026-08-30,6.0,Carabobo 0-0 Zamora,Carabobo,Zamora,55wby45j07iiofu0nuiy08xzo,45bom5rdpidhsu0m4jehqtd78
+2026-08-30,6.0,Portuguesa 2-2 Metropolitanos,Portuguesa,Metropolitanos,55wby45j07iiofu0nuiy08xzo,45oikqjrtdf33wssh6bdcatxw
+2026-08-30,6.0,Deportivo Táchira 0-0 Caracas,Deportivo Táchira,Caracas,55wby45j07iiofu0nuiy08xzo,43wgvwzzamws27dhzgc4o0il0
+2026-08-30,6.0,Trujillanos 3-1 Monagas,Trujillanos,Monagas,55wby45j07iiofu0nuiy08xzo,449bdunhlrfd66lxpnn0fphxw
+2026-08-23,5.0,Monagas 0-0 Portuguesa,Monagas,Portuguesa,55wby45j07iiofu0nuiy08xzo,42tttoysd1o3e63uuvf1wobv8
+2026-08-22,5.0,Metropolitanos 3-1 Deportivo Táchira,Metropolitanos,Deportivo Táchira,55wby45j07iiofu0nuiy08xzo,41qwax5f4t6vrlrq06zr2q13o
+2026-08-22,5.0,Estudiantes de Mérida 1-1 Academia Puerto Cabello,Estudiantes de Mérida,Academia Puerto Cabello,55wby45j07iiofu0nuiy08xzo,43jmu205e9si49alu5eacat5g
+2026-08-22,5.0,Zamora 2-0 UCV,Zamora,UCV,55wby45j07iiofu0nuiy08xzo,42gts5o8dr5p2ex8io38deg44
+2026-08-22,5.0,Rayo Zuliano 1-4 Deportivo La Guaira,Rayo Zuliano,Deportivo La Guaira,55wby45j07iiofu0nuiy08xzo,436qbl4xc1hf5uhyhi94kuas4
+2026-08-21,5.0,Caracas 1-1 Carabobo,Caracas,Carabobo,55wby45j07iiofu0nuiy08xzo,423sw0ytkrudymz5hh2p4go44
+2026-08-21,5.0,Anzoátegui 0-0 Trujillanos,Anzoátegui,Trujillanos,55wby45j07iiofu0nuiy08xzo,41e0gm6ufden7vkfhez7zq42c
+2026-08-16,4.0,Carabobo 1-0 Metropolitanos,Carabobo,Metropolitanos,55wby45j07iiofu0nuiy08xzo,4113y6e0zy43ulh0xy5rmjf9w
+2026-08-16,4.0,Deportivo La Guaira 6-1 Zamora,Deportivo La Guaira,Zamora,55wby45j07iiofu0nuiy08xzo,40o9ynob596t9ysgtiwnmdmok
+2026-08-16,4.0,Deportivo Táchira 3-2 Monagas,Deportivo Táchira,Monagas,55wby45j07iiofu0nuiy08xzo,3z8ie0fqyqdwo7ajhvetwlp1w
+2026-08-15,4.0,Academia Puerto Cabello 2-0 Rayo Zuliano,Academia Puerto Cabello,Rayo Zuliano,55wby45j07iiofu0nuiy08xzo,3zle3m71zxz1xf2thduvibw9g
+2026-08-15,4.0,Portuguesa 1-0 Trujillanos,Portuguesa,Trujillanos,55wby45j07iiofu0nuiy08xzo,3zyranzt3167qzspakl6cwems
+2026-08-15,4.0,UCV 0-1 Caracas,UCV,Caracas,55wby45j07iiofu0nuiy08xzo,3yvkw7ob8tgkji2pxymf9vsb8
+2026-08-15,4.0,Estudiantes de Mérida 1-0 Anzoátegui,Estudiantes de Mérida,Anzoátegui,55wby45j07iiofu0nuiy08xzo,40bhzvn5hb5tnoktzrrrdw45w
+2026-08-10,3.0,Caracas 1-2 Deportivo La Guaira,Caracas,Deportivo La Guaira,55wby45j07iiofu0nuiy08xzo,3xs2uemba7hbrnly9vi326mms
+2026-08-10,3.0,Rayo Zuliano 3-0 Estudiantes de Mérida,Rayo Zuliano,Estudiantes de Mérida,55wby45j07iiofu0nuiy08xzo,3yiitkgyf6nx6kxc9b58nju38
+2026-08-09,3.0,Metropolitanos 2-1 UCV,Metropolitanos,UCV,55wby45j07iiofu0nuiy08xzo,3x1kdr3ri59b8z2wxnysexxjo
+2026-08-09,3.0,Zamora 0-1 Academia Puerto Cabello,Zamora,Academia Puerto Cabello,55wby45j07iiofu0nuiy08xzo,3y5krxcjb6tgtmyg1cmuy5c0k
+2026-08-09,3.0,Trujillanos 1-3 Deportivo Táchira,Trujillanos,Deportivo Táchira,55wby45j07iiofu0nuiy08xzo,3wazbd5hys8d68is6pz4qra50
+2026-08-09,3.0,Anzoátegui 3-4 Portuguesa,Anzoátegui,Portuguesa,55wby45j07iiofu0nuiy08xzo,3xf1mcm4ravvo4ol4dn9vglxw
+2026-08-08,3.0,Monagas 1-0 Carabobo,Monagas,Carabobo,55wby45j07iiofu0nuiy08xzo,3wol29ctucfgcdqyt2dq3fc44
+2026-08-06,2.0,Academia Puerto Cabello 3-1 Caracas,Academia Puerto Cabello,Caracas,55wby45j07iiofu0nuiy08xzo,3t58rjt6prth4dgjvfe2ac1sk
+2026-08-06,2.0,Estudiantes de Mérida 1-0 Zamora,Estudiantes de Mérida,Zamora,55wby45j07iiofu0nuiy08xzo,3v1gqzhcozw3r2qlocpac5zbo
+2026-08-06,2.0,Rayo Zuliano 0-1 Anzoátegui,Rayo Zuliano,Anzoátegui,55wby45j07iiofu0nuiy08xzo,3ul4f4wgu8rcwusrnv488vrpw
+2026-08-05,2.0,Deportivo La Guaira 1-2 Metropolitanos,Deportivo La Guaira,Metropolitanos,55wby45j07iiofu0nuiy08xzo,3vh8g0wmb3eav6etmg614y1w4
+2026-08-04,2.0,Deportivo Táchira 1-0 Portuguesa,Deportivo Táchira,Portuguesa,55wby45j07iiofu0nuiy08xzo,3vxk3nveld6j5pfpie3qbbyfo
+2026-08-04,2.0,UCV 2-1 Monagas,UCV,Monagas,55wby45j07iiofu0nuiy08xzo,3toh2lis2yqx4fodd3e6ehk44
+2026-08-04,2.0,Carabobo 2-0 Trujillanos,Carabobo,Trujillanos,55wby45j07iiofu0nuiy08xzo,3u4syuxuprxh7yrh35y5y9kic
+2026-08-03,1.0,Caracas 2-2 Estudiantes de Mérida,Caracas,Estudiantes de Mérida,55wby45j07iiofu0nuiy08xzo,b3rq6s82ii4njyp3garqe776c
+2026-08-02,1.0,Metropolitanos 2-1 Academia Puerto Cabello,Metropolitanos,Academia Puerto Cabello,55wby45j07iiofu0nuiy08xzo,b3hyz01pa74486emd30rs76s4
+2026-08-02,1.0,Zamora 2-1 Rayo Zuliano,Zamora,Rayo Zuliano,55wby45j07iiofu0nuiy08xzo,b385lytb1oav7kikmno0v01ec
+2026-08-01,1.0,Monagas 1-2 Deportivo La Guaira,Monagas,Deportivo La Guaira,55wby45j07iiofu0nuiy08xzo,b2ycleq1iguoaxuk3779untas
+2026-08-01,1.0,Trujillanos 2-0 UCV,Trujillanos,UCV,55wby45j07iiofu0nuiy08xzo,b2ohgpotzqz0z75ddjcv1dqtw
+2026-07-31,1.0,Portuguesa 1-0 Carabobo,Portuguesa,Carabobo,55wby45j07iiofu0nuiy08xzo,b21p4prrje4ctm0g5zw480lqs
+2026-06-07,,Carabobo 2-1 Academia Puerto Cabello,Carabobo,Academia Puerto Cabello,55wby45j07iiofu0nuiy08xzo,92fqic9dogioc4bgvbwwjc1lg
+2026-05-31,6.0,Deportivo Táchira 1-0 Estudiantes de Mérida,Deportivo Táchira,Estudiantes de Mérida,55wby45j07iiofu0nuiy08xzo,946rn0chw4pn3lkwoo8d7j0us
+2026-05-31,6.0,Metropolitanos 1-5 Carabobo,Metropolitanos,Carabobo,55wby45j07iiofu0nuiy08xzo,93xjv3gqymf9zpgfc9giepjpw
+2026-05-30,6.0,Deportivo La Guaira 0-2 Academia Puerto Cabello,Deportivo La Guaira,Academia Puerto Cabello,55wby45j07iiofu0nuiy08xzo,2r9iyw5esn0u48wwy8hguq49g
+2026-05-30,6.0,UCV 2-3 Portuguesa,UCV,Portuguesa,55wby45j07iiofu0nuiy08xzo,2r0grd2n26buis1vm2bkoou1g
+2026-05-24,5.0,Carabobo 1-1 Deportivo Táchira,Carabobo,Deportivo Táchira,55wby45j07iiofu0nuiy08xzo,93odsoagjihvtsernfdha01lg
+2026-05-24,5.0,Estudiantes de Mérida 0-1 Metropolitanos,Estudiantes de Mérida,Metropolitanos,55wby45j07iiofu0nuiy08xzo,93f7xfxl0c1a9cookm66xha1g
+2026-05-23,5.0,Academia Puerto Cabello 2-1 UCV,Academia Puerto Cabello,UCV,55wby45j07iiofu0nuiy08xzo,2qrgxzj7fn67qk8qdhfsbt4b8
+2026-05-23,5.0,Portuguesa 0-2 Deportivo La Guaira,Portuguesa,Deportivo La Guaira,55wby45j07iiofu0nuiy08xzo,2qidhwzhjsrgxteuy8kl9puz8
+2026-05-17,4.0,Metropolitanos 0-1 Deportivo Táchira,Metropolitanos,Deportivo Táchira,55wby45j07iiofu0nuiy08xzo,935xepyxgqr8pg2t2la010dn8
+2026-05-17,4.0,Portuguesa 1-0 Academia Puerto Cabello,Portuguesa,Academia Puerto Cabello,55wby45j07iiofu0nuiy08xzo,2q996k277szvtslzvaertkvmc
+2026-05-17,4.0,Estudiantes de Mérida 0-2 Carabobo,Estudiantes de Mérida,Carabobo,55wby45j07iiofu0nuiy08xzo,92wmcjaw8l5g1dal9ytnxclqs
+2026-05-15,4.0,Deportivo La Guaira 0-0 UCV,Deportivo La Guaira,UCV,55wby45j07iiofu0nuiy08xzo,2q06eiigkn8ojby5jp6d0p15g
+2026-05-13,3.0,Academia Puerto Cabello 2-1 Portuguesa,Academia Puerto Cabello,Portuguesa,55wby45j07iiofu0nuiy08xzo,2pqpv2wurx1h21ozhmii1474k
+2026-05-13,3.0,Carabobo 1-0 Estudiantes de Mérida,Carabobo,Estudiantes de Mérida,55wby45j07iiofu0nuiy08xzo,92ndpsopxwjiz1c4wztsiqmfo
+2026-05-12,3.0,UCV 1-1 Deportivo La Guaira,UCV,Deportivo La Guaira,55wby45j07iiofu0nuiy08xzo,2pgz5txwj9oem4rd8w44rqntg
+2026-05-12,3.0,Deportivo Táchira 1-1 Metropolitanos,Deportivo Táchira,Metropolitanos,55wby45j07iiofu0nuiy08xzo,92e40ibdzlvgsflqc9vgl8lxw
+2026-05-09,2.0,Deportivo Táchira 3-1 Carabobo,Deportivo Táchira,Carabobo,55wby45j07iiofu0nuiy08xzo,91vhu9ze5hbazoebusjoos9as
+2026-05-09,2.0,UCV 3-1 Academia Puerto Cabello,UCV,Academia Puerto Cabello,55wby45j07iiofu0nuiy08xzo,2p7zwu6g8abe54v5fcvcwial0
+2026-05-09,2.0,Deportivo La Guaira 1-1 Portuguesa,Deportivo La Guaira,Portuguesa,55wby45j07iiofu0nuiy08xzo,2oyw93j4snlfu6yc9fusft6ok
+2026-05-08,2.0,Metropolitanos 2-0 Estudiantes de Mérida,Metropolitanos,Estudiantes de Mérida,55wby45j07iiofu0nuiy08xzo,924v5mbfha3xb6sz3zgl5lo2c
+2026-05-03,1.0,Carabobo 0-0 Metropolitanos,Carabobo,Metropolitanos,55wby45j07iiofu0nuiy08xzo,91m711psrovj3nxgz2cqlklck
+2026-05-02,1.0,Academia Puerto Cabello 1-1 Deportivo La Guaira,Academia Puerto Cabello,Deportivo La Guaira,55wby45j07iiofu0nuiy08xzo,2oprnnnyjo35n56tgx2rwuvbo
+2026-05-02,1.0,Portuguesa 1-1 UCV,Portuguesa,UCV,55wby45j07iiofu0nuiy08xzo,2oe38szexyg6xu2blza33evis
+2026-05-02,1.0,Estudiantes de Mérida 2-1 Deportivo Táchira,Estudiantes de Mérida,Deportivo Táchira,55wby45j07iiofu0nuiy08xzo,91a5ttzut2nnzw2xbbgg7wtuc
+2026-04-26,13.0,Metropolitanos 2-0 Estudiantes de Mérida,Metropolitanos,Estudiantes de Mérida,55wby45j07iiofu0nuiy08xzo,7jtx3dd1kbwjt94n6zipx8lxw
+2026-04-25,13.0,Trujillanos 0-1 Deportivo La Guaira,Trujillanos,Deportivo La Guaira,55wby45j07iiofu0nuiy08xzo,7iau1b0h667rzcl4dcsh7gh78
+2026-04-25,13.0,Portuguesa 3-0 UCV,Portuguesa,UCV,55wby45j07iiofu0nuiy08xzo,7kbev2i7gm2cvrejozow4vm6s
+2026-04-25,13.0,Anzoátegui 1-1 Zamora,Anzoátegui,Zamora,55wby45j07iiofu0nuiy08xzo,7jclkzvr7sutfvhcrhltlzpqs
+2026-04-25,13.0,Deportivo Táchira 2-1 Carabobo,Deportivo Táchira,Carabobo,55wby45j07iiofu0nuiy08xzo,7is799tszfvj3chv7mhzxqql0
+2026-04-25,13.0,Monagas 1-1 Academia Puerto Cabello,Monagas,Academia Puerto Cabello,55wby45j07iiofu0nuiy08xzo,7htgcr6vnhar7h280d4l0i0b8
+2026-04-25,13.0,Caracas 2-1 Rayo Zuliano,Caracas,Rayo Zuliano,55wby45j07iiofu0nuiy08xzo,7hbw9g9c4kwdsy1h3vmz363h0
+2026-04-21,12.0,Academia Puerto Cabello 3-1 Trujillanos,Academia Puerto Cabello,Trujillanos,55wby45j07iiofu0nuiy08xzo,7gcprxcwjntaohx7pavvx589g
+2026-04-20,12.0,Deportivo La Guaira 0-0 Portuguesa,Deportivo La Guaira,Portuguesa,55wby45j07iiofu0nuiy08xzo,7ftvtbstp5va5ustudd4bjzmc
+2026-04-20,12.0,Carabobo 6-3 Anzoátegui,Carabobo,Anzoátegui,55wby45j07iiofu0nuiy08xzo,7eeh7k3epwd9knrcgcfr3ymms
+2026-04-20,12.0,Zamora 1-1 Caracas,Zamora,Caracas,55wby45j07iiofu0nuiy08xzo,7evln0rs8e0ifbuvobgnafg9g
+2026-04-19,12.0,UCV 1-1 Deportivo Táchira,UCV,Deportivo Táchira,55wby45j07iiofu0nuiy08xzo,7fcsyprgagf04wrld23z4h2c4
+2026-04-19,12.0,Estudiantes de Mérida 3-2 Monagas,Estudiantes de Mérida,Monagas,55wby45j07iiofu0nuiy08xzo,7gtxy74duj7km7z1lj0wmoufo
+2026-04-18,12.0,Rayo Zuliano 0-1 Metropolitanos,Rayo Zuliano,Metropolitanos,55wby45j07iiofu0nuiy08xzo,7dx75p2exk3naopq46oxc5qms
+2026-04-12,11.0,Caracas 1-3 Anzoátegui,Caracas,Anzoátegui,55wby45j07iiofu0nuiy08xzo,7afia15zd66ngjqkxzc7doqok
+2026-04-12,11.0,Trujillanos 0-2 Estudiantes de Mérida,Trujillanos,Estudiantes de Mérida,55wby45j07iiofu0nuiy08xzo,7bi70fbpctb8oxlxkwg1iyuqc
+2026-04-12,11.0,Carabobo 4-2 UCV,Carabobo,UCV,55wby45j07iiofu0nuiy08xzo,7cgc30r98dvjcb0boyo1ksvf8
+2026-04-11,11.0,Metropolitanos 0-0 Zamora,Metropolitanos,Zamora,55wby45j07iiofu0nuiy08xzo,7cxqd3r093kosv98x0l4fzrpw
+2026-04-11,11.0,Monagas 3-0 Rayo Zuliano,Monagas,Rayo Zuliano,55wby45j07iiofu0nuiy08xzo,7az2dhm84nrbd1j50hyuv2d5g
+2026-04-11,11.0,Portuguesa 3-0 Academia Puerto Cabello,Portuguesa,Academia Puerto Cabello,55wby45j07iiofu0nuiy08xzo,7dfrfa8hogbcs4m1tomcl7qc4
+2026-04-10,11.0,Deportivo Táchira 2-3 Deportivo La Guaira,Deportivo Táchira,Deportivo La Guaira,55wby45j07iiofu0nuiy08xzo,7bz5ci4v2o2n9uep56dfnptsk
+2026-04-05,10.0,Estudiantes de Mérida 2-1 Portuguesa,Estudiantes de Mérida,Portuguesa,55wby45j07iiofu0nuiy08xzo,79y4vpmaxi31pcokcfx18wpp0
+2026-04-04,10.0,Academia Puerto Cabello 1-2 Deportivo Táchira,Academia Puerto Cabello,Deportivo Táchira,55wby45j07iiofu0nuiy08xzo,79gfgp97aqx091bmqd0tkoe8k
+2026-04-04,10.0,Zamora 2-1 Monagas,Zamora,Monagas,55wby45j07iiofu0nuiy08xzo,78hz11x8pc519i4q0ao1szuok
+2026-04-04,10.0,Rayo Zuliano 3-1 Trujillanos,Rayo Zuliano,Trujillanos,55wby45j07iiofu0nuiy08xzo,77jdnaexq3bplve28m0spj4es
+2026-04-03,10.0,Caracas 1-0 Metropolitanos,Caracas,Metropolitanos,55wby45j07iiofu0nuiy08xzo,771wnzy8atg9eciymfjh5f66s
+2026-04-03,10.0,Anzoátegui 2-3 UCV,Anzoátegui,UCV,55wby45j07iiofu0nuiy08xzo,780oskrx4awdks62s4ckcarkk
+2026-04-02,10.0,Deportivo La Guaira 1-1 Carabobo,Deportivo La Guaira,Carabobo,55wby45j07iiofu0nuiy08xzo,78z7rlerbhvgojty8p7lp5hqs
+2026-03-23,9.0,Metropolitanos 2-0 Anzoátegui,Metropolitanos,Anzoátegui,55wby45j07iiofu0nuiy08xzo,761gbochn1h2mdorvk7vrpzbo
+2026-03-23,9.0,Carabobo 1-1 Academia Puerto Cabello,Carabobo,Academia Puerto Cabello,55wby45j07iiofu0nuiy08xzo,752t0s3j8f043phlit24zt91w
+2026-03-22,9.0,Monagas 1-1 Caracas,Monagas,Caracas,55wby45j07iiofu0nuiy08xzo,73mb2c7evf7nvwmhk6e27ypsk
+2026-03-22,9.0,Portuguesa 1-1 Rayo Zuliano,Portuguesa,Rayo Zuliano,55wby45j07iiofu0nuiy08xzo,76kkule1ri6f5rh6jqlt2mnf8
+2026-03-22,9.0,Deportivo Táchira 1-0 Estudiantes de Mérida,Deportivo Táchira,Estudiantes de Mérida,55wby45j07iiofu0nuiy08xzo,74ljr54vlabvnb3v1kzl7uivo
+2026-03-22,9.0,Trujillanos 0-3 Zamora,Trujillanos,Zamora,55wby45j07iiofu0nuiy08xzo,7441k5pnc2z181j4ir3qphhxw
+2026-03-21,9.0,UCV 0-1 Deportivo La Guaira,UCV,Deportivo La Guaira,55wby45j07iiofu0nuiy08xzo,75kd80pghjt51z8g1tq8ddhck
+2026-03-18,8.0,Metropolitanos 1-0 Monagas,Metropolitanos,Monagas,55wby45j07iiofu0nuiy08xzo,725j5jd0nov1l4ppbhskiym1g
+2026-03-18,8.0,Zamora 0-2 Portuguesa,Zamora,Portuguesa,55wby45j07iiofu0nuiy08xzo,71o6da6t4jtd2z0466ha7bswk
+2026-03-18,8.0,Estudiantes de Mérida 3-2 Carabobo,Estudiantes de Mérida,Carabobo,55wby45j07iiofu0nuiy08xzo,734xt1dsjvvfd15q901snehas
+2026-03-18,8.0,Rayo Zuliano 0-0 Deportivo Táchira,Rayo Zuliano,Deportivo Táchira,55wby45j07iiofu0nuiy08xzo,70muz96cvn7uz1k2utobdqeqc
+2026-03-17,8.0,Caracas 4-2 Trujillanos,Caracas,Trujillanos,55wby45j07iiofu0nuiy08xzo,704wasfsl3e3ip9y1y3ydmnmc
+2026-03-17,8.0,Academia Puerto Cabello 3-0 UCV,Academia Puerto Cabello,UCV,55wby45j07iiofu0nuiy08xzo,72nludcmb145ogda8pd8k5mok
+2026-03-17,8.0,Anzoátegui 0-0 Deportivo La Guaira,Anzoátegui,Deportivo La Guaira,55wby45j07iiofu0nuiy08xzo,714gwgrxb189s05462av1tq1g
+2026-03-15,7.0,Deportivo Táchira 2-1 Zamora,Deportivo Táchira,Zamora,55wby45j07iiofu0nuiy08xzo,6xo0onpsvnb035sa0kdftpfys
+2026-03-15,7.0,Carabobo 5-0 Rayo Zuliano,Carabobo,Rayo Zuliano,55wby45j07iiofu0nuiy08xzo,6y694d5egjgn8i9wfhrkbfllg
+2026-03-14,7.0,Monagas 1-0 Anzoátegui,Monagas,Anzoátegui,55wby45j07iiofu0nuiy08xzo,6wfr120bfgi8hlp2gse8hl6ok
+2026-03-14,7.0,Portuguesa 1-1 Caracas,Portuguesa,Caracas,55wby45j07iiofu0nuiy08xzo,6z5smcz8xa2ajy6ddckv4bg2c
+2026-03-14,7.0,UCV 1-1 Estudiantes de Mérida,UCV,Estudiantes de Mérida,55wby45j07iiofu0nuiy08xzo,6ynmwq62na4foz6h0h8s3h4wk
+2026-03-14,7.0,Trujillanos 0-1 Metropolitanos,Trujillanos,Metropolitanos,55wby45j07iiofu0nuiy08xzo,6x16ssktr2d0zs9kyzxke0hec
+2026-03-13,7.0,Deportivo La Guaira 0-0 Academia Puerto Cabello,Deportivo La Guaira,Academia Puerto Cabello,55wby45j07iiofu0nuiy08xzo,6zncu0y83macratjkhxilt3x0
+2026-03-08,6.0,Monagas 3-1 Trujillanos,Monagas,Trujillanos,55wby45j07iiofu0nuiy08xzo,6t9fhgg0zqg751rh9zc7d7vv8
+2026-03-08,6.0,Metropolitanos 3-2 Portuguesa,Metropolitanos,Portuguesa,55wby45j07iiofu0nuiy08xzo,6var3wkqj62vcb1uegroxs178
+2026-03-08,6.0,Rayo Zuliano 1-5 UCV,Rayo Zuliano,UCV,55wby45j07iiofu0nuiy08xzo,6tqr0j3phonkkb5qu0xcmwkk4
+2026-03-07,6.0,Anzoátegui 0-1 Academia Puerto Cabello,Anzoátegui,Academia Puerto Cabello,55wby45j07iiofu0nuiy08xzo,6u8vd1alyc51re1bnf84lgidw
+2026-03-07,6.0,Caracas 0-1 Deportivo Táchira,Caracas,Deportivo Táchira,55wby45j07iiofu0nuiy08xzo,6ssa9nndbrr3mwqj47ejvvkt0
+2026-03-07,6.0,Zamora 0-0 Carabobo,Zamora,Carabobo,55wby45j07iiofu0nuiy08xzo,6urobqwfmss6gvyc2kzl2npck
+2026-03-06,6.0,Estudiantes de Mérida 0-1 Deportivo La Guaira,Estudiantes de Mérida,Deportivo La Guaira,55wby45j07iiofu0nuiy08xzo,6vvv984dy8y2128i75fbu55p0
+2026-03-01,5.0,Deportivo La Guaira 1-0 Rayo Zuliano,Deportivo La Guaira,Rayo Zuliano,55wby45j07iiofu0nuiy08xzo,6rtqw9dpcpufc6fifks0yndhw
+2026-03-01,5.0,Trujillanos 1-1 Anzoátegui,Trujillanos,Anzoátegui,55wby45j07iiofu0nuiy08xzo,6pdscukbnd0jzqv9prmsgt05w
+2026-02-28,5.0,Deportivo Táchira 0-1 Metropolitanos,Deportivo Táchira,Metropolitanos,55wby45j07iiofu0nuiy08xzo,6pv4vdduc7wcxthops606udjo
+2026-02-28,5.0,Carabobo 0-0 Caracas,Carabobo,Caracas,55wby45j07iiofu0nuiy08xzo,6qc3ik1r3cq342ps13ylpuihg
+2026-02-28,5.0,UCV 2-1 Zamora,UCV,Zamora,55wby45j07iiofu0nuiy08xzo,6qt2c8kd3ygock1wzr11cnk7o
+2026-02-27,5.0,Academia Puerto Cabello 1-2 Estudiantes de Mérida,Academia Puerto Cabello,Estudiantes de Mérida,55wby45j07iiofu0nuiy08xzo,6saxsrpw07axhn80uoth8wd1w
+2026-02-27,5.0,Portuguesa 4-0 Monagas,Portuguesa,Monagas,55wby45j07iiofu0nuiy08xzo,6rc9o0xx500dduby865zy78r8
+2026-02-23,4.0,Anzoátegui 0-3 Estudiantes de Mérida,Anzoátegui,Estudiantes de Mérida,55wby45j07iiofu0nuiy08xzo,6nzc4o37tbh3101hflk1ysg0k
+2026-02-23,4.0,Zamora 1-1 Deportivo La Guaira,Zamora,Deportivo La Guaira,55wby45j07iiofu0nuiy08xzo,6og689jn4i9rnrv6z8g6pqz9w
+2026-02-22,4.0,Monagas 2-3 Deportivo Táchira,Monagas,Deportivo Táchira,55wby45j07iiofu0nuiy08xzo,6mk5q7ifnlkui4vs1erkjw26s
+2026-02-22,4.0,Caracas 1-2 UCV,Caracas,UCV,55wby45j07iiofu0nuiy08xzo,6m1ifpc0w5ha0wos65k2uo1zo
+2026-02-22,4.0,Trujillanos 2-2 Portuguesa,Trujillanos,Portuguesa,55wby45j07iiofu0nuiy08xzo,6nhy6kbd96hg7tmvsd2bjvgus
+2026-02-21,4.0,Rayo Zuliano 2-1 Academia Puerto Cabello,Rayo Zuliano,Academia Puerto Cabello,55wby45j07iiofu0nuiy08xzo,6n12c7hopwa3x349wfkdd4lck
+2026-02-20,4.0,Metropolitanos 1-1 Carabobo,Metropolitanos,Carabobo,55wby45j07iiofu0nuiy08xzo,6ox0uh70st5uf6m1n1loq3hn8
+2026-02-14,3.0,Academia Puerto Cabello 2-0 Zamora,Academia Puerto Cabello,Zamora,55wby45j07iiofu0nuiy08xzo,6l43ihcwr70aruymdc3mzdbf8
+2026-02-14,3.0,Portuguesa 0-3 Anzoátegui,Portuguesa,Anzoátegui,55wby45j07iiofu0nuiy08xzo,6k5lqy7qyaesrx3o56d6suwwk
+2026-02-14,3.0,Deportivo Táchira 0-0 Trujillanos,Deportivo Táchira,Trujillanos,55wby45j07iiofu0nuiy08xzo,6iqevyricradrfqaum9qptyqc
+2026-02-14,3.0,Deportivo La Guaira 2-0 Caracas,Deportivo La Guaira,Caracas,55wby45j07iiofu0nuiy08xzo,6knfqrqoiztwcp5gwzk4sdhjo
+2026-02-13,3.0,UCV 3-2 Metropolitanos,UCV,Metropolitanos,55wby45j07iiofu0nuiy08xzo,6jnz6s8im6w5404v2fvlffqc4
+2026-02-13,3.0,Carabobo 1-0 Monagas,Carabobo,Monagas,55wby45j07iiofu0nuiy08xzo,6j7f0xr6wqjm9ppl3u7qu0ftg
+2026-02-13,3.0,Estudiantes de Mérida 1-2 Rayo Zuliano,Estudiantes de Mérida,Rayo Zuliano,55wby45j07iiofu0nuiy08xzo,6lkvh3sbtccl18kuw0g0jp1ck
+2026-02-08,2.0,Metropolitanos 2-2 Deportivo La Guaira,Metropolitanos,Deportivo La Guaira,55wby45j07iiofu0nuiy08xzo,6hsu8ilnp0n4um218430ty784
+2026-02-08,2.0,Trujillanos 1-1 Carabobo,Trujillanos,Carabobo,55wby45j07iiofu0nuiy08xzo,6gc24w638y7o16bif6mxo55as
+2026-02-07,2.0,Monagas 0-3 UCV,Monagas,UCV,55wby45j07iiofu0nuiy08xzo,6fv8lnulofeh5qsdt36sko2dw
+2026-02-07,2.0,Caracas 1-1 Academia Puerto Cabello,Caracas,Academia Puerto Cabello,55wby45j07iiofu0nuiy08xzo,6feh7dhpq5152krheryp9jz84
+2026-02-07,2.0,Zamora 3-2 Estudiantes de Mérida,Zamora,Estudiantes de Mérida,55wby45j07iiofu0nuiy08xzo,6haa230wat3kqnf69ij8ahst0
+2026-02-06,2.0,Anzoátegui 1-3 Rayo Zuliano,Anzoátegui,Rayo Zuliano,55wby45j07iiofu0nuiy08xzo,6gtbakdyj1gpcp9wgp7allqfo
+2026-02-06,2.0,Portuguesa 1-0 Deportivo Táchira,Portuguesa,Deportivo Táchira,55wby45j07iiofu0nuiy08xzo,6i9ux0n7q4ux5y5lk4ax7x5p0
+2026-02-01,1.0,UCV 2-0 Trujillanos,UCV,Trujillanos,55wby45j07iiofu0nuiy08xzo,6d93tf5xib0rx39dm4u2h2pec
+2026-02-01,1.0,Estudiantes de Mérida 2-2 Caracas,Estudiantes de Mérida,Caracas,55wby45j07iiofu0nuiy08xzo,6ewe6tvvbh7em1ks7bw1cjfo4
+2026-01-31,1.0,Deportivo La Guaira 2-0 Monagas,Deportivo La Guaira,Monagas,55wby45j07iiofu0nuiy08xzo,6dt8zc2f0079gnkrnt9il0b9w
+2026-01-31,1.0,Carabobo 0-0 Portuguesa,Carabobo,Portuguesa,55wby45j07iiofu0nuiy08xzo,6cpg811hfcf6gu9likfwkawb8
+2026-01-31,1.0,Rayo Zuliano 0-1 Zamora,Rayo Zuliano,Zamora,55wby45j07iiofu0nuiy08xzo,6bhqpqmfed4j93mpjum41m2ac
+2026-01-30,1.0,Academia Puerto Cabello 1-1 Metropolitanos,Academia Puerto Cabello,Metropolitanos,55wby45j07iiofu0nuiy08xzo,6ecvnjqym72wjw9ce9m90brx0
+2026-01-29,1.0,Deportivo Táchira 3-1 Anzoátegui,Deportivo Táchira,Anzoátegui,55wby45j07iiofu0nuiy08xzo,6c4jj8eoo63mqzkx8q1rc1x5g

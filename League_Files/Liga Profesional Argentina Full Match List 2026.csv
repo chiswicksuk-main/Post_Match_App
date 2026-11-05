@@ -1,134 +1,481 @@
 ﻿Date,Round,Match,Home,Away,CompetitionID,MatchID
-2026-03-13,10,Estudiantes 0-1 Lanús,Estudiantes,Lanús,8v84l9nq3d5t0j4gb781i3llg,tznpg0cvtmjssxmkq5rdzx0
-2026-03-12,10,Huracán 1-2 River Plate,Huracán,River Plate,8v84l9nq3d5t0j4gb781i3llg,5xyt823xxd14dl1nqe3v9t04
-2026-03-12,10,Estudiantes Río Cuarto 0-1 Belgrano,Estudiantes Río Cuarto,Belgrano,8v84l9nq3d5t0j4gb781i3llg,6wh1p0f1xebtrh34pze9q9zo
-2026-03-12,10,Talleres de Córdoba 2-0 Instituto,Talleres de Córdoba,Instituto,8v84l9nq3d5t0j4gb781i3llg,3jiv75xhqntkk1xjrhtxapsk
-2026-03-12,10,Defensa y Justicia 1-1 Central Córdoba SdE,Defensa y Justicia,Central Córdoba SdE,8v84l9nq3d5t0j4gb781i3llg,1s9j9f6e1slqjqhronw5j8d0
-2026-03-12,10,Deportivo Riestra 0-0 Gimnasia Mendoza,Deportivo Riestra,Gimnasia Mendoza,8v84l9nq3d5t0j4gb781i3llg,1b4969jf2bwiq691jmkv4owk
-2026-03-11,10,Atlético Tucumán 1-1 Aldosivi,Atlético Tucumán,Aldosivi,8v84l9nq3d5t0j4gb781i3llg,5gj7lucsff66cjkhuxh2gxzo
-2026-03-11,10,Independiente Rivadavia 1-2 Barracas Central,Independiente Rivadavia,Barracas Central,8v84l9nq3d5t0j4gb781i3llg,4zfmhejgancurz6zysmlbjtg
-2026-03-11,10,Boca Juniors 1-1 San Lorenzo,Boca Juniors,San Lorenzo,8v84l9nq3d5t0j4gb781i3llg,2cn6ds2ahmle25ehvtuha978
-2026-03-11,10,Banfield 1-2 Gimnasia La Plata,Banfield,Gimnasia La Plata,8v84l9nq3d5t0j4gb781i3llg,4i4s1q0g17j8ae78ljecglqs
-2026-03-11,10,Argentinos Juniors 0-0 Rosario Central,Argentinos Juniors,Rosario Central,8v84l9nq3d5t0j4gb781i3llg,40wqbtrncxmnf95trcc4tlhw
-2026-03-10,10,Newell's Old Boys 1-1 Platense,Newell's Old Boys,Platense,8v84l9nq3d5t0j4gb781i3llg,7cg0vx7rrq98bd07koevqj8
-2026-03-10,10,Sarmiento 0-0 Racing Club,Sarmiento,Racing Club,8v84l9nq3d5t0j4gb781i3llg,6f767khztze9hqj767l0n0gk
-2026-03-10,10,Tigre 1-1 Vélez Sarsfield,Tigre,Vélez Sarsfield,8v84l9nq3d5t0j4gb781i3llg,f5am0yvnp3ojmha93e80yr8k4
-2026-03-10,10,Independiente 4-4 Unión,Independiente,Unión,8v84l9nq3d5t0j4gb781i3llg,2why48w60s2xjhvniri8fhg4
-2026-03-04,7,Lanús 0-3 Boca Juniors,Lanús,Boca Juniors,8v84l9nq3d5t0j4gb781i3llg,eiqovo97fbg7jtay4b7dw1las
-2026-03-03,8,Atlético Tucumán 0-3 Racing Club,Atlético Tucumán,Racing Club,8v84l9nq3d5t0j4gb781i3llg,evmvdnba1s6i17ceuylgfmv4k
-2026-03-03,8,Huracán 3-1 Belgrano,Huracán,Belgrano,8v84l9nq3d5t0j4gb781i3llg,ew46l7e764pn5x1dhbtv1auj8
-2026-03-03,8,Sarmiento 1-0 Estudiantes Río Cuarto,Sarmiento,Estudiantes Río Cuarto,8v84l9nq3d5t0j4gb781i3llg,ewltnenm958893zbse7eari1g
-2026-03-02,8,Independiente Rivadavia 1-1 River Plate,Independiente Rivadavia,River Plate,8v84l9nq3d5t0j4gb781i3llg,ev5jcyb3o76tehsff1o8tq7mc
-2026-03-02,8,Banfield 2-0 Aldosivi,Banfield,Aldosivi,8v84l9nq3d5t0j4gb781i3llg,euo03gu5z2lhzyrbz5co0wv84
-2026-03-02,8,Deportivo Riestra 0-0 Platense,Deportivo Riestra,Platense,8v84l9nq3d5t0j4gb781i3llg,eqqdclkpz5h14bfn6gxq8cob8
-2026-03-02,8,Estudiantes 0-1 Vélez Sarsfield,Estudiantes,Vélez Sarsfield,8v84l9nq3d5t0j4gb781i3llg,eq8xa8szf8lh24qca5tupgj6c
-2026-03-01,8,Tigre 2-2 Gimnasia La Plata,Tigre,Gimnasia La Plata,8v84l9nq3d5t0j4gb781i3llg,etpay8k4qr3gts3jjidfebaxg
-2026-03-01,8,Defensa y Justicia 1-1 Lanús,Defensa y Justicia,Lanús,8v84l9nq3d5t0j4gb781i3llg,er7n8hqndkhvdsg6an72r7h90
-2026-03-01,8,Argentinos Juniors 1-1 Barracas Central,Argentinos Juniors,Barracas Central,8v84l9nq3d5t0j4gb781i3llg,eu6iik035cwacd2h2dn1lr0us
-2026-03-01,8,Instituto 1-2 Unión,Instituto,Unión,8v84l9nq3d5t0j4gb781i3llg,et6zbpiremkx8ndh0f5c5i39w
-2026-03-01,8,Newell's Old Boys 0-2 Rosario Central,Newell's Old Boys,Rosario Central,8v84l9nq3d5t0j4gb781i3llg,eprnf3qkww5ni6btr1ttnj76c
-2026-02-28,8,Talleres de Córdoba 0-0 San Lorenzo,Talleres de Córdoba,San Lorenzo,8v84l9nq3d5t0j4gb781i3llg,espitwa77x0rtjpbe2fw8ayok
-2026-02-28,8,Independiente 2-0 Central Córdoba SdE,Independiente,Central Córdoba SdE,8v84l9nq3d5t0j4gb781i3llg,es61gdjpn7slb0z5nedfsk07o
-2026-02-28,8,Boca Juniors 1-1 Gimnasia Mendoza,Boca Juniors,Gimnasia Mendoza,8v84l9nq3d5t0j4gb781i3llg,erova7ukp7dhha4nvbgh8wg7o
-2026-02-26,7,River Plate 3-1 Banfield,River Plate,Banfield,8v84l9nq3d5t0j4gb781i3llg,enf2rx1hgu2z40aggocmouo7o
-2026-02-26,7,Estudiantes Río Cuarto 2-0 Huracán,Estudiantes Río Cuarto,Huracán,8v84l9nq3d5t0j4gb781i3llg,ekw1ag8hogiqzafjxedn2ojdg
-2026-02-26,7,Racing Club 1-1 Independiente Rivadavia,Racing Club,Independiente Rivadavia,8v84l9nq3d5t0j4gb781i3llg,em4kfl51ojwcs9svl9nwf1mac
-2026-02-26,7,Sarmiento 1-3 Unión,Sarmiento,Unión,8v84l9nq3d5t0j4gb781i3llg,egnfqwfjb622g190f68fqf6s4
-2026-02-25,7,Newell's Old Boys 0-2 Estudiantes,Newell's Old Boys,Estudiantes,8v84l9nq3d5t0j4gb781i3llg,ek9af4qsj7c1en0vckwimaej8
-2026-02-25,7,Vélez Sarsfield 0-0 Deportivo Riestra,Vélez Sarsfield,Deportivo Riestra,8v84l9nq3d5t0j4gb781i3llg,ejs9mvfakosv2ceo93gd5q238
-2026-02-25,7,Gimnasia La Plata 1-2 Rosario Central,Gimnasia La Plata,Rosario Central,8v84l9nq3d5t0j4gb781i3llg,epafig9ug1gsan3mx98e8jp5g
-2026-02-25,7,Barracas Central 2-1 Tigre,Barracas Central,Tigre,8v84l9nq3d5t0j4gb781i3llg,eop0887kirjjomyrdvuznd0d0
-2026-02-24,7,Gimnasia Mendoza 1-1 Independiente,Gimnasia Mendoza,Independiente,8v84l9nq3d5t0j4gb781i3llg,ei9g21e1vexs1xld9yps7ekgk
-2026-02-24,7,Belgrano 3-1 Atlético Tucumán,Belgrano,Atlético Tucumán,8v84l9nq3d5t0j4gb781i3llg,eliit9ojfv3em38a05ran5kic
-2026-02-24,7,Central Córdoba SdE 2-0 Talleres de Córdoba,Central Córdoba SdE,Talleres de Córdoba,8v84l9nq3d5t0j4gb781i3llg,ehntcid9s8ox208zlsh5hcduc
-2026-02-24,7,San Lorenzo 1-1 Instituto,San Lorenzo,Instituto,8v84l9nq3d5t0j4gb781i3llg,eh6j4e8ibu8hxh8q9k4h1z4es
-2026-02-24,7,Platense 0-0 Defensa y Justicia,Platense,Defensa y Justicia,8v84l9nq3d5t0j4gb781i3llg,ej801djvot8hqjwe0a312mql0
-2026-02-22,6,Unión 1-0 Aldosivi,Unión,Aldosivi,8v84l9nq3d5t0j4gb781i3llg,ecyf4u7yhqomftaua48720qvo
-2026-02-22,6,Vélez Sarsfield 1-0 River Plate,Vélez Sarsfield,River Plate,8v84l9nq3d5t0j4gb781i3llg,e8yqwo5mc72wlssmvpjna4nis
-2026-02-22,6,San Lorenzo 2-0 Estudiantes Río Cuarto,San Lorenzo,Estudiantes Río Cuarto,8v84l9nq3d5t0j4gb781i3llg,ee4hoxtew6a5qd39gjd419uz8
-2026-02-21,6,Central Córdoba SdE 0-0 Tigre,Central Córdoba SdE,Tigre,8v84l9nq3d5t0j4gb781i3llg,ef3ctkktz7fphk04mnqn0x8no
-2026-02-21,6,Banfield 3-0 Newell's Old Boys,Banfield,Newell's Old Boys,8v84l9nq3d5t0j4gb781i3llg,eg65fi3c29iyomy1a9usktono
-2026-02-21,6,Deportivo Riestra 0-0 Huracán,Deportivo Riestra,Huracán,8v84l9nq3d5t0j4gb781i3llg,efom1pprzb51njp062bl0e8es
-2026-02-21,6,Independiente Rivadavia 3-2 Independiente,Independiente Rivadavia,Independiente,8v84l9nq3d5t0j4gb781i3llg,ech8jiidq14nltyhpwwdsqgic
-2026-02-21,6,Platense 1-0 Barracas Central,Platense,Barracas Central,8v84l9nq3d5t0j4gb781i3llg,e9i3jall1sr2mtzuzyj2kjzf8
-2026-02-20,6,Gimnasia Mendoza 0-1 Gimnasia La Plata,Gimnasia Mendoza,Gimnasia La Plata,8v84l9nq3d5t0j4gb781i3llg,eem3jb7n15g1pew94qu9x89as
-2026-02-20,6,Rosario Central 0-1 Talleres de Córdoba,Rosario Central,Talleres de Córdoba,8v84l9nq3d5t0j4gb781i3llg,e9zkqfzovm8ewl89jj8oh0n4k
-2026-02-20,6,Instituto 2-1 Atlético Tucumán,Instituto,Atlético Tucumán,8v84l9nq3d5t0j4gb781i3llg,edm701v33siuv2texp92267mc
-2026-02-20,6,Boca Juniors 0-0 Racing Club,Boca Juniors,Racing Club,8v84l9nq3d5t0j4gb781i3llg,ec054y22wzasiqwnhoos7xmac
-2026-02-20,6,Estudiantes 1-0 Sarmiento,Estudiantes,Sarmiento,8v84l9nq3d5t0j4gb781i3llg,eagyktroo4iwskcxeaw7ho0lw
-2026-02-20,6,Defensa y Justicia 1-1 Belgrano,Defensa y Justicia,Belgrano,8v84l9nq3d5t0j4gb781i3llg,eay7br4hirgeub6c5znxjdc7o
-2026-02-16,5,Deportivo Riestra 1-1 Newell's Old Boys,Deportivo Riestra,Newell's Old Boys,8v84l9nq3d5t0j4gb781i3llg,e22trxz7mmz1k3euadvom0iz8
-2026-02-15,5,Rosario Central 2-0 Barracas Central,Rosario Central,Barracas Central,8v84l9nq3d5t0j4gb781i3llg,e5ida36mdg3lz60a74h929e6s
-2026-02-15,5,Instituto 2-0 Central Córdoba SdE,Instituto,Central Córdoba SdE,8v84l9nq3d5t0j4gb781i3llg,e4jouf60srfpbffsufz51007o
-2026-02-15,5,Boca Juniors 0-0 Platense,Boca Juniors,Platense,8v84l9nq3d5t0j4gb781i3llg,e31wayu7rjl20sc2mp3wq4w7o
-2026-02-15,5,Gimnasia La Plata 0-0 Estudiantes,Gimnasia La Plata,Estudiantes,8v84l9nq3d5t0j4gb781i3llg,e1i1hto3okrxgo9dewh8mkpw4
-2026-02-14,5,Atlético Tucumán 4-0 Estudiantes Río Cuarto,Atlético Tucumán,Estudiantes Río Cuarto,8v84l9nq3d5t0j4gb781i3llg,e807j0xc8rugkrsre06smly50
-2026-02-14,5,Independiente Rivadavia 0-1 Belgrano,Independiente Rivadavia,Belgrano,8v84l9nq3d5t0j4gb781i3llg,e7ig8ixb2w24kumo36skn1r10
-2026-02-14,5,Huracán 1-0 Sarmiento,Huracán,Sarmiento,8v84l9nq3d5t0j4gb781i3llg,e8hhxpont51yhnxwhenqshno4
-2026-02-14,5,Talleres de Córdoba 2-1 Gimnasia Mendoza,Talleres de Córdoba,Gimnasia Mendoza,8v84l9nq3d5t0j4gb781i3llg,e41c4s3rrpkogjm4p9m6q45ck
-2026-02-14,5,Banfield 0-2 Racing Club,Banfield,Racing Club,8v84l9nq3d5t0j4gb781i3llg,e70y2g5beqyqbdpmd4uwv19n8
-2026-02-13,5,Unión 0-0 San Lorenzo,Unión,San Lorenzo,8v84l9nq3d5t0j4gb781i3llg,e512caisq6qvzo3qj8cmggo44
-2026-02-13,5,Defensa y Justicia 1-1 Vélez Sarsfield,Defensa y Justicia,Vélez Sarsfield,8v84l9nq3d5t0j4gb781i3llg,e2kpsi6pe3ag37xkcv6ud7dp0
-2026-02-13,5,Independiente 2-0 Lanús,Independiente,Lanús,8v84l9nq3d5t0j4gb781i3llg,e3j87mjfgjx1b3zbovqu4vu38
-2026-02-12,5,Argentinos Juniors 1-0 River Plate,Argentinos Juniors,River Plate,8v84l9nq3d5t0j4gb781i3llg,e6hg9y0ic5anu18iv8e6dch04
-2026-02-12,5,Tigre 1-0 Aldosivi,Tigre,Aldosivi,8v84l9nq3d5t0j4gb781i3llg,e5zv5t7dwdppct40r6t0wy6ms
-2026-02-09,4,Estudiantes Río Cuarto 0-1 Independiente Rivadavia,Estudiantes Río Cuarto,Independiente Rivadavia,8v84l9nq3d5t0j4gb781i3llg,dyljmge6f2n3hgqw53ma0h72s
-2026-02-09,4,Estudiantes 1-0 Deportivo Riestra,Estudiantes,Deportivo Riestra,8v84l9nq3d5t0j4gb781i3llg,dxmpotmkjif0erc4wx1dap2c4
-2026-02-09,4,Lanús 1-1 Talleres de Córdoba,Lanús,Talleres de Córdoba,8v84l9nq3d5t0j4gb781i3llg,dvk1vvl9v80bxxxtgaohbw9as
-2026-02-09,4,Barracas Central 2-0 Gimnasia La Plata,Barracas Central,Gimnasia La Plata,8v84l9nq3d5t0j4gb781i3llg,e10meiz8k4s0rz4l9g0x4fm6s
-2026-02-08,4,Vélez Sarsfield 2-1 Boca Juniors,Vélez Sarsfield,Boca Juniors,8v84l9nq3d5t0j4gb781i3llg,dwivib38a4ir5aa2c2cq6jspg
-2026-02-08,4,Gimnasia Mendoza 1-0 Instituto,Gimnasia Mendoza,Instituto,8v84l9nq3d5t0j4gb781i3llg,dv2mtmvohvclcoyy5hsvjgt1w
-2026-02-08,4,Huracán 1-0 San Lorenzo,Huracán,San Lorenzo,8v84l9nq3d5t0j4gb781i3llg,du2yum8cndttivlhmk8sw5wyc
-2026-02-08,4,Sarmiento 2-1 Atlético Tucumán,Sarmiento,Atlético Tucumán,8v84l9nq3d5t0j4gb781i3llg,dy45x8gldrkz8u69gqlu9cr9w
-2026-02-08,4,Platense 0-1 Independiente,Platense,Independiente,8v84l9nq3d5t0j4gb781i3llg,dw1h7o94a0qokhse1cdxca7tg
-2026-02-07,4,Belgrano 1-0 Banfield,Belgrano,Banfield,8v84l9nq3d5t0j4gb781i3llg,dz2xirq9wxio1jzwu4h02wxzo
-2026-02-07,4,Newell's Old Boys 2-3 Defensa y Justicia,Newell's Old Boys,Defensa y Justicia,8v84l9nq3d5t0j4gb781i3llg,dx4g7rjfp60enm790xtop3o5w
-2026-02-07,4,River Plate 1-4 Tigre,River Plate,Tigre,8v84l9nq3d5t0j4gb781i3llg,e01lyquavljflunqm8cun0h78
-2026-02-07,4,Racing Club 2-1 Argentinos Juniors,Racing Club,Argentinos Juniors,8v84l9nq3d5t0j4gb781i3llg,dzkcnm3yi8wkro4vajwchaql0
-2026-02-07,4,Aldosivi 1-1 Rosario Central,Aldosivi,Rosario Central,8v84l9nq3d5t0j4gb781i3llg,e0j63vpd5i9tvum7lrxuv7das
-2026-02-06,4,Central Córdoba SdE 1-0 Unión,Central Córdoba SdE,Unión,8v84l9nq3d5t0j4gb781i3llg,dulhbuk1cak51jmiviahg6lg4
-2026-02-03,3,Independiente Rivadavia 2-1 Sarmiento,Independiente Rivadavia,Sarmiento,8v84l9nq3d5t0j4gb781i3llg,dt3zygke1nyh2vd064vvku238
-2026-02-03,3,Instituto 2-2 Lanús,Instituto,Lanús,8v84l9nq3d5t0j4gb781i3llg,dnw1cc5iqgilbktkkx3mq89w4
-2026-02-03,3,Banfield 2-1 Estudiantes Río Cuarto,Banfield,Estudiantes Río Cuarto,8v84l9nq3d5t0j4gb781i3llg,dsjrymrzy7svz7gz189d0npqs
-2026-02-02,3,Argentinos Juniors 0-0 Belgrano,Argentinos Juniors,Belgrano,8v84l9nq3d5t0j4gb781i3llg,ds2crt4rfv08fyw2fv43c1tzo
-2026-02-02,3,Unión 4-0 Gimnasia Mendoza,Unión,Gimnasia Mendoza,8v84l9nq3d5t0j4gb781i3llg,dp2tpl0wak65mrr1ooufpg8wk
-2026-02-02,3,Tigre 3-1 Racing Club,Tigre,Racing Club,8v84l9nq3d5t0j4gb781i3llg,drjbhd820swjp22d3upapg9p0
-2026-02-02,3,Defensa y Justicia 0-0 Estudiantes,Defensa y Justicia,Estudiantes,8v84l9nq3d5t0j4gb781i3llg,dkzp2nu52f8s75yr4x80gz28k
-2026-02-02,3,Gimnasia La Plata 3-1 Aldosivi,Gimnasia La Plata,Aldosivi,8v84l9nq3d5t0j4gb781i3llg,dqkps7maq52vm0ytt12gt436c
-2026-02-01,3,Rosario Central 0-0 River Plate,Rosario Central,River Plate,8v84l9nq3d5t0j4gb781i3llg,dr1x1rsp66e727dx54b03ijh0
-2026-02-01,3,Boca Juniors 2-0 Newell's Old Boys,Boca Juniors,Newell's Old Boys,8v84l9nq3d5t0j4gb781i3llg,dlmqmb1vjetzjt8y3jivfkil0
-2026-02-01,3,Barracas Central 1-1 Deportivo Riestra,Barracas Central,Deportivo Riestra,8v84l9nq3d5t0j4gb781i3llg,dk9qxebcksmfe2n7ishqx38d0
-2026-01-31,3,Atlético Tucumán 1-1 Huracán,Atlético Tucumán,Huracán,8v84l9nq3d5t0j4gb781i3llg,dtlmueaoep2ua99f5givmmeqc
-2026-01-31,3,Talleres de Córdoba 1-2 Platense,Talleres de Córdoba,Platense,8v84l9nq3d5t0j4gb781i3llg,dn7w4jo36v6oo5sl8v5phqp04
-2026-01-31,3,Independiente 1-1 Vélez Sarsfield,Independiente,Vélez Sarsfield,8v84l9nq3d5t0j4gb781i3llg,dmb4es8mnysh0phz9cditwkr8
-2026-01-31,3,San Lorenzo 1-0 Central Córdoba SdE,San Lorenzo,Central Córdoba SdE,8v84l9nq3d5t0j4gb781i3llg,dq0eoi2247nyp4t0y6v60wzys
-2026-01-29,2,Estudiantes Río Cuarto 0-0 Argentinos Juniors,Estudiantes Río Cuarto,Argentinos Juniors,8v84l9nq3d5t0j4gb781i3llg,dh6866pcy77lstu20o5hmm3o4
-2026-01-29,2,Sarmiento 1-0 Banfield,Sarmiento,Banfield,8v84l9nq3d5t0j4gb781i3llg,dgouhwws6omwcdp99xjmk7yfo
-2026-01-29,2,Belgrano 1-1 Tigre,Belgrano,Tigre,8v84l9nq3d5t0j4gb781i3llg,dhsl3jqbcvsxwx1z9o58furkk
-2026-01-29,2,Lanús 2-1 Unión,Lanús,Unión,8v84l9nq3d5t0j4gb781i3llg,dd7wwfxvqntu6n38pktka2m1g
-2026-01-29,2,Deportivo Riestra 0-1 Defensa y Justicia,Deportivo Riestra,Defensa y Justicia,8v84l9nq3d5t0j4gb781i3llg,dfq7qfnr8xo0svctx3far2dxw
-2026-01-28,2,Estudiantes 2-1 Boca Juniors,Estudiantes,Boca Juniors,8v84l9nq3d5t0j4gb781i3llg,df93yd5gma5h3hmagf2oxysk4
-2026-01-28,2,River Plate 2-0 Gimnasia La Plata,River Plate,Gimnasia La Plata,8v84l9nq3d5t0j4gb781i3llg,dj0x3yjhct95vlk64gn46qot0
-2026-01-28,2,Racing Club 1-2 Rosario Central,Racing Club,Rosario Central,8v84l9nq3d5t0j4gb781i3llg,dickdk1dqz444vv67ljmyxij8
-2026-01-28,2,Aldosivi 0-0 Barracas Central,Aldosivi,Barracas Central,8v84l9nq3d5t0j4gb781i3llg,djrhcvenm5g5yngot98ixkpas
-2026-01-27,2,Newell's Old Boys 1-1 Independiente,Newell's Old Boys,Independiente,8v84l9nq3d5t0j4gb781i3llg,deq853egxaszfn8pa00zkkr2s
-2026-01-27,2,Atlético Tucumán 0-0 Central Córdoba SdE,Atlético Tucumán,Central Córdoba SdE,8v84l9nq3d5t0j4gb781i3llg,dc4cghrwq1inmsnh9kjstbtas
-2026-01-27,2,Huracán 1-2 Independiente Rivadavia,Huracán,Independiente Rivadavia,8v84l9nq3d5t0j4gb781i3llg,dg7qosukuuzlksvpa9qzlin10
-2026-01-27,2,Gimnasia Mendoza 0-1 San Lorenzo,Gimnasia Mendoza,San Lorenzo,8v84l9nq3d5t0j4gb781i3llg,dcno24sktsbt4up9yjqtb9p1w
-2026-01-27,2,Vélez Sarsfield 2-1 Talleres de Córdoba,Vélez Sarsfield,Talleres de Córdoba,8v84l9nq3d5t0j4gb781i3llg,de99bwlemh4854qtrocv4aqs4
-2026-01-26,2,Platense 2-1 Instituto,Platense,Instituto,8v84l9nq3d5t0j4gb781i3llg,ddoqliut5vtmq1uhaygd1ehp0
-2026-01-25,1,Argentinos Juniors 1-0 Sarmiento,Argentinos Juniors,Sarmiento,8v84l9nq3d5t0j4gb781i3llg,da5gw16lyzjx1ml3oe9dyi9ec
-2026-01-25,1,Tigre 2-0 Estudiantes Río Cuarto,Tigre,Estudiantes Río Cuarto,8v84l9nq3d5t0j4gb781i3llg,d9fu4fjeg798v6pbdad0w3a50
-2026-01-25,1,Boca Juniors 1-0 Deportivo Riestra,Boca Juniors,Deportivo Riestra,8v84l9nq3d5t0j4gb781i3llg,d30dqlphl2e7vktuefdb5iadw
-2026-01-24,1,Rosario Central 1-2 Belgrano,Rosario Central,Belgrano,8v84l9nq3d5t0j4gb781i3llg,d8smteyfsx3yzx7dass20dono
-2026-01-24,1,Gimnasia La Plata 2-1 Racing Club,Gimnasia La Plata,Racing Club,8v84l9nq3d5t0j4gb781i3llg,d83j2kijhvtzorurew10k06qc
-2026-01-24,1,Barracas Central 0-1 River Plate,Barracas Central,River Plate,8v84l9nq3d5t0j4gb781i3llg,d78b9ehte2n5uyo523gl0n9xw
-2026-01-23,1,Independiente Rivadavia 2-1 Atlético Tucumán,Independiente Rivadavia,Atlético Tucumán,8v84l9nq3d5t0j4gb781i3llg,dbnd2buqfjqeag7s4oqjxy0wk
-2026-01-23,1,Talleres de Córdoba 2-1 Newell's Old Boys,Talleres de Córdoba,Newell's Old Boys,8v84l9nq3d5t0j4gb781i3llg,d45kvb848yzs6gksr0v9svjtg
-2026-01-23,1,Independiente 1-1 Estudiantes,Independiente,Estudiantes,8v84l9nq3d5t0j4gb781i3llg,d3lffmh689fggfe3f77d4yr6c
-2026-01-23,1,San Lorenzo 2-3 Lanús,San Lorenzo,Lanús,8v84l9nq3d5t0j4gb781i3llg,d5wqt2zz0icvixajl7amry61g
-2026-01-22,1,Central Córdoba SdE 0-1 Gimnasia Mendoza,Central Córdoba SdE,Gimnasia Mendoza,8v84l9nq3d5t0j4gb781i3llg,d6kqsaa7hu3y9w5hgy1d68kyc
-2026-01-22,1,Instituto 0-1 Vélez Sarsfield,Instituto,Vélez Sarsfield,8v84l9nq3d5t0j4gb781i3llg,d4pd8cixk54pb362w8jg1uhp0
-2026-01-22,1,Banfield 1-1 Huracán,Banfield,Huracán,8v84l9nq3d5t0j4gb781i3llg,db29jtzrc13v2vj0j4iglpjx0
-2026-01-22,1,Unión 0-0 Platense,Unión,Platense,8v84l9nq3d5t0j4gb781i3llg,d5a5puwmatapla0dw518bbtp0
-2026-01-22,1,Aldosivi 0-0 Defensa y Justicia,Aldosivi,Defensa y Justicia,8v84l9nq3d5t0j4gb781i3llg,d295wy4vdmqzpssonsd9axkwk
+2026-11-02,15.0,Independiente Rivadavia 3-1 Banfield,Independiente Rivadavia,Banfield,8v84l9nq3d5t0j4gb781i3llg,2y16yh97n09kztxjf04ro5t04
+2026-11-02,15.0,Atlético Tucumán 1-2 Argentinos Juniors,Atlético Tucumán,Argentinos Juniors,8v84l9nq3d5t0j4gb781i3llg,2xk3eb633mkvz2cg0kgu5so44
+2026-11-02,15.0,Platense 2-0 Central Córdoba SdE,Platense,Central Córdoba SdE,8v84l9nq3d5t0j4gb781i3llg,2u683ivfymsbittw5q5lqtpuc
+2026-11-02,15.0,Defensa y Justicia 1-1 Independiente,Defensa y Justicia,Independiente,8v84l9nq3d5t0j4gb781i3llg,2rshrfsq7av7uahwvksg6gutw
+2026-11-01,15.0,Lanús 1-1 Gimnasia Mendoza,Lanús,Gimnasia Mendoza,8v84l9nq3d5t0j4gb781i3llg,2uncvg9l4il7g82k8zxta1jbo
+2026-11-01,15.0,Belgrano 2-2 Barracas Central,Belgrano,Barracas Central,8v84l9nq3d5t0j4gb781i3llg,2vld3xrco0rb6r4ovztwsz9ck
+2026-11-01,15.0,Newell's Old Boys 1-1 Unión,Newell's Old Boys,Unión,8v84l9nq3d5t0j4gb781i3llg,2t8bi2jsp88qail2xzycu7i8k
+2026-11-01,15.0,Boca Juniors 1-0 River Plate,Boca Juniors,River Plate,8v84l9nq3d5t0j4gb781i3llg,2r8cyxbnkv4d4dolb5e7jwlxw
+2026-10-31,15.0,Estudiantes 3-3 Instituto,Estudiantes,Instituto,8v84l9nq3d5t0j4gb781i3llg,2sr9ngaxxuy3dzhathmnshzis
+2026-10-31,15.0,Vélez Sarsfield 2-2 San Lorenzo,Vélez Sarsfield,San Lorenzo,8v84l9nq3d5t0j4gb781i3llg,2tpdrqytsztgw0gmxlirkkefo
+2026-10-31,15.0,Deportivo Riestra 0-3 Talleres de Córdoba,Deportivo Riestra,Talleres de Córdoba,8v84l9nq3d5t0j4gb781i3llg,2sa4kpar0u0wpaqur93m9naj8
+2026-10-30,15.0,Sarmiento 1-2 Rosario Central,Sarmiento,Rosario Central,8v84l9nq3d5t0j4gb781i3llg,2wlww1kzgcv4p724trb789kwk
+2026-10-30,15.0,Racing Club 2-1 Aldosivi,Racing Club,Aldosivi,8v84l9nq3d5t0j4gb781i3llg,2v4iifad550vh84tcqcnr2jh0
+2026-10-30,15.0,Huracán 0-2 Tigre,Huracán,Tigre,8v84l9nq3d5t0j4gb781i3llg,2x2yoy5xzxvx2s163wubk7eok
+2026-10-30,15.0,Estudiantes Río Cuarto 1-2 Gimnasia La Plata,Estudiantes Río Cuarto,Gimnasia La Plata,8v84l9nq3d5t0j4gb781i3llg,2w2kq05ag6g8c1h288a5eigic
+2026-10-27,14.0,Argentinos Juniors 1-0 Independiente Rivadavia,Argentinos Juniors,Independiente Rivadavia,8v84l9nq3d5t0j4gb781i3llg,2nf1kikgpuwexnkstlia4zsb8
+2026-10-26,14.0,Instituto 1-0 Deportivo Riestra,Instituto,Deportivo Riestra,8v84l9nq3d5t0j4gb781i3llg,2lxlno3im83enim70qlg7d2qc
+2026-10-26,14.0,Unión 3-1 Estudiantes,Unión,Estudiantes,8v84l9nq3d5t0j4gb781i3llg,2lgiens9urwevqbgtvdslqs5w
+2026-10-25,14.0,Barracas Central 2-1 Estudiantes Río Cuarto,Barracas Central,Estudiantes Río Cuarto,8v84l9nq3d5t0j4gb781i3llg,2pq37noidpkj0tjsntwzuv8d0
+2026-10-25,14.0,Central Córdoba SdE 0-5 Vélez Sarsfield,Central Córdoba SdE,Vélez Sarsfield,8v84l9nq3d5t0j4gb781i3llg,2kiom7hm33grj3g5qrd34ysr8
+2026-10-25,14.0,River Plate 1-0 Racing Club,River Plate,Racing Club,8v84l9nq3d5t0j4gb781i3llg,2qqzuxw5pioxp4tje3dwiadqs
+2026-10-25,14.0,Independiente 0-1 Boca Juniors,Independiente,Boca Juniors,8v84l9nq3d5t0j4gb781i3llg,2my1dc7c8bbhygmi9pde4ikus
+2026-10-25,14.0,Aldosivi 1-0 Belgrano,Aldosivi,Belgrano,8v84l9nq3d5t0j4gb781i3llg,2q8o2r35dgah025q2g22jd89g
+2026-10-24,14.0,Rosario Central 2-0 Huracán,Rosario Central,Huracán,8v84l9nq3d5t0j4gb781i3llg,2oohzadpdr9fmfcgyn9vh436c
+2026-10-24,14.0,San Lorenzo 0-0 Newell's Old Boys,San Lorenzo,Newell's Old Boys,8v84l9nq3d5t0j4gb781i3llg,2kzl3gcgqijjzwelm00byfxn8
+2026-10-24,14.0,Talleres de Córdoba 1-2 Defensa y Justicia,Talleres de Córdoba,Defensa y Justicia,8v84l9nq3d5t0j4gb781i3llg,2mgr22k4kk1zku7ep6f944ahg
+2026-10-24,14.0,Banfield 1-1 Lanús,Banfield,Lanús,8v84l9nq3d5t0j4gb781i3llg,2jk7c0nxenb9f6cts7wo641ec
+2026-10-23,14.0,Tigre 0-1 Atlético Tucumán,Tigre,Atlético Tucumán,8v84l9nq3d5t0j4gb781i3llg,2o5ns8cexmsxsbafsyydbnqqc
+2026-10-23,14.0,Gimnasia Mendoza 1-2 Platense,Gimnasia Mendoza,Platense,8v84l9nq3d5t0j4gb781i3llg,2k1l0i514rlhi5xsd0utagwes
+2026-10-23,14.0,Gimnasia La Plata 2-0 Sarmiento,Gimnasia La Plata,Sarmiento,8v84l9nq3d5t0j4gb781i3llg,2p6xru0e0ovtx8au2yhbx0kr8
+2026-10-19,13.0,Deportivo Riestra 1-1 Unión,Deportivo Riestra,Unión,8v84l9nq3d5t0j4gb781i3llg,2dlvoaxoj9q81denb2ssi1s0k
+2026-10-19,13.0,Sarmiento 1-1 Barracas Central,Sarmiento,Barracas Central,8v84l9nq3d5t0j4gb781i3llg,2h56syeu77afug3c2kc2fy590
+2026-10-19,13.0,Newell's Old Boys 2-1 Central Córdoba SdE,Newell's Old Boys,Central Córdoba SdE,8v84l9nq3d5t0j4gb781i3llg,2ejtvxwmeq59ia9rqdej8bv2s
+2026-10-18,13.0,Belgrano 0-3 River Plate,Belgrano,River Plate,8v84l9nq3d5t0j4gb781i3llg,2g03refgfujdctmu0teq3bdw4
+2026-10-18,13.0,Estudiantes Río Cuarto 2-1 Aldosivi,Estudiantes Río Cuarto,Aldosivi,8v84l9nq3d5t0j4gb781i3llg,2gn2j9cve5mxw5ak30uyv9atw
+2026-10-18,13.0,Estudiantes 1-2 San Lorenzo,Estudiantes,San Lorenzo,8v84l9nq3d5t0j4gb781i3llg,2e2s9ijbjq87n1sfm0y8611xw
+2026-10-18,13.0,Racing Club 1-1 Independiente,Racing Club,Independiente,8v84l9nq3d5t0j4gb781i3llg,2bx98m0k2nijy13hmj1xt515g
+2026-10-17,13.0,Atlético Tucumán 2-3 Rosario Central,Atlético Tucumán,Rosario Central,8v84l9nq3d5t0j4gb781i3llg,2i5afynd84n25rw8bvzdth8gk
+2026-10-17,13.0,Vélez Sarsfield 1-0 Gimnasia Mendoza,Vélez Sarsfield,Gimnasia Mendoza,8v84l9nq3d5t0j4gb781i3llg,2f103npxvj5sep7c53f78c1ec
+2026-10-17,13.0,Independiente Rivadavia 2-2 Tigre,Independiente Rivadavia,Tigre,8v84l9nq3d5t0j4gb781i3llg,2imei1r1z79i9anhpy8fmsjys
+2026-10-17,13.0,Platense 0-1 Lanús,Platense,Lanús,8v84l9nq3d5t0j4gb781i3llg,2fi2arqyx3mlz35hy2tx12djo
+2026-10-17,13.0,Banfield 0-1 Argentinos Juniors,Banfield,Argentinos Juniors,8v84l9nq3d5t0j4gb781i3llg,2j3h618qjajbu8oszks8kvcpg
+2026-10-16,13.0,Boca Juniors 2-1 Talleres de Córdoba,Boca Juniors,Talleres de Córdoba,8v84l9nq3d5t0j4gb781i3llg,2choc993l7c2q76yrqin8fzmc
+2026-10-16,13.0,Defensa y Justicia 0-1 Instituto,Defensa y Justicia,Instituto,8v84l9nq3d5t0j4gb781i3llg,2d225wqrwvp6joym49chcbpjo
+2026-10-15,13.0,Huracán 1-2 Gimnasia La Plata,Huracán,Gimnasia La Plata,8v84l9nq3d5t0j4gb781i3llg,2ho0zd6v8k0oab9fk7ke5gdn8
+2026-10-14,11.0,Sarmiento 1-1 River Plate,Sarmiento,River Plate,8v84l9nq3d5t0j4gb781i3llg,2183k4fcf0xqfc67qfret4e8k
+2026-10-12,12.0,Gimnasia Mendoza 1-0 Newell's Old Boys,Gimnasia Mendoza,Newell's Old Boys,8v84l9nq3d5t0j4gb781i3llg,25761isrbjc29y209xw0amsyc
+2026-10-12,12.0,Lanús 2-0 Vélez Sarsfield,Lanús,Vélez Sarsfield,8v84l9nq3d5t0j4gb781i3llg,24q34y4vkoa5zr76573ynhono
+2026-10-11,12.0,Talleres de Córdoba 0-0 Independiente,Talleres de Córdoba,Independiente,8v84l9nq3d5t0j4gb781i3llg,27mmr96hv3wx5pm0mciz30h78
+2026-10-11,12.0,Racing Club 0-2 Belgrano,Racing Club,Belgrano,8v84l9nq3d5t0j4gb781i3llg,2bfu62ukw7b303nmdszmc1btg
+2026-10-11,12.0,Rosario Central 5-0 Independiente Rivadavia,Rosario Central,Independiente Rivadavia,8v84l9nq3d5t0j4gb781i3llg,28lk7ls8l0ri2tj99tgf3e32s
+2026-10-11,12.0,Platense 1-1 Argentinos Juniors,Platense,Argentinos Juniors,8v84l9nq3d5t0j4gb781i3llg,2492nrtejleh6aui5f9ngyn84
+2026-10-11,12.0,San Lorenzo 1-0 Deportivo Riestra,San Lorenzo,Deportivo Riestra,8v84l9nq3d5t0j4gb781i3llg,2655sdqcgg45aeeyv8dp7alg4
+2026-10-10,12.0,River Plate 1-0 Estudiantes Río Cuarto,River Plate,Estudiantes Río Cuarto,8v84l9nq3d5t0j4gb781i3llg,2ayvs8o2qvg5r8eiohqx92y38
+2026-10-10,12.0,Tigre 1-2 Banfield,Tigre,Banfield,8v84l9nq3d5t0j4gb781i3llg,2843fzuhrgeoeqtzpz95hzwus
+2026-10-10,12.0,Central Córdoba SdE 2-2 Estudiantes,Central Córdoba SdE,Estudiantes,8v84l9nq3d5t0j4gb781i3llg,25o7g2dxo58e0g08tjunwd1qs
+2026-10-10,12.0,Barracas Central 2-0 Huracán,Barracas Central,Huracán,8v84l9nq3d5t0j4gb781i3llg,29qw6rm64qqdauyihx22gtkpg
+2026-10-09,12.0,Unión 0-2 Defensa y Justicia,Unión,Defensa y Justicia,8v84l9nq3d5t0j4gb781i3llg,26m82qoq4r1edwf5hvfc1xdzo
+2026-10-09,12.0,Instituto 2-2 Boca Juniors,Instituto,Boca Juniors,8v84l9nq3d5t0j4gb781i3llg,275deu5b76f91nuq4fygbgh78
+2026-10-09,12.0,Gimnasia La Plata 1-1 Atlético Tucumán,Gimnasia La Plata,Atlético Tucumán,8v84l9nq3d5t0j4gb781i3llg,292nmm0yd77tg8kbhuh9c8aac
+2026-10-09,12.0,Aldosivi 1-3 Sarmiento,Aldosivi,Sarmiento,8v84l9nq3d5t0j4gb781i3llg,2ag75pzh6s9gvtnlqrq8ztv6c
+2026-10-05,11.0,Banfield 1-1 Rosario Central,Banfield,Rosario Central,8v84l9nq3d5t0j4gb781i3llg,23axvx0d1pik1gdlqmvpi000k
+2026-10-05,11.0,Vélez Sarsfield 2-2 Platense,Vélez Sarsfield,Platense,8v84l9nq3d5t0j4gb781i3llg,205ess4m5lbqerv15w8zz3zmc
+2026-10-05,11.0,Estudiantes 3-0 Gimnasia Mendoza,Estudiantes,Gimnasia Mendoza,8v84l9nq3d5t0j4gb781i3llg,1z5kqqey453ncrlqpdhw1d3x0
+2026-10-05,11.0,Deportivo Riestra 1-1 Central Córdoba SdE,Deportivo Riestra,Central Córdoba SdE,8v84l9nq3d5t0j4gb781i3llg,1yodn48vy6m9ul1xxxhgvovtg
+2026-10-04,11.0,Estudiantes Río Cuarto 1-2 Racing Club,Estudiantes Río Cuarto,Racing Club,8v84l9nq3d5t0j4gb781i3llg,20oyxpx6ldnlnsptr74xa4p3o
+2026-10-04,11.0,Argentinos Juniors 2-1 Tigre,Argentinos Juniors,Tigre,8v84l9nq3d5t0j4gb781i3llg,23rxh9qy84rlza4vhjkp5kiz8
+2026-10-04,11.0,Talleres de Córdoba 0-1 Belgrano,Talleres de Córdoba,Belgrano,8v84l9nq3d5t0j4gb781i3llg,1wq8we25o963532yuf8i3o104
+2026-10-04,11.0,Huracán 1-0 Aldosivi,Huracán,Aldosivi,8v84l9nq3d5t0j4gb781i3llg,21qitpwx70p1mfyant2eckwlw
+2026-10-03,11.0,Atlético Tucumán 2-3 Barracas Central,Atlético Tucumán,Barracas Central,8v84l9nq3d5t0j4gb781i3llg,22ccwady8wwrd44ojrbyio7is
+2026-10-03,11.0,Newell's Old Boys 0-0 Lanús,Newell's Old Boys,Lanús,8v84l9nq3d5t0j4gb781i3llg,1zmi2epkuc3i4272q80aqz504
+2026-10-03,11.0,Defensa y Justicia 3-0 San Lorenzo,Defensa y Justicia,San Lorenzo,8v84l9nq3d5t0j4gb781i3llg,1y7dulbxgppjv5lg2i3ra3ifo
+2026-10-02,11.0,Independiente Rivadavia 1-1 Gimnasia La Plata,Independiente Rivadavia,Gimnasia La Plata,8v84l9nq3d5t0j4gb781i3llg,22toh05cn45h3t6b04xl5h0k4
+2026-10-02,11.0,Boca Juniors 3-0 Unión,Boca Juniors,Unión,8v84l9nq3d5t0j4gb781i3llg,1xq9fqmq786baz55jjrzv90k4
+2026-10-02,11.0,Independiente 1-4 Instituto,Independiente,Instituto,8v84l9nq3d5t0j4gb781i3llg,1x99tmsm4qc8nmrv7ktoqr0no
+2026-09-21,10.0,Lanús 2-1 Estudiantes,Lanús,Estudiantes,8v84l9nq3d5t0j4gb781i3llg,1qcldhy0bri4v69ws77554jro
+2026-09-21,10.0,Barracas Central 0-1 Independiente Rivadavia,Barracas Central,Independiente Rivadavia,8v84l9nq3d5t0j4gb781i3llg,1udjwtm192cacsl4vvxlzaj2s
+2026-09-21,10.0,Aldosivi 1-0 Atlético Tucumán,Aldosivi,Atlético Tucumán,8v84l9nq3d5t0j4gb781i3llg,1uukxrayarp65q4la0l4bqntg
+2026-09-20,10.0,Vélez Sarsfield 3-2 Tigre,Vélez Sarsfield,Tigre,8v84l9nq3d5t0j4gb781i3llg,1pealm91o8n9tktsm8l3hdtzo
+2026-09-20,10.0,Belgrano 2-1 Estudiantes Río Cuarto,Belgrano,Estudiantes Río Cuarto,8v84l9nq3d5t0j4gb781i3llg,1w9gxvwd5bvz889pkg6y4flec
+2026-09-20,10.0,Rosario Central 1-0 Argentinos Juniors,Rosario Central,Argentinos Juniors,8v84l9nq3d5t0j4gb781i3llg,1takllek5tzp371pc2axty39w
+2026-09-20,10.0,Platense 0-1 Newell's Old Boys,Platense,Newell's Old Boys,8v84l9nq3d5t0j4gb781i3llg,1pve25ywebvvpsbkzeimcerdg
+2026-09-20,10.0,San Lorenzo 0-2 Boca Juniors,San Lorenzo,Boca Juniors,8v84l9nq3d5t0j4gb781i3llg,1rrp04ydt1ahgykgayqyp1lw4
+2026-09-19,10.0,Instituto 3-1 Talleres de Córdoba,Instituto,Talleres de Córdoba,8v84l9nq3d5t0j4gb781i3llg,1ss65x7uoww77czcsbc4fzi8k
+2026-09-19,10.0,River Plate 1-2 Huracán,River Plate,Huracán,8v84l9nq3d5t0j4gb781i3llg,1vbqa29e98oyvpqqmhy02jv2s
+2026-09-19,10.0,Unión 1-2 Independiente,Unión,Independiente,8v84l9nq3d5t0j4gb781i3llg,1sau030b50h9h6honhyuept78
+2026-09-19,10.0,Gimnasia La Plata 2-2 Banfield,Gimnasia La Plata,Banfield,8v84l9nq3d5t0j4gb781i3llg,1tuz35u9pxjvl2pupdj2vzwgk
+2026-09-19,10.0,Gimnasia Mendoza 0-0 Deportivo Riestra,Gimnasia Mendoza,Deportivo Riestra,8v84l9nq3d5t0j4gb781i3llg,1qtogiytnd8xl7gnfesmxotuc
+2026-09-18,10.0,Racing Club 3-1 Sarmiento,Racing Club,Sarmiento,8v84l9nq3d5t0j4gb781i3llg,1vslgx2qfdwupw69u3liuy5g4
+2026-09-18,10.0,Central Córdoba SdE 2-2 Defensa y Justicia,Central Córdoba SdE,Defensa y Justicia,8v84l9nq3d5t0j4gb781i3llg,1raty9l0l97prchhepsasjbpw
+2026-09-14,9.0,Instituto 2-1 Estudiantes Río Cuarto,Instituto,Estudiantes Río Cuarto,8v84l9nq3d5t0j4gb781i3llg,1i230b0smj40tgs9jfd4f8qac
+2026-09-14,9.0,Banfield 1-1 Barracas Central,Banfield,Barracas Central,8v84l9nq3d5t0j4gb781i3llg,1nyynoxvygmizc58c99iq5q8k
+2026-09-14,9.0,Deportivo Riestra 0-3 Lanús,Deportivo Riestra,Lanús,8v84l9nq3d5t0j4gb781i3llg,1kiby2gl7xgg64zfuhw1dgg0k
+2026-09-13,9.0,Huracán 2-1 Racing Club,Huracán,Racing Club,8v84l9nq3d5t0j4gb781i3llg,1mh0tbcgc9lrxk0kt5kpjli50
+2026-09-13,9.0,Independiente 1-1 San Lorenzo,Independiente,San Lorenzo,8v84l9nq3d5t0j4gb781i3llg,1j2eq35rjor6e56hspedxq2vo
+2026-09-13,9.0,Argentinos Juniors 1-1 Gimnasia La Plata,Argentinos Juniors,Gimnasia La Plata,8v84l9nq3d5t0j4gb781i3llg,1og4g1pa7ulssur4maq2sqck4
+2026-09-13,9.0,Tigre 0-1 Rosario Central,Tigre,Rosario Central,8v84l9nq3d5t0j4gb781i3llg,1ox8no3awoga563pedpph0cus
+2026-09-13,9.0,Sarmiento 1-1 Belgrano,Sarmiento,Belgrano,8v84l9nq3d5t0j4gb781i3llg,1lz8hkyig5mnod079znr19ct0
+2026-09-12,9.0,Talleres de Córdoba 2-1 Unión,Talleres de Córdoba,Unión,8v84l9nq3d5t0j4gb781i3llg,1ilegvlyegc4y6x7ncyi4j3tg
+2026-09-12,9.0,Atlético Tucumán 1-2 River Plate,Atlético Tucumán,River Plate,8v84l9nq3d5t0j4gb781i3llg,1mybk9kdncgtbvxl9gldkdf6c
+2026-09-12,9.0,Independiente Rivadavia 4-3 Aldosivi,Independiente Rivadavia,Aldosivi,8v84l9nq3d5t0j4gb781i3llg,1nhwdqa5kk3rjsc4kkkql6jo4
+2026-09-12,9.0,Estudiantes 2-1 Platense,Estudiantes,Platense,8v84l9nq3d5t0j4gb781i3llg,1kzfqo67938sfvcdwc3cbgtuc
+2026-09-11,9.0,Boca Juniors 3-1 Central Córdoba SdE,Boca Juniors,Central Córdoba SdE,8v84l9nq3d5t0j4gb781i3llg,1jk2nl0flt8bb8mvxb4vvaf4k
+2026-09-11,9.0,Defensa y Justicia 2-0 Gimnasia Mendoza,Defensa y Justicia,Gimnasia Mendoza,8v84l9nq3d5t0j4gb781i3llg,1k1alkwtmut2ywhzjohqontp0
+2026-09-11,9.0,Newell's Old Boys 1-1 Vélez Sarsfield,Newell's Old Boys,Vélez Sarsfield,8v84l9nq3d5t0j4gb781i3llg,1lho2xunchnbi2hmavrmtjo5w
+2026-09-07,8.0,Unión 3-2 Instituto,Unión,Instituto,8v84l9nq3d5t0j4gb781i3llg,1e5qnxpaghbrejysv1oh7qb6c
+2026-09-07,8.0,Barracas Central 0-0 Argentinos Juniors,Barracas Central,Argentinos Juniors,8v84l9nq3d5t0j4gb781i3llg,1f4cx7p1weev197ig63bbbeok
+2026-09-06,8.0,Racing Club 1-2 Atlético Tucumán,Racing Club,Atlético Tucumán,8v84l9nq3d5t0j4gb781i3llg,1gmc6irvg57h19oysml4gr5sk
+2026-09-06,8.0,River Plate 3-1 Independiente Rivadavia,River Plate,Independiente Rivadavia,8v84l9nq3d5t0j4gb781i3llg,1g506h0yhby1st0x0qr3asmc4
+2026-09-06,8.0,Central Córdoba SdE 0-1 Independiente,Central Córdoba SdE,Independiente,8v84l9nq3d5t0j4gb781i3llg,1d5st2cvjubncm2kmbp9scrh0
+2026-09-06,8.0,Lanús 1-0 Defensa y Justicia,Lanús,Defensa y Justicia,8v84l9nq3d5t0j4gb781i3llg,1c7zeud0dzqv9ac6pdtiwl5as
+2026-09-06,8.0,Rosario Central 1-1 Newell's Old Boys,Rosario Central,Newell's Old Boys,8v84l9nq3d5t0j4gb781i3llg,1asjk837vd68k98isut4a3nys
+2026-09-05,8.0,Vélez Sarsfield 1-0 Estudiantes,Vélez Sarsfield,Estudiantes,8v84l9nq3d5t0j4gb781i3llg,1b9pa55lnpb6qfswgnjhk8xzo
+2026-09-05,8.0,San Lorenzo 1-0 Talleres de Córdoba,San Lorenzo,Talleres de Córdoba,8v84l9nq3d5t0j4gb781i3llg,1dolpv1n3u6txvhkoqgk1xh5g
+2026-09-05,8.0,Gimnasia Mendoza 2-2 Boca Juniors,Gimnasia Mendoza,Boca Juniors,8v84l9nq3d5t0j4gb781i3llg,1cozui22l093mgdx7d0il5bf8
+2026-09-05,8.0,Gimnasia La Plata 2-1 Tigre,Gimnasia La Plata,Tigre,8v84l9nq3d5t0j4gb781i3llg,1emvk3v8qkw5s90x0a0wq0lck
+2026-09-05,8.0,Aldosivi 3-1 Banfield,Aldosivi,Banfield,8v84l9nq3d5t0j4gb781i3llg,1fn764385gess3a60kmwbqntg
+2026-09-04,8.0,Belgrano 1-1 Huracán,Belgrano,Huracán,8v84l9nq3d5t0j4gb781i3llg,1h391qywl0td133h0yn04y5uc
+2026-09-04,8.0,Platense 1-1 Deportivo Riestra,Platense,Deportivo Riestra,8v84l9nq3d5t0j4gb781i3llg,1bqzhnive29b33pd9p9di1udw
+2026-09-04,8.0,Estudiantes Río Cuarto 0-2 Sarmiento,Estudiantes Río Cuarto,Sarmiento,8v84l9nq3d5t0j4gb781i3llg,1hkekjzqbxbqbxd46lc29m8lw
+2026-08-31,7.0,Tigre 0-0 Barracas Central,Tigre,Barracas Central,8v84l9nq3d5t0j4gb781i3llg,19u1qso1ivlwzyhwpg9iq4ob8
+2026-08-31,7.0,Instituto 1-0 San Lorenzo,Instituto,San Lorenzo,8v84l9nq3d5t0j4gb781i3llg,13xkmms6qac0p5qisx6c656hg
+2026-08-31,7.0,Estudiantes 0-0 Newell's Old Boys,Estudiantes,Newell's Old Boys,8v84l9nq3d5t0j4gb781i3llg,16v8xjqucli45ri2taat38opg
+2026-08-31,7.0,Defensa y Justicia 1-0 Platense,Defensa y Justicia,Platense,8v84l9nq3d5t0j4gb781i3llg,15trctlbvqxjk2rb8e1o3fdp0
+2026-08-30,7.0,Independiente Rivadavia 3-1 Racing Club,Independiente Rivadavia,Racing Club,8v84l9nq3d5t0j4gb781i3llg,18czpygovl02ydzcwnfujp638
+2026-08-30,7.0,Independiente 0-3 Gimnasia Mendoza,Independiente,Gimnasia Mendoza,8v84l9nq3d5t0j4gb781i3llg,14vmpoua5xnjs8v807hkpyb6c
+2026-08-30,7.0,Argentinos Juniors 2-1 Aldosivi,Argentinos Juniors,Aldosivi,8v84l9nq3d5t0j4gb781i3llg,19d1kd6reg0b7nm6ksblwiz2s
+2026-08-30,7.0,Banfield 2-3 River Plate,Banfield,River Plate,8v84l9nq3d5t0j4gb781i3llg,18vyhtnt9npmwyq982230frpw
+2026-08-29,7.0,Atlético Tucumán 0-0 Belgrano,Atlético Tucumán,Belgrano,8v84l9nq3d5t0j4gb781i3llg,17vhyipi5ldgnfh7je4omglck
+2026-08-29,7.0,Talleres de Córdoba 0-0 Central Córdoba SdE,Talleres de Córdoba,Central Córdoba SdE,8v84l9nq3d5t0j4gb781i3llg,14ej9zmuranavkmmtgutsqa6s
+2026-08-29,7.0,Huracán 1-1 Estudiantes Río Cuarto,Huracán,Estudiantes Río Cuarto,8v84l9nq3d5t0j4gb781i3llg,17e9gsxfsnjgmo7gnif0ljuhg
+2026-08-29,7.0,Rosario Central 1-2 Gimnasia La Plata,Rosario Central,Gimnasia La Plata,8v84l9nq3d5t0j4gb781i3llg,1ab0xdh5n1iw2veydcu63o45w
+2026-08-29,7.0,Deportivo Riestra 1-1 Vélez Sarsfield,Deportivo Riestra,Vélez Sarsfield,8v84l9nq3d5t0j4gb781i3llg,16bfw6cmercsmanf4zm4286qc
+2026-08-28,7.0,Boca Juniors 1-0 Lanús,Boca Juniors,Lanús,8v84l9nq3d5t0j4gb781i3llg,15cqz9fg4zw8cjyi41vfa6l1w
+2026-08-28,7.0,Unión 4-1 Sarmiento,Unión,Sarmiento,8v84l9nq3d5t0j4gb781i3llg,13eszdmic43dqzl87q3zzuexg
+2026-08-24,6.0,Lanús 1-1 Argentinos Juniors,Lanús,Argentinos Juniors,8v84l9nq3d5t0j4gb781i3llg,ybkeyr0cp2hqgauo9svbb8d0
+2026-08-24,6.0,Talleres de Córdoba 2-2 Rosario Central,Talleres de Córdoba,Rosario Central,8v84l9nq3d5t0j4gb781i3llg,wuboqv5brredlmhpkjwmo8b8
+2026-08-24,6.0,Tigre 2-1 Central Córdoba SdE,Tigre,Central Córdoba SdE,8v84l9nq3d5t0j4gb781i3llg,1200qsd025tsejumj9m92xvys
+2026-08-23,6.0,Racing Club 1-1 Boca Juniors,Racing Club,Boca Juniors,8v84l9nq3d5t0j4gb781i3llg,ywajnlnhpdmm9na1hnalwyz8
+2026-08-23,6.0,River Plate 2-2 Vélez Sarsfield,River Plate,Vélez Sarsfield,8v84l9nq3d5t0j4gb781i3llg,vpe8kqvrwihu7qb278641mvo
+2026-08-23,6.0,Belgrano 1-2 Defensa y Justicia,Belgrano,Defensa y Justicia,8v84l9nq3d5t0j4gb781i3llg,xtkpgvp8lk1m4jp5fxdaabdg
+2026-08-23,6.0,Sarmiento 2-0 Estudiantes,Sarmiento,Estudiantes,8v84l9nq3d5t0j4gb781i3llg,xc4eowu8ts9c85fxeesvuuqc
+2026-08-23,6.0,Barracas Central 1-2 Platense,Barracas Central,Platense,8v84l9nq3d5t0j4gb781i3llg,wc2p0o4jyldh86brjhkomjv8
+2026-08-22,6.0,Newell's Old Boys 2-1 Banfield,Newell's Old Boys,Banfield,8v84l9nq3d5t0j4gb781i3llg,12xr8ln4vlk246kd4dxbxhs7o
+2026-08-22,6.0,Huracán 0-0 Deportivo Riestra,Huracán,Deportivo Riestra,8v84l9nq3d5t0j4gb781i3llg,12gsdmebihr8kkwwnum74qjo4
+2026-08-22,6.0,Independiente 0-0 Independiente Rivadavia,Independiente,Independiente Rivadavia,8v84l9nq3d5t0j4gb781i3llg,zjuo2ck5514wxve43n7nc4r8
+2026-08-22,6.0,Gimnasia La Plata 2-3 Gimnasia Mendoza,Gimnasia La Plata,Gimnasia Mendoza,8v84l9nq3d5t0j4gb781i3llg,11j3ym9ip9dndt7rxv4diwhec
+2026-08-22,6.0,Atlético Tucumán 0-0 Instituto,Atlético Tucumán,Instituto,8v84l9nq3d5t0j4gb781i3llg,10jc1xg55bt1bwa51l56xc3kk
+2026-08-21,6.0,Estudiantes Río Cuarto 0-0 San Lorenzo,Estudiantes Río Cuarto,San Lorenzo,8v84l9nq3d5t0j4gb781i3llg,110idjvfpk7o6x8k9o0mzarro
+2026-08-21,6.0,Aldosivi 1-3 Unión,Aldosivi,Unión,8v84l9nq3d5t0j4gb781i3llg,101m1kbbtdy4poenfhy0yia6s
+2026-08-17,5.0,Gimnasia Mendoza 3-1 Talleres de Córdoba,Gimnasia Mendoza,Talleres de Córdoba,8v84l9nq3d5t0j4gb781i3llg,qn7vm2nz3r7zmu4rydgi9ogk
+2026-08-17,5.0,Vélez Sarsfield 1-1 Defensa y Justicia,Vélez Sarsfield,Defensa y Justicia,8v84l9nq3d5t0j4gb781i3llg,p7rivqtv2cg56qhj8mod16vo
+2026-08-17,5.0,Lanús 1-3 Independiente,Lanús,Independiente,8v84l9nq3d5t0j4gb781i3llg,q5yps3eh281p7amcw1w1c1zo
+2026-08-17,5.0,Estudiantes Río Cuarto 0-1 Atlético Tucumán,Estudiantes Río Cuarto,Atlético Tucumán,8v84l9nq3d5t0j4gb781i3llg,ujiawcyxgpioiio5y2c9rtas
+2026-08-16,5.0,Barracas Central 0-1 Rosario Central,Barracas Central,Rosario Central,8v84l9nq3d5t0j4gb781i3llg,s1xidp8lc690mfwm5fq7esd0
+2026-08-16,5.0,Central Córdoba SdE 0-1 Instituto,Central Córdoba SdE,Instituto,8v84l9nq3d5t0j4gb781i3llg,r42bqdo7aqmve7gt8obeiuqc
+2026-08-16,5.0,River Plate 2-0 Argentinos Juniors,River Plate,Argentinos Juniors,8v84l9nq3d5t0j4gb781i3llg,szvw18p2enqn1npk41of2o7o
+2026-08-16,5.0,Sarmiento 2-0 Huracán,Sarmiento,Huracán,8v84l9nq3d5t0j4gb781i3llg,v1she88d9ad2yefqcdzlk4r8
+2026-08-15,5.0,Platense 1-1 Boca Juniors,Platense,Boca Juniors,8v84l9nq3d5t0j4gb781i3llg,poy7b9emfvu39631217ywsgk
+2026-08-15,5.0,Belgrano 2-0 Independiente Rivadavia,Belgrano,Independiente Rivadavia,8v84l9nq3d5t0j4gb781i3llg,tzslo6bq0fm731m5rlwsucd0
+2026-08-15,5.0,Newell's Old Boys 2-0 Deportivo Riestra,Newell's Old Boys,Deportivo Riestra,8v84l9nq3d5t0j4gb781i3llg,oqmnrk5c247uxua8nuykgk5w
+2026-08-15,5.0,Estudiantes 4-0 Gimnasia La Plata,Estudiantes,Gimnasia La Plata,8v84l9nq3d5t0j4gb781i3llg,o7mocy7t1lp4wff8bj2evyfo
+2026-08-15,5.0,Aldosivi 0-0 Tigre,Aldosivi,Tigre,8v84l9nq3d5t0j4gb781i3llg,sitk882vkljartzdp4tf4kyc
+2026-08-15,5.0,San Lorenzo 1-0 Unión,San Lorenzo,Unión,8v84l9nq3d5t0j4gb781i3llg,rkqokg1l739a1gny0zgzzklw
+2026-08-14,5.0,Racing Club 0-1 Banfield,Racing Club,Banfield,8v84l9nq3d5t0j4gb781i3llg,tiouh8v1m5z2d9ioovsbtgyc
+2026-08-11,4.0,Talleres de Córdoba 0-3 Lanús,Talleres de Córdoba,Lanús,8v84l9nq3d5t0j4gb781i3llg,iez4m10cvexv5zm00erm5afo
+2026-08-10,4.0,Unión 1-2 Central Córdoba SdE,Unión,Central Córdoba SdE,8v84l9nq3d5t0j4gb781i3llg,hgkr9hsh04owncp799x2hn9w
+2026-08-10,4.0,Banfield 0-2 Belgrano,Banfield,Belgrano,8v84l9nq3d5t0j4gb781i3llg,lsposp6ytsxp7zoc6w0uitxw
+2026-08-09,4.0,Argentinos Juniors 2-1 Racing Club,Argentinos Juniors,Racing Club,8v84l9nq3d5t0j4gb781i3llg,m9le2vonbtj401zh8pzyk8ic
+2026-08-09,4.0,Gimnasia La Plata 2-0 Barracas Central,Gimnasia La Plata,Barracas Central,8v84l9nq3d5t0j4gb781i3llg,nqi1rsx774gdmy96ic6iu044
+2026-08-09,4.0,Defensa y Justicia 2-1 Newell's Old Boys,Defensa y Justicia,Newell's Old Boys,8v84l9nq3d5t0j4gb781i3llg,jvso72idqjlns31tlz7cbnys
+2026-08-09,4.0,San Lorenzo 0-2 Huracán,San Lorenzo,Huracán,8v84l9nq3d5t0j4gb781i3llg,gx8185edr48uyyvpyu0wmuxg
+2026-08-08,4.0,Independiente 0-1 Platense,Independiente,Platense,8v84l9nq3d5t0j4gb781i3llg,ivzyqcfp7aoo28rzqa0rufpw
+2026-08-08,4.0,Instituto 1-0 Gimnasia Mendoza,Instituto,Gimnasia Mendoza,8v84l9nq3d5t0j4gb781i3llg,hxtv10a5l7hmkcj1uwg2dpuc
+2026-08-08,4.0,Boca Juniors 1-1 Vélez Sarsfield,Boca Juniors,Vélez Sarsfield,8v84l9nq3d5t0j4gb781i3llg,jcw035q9no508slaykst16vo
+2026-08-08,4.0,Tigre 1-0 River Plate,Tigre,River Plate,8v84l9nq3d5t0j4gb781i3llg,mqjkn98j9rqimf8au66ckdn8
+2026-08-08,4.0,Atlético Tucumán 1-2 Sarmiento,Atlético Tucumán,Sarmiento,8v84l9nq3d5t0j4gb781i3llg,ku66rsfn2xobhr12bh3sohec
+2026-08-08,4.0,Deportivo Riestra 2-0 Estudiantes,Deportivo Riestra,Estudiantes,8v84l9nq3d5t0j4gb781i3llg,kd2n8qvzidj6cif62u0g7huc
+2026-08-07,4.0,Independiente Rivadavia 2-1 Estudiantes Río Cuarto,Independiente Rivadavia,Estudiantes Río Cuarto,8v84l9nq3d5t0j4gb781i3llg,lbi3f9yt4ny36utyo1oxdgk4
+2026-08-07,4.0,Rosario Central 2-1 Aldosivi,Rosario Central,Aldosivi,8v84l9nq3d5t0j4gb781i3llg,n9dtpmhj8niqzmgemjb6imtw
+2026-08-06,2.0,Unión 2-1 Lanús,Unión,Lanús,8v84l9nq3d5t0j4gb781i3llg,3aok44091w8ya6j751j66cd0
+2026-08-05,2.0,Tigre 0-0 Belgrano,Tigre,Belgrano,8v84l9nq3d5t0j4gb781i3llg,7mn0k517yhv9igrxj7j6c4yc
+2026-08-05,2.0,Boca Juniors 1-0 Estudiantes,Boca Juniors,Estudiantes,8v84l9nq3d5t0j4gb781i3llg,59xc29dhzcsbroo8ee0cgnbo
+2026-08-03,3.0,Huracán 0-0 Atlético Tucumán,Huracán,Atlético Tucumán,8v84l9nq3d5t0j4gb781i3llg,gg5oxmx03lx3cuc92l707oyc
+2026-08-03,3.0,Central Córdoba SdE 1-0 San Lorenzo,Central Córdoba SdE,San Lorenzo,8v84l9nq3d5t0j4gb781i3llg,d3eljf54pkkww9b2d2jqb28k
+2026-08-03,3.0,Platense 0-4 Talleres de Córdoba,Platense,Talleres de Córdoba,8v84l9nq3d5t0j4gb781i3llg,bh63wcndn3hlti89bapg1us4
+2026-08-03,3.0,Vélez Sarsfield 1-0 Independiente,Vélez Sarsfield,Independiente,8v84l9nq3d5t0j4gb781i3llg,b01o6pnqs4h0upu89jhjaj2s
+2026-08-03,3.0,Sarmiento 2-1 Independiente Rivadavia,Sarmiento,Independiente Rivadavia,8v84l9nq3d5t0j4gb781i3llg,fzbncxtaofxw38pz7vdhuzv8
+2026-08-02,3.0,Lanús 0-1 Instituto,Lanús,Instituto,8v84l9nq3d5t0j4gb781i3llg,c4uefqtc5bbg28600igzlm38
+2026-08-02,3.0,River Plate 0-1 Rosario Central,River Plate,Rosario Central,8v84l9nq3d5t0j4gb781i3llg,e1k3a0eq4uwhzzrb7g1djyfo
+2026-08-02,3.0,Newell's Old Boys 2-2 Boca Juniors,Newell's Old Boys,Boca Juniors,8v84l9nq3d5t0j4gb781i3llg,air1afqp5q9isbwn704ju7tg
+2026-08-02,3.0,Aldosivi 1-2 Gimnasia La Plata,Aldosivi,Gimnasia La Plata,8v84l9nq3d5t0j4gb781i3llg,dkev9qwmj1zvy23h78g4awb8
+2026-08-02,3.0,Deportivo Riestra 0-1 Barracas Central,Deportivo Riestra,Barracas Central,8v84l9nq3d5t0j4gb781i3llg,9j16lbogsailbux8sv4ngl5g
+2026-08-01,3.0,Racing Club 1-3 Tigre,Racing Club,Tigre,8v84l9nq3d5t0j4gb781i3llg,eieuw1g833plswlmtu9tlz4k
+2026-08-01,3.0,Belgrano 0-1 Argentinos Juniors,Belgrano,Argentinos Juniors,8v84l9nq3d5t0j4gb781i3llg,f199rxqfy5jx0mowq2cx57h0
+2026-08-01,3.0,Estudiantes 3-0 Defensa y Justicia,Estudiantes,Defensa y Justicia,8v84l9nq3d5t0j4gb781i3llg,a1y3cbsiadflqty332ueb28k
+2026-08-01,3.0,Estudiantes Río Cuarto 0-0 Banfield,Estudiantes Río Cuarto,Banfield,8v84l9nq3d5t0j4gb781i3llg,fi7h8qudzrhyt46d9edrfxg4
+2026-08-01,3.0,Gimnasia Mendoza 2-0 Unión,Gimnasia Mendoza,Unión,8v84l9nq3d5t0j4gb781i3llg,cm7k3zhbflrbr26431zmrod0
+2026-07-30,2.0,Independiente 1-0 Newell's Old Boys,Independiente,Newell's Old Boys,8v84l9nq3d5t0j4gb781i3llg,4pazz59qligapzknhd27gw7o
+2026-07-30,2.0,Central Córdoba SdE 0-2 Atlético Tucumán,Central Córdoba SdE,Atlético Tucumán,8v84l9nq3d5t0j4gb781i3llg,2d72tnmcw2ij48fj9ekr9mok
+2026-07-30,2.0,Independiente Rivadavia 2-1 Huracán,Independiente Rivadavia,Huracán,8v84l9nq3d5t0j4gb781i3llg,67uprxg2d40heu2a2nkx8t1w
+2026-07-30,2.0,Talleres de Córdoba 1-3 Vélez Sarsfield,Talleres de Córdoba,Vélez Sarsfield,8v84l9nq3d5t0j4gb781i3llg,48fpf6swo09lufwar4p50v10
+2026-07-29,2.0,Instituto 2-1 Platense,Instituto,Platense,8v84l9nq3d5t0j4gb781i3llg,3ruvzx9zku2kuwpjyrzijg2c
+2026-07-29,2.0,Gimnasia La Plata 1-0 River Plate,Gimnasia La Plata,River Plate,8v84l9nq3d5t0j4gb781i3llg,8kng3ywl7gvqdi1s0m7mbcic
+2026-07-29,2.0,Defensa y Justicia 2-1 Deportivo Riestra,Defensa y Justicia,Deportivo Riestra,8v84l9nq3d5t0j4gb781i3llg,5qxgl8yjvdv135abzgfijspg
+2026-07-29,2.0,Barracas Central 1-0 Aldosivi,Barracas Central,Aldosivi,8v84l9nq3d5t0j4gb781i3llg,91mxdwrebu9pfkg0ckj4cetw
+2026-07-28,2.0,Rosario Central 0-0 Racing Club,Rosario Central,Racing Club,8v84l9nq3d5t0j4gb781i3llg,83mhgmyuivln4hvy92d2xg5w
+2026-07-28,2.0,Argentinos Juniors 3-0 Estudiantes Río Cuarto,Argentinos Juniors,Estudiantes Río Cuarto,8v84l9nq3d5t0j4gb781i3llg,75njvbmjztnifvtqvozbpjis
+2026-07-28,2.0,Banfield 3-2 Sarmiento,Banfield,Sarmiento,8v84l9nq3d5t0j4gb781i3llg,6orqw7oqo4grl8tmjci7ocus
+2026-07-28,2.0,San Lorenzo 1-0 Gimnasia Mendoza,San Lorenzo,Gimnasia Mendoza,8v84l9nq3d5t0j4gb781i3llg,2tvojk99mcnibblmx710ivx0
+2026-07-26,1.0,Deportivo Riestra 3-0 Boca Juniors,Deportivo Riestra,Boca Juniors,8v84l9nq3d5t0j4gb781i3llg,f0e8l9xn4yd8q75fkzmcc0kyc
+2026-07-26,1.0,Estudiantes 0-2 Independiente,Estudiantes,Independiente,8v84l9nq3d5t0j4gb781i3llg,f0ymqljsj830aio22whsdc2s4
+2026-07-26,1.0,Atlético Tucumán 0-0 Independiente Rivadavia,Atlético Tucumán,Independiente Rivadavia,8v84l9nq3d5t0j4gb781i3llg,1wmcx4sar3cu1lx2joh1711w
+2026-07-25,1.0,Lanús 1-0 San Lorenzo,Lanús,San Lorenzo,8v84l9nq3d5t0j4gb781i3llg,f34nd8sxx1lkntz3ejtmgmjv8
+2026-07-25,1.0,River Plate 0-1 Barracas Central,River Plate,Barracas Central,8v84l9nq3d5t0j4gb781i3llg,f49k6cpa2whh0zrfde468xx5g
+2026-07-25,1.0,Newell's Old Boys 1-0 Talleres de Córdoba,Newell's Old Boys,Talleres de Córdoba,8v84l9nq3d5t0j4gb781i3llg,f1ioyduyxrjfetalskhng8b2s
+2026-07-25,1.0,Estudiantes Río Cuarto 1-0 Tigre,Estudiantes Río Cuarto,Tigre,8v84l9nq3d5t0j4gb781i3llg,aoijt24bol7ikfsn5njfhn8
+2026-07-24,1.0,Platense 2-2 Unión,Platense,Unión,8v84l9nq3d5t0j4gb781i3llg,f2l8w7cd0ageqiqyxq3xeqvx0
+2026-07-24,1.0,Huracán 1-0 Banfield,Huracán,Banfield,8v84l9nq3d5t0j4gb781i3llg,1demmn3fny6qncb7jev04mc4
+2026-07-24,1.0,Racing Club 2-1 Gimnasia La Plata,Racing Club,Gimnasia La Plata,8v84l9nq3d5t0j4gb781i3llg,f4srg7y3giniff00386mct5p0
+2026-07-24,1.0,Vélez Sarsfield 1-0 Instituto,Vélez Sarsfield,Instituto,8v84l9nq3d5t0j4gb781i3llg,f21zqpc9gh72dgqgn3zaa8mj8
+2026-07-24,1.0,Gimnasia Mendoza 1-0 Central Córdoba SdE,Gimnasia Mendoza,Central Córdoba SdE,8v84l9nq3d5t0j4gb781i3llg,f3nwb9bk8v8ok3nkzdtgu7uvo
+2026-07-23,1.0,Defensa y Justicia 1-1 Aldosivi,Defensa y Justicia,Aldosivi,8v84l9nq3d5t0j4gb781i3llg,ezrsezk1ztcdi1woocpjmbitw
+2026-07-23,1.0,Sarmiento 2-3 Argentinos Juniors,Sarmiento,Argentinos Juniors,8v84l9nq3d5t0j4gb781i3llg,tuywop25efihwphbft1maz8
+2026-07-23,1.0,Belgrano 2-1 Rosario Central,Belgrano,Rosario Central,8v84l9nq3d5t0j4gb781i3llg,f5btalud7zxd77reuhf6t0phw
+2026-05-24,,River Plate 2-3 Belgrano,River Plate,Belgrano,8v84l9nq3d5t0j4gb781i3llg,bp0ccrxqxu5redr643xbsa9ec
+2026-05-17,,Argentinos Juniors 1-1 Belgrano,Argentinos Juniors,Belgrano,8v84l9nq3d5t0j4gb781i3llg,43le2dg00w6p71wfi3m69a1as
+2026-05-16,,River Plate 1-0 Rosario Central,River Plate,Rosario Central,8v84l9nq3d5t0j4gb781i3llg,acqy4oi1vipn5nmwbkwczwetw
+2026-05-13,,River Plate 2-0 Gimnasia La Plata,River Plate,Gimnasia La Plata,8v84l9nq3d5t0j4gb781i3llg,7yn7n9qyiybhs069c08ijqec4
+2026-05-13,,Rosario Central 1-1 Racing Club,Rosario Central,Racing Club,8v84l9nq3d5t0j4gb781i3llg,8gsh7luxst8lgbko4eiwvxxck
+2026-05-12,,Argentinos Juniors 0-0 Huracán,Argentinos Juniors,Huracán,8v84l9nq3d5t0j4gb781i3llg,3hd0vxt3dysvof6wqye0d4iz8
+2026-05-12,,Belgrano 2-0 Unión,Belgrano,Unión,8v84l9nq3d5t0j4gb781i3llg,2qjgkxtazui0w6qxe3fadg5qs
+2026-05-10,,Vélez Sarsfield 0-1 Gimnasia La Plata,Vélez Sarsfield,Gimnasia La Plata,8v84l9nq3d5t0j4gb781i3llg,bklwcvcbrcr5eq4gs7qqw29sk
+2026-05-10,,River Plate 1-1 San Lorenzo,River Plate,San Lorenzo,8v84l9nq3d5t0j4gb781i3llg,bj2mtv5f0b2h14qflx6xdruvo
+2026-05-10,,Estudiantes 0-1 Racing Club,Estudiantes,Racing Club,8v84l9nq3d5t0j4gb781i3llg,bi1h62yqv2gd4uuulrb9exdsk
+2026-05-10,,Rosario Central 3-1 Independiente,Rosario Central,Independiente,8v84l9nq3d5t0j4gb781i3llg,bjl5i2eb3kyd043fgzpqdylg4
+2026-05-09,,Argentinos Juniors 2-0 Lanús,Argentinos Juniors,Lanús,8v84l9nq3d5t0j4gb781i3llg,bgxpwu2xbgue9v5iutmqtwnx0
+2026-05-09,,Independiente Rivadavia 1-2 Unión,Independiente Rivadavia,Unión,8v84l9nq3d5t0j4gb781i3llg,bik0v72r8nyrfavvy2uduxzx0
+2026-05-09,,Boca Juniors 1-1 Huracán,Boca Juniors,Huracán,8v84l9nq3d5t0j4gb781i3llg,bhj87yt1cpb4yscsqvxpfq044
+2026-05-09,,Talleres de Córdoba 0-1 Belgrano,Talleres de Córdoba,Belgrano,8v84l9nq3d5t0j4gb781i3llg,bk3if8v639uzzf45sgsjy934k
+2026-05-04,9.0,Estudiantes Río Cuarto 0-2 Instituto,Estudiantes Río Cuarto,Instituto,8v84l9nq3d5t0j4gb781i3llg,ex34jaedrxt04ddv3jbuoxqtw
+2026-05-04,9.0,Vélez Sarsfield 1-1 Newell's Old Boys,Vélez Sarsfield,Newell's Old Boys,8v84l9nq3d5t0j4gb781i3llg,f0mx6um9l5xbagg1pz7mv5m38
+2026-05-04,9.0,Gimnasia Mendoza 2-1 Defensa y Justicia,Gimnasia Mendoza,Defensa y Justicia,8v84l9nq3d5t0j4gb781i3llg,ez64hrkpyly7zugw00agdrpck
+2026-05-03,9.0,River Plate 0-1 Atlético Tucumán,River Plate,Atlético Tucumán,8v84l9nq3d5t0j4gb781i3llg,f26z7fthfhg669cy56h8r8kr8
+2026-05-03,9.0,Rosario Central 1-1 Tigre,Rosario Central,Tigre,8v84l9nq3d5t0j4gb781i3llg,f4su1lkwi1m0nd8dobyl28owk
+2026-05-03,9.0,Gimnasia La Plata 2-0 Argentinos Juniors,Gimnasia La Plata,Argentinos Juniors,8v84l9nq3d5t0j4gb781i3llg,f42dnr00784z4x6i1f67dnv2s
+2026-05-03,9.0,Racing Club 0-0 Huracán,Racing Club,Huracán,8v84l9nq3d5t0j4gb781i3llg,f1pp3raby21y22gi1mrp8omxg
+2026-05-03,9.0,Belgrano 4-0 Sarmiento,Belgrano,Sarmiento,8v84l9nq3d5t0j4gb781i3llg,f14j6ngk6lgh7149v698l3cb8
+2026-05-03,9.0,Aldosivi 1-1 Independiente Rivadavia,Aldosivi,Independiente Rivadavia,8v84l9nq3d5t0j4gb781i3llg,f2tym5xce30ct5apjctf1ow7o
+2026-05-02,9.0,Platense 0-2 Estudiantes,Platense,Estudiantes,8v84l9nq3d5t0j4gb781i3llg,f05ecvqysg1of3samh5196wb8
+2026-05-02,9.0,San Lorenzo 1-2 Independiente,San Lorenzo,Independiente,8v84l9nq3d5t0j4gb781i3llg,ey71xrame58jn7v4r29lwl990
+2026-05-02,9.0,Unión 1-1 Talleres de Córdoba,Unión,Talleres de Córdoba,8v84l9nq3d5t0j4gb781i3llg,exojomn9p6u6egct2r4755tlg
+2026-05-02,9.0,Central Córdoba SdE 1-2 Boca Juniors,Central Córdoba SdE,Boca Juniors,8v84l9nq3d5t0j4gb781i3llg,eyo9lvalvwz0aile0f5iuy5g4
+2026-05-02,9.0,Lanús 0-0 Deportivo Riestra,Lanús,Deportivo Riestra,8v84l9nq3d5t0j4gb781i3llg,eznc4iabscdy4ieftg5ktiu50
+2026-05-02,9.0,Barracas Central 1-2 Banfield,Barracas Central,Banfield,8v84l9nq3d5t0j4gb781i3llg,f3bqz6tt3qfzuu2yekwqfx9n8
+2026-04-27,16.0,Huracán 1-2 Argentinos Juniors,Huracán,Argentinos Juniors,8v84l9nq3d5t0j4gb781i3llg,1gj0bm17cq6fxjnsackg8bkt0
+2026-04-27,16.0,Vélez Sarsfield 2-2 Unión,Vélez Sarsfield,Unión,8v84l9nq3d5t0j4gb781i3llg,1d58lpo1tvpsove16gelbx1qs
+2026-04-26,16.0,Atlético Tucumán 1-1 Banfield,Atlético Tucumán,Banfield,8v84l9nq3d5t0j4gb781i3llg,1g1rnfw7f1njgy24w01c1zo5w
+2026-04-26,16.0,Belgrano 0-1 Gimnasia La Plata,Belgrano,Gimnasia La Plata,8v84l9nq3d5t0j4gb781i3llg,1i28wgsh9d8x3g4zikewg7huc
+2026-04-26,16.0,Newell's Old Boys 1-1 Instituto,Newell's Old Boys,Instituto,8v84l9nq3d5t0j4gb781i3llg,1dmml6qa22060olc9lx49fsb8
+2026-04-26,16.0,Independiente Rivadavia 5-1 Gimnasia Mendoza,Independiente Rivadavia,Gimnasia Mendoza,8v84l9nq3d5t0j4gb781i3llg,1boh80ih62woy2p7cfefsrztg
+2026-04-25,16.0,River Plate 3-1 Aldosivi,River Plate,Aldosivi,8v84l9nq3d5t0j4gb781i3llg,1j19wrtqwir4zthjgva64l4ic
+2026-04-25,16.0,Sarmiento 1-0 Tigre,Sarmiento,Tigre,8v84l9nq3d5t0j4gb781i3llg,1h08xch6tcv0qt7x2gddm855g
+2026-04-25,16.0,Estudiantes 0-0 Talleres de Córdoba,Estudiantes,Talleres de Córdoba,8v84l9nq3d5t0j4gb781i3llg,1e3vro6hhtvb7zk8ije7gdhjo
+2026-04-24,16.0,Racing Club 1-1 Barracas Central,Racing Club,Barracas Central,8v84l9nq3d5t0j4gb781i3llg,1ik0dryblnwoks1x1yj1cgpp0
+2026-04-24,16.0,Platense 0-1 San Lorenzo,Platense,San Lorenzo,8v84l9nq3d5t0j4gb781i3llg,1cnqdb8zoy8jlyozx0z82ijo4
+2026-04-24,16.0,Estudiantes Río Cuarto 1-2 Rosario Central,Estudiantes Río Cuarto,Rosario Central,8v84l9nq3d5t0j4gb781i3llg,1hkfgadd628u5mgzweqc1iq6s
+2026-04-24,16.0,Lanús 0-0 Central Córdoba SdE,Lanús,Central Córdoba SdE,8v84l9nq3d5t0j4gb781i3llg,1c61ejqbqtydbu5ml2bxxugwk
+2026-04-24,16.0,Deportivo Riestra 2-0 Independiente,Deportivo Riestra,Independiente,8v84l9nq3d5t0j4gb781i3llg,1enjdc49t07ih1eo2is27nnkk
+2026-04-23,16.0,Defensa y Justicia 0-4 Boca Juniors,Defensa y Justicia,Boca Juniors,8v84l9nq3d5t0j4gb781i3llg,1ffkamuzha54vfrocgjfz45xw
+2026-04-20,15.0,Tigre 1-1 Huracán,Tigre,Huracán,8v84l9nq3d5t0j4gb781i3llg,1a7fpxu41xgyysm0pognv3klw
+2026-04-20,15.0,Gimnasia Mendoza 1-0 Lanús,Gimnasia Mendoza,Lanús,8v84l9nq3d5t0j4gb781i3llg,174wt6xa9dl1nlkmap3wuz2ms
+2026-04-20,15.0,San Lorenzo 0-0 Vélez Sarsfield,San Lorenzo,Vélez Sarsfield,8v84l9nq3d5t0j4gb781i3llg,165b3x2enoy9p7b1a0g688aac
+2026-04-20,15.0,Banfield 0-0 Independiente Rivadavia,Banfield,Independiente Rivadavia,8v84l9nq3d5t0j4gb781i3llg,1b6wkimr6e0dsd1w7mcqbjlec
+2026-04-20,15.0,Central Córdoba SdE 4-3 Platense,Central Córdoba SdE,Platense,8v84l9nq3d5t0j4gb781i3llg,16ngrcptj365lvvdi1npmttsk
+2026-04-20,15.0,Barracas Central 0-0 Belgrano,Barracas Central,Belgrano,8v84l9nq3d5t0j4gb781i3llg,183smmum3yzp7pyrypp8z15p0
+2026-04-19,15.0,Talleres de Córdoba 2-0 Deportivo Riestra,Talleres de Córdoba,Deportivo Riestra,8v84l9nq3d5t0j4gb781i3llg,14k7eug22ku0b0ska1tmzzytw
+2026-04-19,15.0,Rosario Central 2-1 Sarmiento,Rosario Central,Sarmiento,8v84l9nq3d5t0j4gb781i3llg,19pn6k7apvlh9woi36np2dfkk
+2026-04-19,15.0,River Plate 0-1 Boca Juniors,River Plate,Boca Juniors,8v84l9nq3d5t0j4gb781i3llg,13j9fc1oziwylziqn979ql0yc
+2026-04-19,15.0,Aldosivi 1-1 Racing Club,Aldosivi,Racing Club,8v84l9nq3d5t0j4gb781i3llg,17mem70c14esjupagfl4im8es
+2026-04-18,15.0,Argentinos Juniors 1-0 Atlético Tucumán,Argentinos Juniors,Atlético Tucumán,8v84l9nq3d5t0j4gb781i3llg,1aph2noxyadwvaj1t84clc4d0
+2026-04-18,15.0,Independiente 3-1 Defensa y Justicia,Independiente,Defensa y Justicia,8v84l9nq3d5t0j4gb781i3llg,142o9d7of7vunqyyepgn02ihg
+2026-04-18,15.0,Instituto 0-1 Estudiantes,Instituto,Estudiantes,8v84l9nq3d5t0j4gb781i3llg,153bhotxsa51odffdbuiuxd04
+2026-04-18,15.0,Gimnasia La Plata 1-0 Estudiantes Río Cuarto,Gimnasia La Plata,Estudiantes Río Cuarto,8v84l9nq3d5t0j4gb781i3llg,18uv0c06kdi1csauryo4tl15g
+2026-04-17,15.0,Unión 2-3 Newell's Old Boys,Unión,Newell's Old Boys,8v84l9nq3d5t0j4gb781i3llg,15m1fgx78xtu8g48sgf27a1p0
+2026-04-13,14.0,Vélez Sarsfield 1-0 Central Córdoba SdE,Vélez Sarsfield,Central Córdoba SdE,8v84l9nq3d5t0j4gb781i3llg,x40l67pxq78t4h73uxtp1a1g
+2026-04-13,14.0,Lanús 1-0 Banfield,Lanús,Banfield,8v84l9nq3d5t0j4gb781i3llg,w3aybm7a6f1dsxju16cfl3x0
+2026-04-13,14.0,Defensa y Justicia 1-2 Talleres de Córdoba,Defensa y Justicia,Talleres de Córdoba,8v84l9nq3d5t0j4gb781i3llg,z5y129m9ozzc61g6w93il0yc
+2026-04-13,14.0,Sarmiento 1-2 Gimnasia La Plata,Sarmiento,Gimnasia La Plata,8v84l9nq3d5t0j4gb781i3llg,11kmyvj2bytu0tcj4jr79fpxw
+2026-04-12,14.0,Racing Club 0-2 River Plate,Racing Club,River Plate,8v84l9nq3d5t0j4gb781i3llg,131tmkpz5sbz7hha61dme153o
+2026-04-12,14.0,Huracán 3-1 Rosario Central,Huracán,Rosario Central,8v84l9nq3d5t0j4gb781i3llg,1139ip751fzdbn6zslz9pkutw
+2026-04-12,14.0,Atlético Tucumán 0-0 Tigre,Atlético Tucumán,Tigre,8v84l9nq3d5t0j4gb781i3llg,10lsajbj59dtktktj85c1saok
+2026-04-12,14.0,Newell's Old Boys 0-0 San Lorenzo,Newell's Old Boys,San Lorenzo,8v84l9nq3d5t0j4gb781i3llg,xnwgmwaa5exfh3yqfrtjxfys
+2026-04-12,14.0,Platense 1-1 Gimnasia Mendoza,Platense,Gimnasia Mendoza,8v84l9nq3d5t0j4gb781i3llg,wklpkaiectt4tbk89dq51a1g
+2026-04-11,14.0,Estudiantes Río Cuarto 1-2 Barracas Central,Estudiantes Río Cuarto,Barracas Central,8v84l9nq3d5t0j4gb781i3llg,122gl1nyx1hj1n7em16m1afis
+2026-04-11,14.0,Boca Juniors 1-1 Independiente,Boca Juniors,Independiente,8v84l9nq3d5t0j4gb781i3llg,zn6epvzu7rfy18o1pf4847bo
+2026-04-11,14.0,Estudiantes 2-1 Unión,Estudiantes,Unión,8v84l9nq3d5t0j4gb781i3llg,y50svi19r0ktjb9s3f5spo2c
+2026-04-11,14.0,Independiente Rivadavia 3-1 Argentinos Juniors,Independiente Rivadavia,Argentinos Juniors,8v84l9nq3d5t0j4gb781i3llg,104fpfonca6okdy40xbqu0ftg
+2026-04-11,14.0,Deportivo Riestra 0-1 Instituto,Deportivo Riestra,Instituto,8v84l9nq3d5t0j4gb781i3llg,ymb9dc5ha59je8cb7q558hzo
+2026-04-10,14.0,Belgrano 1-0 Aldosivi,Belgrano,Aldosivi,8v84l9nq3d5t0j4gb781i3llg,12k67ueamt0ycog97hj0p7vv8
+2026-04-06,13.0,Instituto 2-0 Defensa y Justicia,Instituto,Defensa y Justicia,8v84l9nq3d5t0j4gb781i3llg,pceu7zofsqbfq3lbo0rj9638
+2026-04-06,13.0,Argentinos Juniors 3-2 Banfield,Argentinos Juniors,Banfield,8v84l9nq3d5t0j4gb781i3llg,vlxopp5knpxyddg3fgcc6q6s
+2026-04-05,13.0,Central Córdoba SdE 1-3 Newell's Old Boys,Central Córdoba SdE,Newell's Old Boys,8v84l9nq3d5t0j4gb781i3llg,qso0x9qg0ap4yuekqe7sbnys
+2026-04-05,13.0,River Plate 3-0 Belgrano,River Plate,Belgrano,8v84l9nq3d5t0j4gb781i3llg,s8ndnhocrjfmkbrhqynsm784
+2026-04-05,13.0,Gimnasia La Plata 0-3 Huracán,Gimnasia La Plata,Huracán,8v84l9nq3d5t0j4gb781i3llg,u1mqc19m6abaqqvgzhurm51w
+2026-04-04,13.0,Rosario Central 2-1 Atlético Tucumán,Rosario Central,Atlético Tucumán,8v84l9nq3d5t0j4gb781i3llg,ulbjml2yph42nd05fkhejrx0
+2026-04-04,13.0,Independiente 1-0 Racing Club,Independiente,Racing Club,8v84l9nq3d5t0j4gb781i3llg,ob9fyoup769zmegskn8e3dp0
+2026-04-04,13.0,Aldosivi 0-0 Estudiantes Río Cuarto,Aldosivi,Estudiantes Río Cuarto,8v84l9nq3d5t0j4gb781i3llg,spu9wv8vvo61qff3s9sckopg
+2026-04-03,13.0,San Lorenzo 1-0 Estudiantes,San Lorenzo,Estudiantes,8v84l9nq3d5t0j4gb781i3llg,qbghb7ups986w5wc8v6tdp90
+2026-04-03,13.0,Unión 2-0 Deportivo Riestra,Unión,Deportivo Riestra,8v84l9nq3d5t0j4gb781i3llg,pu0a0plf72855fmf9l6n19n8
+2026-04-03,13.0,Gimnasia Mendoza 3-2 Vélez Sarsfield,Gimnasia Mendoza,Vélez Sarsfield,8v84l9nq3d5t0j4gb781i3llg,ra3ci91w7bj4z8tbprdqqwpg
+2026-04-02,13.0,Talleres de Córdoba 0-1 Boca Juniors,Talleres de Córdoba,Boca Juniors,8v84l9nq3d5t0j4gb781i3llg,ouqhmoqvictpwmqcyni8po2c
+2026-04-02,13.0,Tigre 0-2 Independiente Rivadavia,Tigre,Independiente Rivadavia,8v84l9nq3d5t0j4gb781i3llg,v2ljcst50nk37x04xwimpi50
+2026-04-02,13.0,Barracas Central 1-2 Sarmiento,Barracas Central,Sarmiento,8v84l9nq3d5t0j4gb781i3llg,t7waaa4ud8zv2h73dgrqkw7o
+2026-04-01,13.0,Lanús 0-0 Platense,Lanús,Platense,8v84l9nq3d5t0j4gb781i3llg,rrkmeuymz7gzvoz8mplikzdg
+2026-03-31,7.0,Aldosivi 0-2 Argentinos Juniors,Aldosivi,Argentinos Juniors,8v84l9nq3d5t0j4gb781i3llg,eo7g4wunxxxr8uv45q8p5x638
+2026-03-26,6.0,Argentinos Juniors 2-1 Lanús,Argentinos Juniors,Lanús,8v84l9nq3d5t0j4gb781i3llg,ebgpz9mcije2snv986n6587pw
+2026-03-25,12.0,Deportivo Riestra 1-1 San Lorenzo,Deportivo Riestra,San Lorenzo,8v84l9nq3d5t0j4gb781i3llg,i7ar1dkhvcwpxmkyks65ib6c
+2026-03-23,12.0,Huracán 0-0 Barracas Central,Huracán,Barracas Central,8v84l9nq3d5t0j4gb781i3llg,lyek7tyy6qk2xjs9vblucnx0
+2026-03-23,12.0,Estudiantes 5-0 Central Córdoba SdE,Estudiantes,Central Córdoba SdE,8v84l9nq3d5t0j4gb781i3llg,hdn9qtyn3ysjwbc3i2trantg
+2026-03-22,12.0,Independiente Rivadavia 2-0 Rosario Central,Independiente Rivadavia,Rosario Central,8v84l9nq3d5t0j4gb781i3llg,kz46eh8ds3sa9qy9javsrztg
+2026-03-22,12.0,Argentinos Juniors 1-0 Platense,Argentinos Juniors,Platense,8v84l9nq3d5t0j4gb781i3llg,f3h356ww9a5tv6wj3x8jw5ck
+2026-03-22,12.0,Boca Juniors 2-0 Instituto,Boca Juniors,Instituto,8v84l9nq3d5t0j4gb781i3llg,jilla8gv95eixw65ntsg5wyc
+2026-03-22,12.0,Estudiantes Río Cuarto 0-2 River Plate,Estudiantes Río Cuarto,River Plate,8v84l9nq3d5t0j4gb781i3llg,n4tevpw121f1pp2i69tnynf8
+2026-03-22,12.0,Sarmiento 2-0 Aldosivi,Sarmiento,Aldosivi,8v84l9nq3d5t0j4gb781i3llg,mger335tjpjoersvhsuhb1n8
+2026-03-21,12.0,Belgrano 1-2 Racing Club,Belgrano,Racing Club,8v84l9nq3d5t0j4gb781i3llg,ntw4qit79uob9cssz641sqhg
+2026-03-21,12.0,Independiente 1-2 Talleres de Córdoba,Independiente,Talleres de Córdoba,8v84l9nq3d5t0j4gb781i3llg,k02fn6c2tb49j9qx07bmvjf8
+2026-03-21,12.0,Defensa y Justicia 2-0 Unión,Defensa y Justicia,Unión,8v84l9nq3d5t0j4gb781i3llg,iw3ulfnndrfsnn8tu35z88wk
+2026-03-21,12.0,Newell's Old Boys 1-0 Gimnasia Mendoza,Newell's Old Boys,Gimnasia Mendoza,8v84l9nq3d5t0j4gb781i3llg,gln69rjbkfxo4hffzjteeolw
+2026-03-21,12.0,Vélez Sarsfield 0-1 Lanús,Vélez Sarsfield,Lanús,8v84l9nq3d5t0j4gb781i3llg,fq9d5mqwm4dnpcffvlpsz8k4
+2026-03-20,12.0,Atlético Tucumán 1-0 Gimnasia La Plata,Atlético Tucumán,Gimnasia La Plata,8v84l9nq3d5t0j4gb781i3llg,lgctzpgp9j81iels1gklreac
+2026-03-20,12.0,Banfield 1-0 Tigre,Banfield,Tigre,8v84l9nq3d5t0j4gb781i3llg,khh8bpzvrajautgrq6qxaiok
+2026-03-17,11.0,Gimnasia Mendoza 1-2 Estudiantes,Gimnasia Mendoza,Estudiantes,8v84l9nq3d5t0j4gb781i3llg,9z67k49ylaiq68dxzbhec4yc
+2026-03-17,11.0,Central Córdoba SdE 1-0 Deportivo Riestra,Central Córdoba SdE,Deportivo Riestra,8v84l9nq3d5t0j4gb781i3llg,9hrq0a3ars9cp9shngmme6fo
+2026-03-17,11.0,Lanús 5-0 Newell's Old Boys,Lanús,Newell's Old Boys,8v84l9nq3d5t0j4gb781i3llg,amgsu9udk5imzumauilau2hg
+2026-03-16,11.0,Instituto 2-1 Independiente,Instituto,Independiente,8v84l9nq3d5t0j4gb781i3llg,82dllyk2rqs8np66f500qa6s
+2026-03-16,11.0,Racing Club 2-0 Estudiantes Río Cuarto,Racing Club,Estudiantes Río Cuarto,8v84l9nq3d5t0j4gb781i3llg,bl02e2cisp65dj9sgxqynf2s
+2026-03-16,11.0,San Lorenzo 2-5 Defensa y Justicia,San Lorenzo,Defensa y Justicia,8v84l9nq3d5t0j4gb781i3llg,90mzcc2bmfcmo3qx9j2ksrh0
+2026-03-16,11.0,Barracas Central 2-1 Atlético Tucumán,Barracas Central,Atlético Tucumán,8v84l9nq3d5t0j4gb781i3llg,d3bktl2renv3h3hsvfz36plg
+2026-03-16,11.0,Aldosivi 0-0 Huracán,Aldosivi,Huracán,8v84l9nq3d5t0j4gb781i3llg,cjowrvlw4o2hrjhlswshe904
+2026-03-15,11.0,Tigre 1-1 Argentinos Juniors,Tigre,Argentinos Juniors,8v84l9nq3d5t0j4gb781i3llg,elsa8p1ure08yyji3lan6sr8
+2026-03-15,11.0,Unión 1-1 Boca Juniors,Unión,Boca Juniors,8v84l9nq3d5t0j4gb781i3llg,8jo7jgf9pugeo0xcd2rhaeqc
+2026-03-15,11.0,River Plate 2-0 Sarmiento,River Plate,Sarmiento,8v84l9nq3d5t0j4gb781i3llg,c27u4uyvs34yhfqeror4gg7o
+2026-03-15,11.0,Belgrano 0-0 Talleres de Córdoba,Belgrano,Talleres de Córdoba,8v84l9nq3d5t0j4gb781i3llg,7edjmth3lrzco04ftymwwk5w
+2026-03-15,11.0,Gimnasia La Plata 2-3 Independiente Rivadavia,Gimnasia La Plata,Independiente Rivadavia,8v84l9nq3d5t0j4gb781i3llg,dnb8r3idch1o6y9hjllofok4
+2026-03-14,11.0,Rosario Central 2-1 Banfield,Rosario Central,Banfield,8v84l9nq3d5t0j4gb781i3llg,e4r5phl3lzvdzhkq1gqrmbdg
+2026-03-14,11.0,Platense 0-2 Vélez Sarsfield,Platense,Vélez Sarsfield,8v84l9nq3d5t0j4gb781i3llg,b3okxnnt94az1mkhf3pxuzv8
+2026-03-13,10.0,Estudiantes 0-1 Lanús,Estudiantes,Lanús,8v84l9nq3d5t0j4gb781i3llg,tznpg0cvtmjssxmkq5rdzx0
+2026-03-12,10.0,Huracán 1-2 River Plate,Huracán,River Plate,8v84l9nq3d5t0j4gb781i3llg,5xyt823xxd14dl1nqe3v9t04
+2026-03-12,10.0,Estudiantes Río Cuarto 0-1 Belgrano,Estudiantes Río Cuarto,Belgrano,8v84l9nq3d5t0j4gb781i3llg,6wh1p0f1xebtrh34pze9q9zo
+2026-03-12,10.0,Talleres de Córdoba 2-0 Instituto,Talleres de Córdoba,Instituto,8v84l9nq3d5t0j4gb781i3llg,3jiv75xhqntkk1xjrhtxapsk
+2026-03-12,10.0,Defensa y Justicia 1-1 Central Córdoba SdE,Defensa y Justicia,Central Córdoba SdE,8v84l9nq3d5t0j4gb781i3llg,1s9j9f6e1slqjqhronw5j8d0
+2026-03-12,10.0,Deportivo Riestra 0-0 Gimnasia Mendoza,Deportivo Riestra,Gimnasia Mendoza,8v84l9nq3d5t0j4gb781i3llg,1b4969jf2bwiq691jmkv4owk
+2026-03-11,10.0,Atlético Tucumán 1-1 Aldosivi,Atlético Tucumán,Aldosivi,8v84l9nq3d5t0j4gb781i3llg,5gj7lucsff66cjkhuxh2gxzo
+2026-03-11,10.0,Independiente Rivadavia 1-2 Barracas Central,Independiente Rivadavia,Barracas Central,8v84l9nq3d5t0j4gb781i3llg,4zfmhejgancurz6zysmlbjtg
+2026-03-11,10.0,Boca Juniors 1-1 San Lorenzo,Boca Juniors,San Lorenzo,8v84l9nq3d5t0j4gb781i3llg,2cn6ds2ahmle25ehvtuha978
+2026-03-11,10.0,Banfield 1-2 Gimnasia La Plata,Banfield,Gimnasia La Plata,8v84l9nq3d5t0j4gb781i3llg,4i4s1q0g17j8ae78ljecglqs
+2026-03-11,10.0,Argentinos Juniors 0-0 Rosario Central,Argentinos Juniors,Rosario Central,8v84l9nq3d5t0j4gb781i3llg,40wqbtrncxmnf95trcc4tlhw
+2026-03-10,10.0,Newell's Old Boys 1-1 Platense,Newell's Old Boys,Platense,8v84l9nq3d5t0j4gb781i3llg,7cg0vx7rrq98bd07koevqj8
+2026-03-10,10.0,Sarmiento 0-0 Racing Club,Sarmiento,Racing Club,8v84l9nq3d5t0j4gb781i3llg,6f767khztze9hqj767l0n0gk
+2026-03-10,10.0,Tigre 1-1 Vélez Sarsfield,Tigre,Vélez Sarsfield,8v84l9nq3d5t0j4gb781i3llg,f5am0yvnp3ojmha93e80yr8k4
+2026-03-10,10.0,Independiente 4-4 Unión,Independiente,Unión,8v84l9nq3d5t0j4gb781i3llg,2why48w60s2xjhvniri8fhg4
+2026-03-04,7.0,Lanús 0-3 Boca Juniors,Lanús,Boca Juniors,8v84l9nq3d5t0j4gb781i3llg,eiqovo97fbg7jtay4b7dw1las
+2026-03-03,8.0,Atlético Tucumán 0-3 Racing Club,Atlético Tucumán,Racing Club,8v84l9nq3d5t0j4gb781i3llg,evmvdnba1s6i17ceuylgfmv4k
+2026-03-03,8.0,Huracán 3-1 Belgrano,Huracán,Belgrano,8v84l9nq3d5t0j4gb781i3llg,ew46l7e764pn5x1dhbtv1auj8
+2026-03-03,8.0,Sarmiento 1-0 Estudiantes Río Cuarto,Sarmiento,Estudiantes Río Cuarto,8v84l9nq3d5t0j4gb781i3llg,ewltnenm958893zbse7eari1g
+2026-03-02,8.0,Independiente Rivadavia 1-1 River Plate,Independiente Rivadavia,River Plate,8v84l9nq3d5t0j4gb781i3llg,ev5jcyb3o76tehsff1o8tq7mc
+2026-03-02,8.0,Banfield 2-0 Aldosivi,Banfield,Aldosivi,8v84l9nq3d5t0j4gb781i3llg,euo03gu5z2lhzyrbz5co0wv84
+2026-03-02,8.0,Deportivo Riestra 0-0 Platense,Deportivo Riestra,Platense,8v84l9nq3d5t0j4gb781i3llg,eqqdclkpz5h14bfn6gxq8cob8
+2026-03-02,8.0,Estudiantes 0-1 Vélez Sarsfield,Estudiantes,Vélez Sarsfield,8v84l9nq3d5t0j4gb781i3llg,eq8xa8szf8lh24qca5tupgj6c
+2026-03-01,8.0,Tigre 2-2 Gimnasia La Plata,Tigre,Gimnasia La Plata,8v84l9nq3d5t0j4gb781i3llg,etpay8k4qr3gts3jjidfebaxg
+2026-03-01,8.0,Defensa y Justicia 1-1 Lanús,Defensa y Justicia,Lanús,8v84l9nq3d5t0j4gb781i3llg,er7n8hqndkhvdsg6an72r7h90
+2026-03-01,8.0,Argentinos Juniors 1-1 Barracas Central,Argentinos Juniors,Barracas Central,8v84l9nq3d5t0j4gb781i3llg,eu6iik035cwacd2h2dn1lr0us
+2026-03-01,8.0,Instituto 1-2 Unión,Instituto,Unión,8v84l9nq3d5t0j4gb781i3llg,et6zbpiremkx8ndh0f5c5i39w
+2026-03-01,8.0,Newell's Old Boys 0-2 Rosario Central,Newell's Old Boys,Rosario Central,8v84l9nq3d5t0j4gb781i3llg,eprnf3qkww5ni6btr1ttnj76c
+2026-02-28,8.0,Talleres de Córdoba 0-0 San Lorenzo,Talleres de Córdoba,San Lorenzo,8v84l9nq3d5t0j4gb781i3llg,espitwa77x0rtjpbe2fw8ayok
+2026-02-28,8.0,Independiente 2-0 Central Córdoba SdE,Independiente,Central Córdoba SdE,8v84l9nq3d5t0j4gb781i3llg,es61gdjpn7slb0z5nedfsk07o
+2026-02-28,8.0,Boca Juniors 1-1 Gimnasia Mendoza,Boca Juniors,Gimnasia Mendoza,8v84l9nq3d5t0j4gb781i3llg,erova7ukp7dhha4nvbgh8wg7o
+2026-02-26,7.0,River Plate 3-1 Banfield,River Plate,Banfield,8v84l9nq3d5t0j4gb781i3llg,enf2rx1hgu2z40aggocmouo7o
+2026-02-26,7.0,Estudiantes Río Cuarto 2-0 Huracán,Estudiantes Río Cuarto,Huracán,8v84l9nq3d5t0j4gb781i3llg,ekw1ag8hogiqzafjxedn2ojdg
+2026-02-26,7.0,Racing Club 1-1 Independiente Rivadavia,Racing Club,Independiente Rivadavia,8v84l9nq3d5t0j4gb781i3llg,em4kfl51ojwcs9svl9nwf1mac
+2026-02-26,7.0,Sarmiento 1-3 Unión,Sarmiento,Unión,8v84l9nq3d5t0j4gb781i3llg,egnfqwfjb622g190f68fqf6s4
+2026-02-25,7.0,Newell's Old Boys 0-2 Estudiantes,Newell's Old Boys,Estudiantes,8v84l9nq3d5t0j4gb781i3llg,ek9af4qsj7c1en0vckwimaej8
+2026-02-25,7.0,Vélez Sarsfield 0-0 Deportivo Riestra,Vélez Sarsfield,Deportivo Riestra,8v84l9nq3d5t0j4gb781i3llg,ejs9mvfakosv2ceo93gd5q238
+2026-02-25,7.0,Gimnasia La Plata 1-2 Rosario Central,Gimnasia La Plata,Rosario Central,8v84l9nq3d5t0j4gb781i3llg,epafig9ug1gsan3mx98e8jp5g
+2026-02-25,7.0,Barracas Central 2-1 Tigre,Barracas Central,Tigre,8v84l9nq3d5t0j4gb781i3llg,eop0887kirjjomyrdvuznd0d0
+2026-02-24,7.0,Gimnasia Mendoza 1-1 Independiente,Gimnasia Mendoza,Independiente,8v84l9nq3d5t0j4gb781i3llg,ei9g21e1vexs1xld9yps7ekgk
+2026-02-24,7.0,Belgrano 3-1 Atlético Tucumán,Belgrano,Atlético Tucumán,8v84l9nq3d5t0j4gb781i3llg,eliit9ojfv3em38a05ran5kic
+2026-02-24,7.0,Central Córdoba SdE 2-0 Talleres de Córdoba,Central Córdoba SdE,Talleres de Córdoba,8v84l9nq3d5t0j4gb781i3llg,ehntcid9s8ox208zlsh5hcduc
+2026-02-24,7.0,San Lorenzo 1-1 Instituto,San Lorenzo,Instituto,8v84l9nq3d5t0j4gb781i3llg,eh6j4e8ibu8hxh8q9k4h1z4es
+2026-02-24,7.0,Platense 0-0 Defensa y Justicia,Platense,Defensa y Justicia,8v84l9nq3d5t0j4gb781i3llg,ej801djvot8hqjwe0a312mql0
+2026-02-22,6.0,Unión 1-0 Aldosivi,Unión,Aldosivi,8v84l9nq3d5t0j4gb781i3llg,ecyf4u7yhqomftaua48720qvo
+2026-02-22,6.0,Vélez Sarsfield 1-0 River Plate,Vélez Sarsfield,River Plate,8v84l9nq3d5t0j4gb781i3llg,e8yqwo5mc72wlssmvpjna4nis
+2026-02-22,6.0,San Lorenzo 2-0 Estudiantes Río Cuarto,San Lorenzo,Estudiantes Río Cuarto,8v84l9nq3d5t0j4gb781i3llg,ee4hoxtew6a5qd39gjd419uz8
+2026-02-21,6.0,Central Córdoba SdE 0-0 Tigre,Central Córdoba SdE,Tigre,8v84l9nq3d5t0j4gb781i3llg,ef3ctkktz7fphk04mnqn0x8no
+2026-02-21,6.0,Banfield 3-0 Newell's Old Boys,Banfield,Newell's Old Boys,8v84l9nq3d5t0j4gb781i3llg,eg65fi3c29iyomy1a9usktono
+2026-02-21,6.0,Deportivo Riestra 0-0 Huracán,Deportivo Riestra,Huracán,8v84l9nq3d5t0j4gb781i3llg,efom1pprzb51njp062bl0e8es
+2026-02-21,6.0,Independiente Rivadavia 3-2 Independiente,Independiente Rivadavia,Independiente,8v84l9nq3d5t0j4gb781i3llg,ech8jiidq14nltyhpwwdsqgic
+2026-02-21,6.0,Platense 1-0 Barracas Central,Platense,Barracas Central,8v84l9nq3d5t0j4gb781i3llg,e9i3jall1sr2mtzuzyj2kjzf8
+2026-02-20,6.0,Gimnasia Mendoza 0-1 Gimnasia La Plata,Gimnasia Mendoza,Gimnasia La Plata,8v84l9nq3d5t0j4gb781i3llg,eem3jb7n15g1pew94qu9x89as
+2026-02-20,6.0,Rosario Central 0-1 Talleres de Córdoba,Rosario Central,Talleres de Córdoba,8v84l9nq3d5t0j4gb781i3llg,e9zkqfzovm8ewl89jj8oh0n4k
+2026-02-20,6.0,Instituto 2-1 Atlético Tucumán,Instituto,Atlético Tucumán,8v84l9nq3d5t0j4gb781i3llg,edm701v33siuv2texp92267mc
+2026-02-20,6.0,Boca Juniors 0-0 Racing Club,Boca Juniors,Racing Club,8v84l9nq3d5t0j4gb781i3llg,ec054y22wzasiqwnhoos7xmac
+2026-02-20,6.0,Estudiantes 1-0 Sarmiento,Estudiantes,Sarmiento,8v84l9nq3d5t0j4gb781i3llg,eagyktroo4iwskcxeaw7ho0lw
+2026-02-20,6.0,Defensa y Justicia 1-1 Belgrano,Defensa y Justicia,Belgrano,8v84l9nq3d5t0j4gb781i3llg,eay7br4hirgeub6c5znxjdc7o
+2026-02-16,5.0,Deportivo Riestra 1-1 Newell's Old Boys,Deportivo Riestra,Newell's Old Boys,8v84l9nq3d5t0j4gb781i3llg,e22trxz7mmz1k3euadvom0iz8
+2026-02-15,5.0,Rosario Central 2-0 Barracas Central,Rosario Central,Barracas Central,8v84l9nq3d5t0j4gb781i3llg,e5ida36mdg3lz60a74h929e6s
+2026-02-15,5.0,Instituto 2-0 Central Córdoba SdE,Instituto,Central Córdoba SdE,8v84l9nq3d5t0j4gb781i3llg,e4jouf60srfpbffsufz51007o
+2026-02-15,5.0,Boca Juniors 0-0 Platense,Boca Juniors,Platense,8v84l9nq3d5t0j4gb781i3llg,e31wayu7rjl20sc2mp3wq4w7o
+2026-02-15,5.0,Gimnasia La Plata 0-0 Estudiantes,Gimnasia La Plata,Estudiantes,8v84l9nq3d5t0j4gb781i3llg,e1i1hto3okrxgo9dewh8mkpw4
+2026-02-14,5.0,Atlético Tucumán 4-0 Estudiantes Río Cuarto,Atlético Tucumán,Estudiantes Río Cuarto,8v84l9nq3d5t0j4gb781i3llg,e807j0xc8rugkrsre06smly50
+2026-02-14,5.0,Independiente Rivadavia 0-1 Belgrano,Independiente Rivadavia,Belgrano,8v84l9nq3d5t0j4gb781i3llg,e7ig8ixb2w24kumo36skn1r10
+2026-02-14,5.0,Huracán 1-0 Sarmiento,Huracán,Sarmiento,8v84l9nq3d5t0j4gb781i3llg,e8hhxpont51yhnxwhenqshno4
+2026-02-14,5.0,Talleres de Córdoba 2-1 Gimnasia Mendoza,Talleres de Córdoba,Gimnasia Mendoza,8v84l9nq3d5t0j4gb781i3llg,e41c4s3rrpkogjm4p9m6q45ck
+2026-02-14,5.0,Banfield 0-2 Racing Club,Banfield,Racing Club,8v84l9nq3d5t0j4gb781i3llg,e70y2g5beqyqbdpmd4uwv19n8
+2026-02-13,5.0,Unión 0-0 San Lorenzo,Unión,San Lorenzo,8v84l9nq3d5t0j4gb781i3llg,e512caisq6qvzo3qj8cmggo44
+2026-02-13,5.0,Defensa y Justicia 1-1 Vélez Sarsfield,Defensa y Justicia,Vélez Sarsfield,8v84l9nq3d5t0j4gb781i3llg,e2kpsi6pe3ag37xkcv6ud7dp0
+2026-02-13,5.0,Independiente 2-0 Lanús,Independiente,Lanús,8v84l9nq3d5t0j4gb781i3llg,e3j87mjfgjx1b3zbovqu4vu38
+2026-02-12,5.0,Argentinos Juniors 1-0 River Plate,Argentinos Juniors,River Plate,8v84l9nq3d5t0j4gb781i3llg,e6hg9y0ic5anu18iv8e6dch04
+2026-02-12,5.0,Tigre 1-0 Aldosivi,Tigre,Aldosivi,8v84l9nq3d5t0j4gb781i3llg,e5zv5t7dwdppct40r6t0wy6ms
+2026-02-09,4.0,Estudiantes Río Cuarto 0-1 Independiente Rivadavia,Estudiantes Río Cuarto,Independiente Rivadavia,8v84l9nq3d5t0j4gb781i3llg,dyljmge6f2n3hgqw53ma0h72s
+2026-02-09,4.0,Estudiantes 1-0 Deportivo Riestra,Estudiantes,Deportivo Riestra,8v84l9nq3d5t0j4gb781i3llg,dxmpotmkjif0erc4wx1dap2c4
+2026-02-09,4.0,Lanús 1-1 Talleres de Córdoba,Lanús,Talleres de Córdoba,8v84l9nq3d5t0j4gb781i3llg,dvk1vvl9v80bxxxtgaohbw9as
+2026-02-09,4.0,Barracas Central 2-0 Gimnasia La Plata,Barracas Central,Gimnasia La Plata,8v84l9nq3d5t0j4gb781i3llg,e10meiz8k4s0rz4l9g0x4fm6s
+2026-02-08,4.0,Vélez Sarsfield 2-1 Boca Juniors,Vélez Sarsfield,Boca Juniors,8v84l9nq3d5t0j4gb781i3llg,dwivib38a4ir5aa2c2cq6jspg
+2026-02-08,4.0,Gimnasia Mendoza 1-0 Instituto,Gimnasia Mendoza,Instituto,8v84l9nq3d5t0j4gb781i3llg,dv2mtmvohvclcoyy5hsvjgt1w
+2026-02-08,4.0,Huracán 1-0 San Lorenzo,Huracán,San Lorenzo,8v84l9nq3d5t0j4gb781i3llg,du2yum8cndttivlhmk8sw5wyc
+2026-02-08,4.0,Sarmiento 2-1 Atlético Tucumán,Sarmiento,Atlético Tucumán,8v84l9nq3d5t0j4gb781i3llg,dy45x8gldrkz8u69gqlu9cr9w
+2026-02-08,4.0,Platense 0-1 Independiente,Platense,Independiente,8v84l9nq3d5t0j4gb781i3llg,dw1h7o94a0qokhse1cdxca7tg
+2026-02-07,4.0,Belgrano 1-0 Banfield,Belgrano,Banfield,8v84l9nq3d5t0j4gb781i3llg,dz2xirq9wxio1jzwu4h02wxzo
+2026-02-07,4.0,Newell's Old Boys 2-3 Defensa y Justicia,Newell's Old Boys,Defensa y Justicia,8v84l9nq3d5t0j4gb781i3llg,dx4g7rjfp60enm790xtop3o5w
+2026-02-07,4.0,River Plate 1-4 Tigre,River Plate,Tigre,8v84l9nq3d5t0j4gb781i3llg,e01lyquavljflunqm8cun0h78
+2026-02-07,4.0,Racing Club 2-1 Argentinos Juniors,Racing Club,Argentinos Juniors,8v84l9nq3d5t0j4gb781i3llg,dzkcnm3yi8wkro4vajwchaql0
+2026-02-07,4.0,Aldosivi 1-1 Rosario Central,Aldosivi,Rosario Central,8v84l9nq3d5t0j4gb781i3llg,e0j63vpd5i9tvum7lrxuv7das
+2026-02-06,4.0,Central Córdoba SdE 1-0 Unión,Central Córdoba SdE,Unión,8v84l9nq3d5t0j4gb781i3llg,dulhbuk1cak51jmiviahg6lg4
+2026-02-03,3.0,Independiente Rivadavia 2-1 Sarmiento,Independiente Rivadavia,Sarmiento,8v84l9nq3d5t0j4gb781i3llg,dt3zygke1nyh2vd064vvku238
+2026-02-03,3.0,Instituto 2-2 Lanús,Instituto,Lanús,8v84l9nq3d5t0j4gb781i3llg,dnw1cc5iqgilbktkkx3mq89w4
+2026-02-03,3.0,Banfield 2-1 Estudiantes Río Cuarto,Banfield,Estudiantes Río Cuarto,8v84l9nq3d5t0j4gb781i3llg,dsjrymrzy7svz7gz189d0npqs
+2026-02-02,3.0,Argentinos Juniors 0-0 Belgrano,Argentinos Juniors,Belgrano,8v84l9nq3d5t0j4gb781i3llg,ds2crt4rfv08fyw2fv43c1tzo
+2026-02-02,3.0,Unión 4-0 Gimnasia Mendoza,Unión,Gimnasia Mendoza,8v84l9nq3d5t0j4gb781i3llg,dp2tpl0wak65mrr1ooufpg8wk
+2026-02-02,3.0,Tigre 3-1 Racing Club,Tigre,Racing Club,8v84l9nq3d5t0j4gb781i3llg,drjbhd820swjp22d3upapg9p0
+2026-02-02,3.0,Defensa y Justicia 0-0 Estudiantes,Defensa y Justicia,Estudiantes,8v84l9nq3d5t0j4gb781i3llg,dkzp2nu52f8s75yr4x80gz28k
+2026-02-02,3.0,Gimnasia La Plata 3-1 Aldosivi,Gimnasia La Plata,Aldosivi,8v84l9nq3d5t0j4gb781i3llg,dqkps7maq52vm0ytt12gt436c
+2026-02-01,3.0,Rosario Central 0-0 River Plate,Rosario Central,River Plate,8v84l9nq3d5t0j4gb781i3llg,dr1x1rsp66e727dx54b03ijh0
+2026-02-01,3.0,Boca Juniors 2-0 Newell's Old Boys,Boca Juniors,Newell's Old Boys,8v84l9nq3d5t0j4gb781i3llg,dlmqmb1vjetzjt8y3jivfkil0
+2026-02-01,3.0,Barracas Central 1-1 Deportivo Riestra,Barracas Central,Deportivo Riestra,8v84l9nq3d5t0j4gb781i3llg,dk9qxebcksmfe2n7ishqx38d0
+2026-01-31,3.0,Atlético Tucumán 1-1 Huracán,Atlético Tucumán,Huracán,8v84l9nq3d5t0j4gb781i3llg,dtlmueaoep2ua99f5givmmeqc
+2026-01-31,3.0,Talleres de Córdoba 1-2 Platense,Talleres de Córdoba,Platense,8v84l9nq3d5t0j4gb781i3llg,dn7w4jo36v6oo5sl8v5phqp04
+2026-01-31,3.0,Independiente 1-1 Vélez Sarsfield,Independiente,Vélez Sarsfield,8v84l9nq3d5t0j4gb781i3llg,dmb4es8mnysh0phz9cditwkr8
+2026-01-31,3.0,San Lorenzo 1-0 Central Córdoba SdE,San Lorenzo,Central Córdoba SdE,8v84l9nq3d5t0j4gb781i3llg,dq0eoi2247nyp4t0y6v60wzys
+2026-01-29,2.0,Estudiantes Río Cuarto 0-0 Argentinos Juniors,Estudiantes Río Cuarto,Argentinos Juniors,8v84l9nq3d5t0j4gb781i3llg,dh6866pcy77lstu20o5hmm3o4
+2026-01-29,2.0,Sarmiento 1-0 Banfield,Sarmiento,Banfield,8v84l9nq3d5t0j4gb781i3llg,dgouhwws6omwcdp99xjmk7yfo
+2026-01-29,2.0,Belgrano 1-1 Tigre,Belgrano,Tigre,8v84l9nq3d5t0j4gb781i3llg,dhsl3jqbcvsxwx1z9o58furkk
+2026-01-29,2.0,Lanús 2-1 Unión,Lanús,Unión,8v84l9nq3d5t0j4gb781i3llg,dd7wwfxvqntu6n38pktka2m1g
+2026-01-29,2.0,Deportivo Riestra 0-1 Defensa y Justicia,Deportivo Riestra,Defensa y Justicia,8v84l9nq3d5t0j4gb781i3llg,dfq7qfnr8xo0svctx3far2dxw
+2026-01-28,2.0,Estudiantes 2-1 Boca Juniors,Estudiantes,Boca Juniors,8v84l9nq3d5t0j4gb781i3llg,df93yd5gma5h3hmagf2oxysk4
+2026-01-28,2.0,River Plate 2-0 Gimnasia La Plata,River Plate,Gimnasia La Plata,8v84l9nq3d5t0j4gb781i3llg,dj0x3yjhct95vlk64gn46qot0
+2026-01-28,2.0,Racing Club 1-2 Rosario Central,Racing Club,Rosario Central,8v84l9nq3d5t0j4gb781i3llg,dickdk1dqz444vv67ljmyxij8
+2026-01-28,2.0,Aldosivi 0-0 Barracas Central,Aldosivi,Barracas Central,8v84l9nq3d5t0j4gb781i3llg,djrhcvenm5g5yngot98ixkpas
+2026-01-27,2.0,Newell's Old Boys 1-1 Independiente,Newell's Old Boys,Independiente,8v84l9nq3d5t0j4gb781i3llg,deq853egxaszfn8pa00zkkr2s
+2026-01-27,2.0,Atlético Tucumán 0-0 Central Córdoba SdE,Atlético Tucumán,Central Córdoba SdE,8v84l9nq3d5t0j4gb781i3llg,dc4cghrwq1inmsnh9kjstbtas
+2026-01-27,2.0,Huracán 1-2 Independiente Rivadavia,Huracán,Independiente Rivadavia,8v84l9nq3d5t0j4gb781i3llg,dg7qosukuuzlksvpa9qzlin10
+2026-01-27,2.0,Gimnasia Mendoza 0-1 San Lorenzo,Gimnasia Mendoza,San Lorenzo,8v84l9nq3d5t0j4gb781i3llg,dcno24sktsbt4up9yjqtb9p1w
+2026-01-27,2.0,Vélez Sarsfield 2-1 Talleres de Córdoba,Vélez Sarsfield,Talleres de Córdoba,8v84l9nq3d5t0j4gb781i3llg,de99bwlemh4854qtrocv4aqs4
+2026-01-26,2.0,Platense 2-1 Instituto,Platense,Instituto,8v84l9nq3d5t0j4gb781i3llg,ddoqliut5vtmq1uhaygd1ehp0
+2026-01-25,1.0,Argentinos Juniors 1-0 Sarmiento,Argentinos Juniors,Sarmiento,8v84l9nq3d5t0j4gb781i3llg,da5gw16lyzjx1ml3oe9dyi9ec
+2026-01-25,1.0,Tigre 2-0 Estudiantes Río Cuarto,Tigre,Estudiantes Río Cuarto,8v84l9nq3d5t0j4gb781i3llg,d9fu4fjeg798v6pbdad0w3a50
+2026-01-25,1.0,Boca Juniors 1-0 Deportivo Riestra,Boca Juniors,Deportivo Riestra,8v84l9nq3d5t0j4gb781i3llg,d30dqlphl2e7vktuefdb5iadw
+2026-01-24,1.0,Rosario Central 1-2 Belgrano,Rosario Central,Belgrano,8v84l9nq3d5t0j4gb781i3llg,d8smteyfsx3yzx7dass20dono
+2026-01-24,1.0,Gimnasia La Plata 2-1 Racing Club,Gimnasia La Plata,Racing Club,8v84l9nq3d5t0j4gb781i3llg,d83j2kijhvtzorurew10k06qc
+2026-01-24,1.0,Barracas Central 0-1 River Plate,Barracas Central,River Plate,8v84l9nq3d5t0j4gb781i3llg,d78b9ehte2n5uyo523gl0n9xw
+2026-01-23,1.0,Independiente Rivadavia 2-1 Atlético Tucumán,Independiente Rivadavia,Atlético Tucumán,8v84l9nq3d5t0j4gb781i3llg,dbnd2buqfjqeag7s4oqjxy0wk
+2026-01-23,1.0,Talleres de Córdoba 2-1 Newell's Old Boys,Talleres de Córdoba,Newell's Old Boys,8v84l9nq3d5t0j4gb781i3llg,d45kvb848yzs6gksr0v9svjtg
+2026-01-23,1.0,Independiente 1-1 Estudiantes,Independiente,Estudiantes,8v84l9nq3d5t0j4gb781i3llg,d3lffmh689fggfe3f77d4yr6c
+2026-01-23,1.0,San Lorenzo 2-3 Lanús,San Lorenzo,Lanús,8v84l9nq3d5t0j4gb781i3llg,d5wqt2zz0icvixajl7amry61g
+2026-01-22,1.0,Central Córdoba SdE 0-1 Gimnasia Mendoza,Central Córdoba SdE,Gimnasia Mendoza,8v84l9nq3d5t0j4gb781i3llg,d6kqsaa7hu3y9w5hgy1d68kyc
+2026-01-22,1.0,Instituto 0-1 Vélez Sarsfield,Instituto,Vélez Sarsfield,8v84l9nq3d5t0j4gb781i3llg,d4pd8cixk54pb362w8jg1uhp0
+2026-01-22,1.0,Banfield 1-1 Huracán,Banfield,Huracán,8v84l9nq3d5t0j4gb781i3llg,db29jtzrc13v2vj0j4iglpjx0
+2026-01-22,1.0,Unión 0-0 Platense,Unión,Platense,8v84l9nq3d5t0j4gb781i3llg,d5a5puwmatapla0dw518bbtp0
+2026-01-22,1.0,Aldosivi 0-0 Defensa y Justicia,Aldosivi,Defensa y Justicia,8v84l9nq3d5t0j4gb781i3llg,d295wy4vdmqzpssonsd9axkwk

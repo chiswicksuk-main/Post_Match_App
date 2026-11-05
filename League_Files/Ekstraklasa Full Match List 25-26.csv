@@ -1,4 +1,93 @@
 ﻿Date,Round,Match,Home,Away,CompetitionID,MatchID
+2026-05-23,34,Widzew Łódź 2-1 Piast Gliwice,Widzew Łódź,Piast Gliwice,3ghh5adz62ws55se0snozmej8,dz4s6laczs1lco3wcgekdi4us
+2026-05-23,34,Jagiellonia Białystok 1-0 Zagłębie Lubin,Jagiellonia Białystok,Zagłębie Lubin,3ghh5adz62ws55se0snozmej8,dyr0v0eb25hza62dga2m59pg4
+2026-05-23,34,Raków Częstochowa 3-0 Arka Gdynia,Raków Częstochowa,Arka Gdynia,3ghh5adz62ws55se0snozmej8,dydbym64vpf21v2uv0c4bon4k
+2026-05-23,34,Lech Poznań 2-2 Wisła Płock,Lech Poznań,Wisła Płock,3ghh5adz62ws55se0snozmej8,dxzjydnvviarmplponh88gkyc
+2026-05-23,34,Cracovia 1-1 Korona Kielce,Cracovia,Korona Kielce,3ghh5adz62ws55se0snozmej8,dxlptu8m4vv6awytspf4irod0
+2026-05-23,34,Pogoń Szczecin 1-1 GKS Katowice,Pogoń Szczecin,GKS Katowice,3ghh5adz62ws55se0snozmej8,dx806igmmrne1j3aok6pl8ob8
+2026-05-23,34,Górnik Zabrze 6-2 Radomiak Radom,Górnik Zabrze,Radomiak Radom,3ghh5adz62ws55se0snozmej8,dwu9bbbohvuy1manspljbto2c
+2026-05-23,34,Legia Warszawa 4-0 Motor Lublin,Legia Warszawa,Motor Lublin,3ghh5adz62ws55se0snozmej8,dwgkiek40mct1gz4ii3lqbms4
+2026-05-23,34,Nieciecza 3-2 Lechia Gdańsk,Nieciecza,Lechia Gdańsk,3ghh5adz62ws55se0snozmej8,dw2x8o1ql4e1futu3lyw2rl78
+2026-05-18,33,Arka Gdynia 2-3 Nieciecza,Arka Gdynia,Nieciecza,3ghh5adz62ws55se0snozmej8,dsec17g6nlnoddjyy31lq5u6s
+2026-05-17,33,Lechia Gdańsk 1-2 Legia Warszawa,Lechia Gdańsk,Legia Warszawa,3ghh5adz62ws55se0snozmej8,dt7w3aoo000miapyi3yog4v10
+2026-05-17,33,GKS Katowice 2-2 Jagiellonia Białystok,GKS Katowice,Jagiellonia Białystok,3ghh5adz62ws55se0snozmej8,dvbe2tati9d7g2st3876q77ys
+2026-05-17,33,Piast Gliwice 1-3 Raków Częstochowa,Piast Gliwice,Raków Częstochowa,3ghh5adz62ws55se0snozmej8,dvp8ezbx3xw1noqhkzy9w4844
+2026-05-16,33,Radomiak Radom 1-3 Lech Poznań,Radomiak Radom,Lech Poznań,3ghh5adz62ws55se0snozmej8,dujuronjnxniz1y7tkjwt2lg4
+2026-05-16,33,Wisła Płock 0-1 Górnik Zabrze,Wisła Płock,Górnik Zabrze,3ghh5adz62ws55se0snozmej8,dstna6jy42td41n3cqdcs8npw
+2026-05-16,33,Motor Lublin 3-3 Cracovia,Motor Lublin,Cracovia,3ghh5adz62ws55se0snozmej8,dtpkd0ahl5bmrtmmoxq605p1w
+2026-05-15,33,Korona Kielce 1-0 Widzew Łódź,Korona Kielce,Widzew Łódź,3ghh5adz62ws55se0snozmej8,duxj5u4ontmpo61via4iypfro
+2026-05-15,33,Zagłębie Lubin 0-1 Pogoń Szczecin,Zagłębie Lubin,Pogoń Szczecin,3ghh5adz62ws55se0snozmej8,du4d7b7gbabog45cm47i3i590
+2026-05-13,31,Raków Częstochowa 0-2 Jagiellonia Białystok,Raków Częstochowa,Jagiellonia Białystok,3ghh5adz62ws55se0snozmej8,dohwuh0zur2g2s3qv07yu9e6s
+2026-05-13,31,Arka Gdynia 0-0 Górnik Zabrze,Arka Gdynia,Górnik Zabrze,3ghh5adz62ws55se0snozmej8,dldel9nakgw2su7favpuw8lck
+2026-05-11,32,Cracovia 0-0 Radomiak Radom,Cracovia,Radomiak Radom,3ghh5adz62ws55se0snozmej8,dq37qgh4spmn8au0h7mqq3pjo
+2026-05-10,32,Nieciecza 0-1 Legia Warszawa,Nieciecza,Legia Warszawa,3ghh5adz62ws55se0snozmej8,dpb7mo3lk857xcdb8fnnkbmdw
+2026-05-10,32,Wisła Płock 0-4 Motor Lublin,Wisła Płock,Motor Lublin,3ghh5adz62ws55se0snozmej8,dovqlaadr8wf4hivcro3pkwes
+2026-05-10,32,Piast Gliwice 0-0 GKS Katowice,Piast Gliwice,GKS Katowice,3ghh5adz62ws55se0snozmej8,drmrxp6uz2o6mhztls16jrz84
+2026-05-09,32,Górnik Zabrze 0-2 Zagłębie Lubin,Górnik Zabrze,Zagłębie Lubin,3ghh5adz62ws55se0snozmej8,dpp5sz4oyhbfzvvlht2k7zdhw
+2026-05-09,32,Jagiellonia Białystok 3-2 Pogoń Szczecin,Jagiellonia Białystok,Pogoń Szczecin,3ghh5adz62ws55se0snozmej8,dr8hlabmz79nykea6jph2sj6c
+2026-05-09,32,Widzew Łódź 3-1 Lechia Gdańsk,Widzew Łódź,Lechia Gdańsk,3ghh5adz62ws55se0snozmej8,ds0foymtutrx5jnnb6gi2ok5w
+2026-05-08,32,Lech Poznań 1-1 Arka Gdynia,Lech Poznań,Arka Gdynia,3ghh5adz62ws55se0snozmej8,dqgvubbux05m7uiuma8vqyi38
+2026-05-08,32,Raków Częstochowa 2-0 Korona Kielce,Raków Częstochowa,Korona Kielce,3ghh5adz62ws55se0snozmej8,dqunynhkeckeo9unyk3t3xvro
+2026-05-04,31,Radomiak Radom 3-1 Lechia Gdańsk,Radomiak Radom,Lechia Gdańsk,3ghh5adz62ws55se0snozmej8,dmyoq5kjfufkfqx3utt5ulyxg
+2026-05-03,31,Pogoń Szczecin 3-0 Wisła Płock,Pogoń Szczecin,Wisła Płock,3ghh5adz62ws55se0snozmej8,dncfyy6dtpk1bz1mkhkst75sk
+2026-05-03,31,Zagłębie Lubin 0-0 Cracovia,Zagłębie Lubin,Cracovia,3ghh5adz62ws55se0snozmej8,dmif1jeqlko31zoy9d4rg2ot0
+2026-05-03,31,GKS Katowice 5-1 Nieciecza,GKS Katowice,Nieciecza,3ghh5adz62ws55se0snozmej8,do49cw0l2mp7g6o1udznegkk4
+2026-05-02,31,Motor Lublin 0-1 Lech Poznań,Motor Lublin,Lech Poznań,3ghh5adz62ws55se0snozmej8,dm4vo8h0smq0jm70c9tvddlas
+2026-05-01,31,Legia Warszawa 1-0 Widzew Łódź,Legia Warszawa,Widzew Łódź,3ghh5adz62ws55se0snozmej8,dlr6ln9w7qhdn0ncda4xorspg
+2026-05-01,31,Korona Kielce 1-1 Piast Gliwice,Korona Kielce,Piast Gliwice,3ghh5adz62ws55se0snozmej8,dnqd8ssp0gks5w5h8mvw227tg
+2026-04-27,30,Piast Gliwice 4-1 Arka Gdynia,Piast Gliwice,Arka Gdynia,3ghh5adz62ws55se0snozmej8,dklw2bs9pl5j1ms0x5ctamcd0
+2026-04-26,30,Lech Poznań 4-0 Legia Warszawa,Lech Poznań,Legia Warszawa,3ghh5adz62ws55se0snozmej8,djt0ue3bvylr8r4ibt3tmgqvo
+2026-04-26,30,Widzew Łódź 2-0 Motor Lublin,Widzew Łódź,Motor Lublin,3ghh5adz62ws55se0snozmej8,dkzotqdl3wj16wr53sb9nywwk
+2026-04-26,30,Wisła Płock 0-1 Radomiak Radom,Wisła Płock,Radomiak Radom,3ghh5adz62ws55se0snozmej8,dhsxrfz6d1qtwldh37axi5j4k
+2026-04-25,30,Cracovia 1-1 Pogoń Szczecin,Cracovia,Pogoń Szczecin,3ghh5adz62ws55se0snozmej8,djf7lg51zgvv4sjyizq2tnpjo
+2026-04-25,30,Lechia Gdańsk 1-2 Raków Częstochowa,Lechia Gdańsk,Raków Częstochowa,3ghh5adz62ws55se0snozmej8,dia4c2iczc55ooyuiuyht0104
+2026-04-25,30,Korona Kielce 1-1 GKS Katowice,Korona Kielce,GKS Katowice,3ghh5adz62ws55se0snozmej8,dj1ioqtgf1g2zxh3ialuh8hzo
+2026-04-24,30,Jagiellonia Białystok 1-2 Górnik Zabrze,Jagiellonia Białystok,Górnik Zabrze,3ghh5adz62ws55se0snozmej8,dk88addl7dhuzbwo91bl3bxn8
+2026-04-24,30,Zagłębie Lubin 1-2 Nieciecza,Zagłębie Lubin,Nieciecza,3ghh5adz62ws55se0snozmej8,dinth41jm618si6dllkn4721g
+2026-04-20,29,Lechia Gdańsk 1-1 Piast Gliwice,Lechia Gdańsk,Piast Gliwice,3ghh5adz62ws55se0snozmej8,dfhqu7okdqxk0kjusd8qa9xxw
+2026-04-19,29,Arka Gdynia 0-3 Jagiellonia Białystok,Arka Gdynia,Jagiellonia Białystok,3ghh5adz62ws55se0snozmej8,deb3u2lj8ccxuxgina90ytyj8
+2026-04-19,29,Raków Częstochowa 4-1 Cracovia,Raków Częstochowa,Cracovia,3ghh5adz62ws55se0snozmej8,dhen0u38x43p33vpgt8b4hi50
+2026-04-19,29,Nieciecza 1-3 Wisła Płock,Nieciecza,Wisła Płock,3ghh5adz62ws55se0snozmej8,deopme0dila57ccg629hclgd0
+2026-04-18,29,Pogoń Szczecin 1-2 Lech Poznań,Pogoń Szczecin,Lech Poznań,3ghh5adz62ws55se0snozmej8,dgmyiytcceyc4zf5beo9i6l1w
+2026-04-18,29,Górnik Zabrze 1-0 Korona Kielce,Górnik Zabrze,Korona Kielce,3ghh5adz62ws55se0snozmej8,dfvhzytwkipehlj2clndyvfh0
+2026-04-18,29,Radomiak Radom 2-1 Widzew Łódź,Radomiak Radom,Widzew Łódź,3ghh5adz62ws55se0snozmej8,dg979u9cgq269p1hiz9iwje38
+2026-04-17,29,Legia Warszawa 1-0 Zagłębie Lubin,Legia Warszawa,Zagłębie Lubin,3ghh5adz62ws55se0snozmej8,df44pq0c97efy3zsc7no8fpck
+2026-04-17,29,GKS Katowice 3-2 Motor Lublin,GKS Katowice,Motor Lublin,3ghh5adz62ws55se0snozmej8,dh0onb6c04g4tycls8lyad6vo
+2026-04-13,28,Piast Gliwice 0-2 Pogoń Szczecin,Piast Gliwice,Pogoń Szczecin,3ghh5adz62ws55se0snozmej8,ddjmvwlnmqz57b2kwctapw2l0
+2026-04-12,28,Lech Poznań 3-3 GKS Katowice,Lech Poznań,GKS Katowice,3ghh5adz62ws55se0snozmej8,dd5ymzj3plgud20cc2nv6fqj8
+2026-04-12,28,Motor Lublin 1-1 Raków Częstochowa,Motor Lublin,Raków Częstochowa,3ghh5adz62ws55se0snozmej8,dbn5y93rm5kpjp6j824mvn310
+2026-04-12,28,Cracovia 2-2 Arka Gdynia,Cracovia,Arka Gdynia,3ghh5adz62ws55se0snozmej8,dcsbjmthjaygzrpkhmkibna50
+2026-04-11,28,Legia Warszawa 1-1 Górnik Zabrze,Legia Warszawa,Górnik Zabrze,3ghh5adz62ws55se0snozmej8,db9i38ljbyraibjix0jek72tw
+2026-04-11,28,Zagłębie Lubin 1-0 Radomiak Radom,Zagłębie Lubin,Radomiak Radom,3ghh5adz62ws55se0snozmej8,dc0uuqbh623k0rqc30rwlzndg
+2026-04-11,28,Widzew Łódź 1-0 Nieciecza,Widzew Łódź,Nieciecza,3ghh5adz62ws55se0snozmej8,ddxdfrclnwkwwttxjqxmevcb8
+2026-04-10,28,Korona Kielce 1-1 Jagiellonia Białystok,Korona Kielce,Jagiellonia Białystok,3ghh5adz62ws55se0snozmej8,dcenwyy7dfsryla4kalvj30us
+2026-04-10,28,Wisła Płock 1-0 Lechia Gdańsk,Wisła Płock,Lechia Gdańsk,3ghh5adz62ws55se0snozmej8,davmsj1u4ftgxp1ds1sfo9xjo
+2026-04-07,27,Arka Gdynia 3-1 Zagłębie Lubin,Arka Gdynia,Zagłębie Lubin,3ghh5adz62ws55se0snozmej8,d7eflwaws9drxcihwhykghlas
+2026-04-06,27,Lechia Gdańsk 4-2 Korona Kielce,Lechia Gdańsk,Korona Kielce,3ghh5adz62ws55se0snozmej8,d85pd2wtph34m47935typ5wr8
+2026-04-06,27,Pogoń Szczecin 0-2 Legia Warszawa,Pogoń Szczecin,Legia Warszawa,3ghh5adz62ws55se0snozmej8,d9b1e4t39tf3vvyq0o6f600t0
+2026-04-06,27,Radomiak Radom 1-1 Motor Lublin,Radomiak Radom,Motor Lublin,3ghh5adz62ws55se0snozmej8,d8x4rbjzd8cj5osxdpn5j8c2c
+2026-04-06,27,Nieciecza 3-2 Piast Gliwice,Nieciecza,Piast Gliwice,3ghh5adz62ws55se0snozmej8,d7rze3v38lxioeqjgytayezo4
+2026-04-04,27,Jagiellonia Białystok 0-0 Lech Poznań,Jagiellonia Białystok,Lech Poznań,3ghh5adz62ws55se0snozmej8,dahxzfo5bdmcw4yxgy9xf302c
+2026-04-04,27,Górnik Zabrze 3-0 Cracovia,Górnik Zabrze,Cracovia,3ghh5adz62ws55se0snozmej8,d8jipczo54b30kxk55tqqov84
+2026-04-04,27,Raków Częstochowa 1-1 Widzew Łódź,Raków Częstochowa,Widzew Łódź,3ghh5adz62ws55se0snozmej8,da4gecsyty10udlrxfn3rnfo4
+2026-04-04,27,GKS Katowice 1-0 Wisła Płock,GKS Katowice,Wisła Płock,3ghh5adz62ws55se0snozmej8,d9oz3zb80tzy5p7a5v0484tg4
+2026-03-22,26,Legia Warszawa 1-1 Raków Częstochowa,Legia Warszawa,Raków Częstochowa,3ghh5adz62ws55se0snozmej8,d4bqi8kht5t9huq7dwtd86gpg
+2026-03-22,26,Widzew Łódź 0-0 Górnik Zabrze,Widzew Łódź,Górnik Zabrze,3ghh5adz62ws55se0snozmej8,d70vq7x67m2di08tih2akn21g
+2026-03-22,26,Lech Poznań 4-1 Nieciecza,Lech Poznań,Nieciecza,3ghh5adz62ws55se0snozmej8,d69s0jyv69al3roexfsyehtlg
+2026-03-22,26,Korona Kielce 3-0 Arka Gdynia,Korona Kielce,Arka Gdynia,3ghh5adz62ws55se0snozmej8,d5iigk6d4z210hb8cstay08pg
+2026-03-21,26,Jagiellonia Białystok 1-2 Wisła Płock,Jagiellonia Białystok,Wisła Płock,3ghh5adz62ws55se0snozmej8,bjoijsiicjkgbxx64gmfjm904
+2026-03-21,26,Lechia Gdańsk 2-1 Pogoń Szczecin,Lechia Gdańsk,Pogoń Szczecin,3ghh5adz62ws55se0snozmej8,d4plbejjzjszl63gqv2pel6hg
+2026-03-21,26,Cracovia 1-0 GKS Katowice,Cracovia,GKS Katowice,3ghh5adz62ws55se0snozmej8,d5w4130at904zjrsqdb820mxg
+2026-03-20,26,Motor Lublin 1-0 Zagłębie Lubin,Motor Lublin,Zagłębie Lubin,3ghh5adz62ws55se0snozmej8,d54tmzat53esjkxyr7ytsc8ic
+2026-03-20,26,Piast Gliwice 3-1 Radomiak Radom,Piast Gliwice,Radomiak Radom,3ghh5adz62ws55se0snozmej8,d6ndrg671tho9wwljs7jr5vkk
+2026-03-17,16,Jagiellonia Białystok 2-1 GKS Katowice,Jagiellonia Białystok,GKS Katowice,3ghh5adz62ws55se0snozmej8,c7nden3c6pprq76h9d7z0j6z8
+2026-03-16,25,Pogoń Szczecin 2-1 Korona Kielce,Pogoń Szczecin,Korona Kielce,3ghh5adz62ws55se0snozmej8,d2f3via1g982jxp5by0ljxj4k
+2026-03-15,25,Górnik Zabrze 3-1 Raków Częstochowa,Górnik Zabrze,Raków Częstochowa,3ghh5adz62ws55se0snozmej8,d1npxtd9igd17ixu3qrixmwb8
+2026-03-15,25,Zagłębie Lubin 0-1 Lech Poznań,Zagłębie Lubin,Lech Poznań,3ghh5adz62ws55se0snozmej8,d1a3ds0zup3p0rb6i0lsao7is
+2026-03-15,25,Arka Gdynia 0-0 Widzew Łódź,Arka Gdynia,Widzew Łódź,3ghh5adz62ws55se0snozmej8,d0ii9etomhx2m1y14z646y5g4
+2026-03-14,25,Cracovia 1-2 Wisła Płock,Cracovia,Wisła Płock,3ghh5adz62ws55se0snozmej8,d2snpneblycvz41jqo2j3naxg
+2026-03-14,25,GKS Katowice 2-0 Lechia Gdańsk,GKS Katowice,Lechia Gdańsk,3ghh5adz62ws55se0snozmej8,d36eykp5kyqy941y0p9o7fpjo
+2026-03-14,25,Jagiellonia Białystok 1-2 Piast Gliwice,Jagiellonia Białystok,Piast Gliwice,3ghh5adz62ws55se0snozmej8,d3k5ku2pgd6i0u5kh5shakhzo
 2026-03-13,25,Radomiak Radom 1-1 Legia Warszawa,Radomiak Radom,Legia Warszawa,3ghh5adz62ws55se0snozmej8,d21flur07wxvk1n8o3svdpmac
 2026-03-13,25,Nieciecza 1-2 Motor Lublin,Nieciecza,Motor Lublin,3ghh5adz62ws55se0snozmej8,d0wab4o9azskdqheu4aa3tams
 2026-03-09,24,Wisła Płock 0-3 Arka Gdynia,Wisła Płock,Arka Gdynia,3ghh5adz62ws55se0snozmej8,cwxakl37897l45elqwsqye0wk

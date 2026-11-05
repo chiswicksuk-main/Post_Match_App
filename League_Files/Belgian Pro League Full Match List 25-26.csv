@@ -1,226 +1,314 @@
 ﻿Date,Round,Match,Home,Away,CompetitionID,MatchID
-2026-03-13,29,Gent 2-0 Zulte Waregem,Gent,Zulte Waregem,16lkdpoccbh056r0v0bordo2c,2pmvsm643e8tytuelbft5lp0
-2026-03-08,28,Sint-Truiden 2-1 Cercle Brugge,Sint-Truiden,Cercle Brugge,16lkdpoccbh056r0v0bordo2c,153f1w11fpw6ar7hrxxk4jys
-2026-03-08,28,Zulte Waregem 0-1 Standard Liège,Zulte Waregem,Standard Liège,16lkdpoccbh056r0v0bordo2c,dnmll4cqeqxamyik6sz7nkk
-2026-03-08,28,Gent 3-1 Mechelen,Gent,Mechelen,16lkdpoccbh056r0v0bordo2c,f57vlnatjynr6engvu18s7oyc
-2026-03-08,28,Club Brugge 2-2 Anderlecht,Club Brugge,Anderlecht,16lkdpoccbh056r0v0bordo2c,f4gaomgmwomctgnkcj66q3g2c
-2026-03-07,28,Union Saint-Gilloise 2-1 Genk,Union Saint-Gilloise,Genk,16lkdpoccbh056r0v0bordo2c,f4tz9gtyjresngp3145w7c0t0
-2026-03-07,28,Dender 2-2 Sporting Charleroi,Dender,Sporting Charleroi,16lkdpoccbh056r0v0bordo2c,1izk1yu7mph50gx2527wxez8
-2026-03-07,28,OH Leuven 0-1 Westerlo,OH Leuven,Westerlo,16lkdpoccbh056r0v0bordo2c,rf7k8o1xjf0xw5zrgpbtmhg
-2026-03-06,28,RAAL La Louvière 0-0 Antwerp,RAAL La Louvière,Antwerp,16lkdpoccbh056r0v0bordo2c,f5lplqp49otqgm3n7fbj0zcic
-2026-03-01,27,Cercle Brugge 0-0 Dender,Cercle Brugge,Dender,16lkdpoccbh056r0v0bordo2c,f2tlncmhxcs1o134fa40kagic
-2026-03-01,27,Sporting Charleroi 1-2 Club Brugge,Sporting Charleroi,Club Brugge,16lkdpoccbh056r0v0bordo2c,f42jyt2b0kdim2ekmzmq281zo
-2026-03-01,27,Westerlo 0-0 Union Saint-Gilloise,Westerlo,Union Saint-Gilloise,16lkdpoccbh056r0v0bordo2c,f3lardortymo57jam9tegm0wk
-2026-03-01,27,Genk 3-0 Gent,Genk,Gent,16lkdpoccbh056r0v0bordo2c,f1npgg0t0c2fxgph5pp3v261g
-2026-02-28,27,Anderlecht 5-1 OH Leuven,Anderlecht,OH Leuven,16lkdpoccbh056r0v0bordo2c,f19ucr3rev3uy5uvxjxznqsk4
-2026-02-28,27,Antwerp 1-0 Sint-Truiden,Antwerp,Sint-Truiden,16lkdpoccbh056r0v0bordo2c,f21nd3oqxripooovjh8ptvzf8
-2026-02-28,27,Mechelen 2-1 Zulte Waregem,Mechelen,Zulte Waregem,16lkdpoccbh056r0v0bordo2c,f37gfhwdif1urnj5wl6opbb4k
-2026-02-27,27,Standard Liège 1-1 RAAL La Louvière,Standard Liège,RAAL La Louvière,16lkdpoccbh056r0v0bordo2c,f2fpw104dlkeue9kyf2ytfa50
-2026-02-22,26,Westerlo 2-1 Sporting Charleroi,Westerlo,Sporting Charleroi,16lkdpoccbh056r0v0bordo2c,f0ibl06bvna0cjmcosy311jis
-2026-02-22,26,Zulte Waregem 2-4 Anderlecht,Zulte Waregem,Anderlecht,16lkdpoccbh056r0v0bordo2c,f03y92sdjp1k6twx04yz692c4
-2026-02-22,26,RAAL La Louvière 0-2 Mechelen,RAAL La Louvière,Mechelen,16lkdpoccbh056r0v0bordo2c,ezkjg5qh4pfxes13poxqf0vf8
-2026-02-22,26,Genk 0-3 Standard Liège,Genk,Standard Liège,16lkdpoccbh056r0v0bordo2c,eyswkvtvidrxeggtyh9pw5d78
-2026-02-21,26,Union Saint-Gilloise 2-1 Antwerp,Union Saint-Gilloise,Antwerp,16lkdpoccbh056r0v0bordo2c,eydix74qfme97ojm7qjsrsbv8
-2026-02-21,26,Club Brugge 2-1 OH Leuven,Club Brugge,OH Leuven,16lkdpoccbh056r0v0bordo2c,exzov7o3p9v5vqr86qipfm1w4
-2026-02-21,26,Dender 1-4 Sint-Truiden,Dender,Sint-Truiden,16lkdpoccbh056r0v0bordo2c,f0w8b0fnobdmy7z4owj77807o
-2026-02-20,26,Gent 0-1 Cercle Brugge,Gent,Cercle Brugge,16lkdpoccbh056r0v0bordo2c,ez6omspxkljt8su106j50tc0k
-2026-02-15,25,Sint-Truiden 3-2 Zulte Waregem,Sint-Truiden,Zulte Waregem,16lkdpoccbh056r0v0bordo2c,ex831bwt14o33lmd1f4myzj84
-2026-02-15,25,Anderlecht 0-0 RAAL La Louvière,Anderlecht,RAAL La Louvière,16lkdpoccbh056r0v0bordo2c,euwwyw2j98k429e0s4weoknx0
-2026-02-15,25,Antwerp 0-2 Westerlo,Antwerp,Westerlo,16lkdpoccbh056r0v0bordo2c,evaq0cyoznv6qopg6ua1akob8
-2026-02-15,25,Cercle Brugge 1-2 Club Brugge,Cercle Brugge,Club Brugge,16lkdpoccbh056r0v0bordo2c,ew2goxs8515mnno0uwfrxhyj8
-2026-02-14,25,Standard Liège 1-1 Union Saint-Gilloise,Standard Liège,Union Saint-Gilloise,16lkdpoccbh056r0v0bordo2c,evofe87bvpnp8scgm3q2h0ljo
-2026-02-14,25,Sporting Charleroi 2-3 Gent,Sporting Charleroi,Gent,16lkdpoccbh056r0v0bordo2c,exlr6epvnff2o4lokj51j2z9w
-2026-02-14,25,OH Leuven 3-2 Dender,OH Leuven,Dender,16lkdpoccbh056r0v0bordo2c,ewgb5fczpfa71pfzihlip6yok
-2026-02-13,25,Mechelen 2-3 Genk,Mechelen,Genk,16lkdpoccbh056r0v0bordo2c,ewu8k4xyscs651jz3g8aysrv8
-2026-02-08,24,Mechelen 2-0 Antwerp,Mechelen,Antwerp,16lkdpoccbh056r0v0bordo2c,etrox0jd6hg0fmere3hp3uzh0
-2026-02-08,24,Club Brugge 3-0 Standard Liège,Club Brugge,Standard Liège,16lkdpoccbh056r0v0bordo2c,ersrmq2rw8qwesgywqt0nthqs
-2026-02-08,24,Union Saint-Gilloise 2-1 RAAL La Louvière,Union Saint-Gilloise,RAAL La Louvière,16lkdpoccbh056r0v0bordo2c,es6nw78yq50n082mun0tvtfdg
-2026-02-08,24,Genk 2-0 Anderlecht,Genk,Anderlecht,16lkdpoccbh056r0v0bordo2c,eskhj4422627ly0covoiz8efo
-2026-02-07,24,Gent 1-3 OH Leuven,Gent,OH Leuven,16lkdpoccbh056r0v0bordo2c,esy974nh0dqx61hrn6g35y044
-2026-02-07,24,Sporting Charleroi 3-4 Cercle Brugge,Sporting Charleroi,Cercle Brugge,16lkdpoccbh056r0v0bordo2c,euj1szzq95vk4o3vf50qv0is4
-2026-02-07,24,Zulte Waregem 1-0 Dender,Zulte Waregem,Dender,16lkdpoccbh056r0v0bordo2c,etc612l6ja97bgkn9t7oscs9g
-2026-02-06,24,Westerlo 0-4 Sint-Truiden,Westerlo,Sint-Truiden,16lkdpoccbh056r0v0bordo2c,eu5dwgv34woon05xmas71ln9w
-2026-02-01,23,OH Leuven 2-2 Mechelen,OH Leuven,Mechelen,16lkdpoccbh056r0v0bordo2c,eqncupz92qy89z9bxks1e0t90
-2026-02-01,23,Union Saint-Gilloise 1-0 Club Brugge,Union Saint-Gilloise,Club Brugge,16lkdpoccbh056r0v0bordo2c,eoq56ma8dj3xdkklka2w77das
-2026-02-01,23,Dender 1-2 Genk,Dender,Genk,16lkdpoccbh056r0v0bordo2c,erewj57ob18s9dvwrgadrjfv8
-2026-02-01,23,Standard Liège 2-0 Anderlecht,Standard Liège,Anderlecht,16lkdpoccbh056r0v0bordo2c,ep3zb4us0b4omv1osvvmsof10
-2026-01-31,23,Sint-Truiden 0-2 Sporting Charleroi,Sint-Truiden,Sporting Charleroi,16lkdpoccbh056r0v0bordo2c,er14z0ficejcle9jz648ikh78
-2026-01-31,23,Zulte Waregem 0-1 Westerlo,Zulte Waregem,Westerlo,16lkdpoccbh056r0v0bordo2c,epvvurbxvwunun6d2lmyijqc4
-2026-01-31,23,Cercle Brugge 0-4 Antwerp,Cercle Brugge,Antwerp,16lkdpoccbh056r0v0bordo2c,eq9ngv5z8md4t4p7tzgorotg4
-2026-01-30,23,RAAL La Louvière 1-1 Gent,RAAL La Louvière,Gent,16lkdpoccbh056r0v0bordo2c,ephwifxt8pgci6dxxrae84rv8
-2026-01-25,22,Mechelen 1-1 Westerlo,Mechelen,Westerlo,16lkdpoccbh056r0v0bordo2c,eo9pdwngja3jmx7suwi28eiok
-2026-01-25,22,Anderlecht 0-0 Dender,Anderlecht,Dender,16lkdpoccbh056r0v0bordo2c,elvn78yf4tfi7f47u2rvcwk5w
-2026-01-25,22,Genk 1-1 Cercle Brugge,Genk,Cercle Brugge,16lkdpoccbh056r0v0bordo2c,emabtprwv273btjtenb4ieolw
-2026-01-25,22,Antwerp 0-2 Sporting Charleroi,Antwerp,Sporting Charleroi,16lkdpoccbh056r0v0bordo2c,empwqlvi4ne0i8rkhtzadhwyc
-2026-01-24,22,OH Leuven 0-0 Union Saint-Gilloise,OH Leuven,Union Saint-Gilloise,16lkdpoccbh056r0v0bordo2c,enw1n6mhkzvb6uptwhzs4gowk
-2026-01-24,22,Club Brugge 4-3 Zulte Waregem,Club Brugge,Zulte Waregem,16lkdpoccbh056r0v0bordo2c,elhaogx340v0kycpamm92goic
-2026-01-24,22,RAAL La Louvière 1-2 Sint-Truiden,RAAL La Louvière,Sint-Truiden,16lkdpoccbh056r0v0bordo2c,eni5fx1f7miykymmf4172tgd0
-2026-01-23,22,Standard Liège 0-4 Gent,Standard Liège,Gent,16lkdpoccbh056r0v0bordo2c,en3pwmf7ub7r0wgc838j7ckk4
-2026-01-18,21,Sint-Truiden 1-0 OH Leuven,Sint-Truiden,OH Leuven,16lkdpoccbh056r0v0bordo2c,ejqw6juegshs0txtuuxahtno4
-2026-01-18,21,Sporting Charleroi 2-0 Standard Liège,Sporting Charleroi,Standard Liège,16lkdpoccbh056r0v0bordo2c,ekpoicrlbz0xwi57ll0657rx0
-2026-01-18,21,Dender 1-0 Antwerp,Dender,Antwerp,16lkdpoccbh056r0v0bordo2c,el3novhev4o18mkk7nr5a9m38
-2026-01-18,21,Gent 4-2 Anderlecht,Gent,Anderlecht,16lkdpoccbh056r0v0bordo2c,eiuwoeqzne98530endjiq21hw
-2026-01-17,21,Union Saint-Gilloise 1-0 Mechelen,Union Saint-Gilloise,Mechelen,16lkdpoccbh056r0v0bordo2c,eiga39b574vp5rga3hfkfiql0
-2026-01-17,21,Westerlo 0-2 Cercle Brugge,Westerlo,Cercle Brugge,16lkdpoccbh056r0v0bordo2c,ek8awp2gucdtm69ec52q8vwgk
-2026-01-17,21,Zulte Waregem 2-1 Genk,Zulte Waregem,Genk,16lkdpoccbh056r0v0bordo2c,ejcqfmw1idajhzp8e8fvqgbv8
-2026-01-16,21,Club Brugge 2-3 RAAL La Louvière,Club Brugge,RAAL La Louvière,16lkdpoccbh056r0v0bordo2c,ei2fh3jdkvnsminobo1edlv6c
-2025-12-27,20,Gent 2-0 Westerlo,Gent,Westerlo,16lkdpoccbh056r0v0bordo2c,efr1ovpqynopywljiw18fwis4
-2025-12-27,20,Mechelen 1-1 Dender,Mechelen,Dender,16lkdpoccbh056r0v0bordo2c,ehoeeo8xnb6siylqoe8jden84
-2025-12-27,20,RAAL La Louvière 0-0 OH Leuven,RAAL La Louvière,OH Leuven,16lkdpoccbh056r0v0bordo2c,egwl2zpb2lsojatd5oln6xn9w
-2025-12-27,20,Antwerp 2-1 Zulte Waregem,Antwerp,Zulte Waregem,16lkdpoccbh056r0v0bordo2c,eg4yj4j7cky5i98bf448b3hg4
-2025-12-26,20,Anderlecht 1-2 Sporting Charleroi,Anderlecht,Sporting Charleroi,16lkdpoccbh056r0v0bordo2c,eez76rnpqr96yv65meugssums
-2025-12-26,20,Standard Liège 1-2 Sint-Truiden,Standard Liège,Sint-Truiden,16lkdpoccbh056r0v0bordo2c,egit9qjmip1dlpr2x4ck3zklw
-2025-12-26,20,Cercle Brugge 1-1 Union Saint-Gilloise,Cercle Brugge,Union Saint-Gilloise,16lkdpoccbh056r0v0bordo2c,ehajymo9l0adxvcg6fydjsys4
-2025-12-26,20,Genk 3-5 Club Brugge,Genk,Club Brugge,16lkdpoccbh056r0v0bordo2c,efd3ifcmedfrypl17mzssvnro
-2025-12-21,19,OH Leuven 0-2 Cercle Brugge,OH Leuven,Cercle Brugge,16lkdpoccbh056r0v0bordo2c,ecz9iyxyc5ira9n59m8cp3bis
-2025-12-21,19,Antwerp 2-2 Anderlecht,Antwerp,Anderlecht,16lkdpoccbh056r0v0bordo2c,eclcw59hdn8ritegazkei7pck
-2025-12-21,19,Sint-Truiden 1-0 Mechelen,Sint-Truiden,Mechelen,16lkdpoccbh056r0v0bordo2c,eddbx1iceroxp6r5xkt8xxtsk
-2025-12-21,19,Club Brugge 2-1 Gent,Club Brugge,Gent,16lkdpoccbh056r0v0bordo2c,ebsrr6iv6kemc13w3fu71nxg4
-2025-12-20,19,Union Saint-Gilloise 2-0 Zulte Waregem,Union Saint-Gilloise,Zulte Waregem,16lkdpoccbh056r0v0bordo2c,ec6nqo62iul04ge2x4h9npyj8
-2025-12-20,19,Westerlo 2-1 RAAL La Louvière,Westerlo,RAAL La Louvière,16lkdpoccbh056r0v0bordo2c,edrq9jll096hooc1uw38bg7pw
-2025-12-20,19,Dender 0-1 Standard Liège,Dender,Standard Liège,16lkdpoccbh056r0v0bordo2c,eelccd39hh8bqow2dwzu8zl78
-2025-12-19,19,Sporting Charleroi 2-2 Genk,Sporting Charleroi,Genk,16lkdpoccbh056r0v0bordo2c,ee7ghk7yri1m7ixzrtskk3cic
-2025-12-14,18,Genk 1-1 Westerlo,Genk,Westerlo,16lkdpoccbh056r0v0bordo2c,e92sbioxgeg23tvsj7jv5qgb8
-2025-12-14,18,Sporting Charleroi 1-1 Union Saint-Gilloise,Sporting Charleroi,Union Saint-Gilloise,16lkdpoccbh056r0v0bordo2c,eb11rm4epfvdt9zvfo3v104yc
-2025-12-14,18,Dender 1-5 Club Brugge,Dender,Club Brugge,16lkdpoccbh056r0v0bordo2c,ebet1l6twkzwo3mqeitdkg8b8
-2025-12-14,18,Gent 0-2 Antwerp,Gent,Antwerp,16lkdpoccbh056r0v0bordo2c,e9htix75l67ec63wt5pbx3190
-2025-12-13,18,Anderlecht 2-1 Sint-Truiden,Anderlecht,Sint-Truiden,16lkdpoccbh056r0v0bordo2c,e8lgf1lu36t1uwzghwxieoems
-2025-12-13,18,Zulte Waregem 2-2 RAAL La Louvière,Zulte Waregem,RAAL La Louvière,16lkdpoccbh056r0v0bordo2c,ea9n1hgrntpg0r4iigu8cwmj8
-2025-12-13,18,Cercle Brugge 2-3 Mechelen,Cercle Brugge,Mechelen,16lkdpoccbh056r0v0bordo2c,eandk9dpu1k7kbk5nv4h7ydxw
-2025-12-12,18,Standard Liège 0-1 OH Leuven,Standard Liège,OH Leuven,16lkdpoccbh056r0v0bordo2c,e9vop6xkarhbdtysjlqtm4w7o
-2025-12-07,17,OH Leuven 1-1 Zulte Waregem,OH Leuven,Zulte Waregem,16lkdpoccbh056r0v0bordo2c,e6vo7nt78kq3sax8h8o1ke4gk
-2025-12-07,17,Antwerp 3-0 Genk,Antwerp,Genk,16lkdpoccbh056r0v0bordo2c,e5q1yl65aqwl2zib2ee6xgkr8
-2025-12-07,17,Westerlo 4-0 Anderlecht,Westerlo,Anderlecht,16lkdpoccbh056r0v0bordo2c,e864sjlcp9jufg1u7h7e02z2s
-2025-12-07,17,Mechelen 1-0 Sporting Charleroi,Mechelen,Sporting Charleroi,16lkdpoccbh056r0v0bordo2c,e79n209mxfraedog5xuf1d7v8
-2025-12-06,17,Sint-Truiden 3-2 Club Brugge,Sint-Truiden,Club Brugge,16lkdpoccbh056r0v0bordo2c,e7s258li13vbx18d0db2m8178
-2025-12-06,17,Union Saint-Gilloise 1-1 Gent,Union Saint-Gilloise,Gent,16lkdpoccbh056r0v0bordo2c,e5c6sdcvbt21oyigsgxrqwe8k
-2025-12-06,17,Cercle Brugge 1-2 Standard Liège,Cercle Brugge,Standard Liège,16lkdpoccbh056r0v0bordo2c,e6hpg1ahawh9nm536vc8agnpw
-2025-12-05,17,RAAL La Louvière 1-2 Dender,RAAL La Louvière,Dender,16lkdpoccbh056r0v0bordo2c,e63v5dgfhd4gv1ffv83s2elg4
-2025-11-30,16,Gent 1-2 Sint-Truiden,Gent,Sint-Truiden,16lkdpoccbh056r0v0bordo2c,e3cyczrj7klwpgvjjjiqycg0k
-2025-11-30,16,Anderlecht 1-0 Union Saint-Gilloise,Anderlecht,Union Saint-Gilloise,16lkdpoccbh056r0v0bordo2c,e2fx8ogp28ye3j1mz052rpkb8
-2025-11-30,16,Genk 2-1 OH Leuven,Genk,OH Leuven,16lkdpoccbh056r0v0bordo2c,e2ydwakqnrmekfzdr48j9n3f8
-2025-11-30,16,Club Brugge 0-1 Antwerp,Club Brugge,Antwerp,16lkdpoccbh056r0v0bordo2c,e21y8hmi1ncbc3lrguudwxmvo
-2025-11-29,16,Sporting Charleroi 0-0 RAAL La Louvière,Sporting Charleroi,RAAL La Louvière,16lkdpoccbh056r0v0bordo2c,e4kc4fk4d1ur3g0rk1tpk5s7o
-2025-11-29,16,Zulte Waregem 1-1 Cercle Brugge,Zulte Waregem,Cercle Brugge,16lkdpoccbh056r0v0bordo2c,e3skmmtskznufpmvsr2e08bv8
-2025-11-29,16,Dender 2-2 Westerlo,Dender,Westerlo,16lkdpoccbh056r0v0bordo2c,e4yapzdifi01wd1qpehwk5t04
-2025-11-28,16,Mechelen 0-1 Standard Liège,Mechelen,Standard Liège,16lkdpoccbh056r0v0bordo2c,e46geam05j8vr190i7svo7h1w
-2025-11-23,15,OH Leuven 1-2 Sint-Truiden,OH Leuven,Sint-Truiden,16lkdpoccbh056r0v0bordo2c,e1650lh8xyaev5kzm5v3m2kgk
-2025-11-23,15,RAAL La Louvière 0-1 Anderlecht,RAAL La Louvière,Anderlecht,16lkdpoccbh056r0v0bordo2c,e0sc0uw1072b9k0njbh2k055g
-2025-11-23,15,Antwerp 1-2 Dender,Antwerp,Dender,16lkdpoccbh056r0v0bordo2c,e00iebvmki52g3kpeatz9oetw
-2025-11-23,15,Genk 0-1 Mechelen,Genk,Mechelen,16lkdpoccbh056r0v0bordo2c,dzmsg1d8o6bz0e8mf5ajn7e38
-2025-11-22,15,Club Brugge 1-0 Sporting Charleroi,Club Brugge,Sporting Charleroi,16lkdpoccbh056r0v0bordo2c,dyuh421ym143mozjh6idsbj84
-2025-11-22,15,Westerlo 0-0 Gent,Westerlo,Gent,16lkdpoccbh056r0v0bordo2c,e1jtdhal857wua2km5iq011jo
-2025-11-22,15,Union Saint-Gilloise 2-0 Cercle Brugge,Union Saint-Gilloise,Cercle Brugge,16lkdpoccbh056r0v0bordo2c,dz8rn85v1nyo4egvogyxnibkk
-2025-11-21,15,Standard Liège 0-0 Zulte Waregem,Standard Liège,Zulte Waregem,16lkdpoccbh056r0v0bordo2c,e0edewcmlfb3rfpp7cbca8kyc
-2025-11-09,14,Mechelen 1-1 Union Saint-Gilloise,Mechelen,Union Saint-Gilloise,16lkdpoccbh056r0v0bordo2c,dx9i0wpizkm5moqc3yepdmrkk
-2025-11-09,14,Gent 1-1 Genk,Gent,Genk,16lkdpoccbh056r0v0bordo2c,dw3rz0fq6k0lxfogwwwr92jv8
-2025-11-09,14,Sint-Truiden 1-0 Standard Liège,Sint-Truiden,Standard Liège,16lkdpoccbh056r0v0bordo2c,dxn44ydnm0x3w6rqeh46hdogk
-2025-11-09,14,Anderlecht 1-0 Club Brugge,Anderlecht,Club Brugge,16lkdpoccbh056r0v0bordo2c,dvpwtpwqdk8n92ynx9ljn0t1w
-2025-11-08,14,Antwerp 3-1 RAAL La Louvière,Antwerp,RAAL La Louvière,16lkdpoccbh056r0v0bordo2c,dwhyelv0be7cvfihb26gzndas
-2025-11-08,14,Sporting Charleroi 2-0 Westerlo,Sporting Charleroi,Westerlo,16lkdpoccbh056r0v0bordo2c,dy0yijel3fkcrftpmuesec5qs
-2025-11-08,14,Cercle Brugge 1-2 OH Leuven,Cercle Brugge,OH Leuven,16lkdpoccbh056r0v0bordo2c,dwvrsfezoy7lsopii72xnd1xw
-2025-11-07,14,Dender 2-2 Zulte Waregem,Dender,Zulte Waregem,16lkdpoccbh056r0v0bordo2c,dyghrvctjyzdo02zwplbn3sic
-2025-11-02,13,RAAL La Louvière 2-1 Cercle Brugge,RAAL La Louvière,Cercle Brugge,16lkdpoccbh056r0v0bordo2c,dtr6w4iviaj9yoiu9960fui38
-2025-11-02,13,Sint-Truiden 1-0 Antwerp,Sint-Truiden,Antwerp,16lkdpoccbh056r0v0bordo2c,duwq9gci3d1o8ffeht5eboc2c
-2025-11-02,13,OH Leuven 4-0 Gent,OH Leuven,Gent,16lkdpoccbh056r0v0bordo2c,duivyh7ccvqb0o2ykwgvaq5uc
-2025-11-02,13,Westerlo 0-1 Genk,Westerlo,Genk,16lkdpoccbh056r0v0bordo2c,dvby4relgfcry5ajkpj81naj8
-2025-11-01,13,Anderlecht 3-1 Mechelen,Anderlecht,Mechelen,16lkdpoccbh056r0v0bordo2c,dsxyjezwf0occ8v6gbn6d7thw
-2025-11-01,13,Club Brugge 2-1 Dender,Club Brugge,Dender,16lkdpoccbh056r0v0bordo2c,dsk6huhcwjvki7u0t25jfps7o
-2025-11-01,13,Zulte Waregem 1-4 Union Saint-Gilloise,Zulte Waregem,Union Saint-Gilloise,16lkdpoccbh056r0v0bordo2c,du52ksrpme72ifup9t4lcbmdw
-2025-10-31,13,Standard Liège 3-1 Sporting Charleroi,Standard Liège,Sporting Charleroi,16lkdpoccbh056r0v0bordo2c,dtdafivrl1fjgnjjhis7i9fro
-2025-10-26,12,Union Saint-Gilloise 2-0 Sint-Truiden,Union Saint-Gilloise,Sint-Truiden,16lkdpoccbh056r0v0bordo2c,dpgnf0gcf1xrb5lhg8aeg8lck
-2025-10-26,12,Genk 1-1 RAAL La Louvière,Genk,RAAL La Louvière,16lkdpoccbh056r0v0bordo2c,dpunu3piqeb5foowyk2dvm87o
-2025-10-26,12,Cercle Brugge 1-1 Zulte Waregem,Cercle Brugge,Zulte Waregem,16lkdpoccbh056r0v0bordo2c,dr085snb4h59jnygz93f3t9uc
-2025-10-26,12,Antwerp 0-1 Club Brugge,Antwerp,Club Brugge,16lkdpoccbh056r0v0bordo2c,dqmed63g1use6d7yvxqwrsoic
-2025-10-25,12,Gent 4-0 Standard Liège,Gent,Standard Liège,16lkdpoccbh056r0v0bordo2c,dq8fzgcqa3u5d6ei0n1mzxic4
-2025-10-25,12,Mechelen 1-1 OH Leuven,Mechelen,OH Leuven,16lkdpoccbh056r0v0bordo2c,drdzv152kp1zoqqdbl98trj10
-2025-10-25,12,Westerlo 1-1 Dender,Westerlo,Dender,16lkdpoccbh056r0v0bordo2c,drsde0835ia80wslq8jwrfllg
-2025-10-24,12,Sporting Charleroi 1-0 Anderlecht,Sporting Charleroi,Anderlecht,16lkdpoccbh056r0v0bordo2c,ds68pfl83c6t7ao2h965fyfis
-2025-10-20,11,Standard Liège 1-0 Antwerp,Standard Liège,Antwerp,16lkdpoccbh056r0v0bordo2c,dmpx2p0yjw674lxnhlwgsm044
-2025-10-19,11,Zulte Waregem 4-1 Gent,Zulte Waregem,Gent,16lkdpoccbh056r0v0bordo2c,dnhghky6bm79mlaviqrzsc0lw
-2025-10-19,11,Sint-Truiden 2-2 Anderlecht,Sint-Truiden,Anderlecht,16lkdpoccbh056r0v0bordo2c,dop2zraotfre3b9iuodxppf6c
-2025-10-19,11,Dender 1-3 Mechelen,Dender,Mechelen,16lkdpoccbh056r0v0bordo2c,dp2x0t9cuvm76y8ffk7h7baqc
-2025-10-19,11,Cercle Brugge 2-2 Genk,Cercle Brugge,Genk,16lkdpoccbh056r0v0bordo2c,dnvbnqeyhzf0bqcs0hinwal90
-2025-10-18,11,Union Saint-Gilloise 3-1 Sporting Charleroi,Union Saint-Gilloise,Sporting Charleroi,16lkdpoccbh056r0v0bordo2c,dmc28avvcjcqxoqgks6iswo44
-2025-10-18,11,OH Leuven 0-1 Club Brugge,OH Leuven,Club Brugge,16lkdpoccbh056r0v0bordo2c,dob21hsimmlz7agqzo8irt5w4
-2025-10-18,11,RAAL La Louvière 0-0 Westerlo,RAAL La Louvière,Westerlo,16lkdpoccbh056r0v0bordo2c,dn3nto8toelyqq2myu6s76ej8
-2025-10-05,10,Westerlo 2-0 OH Leuven,Westerlo,OH Leuven,16lkdpoccbh056r0v0bordo2c,dly0jj6xr9hi9nxzv17quzwno
-2025-10-05,10,Club Brugge 1-0 Union Saint-Gilloise,Club Brugge,Union Saint-Gilloise,16lkdpoccbh056r0v0bordo2c,dj5dvcv34cm5aqeaoj89r9iqc
-2025-10-05,10,Genk 2-1 Dender,Genk,Dender,16lkdpoccbh056r0v0bordo2c,dk0t9akh0a44jqwcm4mext1jo
-2025-10-05,10,Anderlecht 1-0 Standard Liège,Anderlecht,Standard Liège,16lkdpoccbh056r0v0bordo2c,djmayua5y68f0qd6p7vahgu8k
-2025-10-04,10,Antwerp 1-1 Cercle Brugge,Antwerp,Cercle Brugge,16lkdpoccbh056r0v0bordo2c,dksdljz2mhrjheelcxomms844
-2025-10-04,10,RAAL La Louvière 0-0 Zulte Waregem,RAAL La Louvière,Zulte Waregem,16lkdpoccbh056r0v0bordo2c,dl6c6zy77n22z1phl96olsw0k
-2025-10-04,10,Mechelen 1-3 Sint-Truiden,Mechelen,Sint-Truiden,16lkdpoccbh056r0v0bordo2c,dlk6rzwfli323km3ldtzx0r2s
-2025-10-03,10,Gent 2-1 Sporting Charleroi,Gent,Sporting Charleroi,16lkdpoccbh056r0v0bordo2c,dkeipfyeoe2j8wj7fx3rn98gk
-2025-09-28,9,Dender 0-0 RAAL La Louvière,Dender,RAAL La Louvière,16lkdpoccbh056r0v0bordo2c,dipg4834j5ompd76esudsntp0
-2025-09-28,9,Sporting Charleroi 0-2 Mechelen,Sporting Charleroi,Mechelen,16lkdpoccbh056r0v0bordo2c,di8uerk6st6a67mfl302l96hg
-2025-09-28,9,Cercle Brugge 2-4 Gent,Cercle Brugge,Gent,16lkdpoccbh056r0v0bordo2c,dgtgv36gx5atv2rbxi0wecljo
-2025-09-28,9,Sint-Truiden 1-2 Genk,Sint-Truiden,Genk,16lkdpoccbh056r0v0bordo2c,dhoo4y97kcg1jmcqd8se9zo5w
-2025-09-27,9,Union Saint-Gilloise 2-0 Westerlo,Union Saint-Gilloise,Westerlo,16lkdpoccbh056r0v0bordo2c,dfkoxyp8fwddt8kuqzposwz6c
-2025-09-27,9,Standard Liège 1-2 Club Brugge,Standard Liège,Club Brugge,16lkdpoccbh056r0v0bordo2c,dfz7i5c8caeywc76t78vuum8k
-2025-09-27,9,Zulte Waregem 2-0 Antwerp,Zulte Waregem,Antwerp,16lkdpoccbh056r0v0bordo2c,dge2ki0sobuagzbdvs1035dec
-2025-09-26,9,OH Leuven 1-1 Anderlecht,OH Leuven,Anderlecht,16lkdpoccbh056r0v0bordo2c,dh7ze0l15ri59fuhmnrs8pst0
-2025-09-24,5,Club Brugge 5-5 Westerlo,Club Brugge,Westerlo,16lkdpoccbh056r0v0bordo2c,d2urtmkkymitqz1yhp93nlvkk
-2025-09-23,5,Anderlecht 1-0 Gent,Anderlecht,Gent,16lkdpoccbh056r0v0bordo2c,d39vpkngiax2s5dz08oltri8k
-2025-09-21,8,Mechelen 0-0 Cercle Brugge,Mechelen,Cercle Brugge,16lkdpoccbh056r0v0bordo2c,def521jdlk6fhcwy1lqarx0yc
-2025-09-21,8,Club Brugge 2-0 Sint-Truiden,Club Brugge,Sint-Truiden,16lkdpoccbh056r0v0bordo2c,dcfjlasr2d5p6bx0safk69hck
-2025-09-21,8,Westerlo 0-2 Standard Liège,Westerlo,Standard Liège,16lkdpoccbh056r0v0bordo2c,desw4ci78wzqtzgv9safwr9qs
-2025-09-21,8,Genk 1-2 Union Saint-Gilloise,Genk,Union Saint-Gilloise,16lkdpoccbh056r0v0bordo2c,dd7t8ncczhgdmufdkrycuy710
-2025-09-20,8,Anderlecht 0-0 Antwerp,Anderlecht,Antwerp,16lkdpoccbh056r0v0bordo2c,dctchc15tdhseltrk66eo874k
-2025-09-20,8,Sporting Charleroi 1-2 Zulte Waregem,Sporting Charleroi,Zulte Waregem,16lkdpoccbh056r0v0bordo2c,df6qkwutnsyiy69o18amb5t78
-2025-09-20,8,OH Leuven 1-2 RAAL La Louvière,OH Leuven,RAAL La Louvière,16lkdpoccbh056r0v0bordo2c,de191c5ia8dqmkvpzprawob2s
-2025-09-19,8,Gent 3-0 Dender,Gent,Dender,16lkdpoccbh056r0v0bordo2c,ddnd8fcjkvk5559v31aub6ot0
-2025-09-17,5,Genk 0-1 Sporting Charleroi,Genk,Sporting Charleroi,16lkdpoccbh056r0v0bordo2c,d3ncgscky9voowfvshmo48sgk
-2025-09-14,7,Sint-Truiden 0-3 Westerlo,Sint-Truiden,Westerlo,16lkdpoccbh056r0v0bordo2c,dbo0ofqczmx52dg1ntbaih0d0
-2025-09-14,7,Anderlecht 1-1 Genk,Anderlecht,Genk,16lkdpoccbh056r0v0bordo2c,d9cnildmnxcukctoqosqwr11w
-2025-09-14,7,Cercle Brugge 2-3 Sporting Charleroi,Cercle Brugge,Sporting Charleroi,16lkdpoccbh056r0v0bordo2c,dba34u4bdpxe4hmocv13tumfo
-2025-09-14,7,Antwerp 1-2 Gent,Antwerp,Gent,16lkdpoccbh056r0v0bordo2c,d9qip7p8g87l4yk21eod30s9g
-2025-09-13,7,RAAL La Louvière 1-0 Club Brugge,RAAL La Louvière,Club Brugge,16lkdpoccbh056r0v0bordo2c,daihwosc4a0jmbl3l03tjbbis
-2025-09-13,7,Dender 0-1 Union Saint-Gilloise,Dender,Union Saint-Gilloise,16lkdpoccbh056r0v0bordo2c,dc1rywq0fip7dsgm8thgii3v8
-2025-09-13,7,Zulte Waregem 2-0 OH Leuven,Zulte Waregem,OH Leuven,16lkdpoccbh056r0v0bordo2c,dawbvc4ebh1knr7qctivmrod0
-2025-09-12,7,Standard Liège 1-1 Mechelen,Standard Liège,Mechelen,16lkdpoccbh056r0v0bordo2c,da4oiqbomm4zsnyqnnpigcges
-2025-08-31,6,Genk 3-2 Zulte Waregem,Genk,Zulte Waregem,16lkdpoccbh056r0v0bordo2c,d6mrg60ml084ledso8pfyy0pg
-2025-08-31,6,Union Saint-Gilloise 2-0 Anderlecht,Union Saint-Gilloise,Anderlecht,16lkdpoccbh056r0v0bordo2c,d69dmnz4cwryw37avjn35olxw
-2025-08-31,6,OH Leuven 1-0 Standard Liège,OH Leuven,Standard Liège,16lkdpoccbh056r0v0bordo2c,d7riiuoqud1d84e7gu4givjf8
-2025-08-31,6,Gent 1-1 Club Brugge,Gent,Club Brugge,16lkdpoccbh056r0v0bordo2c,d70aqa5t0tquqx87e10tsaaz8
-2025-08-30,6,Sporting Charleroi 3-1 Dender,Sporting Charleroi,Dender,16lkdpoccbh056r0v0bordo2c,d8ysan1qdctmkvjaz2adw7aqc
-2025-08-30,6,Westerlo 2-0 Antwerp,Westerlo,Antwerp,16lkdpoccbh056r0v0bordo2c,d8kz8v9trwreiinzarld1f3tg
-2025-08-30,6,Mechelen 3-2 RAAL La Louvière,Mechelen,RAAL La Louvière,16lkdpoccbh056r0v0bordo2c,d85c5w8trjcj7m7svg7nrhq8k
-2025-08-29,6,Cercle Brugge 1-1 Sint-Truiden,Cercle Brugge,Sint-Truiden,16lkdpoccbh056r0v0bordo2c,d7dvggbtgtm45n2ppui0mvcb8
-2025-08-24,5,Dender 0-1 OH Leuven,Dender,OH Leuven,16lkdpoccbh056r0v0bordo2c,d5vpyuaaynfcg6vv6ixlmfcb8
-2025-08-24,5,RAAL La Louvière 0-0 Union Saint-Gilloise,RAAL La Louvière,Union Saint-Gilloise,16lkdpoccbh056r0v0bordo2c,d4sih344kr2jewrx13r2jl7v8
-2025-08-24,5,Antwerp 2-1 Mechelen,Antwerp,Mechelen,16lkdpoccbh056r0v0bordo2c,d40vfculdopmyqvqrf9lvajv8
-2025-08-23,5,Zulte Waregem 0-2 Sint-Truiden,Zulte Waregem,Sint-Truiden,16lkdpoccbh056r0v0bordo2c,d5icao9yrmp4edxf9ge869tzo
-2025-08-23,5,Standard Liège 0-3 Cercle Brugge,Standard Liège,Cercle Brugge,16lkdpoccbh056r0v0bordo2c,d4ecqb2fqfqlsgynaori7h2j8
-2025-08-17,4,Cercle Brugge 4-1 Westerlo,Cercle Brugge,Westerlo,16lkdpoccbh056r0v0bordo2c,d0kjgbll62atkpyykhk5pmyok
-2025-08-17,4,Sporting Charleroi 1-1 Antwerp,Sporting Charleroi,Antwerp,16lkdpoccbh056r0v0bordo2c,d23o83jtk6nshrkx1ldufjqxg
-2025-08-17,4,Sint-Truiden 2-1 RAAL La Louvière,Sint-Truiden,RAAL La Louvière,16lkdpoccbh056r0v0bordo2c,d1pbu5eqsrjzjl4als87rksus
-2025-08-17,4,Dender 0-2 Anderlecht,Dender,Anderlecht,16lkdpoccbh056r0v0bordo2c,d2haklwub82xld3esoyed7qc4
-2025-08-16,4,Union Saint-Gilloise 3-0 Standard Liège,Union Saint-Gilloise,Standard Liège,16lkdpoccbh056r0v0bordo2c,czqtomsl4roqme4gdasykv4t0
-2025-08-16,4,Mechelen 1-1 Gent,Mechelen,Gent,16lkdpoccbh056r0v0bordo2c,d1bukwusnssv8t64wviw55z4k
-2025-08-16,4,Zulte Waregem 0-1 Club Brugge,Zulte Waregem,Club Brugge,16lkdpoccbh056r0v0bordo2c,d071da82s7jrttnhwhvtsvgno
-2025-08-15,4,OH Leuven 1-2 Genk,OH Leuven,Genk,16lkdpoccbh056r0v0bordo2c,d0y4sncaf09mzv9ms24ck6olw
-2025-08-10,3,Antwerp 3-1 OH Leuven,Antwerp,OH Leuven,16lkdpoccbh056r0v0bordo2c,cxtfvvs8g6im8v2btf5nupfro
-2025-08-10,3,Standard Liège 2-1 Genk,Standard Liège,Genk,16lkdpoccbh056r0v0bordo2c,cy8m0gbsoztwd4ed7d7193wus
-2025-08-10,3,Anderlecht 2-3 Zulte Waregem,Anderlecht,Zulte Waregem,16lkdpoccbh056r0v0bordo2c,cx2qxw4p0tw7ijhp9lfxpauj8
-2025-08-10,3,RAAL La Louvière 1-0 Sporting Charleroi,RAAL La Louvière,Sporting Charleroi,16lkdpoccbh056r0v0bordo2c,cym4he9mpt9tww524lfkdvqqc
-2025-08-09,3,Gent 2-3 Union Saint-Gilloise,Gent,Union Saint-Gilloise,16lkdpoccbh056r0v0bordo2c,cxg2gx4y7wa6pf43mbm05ajh0
-2025-08-09,3,Westerlo 0-1 Mechelen,Westerlo,Mechelen,16lkdpoccbh056r0v0bordo2c,czd9ippkf6ci54azw5ja2q87o
-2025-08-09,3,Club Brugge 2-0 Cercle Brugge,Club Brugge,Cercle Brugge,16lkdpoccbh056r0v0bordo2c,cwpaptehak3d9iwfv0h990efo
-2025-08-08,3,Sint-Truiden 2-0 Dender,Sint-Truiden,Dender,16lkdpoccbh056r0v0bordo2c,cyzluw8fjvll7uj0cyw4tixas
-2025-08-03,2,Sporting Charleroi 1-1 Sint-Truiden,Sporting Charleroi,Sint-Truiden,16lkdpoccbh056r0v0bordo2c,cwbvvo3ihe5lixd3vnbxkdic4
-2025-08-03,2,Union Saint-Gilloise 5-0 OH Leuven,Union Saint-Gilloise,OH Leuven,16lkdpoccbh056r0v0bordo2c,ctopnopmg8mzxf3q6rje346qc
-2025-08-03,2,Cercle Brugge 0-2 Anderlecht,Cercle Brugge,Anderlecht,16lkdpoccbh056r0v0bordo2c,cv77l0w0e1rgyg7gydk77fztg
-2025-08-03,2,Genk 1-1 Antwerp,Genk,Antwerp,16lkdpoccbh056r0v0bordo2c,cu2j8uf1vr6rdt4k1sy4idpuc
-2025-08-02,2,Gent 1-0 RAAL La Louvière,Gent,RAAL La Louvière,16lkdpoccbh056r0v0bordo2c,cug3rgjes87a485nptif9e87o
-2025-08-02,2,Standard Liège 1-1 Dender,Standard Liège,Dender,16lkdpoccbh056r0v0bordo2c,cutncfsenx29nf9zjf110r504
-2025-08-02,2,Westerlo 3-1 Zulte Waregem,Westerlo,Zulte Waregem,16lkdpoccbh056r0v0bordo2c,cvyfua9heb60esppgxscfosno
-2025-08-01,2,Mechelen 2-1 Club Brugge,Mechelen,Club Brugge,16lkdpoccbh056r0v0bordo2c,cvkwn8n7se0g9lpupr5nam1as
-2025-07-27,1,Sint-Truiden 3-1 Gent,Sint-Truiden,Gent,16lkdpoccbh056r0v0bordo2c,cssry12q4nad9u2uhlop10j6c
-2025-07-27,1,Club Brugge 2-1 Genk,Club Brugge,Genk,16lkdpoccbh056r0v0bordo2c,cpvogijafub0vlc4saztz3i8k
-2025-07-27,1,OH Leuven 2-2 Sporting Charleroi,OH Leuven,Sporting Charleroi,16lkdpoccbh056r0v0bordo2c,csbw4frxjcvgpv95iekqvb21g
-2025-07-27,1,Anderlecht 5-2 Westerlo,Anderlecht,Westerlo,16lkdpoccbh056r0v0bordo2c,cqftdiqsav55s3nr7romb0pw4
-2025-07-26,1,RAAL La Louvière 0-2 Standard Liège,RAAL La Louvière,Standard Liège,16lkdpoccbh056r0v0bordo2c,crd9rwfges4iisviryeb5pkpg
-2025-07-26,1,Zulte Waregem 1-1 Mechelen,Zulte Waregem,Mechelen,16lkdpoccbh056r0v0bordo2c,crv24qxhblgw1pgas4je6b0no
-2025-07-26,1,Dender 0-0 Cercle Brugge,Dender,Cercle Brugge,16lkdpoccbh056r0v0bordo2c,ctb108vw45q3h6fkie2a9z8d0
-2025-07-25,1,Antwerp 1-1 Union Saint-Gilloise,Antwerp,Union Saint-Gilloise,16lkdpoccbh056r0v0bordo2c,cqwgnrk8cf7og3cuzykxf7nkk
+2026-05-31,,Gent 0-0 Genk,Gent,Genk,16lkdpoccbh056r0v0bordo2c,ee0yebpq41hm8w6vvq8uccnis
+2026-05-24,10.0,Sint-Truiden 3-0 Mechelen,Sint-Truiden,Mechelen,16lkdpoccbh056r0v0bordo2c,7liir8zj32o7m2udr7cknb8d0
+2026-05-24,10.0,Union Saint-Gilloise 5-1 Anderlecht,Union Saint-Gilloise,Anderlecht,16lkdpoccbh056r0v0bordo2c,7l74ilyz7olljclexvn8tbjtg
+2026-05-24,10.0,Club Brugge 5-0 Gent,Club Brugge,Gent,16lkdpoccbh056r0v0bordo2c,7kvvf6blnps2xk15100ccdedw
+2026-05-23,10.0,Standard Liège 0-2 Sporting Charleroi,Standard Liège,Sporting Charleroi,16lkdpoccbh056r0v0bordo2c,7nwgtyk106orwf9cr9sfsrgus
+2026-05-23,10.0,Antwerp 2-0 Westerlo,Antwerp,Westerlo,16lkdpoccbh056r0v0bordo2c,7nlznjb6d6m4xl0nhj5ea7nro
+2026-05-23,10.0,OH Leuven 0-2 Genk,OH Leuven,Genk,16lkdpoccbh056r0v0bordo2c,7nbj14tqx3jvprqhqw6k7zdhw
+2026-05-21,9.0,Anderlecht 3-1 Sint-Truiden,Anderlecht,Sint-Truiden,16lkdpoccbh056r0v0bordo2c,7kkohxv9dr8osri9oydsvcoic
+2026-05-21,9.0,Mechelen 2-2 Club Brugge,Mechelen,Club Brugge,16lkdpoccbh056r0v0bordo2c,7k9dzm0l209kchtvxqby3usd0
+2026-05-21,9.0,Gent 0-0 Union Saint-Gilloise,Gent,Union Saint-Gilloise,16lkdpoccbh056r0v0bordo2c,7jy1u6np06jtz7c20bv2iaihg
+2026-05-19,9.0,Sporting Charleroi 1-1 OH Leuven,Sporting Charleroi,OH Leuven,16lkdpoccbh056r0v0bordo2c,7n127chf7d4fttay1o6q5rj10
+2026-05-19,9.0,Westerlo 1-2 Standard Liège,Westerlo,Standard Liège,16lkdpoccbh056r0v0bordo2c,7mqfa5mu440147ya78wd7nxuc
+2026-05-19,9.0,Genk 0-0 Antwerp,Genk,Antwerp,16lkdpoccbh056r0v0bordo2c,7mfryydnwlbzahgb6jvo0knx0
+2026-05-17,8.0,Club Brugge 5-0 Union Saint-Gilloise,Club Brugge,Union Saint-Gilloise,16lkdpoccbh056r0v0bordo2c,7jmvws8h5lvxzx5injern65uc
+2026-05-17,8.0,Anderlecht 2-2 Mechelen,Anderlecht,Mechelen,16lkdpoccbh056r0v0bordo2c,7jbntoytbosw1he6nqjfstb84
+2026-05-16,8.0,Sint-Truiden 1-1 Gent,Sint-Truiden,Gent,16lkdpoccbh056r0v0bordo2c,7j0d2kwgfg5atb2gou434g9w4
+2026-05-16,8.0,Standard Liège 0-0 Genk,Standard Liège,Genk,16lkdpoccbh056r0v0bordo2c,7m50ic2zlcgo0badxzg1twidw
+2026-05-16,8.0,Sporting Charleroi 0-1 Westerlo,Sporting Charleroi,Westerlo,16lkdpoccbh056r0v0bordo2c,7lui91k6utrlze3hpec4pilg4
+2026-05-15,8.0,OH Leuven 3-0 Antwerp,OH Leuven,Antwerp,16lkdpoccbh056r0v0bordo2c,7ljtchygtqurdyoyhq5dcidqs
+2026-05-10,7.0,Genk 3-0 Westerlo,Genk,Westerlo,16lkdpoccbh056r0v0bordo2c,7l939iuc5gwhs5newaeqivhuc
+2026-05-10,7.0,Union Saint-Gilloise 3-0 Mechelen,Union Saint-Gilloise,Mechelen,16lkdpoccbh056r0v0bordo2c,7ip5mc670xpqejytjhxnyfxn8
+2026-05-10,7.0,Antwerp 0-1 Sporting Charleroi,Antwerp,Sporting Charleroi,16lkdpoccbh056r0v0bordo2c,7kyki3erpoygjbaqo6b2ripsk
+2026-05-10,7.0,Gent 1-1 Anderlecht,Gent,Anderlecht,16lkdpoccbh056r0v0bordo2c,7idz6m835b3w5xvl6ah1sntp0
+2026-05-09,7.0,Club Brugge 2-0 Sint-Truiden,Club Brugge,Sint-Truiden,16lkdpoccbh056r0v0bordo2c,7i2vbosda5fa7tx2g14k95c7o
+2026-05-09,6.0,Zulte Waregem 2-1 Dender,Zulte Waregem,Dender,16lkdpoccbh056r0v0bordo2c,7l793hozh635vbro1mq2h9dlg
+2026-05-09,6.0,RAAL La Louvière 4-1 Cercle Brugge,RAAL La Louvière,Cercle Brugge,16lkdpoccbh056r0v0bordo2c,7kv4s4ljath2o5c5ddbnb4h04
+2026-05-08,7.0,Standard Liège 2-1 OH Leuven,Standard Liège,OH Leuven,16lkdpoccbh056r0v0bordo2c,7knxy2o0y7r1gydmzfimenvo4
+2026-05-03,5.0,Dender 2-1 RAAL La Louvière,Dender,RAAL La Louvière,16lkdpoccbh056r0v0bordo2c,7kivr1vtllwqgpfhhpueukt1w
+2026-05-03,6.0,Anderlecht 1-3 Club Brugge,Anderlecht,Club Brugge,16lkdpoccbh056r0v0bordo2c,7hroglcz56krv2f9mgz5ltqtw
+2026-05-03,6.0,Antwerp 0-5 Standard Liège,Antwerp,Standard Liège,16lkdpoccbh056r0v0bordo2c,7kdbfwhuimorty0lv90l6twyc
+2026-05-03,6.0,Mechelen 1-0 Gent,Mechelen,Gent,16lkdpoccbh056r0v0bordo2c,7hgkdduhh8gy49qkgis5w3310
+2026-05-02,6.0,Sint-Truiden 2-1 Union Saint-Gilloise,Sint-Truiden,Union Saint-Gilloise,16lkdpoccbh056r0v0bordo2c,7h50d5zuzwqgf0d4v3isd2iac
+2026-05-02,6.0,Sporting Charleroi 2-0 Genk,Sporting Charleroi,Genk,16lkdpoccbh056r0v0bordo2c,7k2l0kpw781bzb3ghdr4bhct0
+2026-05-02,6.0,Westerlo 3-3 OH Leuven,Westerlo,OH Leuven,16lkdpoccbh056r0v0bordo2c,7jrythrf8189drjemqx9nqntg
+2026-05-01,5.0,Cercle Brugge 2-3 Zulte Waregem,Cercle Brugge,Zulte Waregem,16lkdpoccbh056r0v0bordo2c,7k6vgz40f16v3k4028j5zzmz8
+2026-04-26,4.0,Zulte Waregem 4-0 RAAL La Louvière,Zulte Waregem,RAAL La Louvière,16lkdpoccbh056r0v0bordo2c,7juthhelkjy8ikqj31dj40178
+2026-04-26,5.0,Anderlecht 1-3 Union Saint-Gilloise,Anderlecht,Union Saint-Gilloise,16lkdpoccbh056r0v0bordo2c,7gtxtz8zp6ed2a3vqvzsj2ql0
+2026-04-26,5.0,Mechelen 1-4 Sint-Truiden,Mechelen,Sint-Truiden,16lkdpoccbh056r0v0bordo2c,7gisysf3hff7pkwpd8si9qgb8
+2026-04-26,5.0,Gent 0-2 Club Brugge,Gent,Club Brugge,16lkdpoccbh056r0v0bordo2c,7g7lb7yr2vnjsy25vo8hwa710
+2026-04-25,5.0,Westerlo 2-4 Antwerp,Westerlo,Antwerp,16lkdpoccbh056r0v0bordo2c,7jh8xaydmbql6v2wmjn6mkxsk
+2026-04-25,5.0,Genk 1-1 Standard Liège,Genk,Standard Liège,16lkdpoccbh056r0v0bordo2c,7j6n3rz17e1kv92lgvjepmoes
+2026-04-25,5.0,OH Leuven 0-2 Sporting Charleroi,OH Leuven,Sporting Charleroi,16lkdpoccbh056r0v0bordo2c,7ivzwq2rophp7sqvws1h0qfpw
+2026-04-24,4.0,Cercle Brugge 2-1 Dender,Cercle Brugge,Dender,16lkdpoccbh056r0v0bordo2c,7jirvqi4534crk75zj0vwjpxw
+2026-04-23,4.0,Sint-Truiden 2-0 Anderlecht,Sint-Truiden,Anderlecht,16lkdpoccbh056r0v0bordo2c,7fw9ygvz7bd2ktac4odtipdec
+2026-04-22,4.0,Union Saint-Gilloise 0-0 Gent,Union Saint-Gilloise,Gent,16lkdpoccbh056r0v0bordo2c,7fkzcdbzw8v52c0faaz14i5uc
+2026-04-22,4.0,Club Brugge 6-1 Mechelen,Club Brugge,Mechelen,16lkdpoccbh056r0v0bordo2c,7f9rog2rw0wy44qy2mijzs1lg
+2026-04-21,4.0,Standard Liège 1-2 Antwerp,Standard Liège,Antwerp,16lkdpoccbh056r0v0bordo2c,7ilcm1dvatabej8yzqog4e238
+2026-04-21,4.0,OH Leuven 0-2 Westerlo,OH Leuven,Westerlo,16lkdpoccbh056r0v0bordo2c,7ias9qo96dc6s37njgm0jhhjo
+2026-04-21,4.0,Genk 1-1 Sporting Charleroi,Genk,Sporting Charleroi,16lkdpoccbh056r0v0bordo2c,7i045tuvmtmmpfqzdcl2g2z2s
+2026-04-19,3.0,RAAL La Louvière 0-2 Zulte Waregem,RAAL La Louvière,Zulte Waregem,16lkdpoccbh056r0v0bordo2c,7j6uzzvykje5w45e7603y8duc
+2026-04-19,3.0,Union Saint-Gilloise 2-1 Club Brugge,Union Saint-Gilloise,Club Brugge,16lkdpoccbh056r0v0bordo2c,7exrbdrl909tzf56y8fedoums
+2026-04-19,3.0,Dender 1-4 Cercle Brugge,Dender,Cercle Brugge,16lkdpoccbh056r0v0bordo2c,7iunc0xsktvda2797natfr8d0
+2026-04-19,3.0,Gent 0-0 Sint-Truiden,Gent,Sint-Truiden,16lkdpoccbh056r0v0bordo2c,7emg39bwq4xxuaazshd44q68k
+2026-04-18,3.0,Mechelen 1-2 Anderlecht,Mechelen,Anderlecht,16lkdpoccbh056r0v0bordo2c,7eb4dvclxb09j9q0gyv8atdzo
+2026-04-18,3.0,Sporting Charleroi 1-2 Standard Liège,Sporting Charleroi,Standard Liège,16lkdpoccbh056r0v0bordo2c,7hp8sylo0tfldfomnvc7c8ro4
+2026-04-18,3.0,Westerlo 1-2 Genk,Westerlo,Genk,16lkdpoccbh056r0v0bordo2c,7hemhvemzuzd0mx38ojrvm6ms
+2026-04-18,3.0,Antwerp 2-0 OH Leuven,Antwerp,OH Leuven,16lkdpoccbh056r0v0bordo2c,7h3eyd3zdqa8iw52s6jetjhuc
+2026-04-12,2.0,Dender 1-2 Zulte Waregem,Dender,Zulte Waregem,16lkdpoccbh056r0v0bordo2c,7iiks3ymq2m5rh4pok1s3qj2s
+2026-04-12,2.0,Anderlecht 3-1 Gent,Anderlecht,Gent,16lkdpoccbh056r0v0bordo2c,7dzrw29hljktc0nbxyjt99mac
+2026-04-12,2.0,Genk 0-0 OH Leuven,Genk,OH Leuven,16lkdpoccbh056r0v0bordo2c,7gsoiyk67tsky473agfibhedw
+2026-04-12,2.0,Mechelen 0-1 Union Saint-Gilloise,Mechelen,Union Saint-Gilloise,16lkdpoccbh056r0v0bordo2c,7dodc450s6xs2nlrv6roj5zis
+2026-04-11,2.0,Sint-Truiden 1-2 Club Brugge,Sint-Truiden,Club Brugge,16lkdpoccbh056r0v0bordo2c,7dczce152ft85lw0twvcr8nx0
+2026-04-11,2.0,Standard Liège 1-2 Westerlo,Standard Liège,Westerlo,16lkdpoccbh056r0v0bordo2c,7gi2h8wyfhbp3u3sagiop6e50
+2026-04-11,2.0,Cercle Brugge 3-0 RAAL La Louvière,Cercle Brugge,RAAL La Louvière,16lkdpoccbh056r0v0bordo2c,7i6mde4rhh8zk5qidft1fa0wk
+2026-04-10,2.0,Sporting Charleroi 2-1 Antwerp,Sporting Charleroi,Antwerp,16lkdpoccbh056r0v0bordo2c,7g7c2a5k8pghte50sj80v5no4
+2026-04-06,1.0,Gent 1-1 Mechelen,Gent,Mechelen,16lkdpoccbh056r0v0bordo2c,7d1mbu22sf0sfy0bmcv2b3pck
+2026-04-06,1.0,RAAL La Louvière 0-1 Dender,RAAL La Louvière,Dender,16lkdpoccbh056r0v0bordo2c,7hunfd589b8hoy7mzfp0t1puc
+2026-04-06,1.0,Club Brugge 4-2 Anderlecht,Club Brugge,Anderlecht,16lkdpoccbh056r0v0bordo2c,7cnm7h7qbsq2bbaxngusojh90
+2026-04-05,1.0,Westerlo 2-0 Sporting Charleroi,Westerlo,Sporting Charleroi,16lkdpoccbh056r0v0bordo2c,7fwmbgnrtub0dr59myuyvfmdw
+2026-04-04,1.0,Union Saint-Gilloise 1-0 Sint-Truiden,Union Saint-Gilloise,Sint-Truiden,16lkdpoccbh056r0v0bordo2c,7c70lbblfvhtga3sy364rh05w
+2026-04-04,1.0,OH Leuven 1-3 Standard Liège,OH Leuven,Standard Liège,16lkdpoccbh056r0v0bordo2c,7fjidut4cmk5iy9oowo4smm8k
+2026-04-04,1.0,Zulte Waregem 2-2 Cercle Brugge,Zulte Waregem,Cercle Brugge,16lkdpoccbh056r0v0bordo2c,7hch9pdts8pzsydsccimknuhg
+2026-04-03,1.0,Antwerp 1-2 Genk,Antwerp,Genk,16lkdpoccbh056r0v0bordo2c,7f3n0q8gpc39t6m8gvxtntdsk
+2026-03-22,30.0,Dender 1-3 Gent,Dender,Gent,16lkdpoccbh056r0v0bordo2c,7vwx8gpspwpiwt5kimkrtn9w
+2026-03-22,30.0,Sint-Truiden 1-3 Union Saint-Gilloise,Sint-Truiden,Union Saint-Gilloise,16lkdpoccbh056r0v0bordo2c,7i6p9irsrd46r8xwkw528v84
+2026-03-22,30.0,OH Leuven 1-0 Antwerp,OH Leuven,Antwerp,16lkdpoccbh056r0v0bordo2c,74api9wr81u45njsbbpvqfx0
+2026-03-22,30.0,Zulte Waregem 1-0 Sporting Charleroi,Zulte Waregem,Sporting Charleroi,16lkdpoccbh056r0v0bordo2c,6qflpxyqdfwuu5rysj57jmz8
+2026-03-22,30.0,RAAL La Louvière 5-5 Genk,RAAL La Louvière,Genk,16lkdpoccbh056r0v0bordo2c,6cmllhgk50qmjh9cnwxzxj4k
+2026-03-22,30.0,Standard Liège 0-0 Westerlo,Standard Liège,Westerlo,16lkdpoccbh056r0v0bordo2c,5yulmd6q8fmyxrvb1x273wgk
+2026-03-22,30.0,Anderlecht 2-3 Cercle Brugge,Anderlecht,Cercle Brugge,16lkdpoccbh056r0v0bordo2c,5l2a4vu1os0jewmhlms0bj84
+2026-03-22,30.0,Club Brugge 4-1 Mechelen,Club Brugge,Mechelen,16lkdpoccbh056r0v0bordo2c,574hib69vdqlyaibqb3ylgr8
+2026-03-15,29.0,Cercle Brugge 1-3 RAAL La Louvière,Cercle Brugge,RAAL La Louvière,16lkdpoccbh056r0v0bordo2c,3j50j7sjjsbyojpdnbeiny1g
+2026-03-15,29.0,Mechelen 1-0 Anderlecht,Mechelen,Anderlecht,16lkdpoccbh056r0v0bordo2c,3ww0bxfebitggkq1kd9if9xw
+2026-03-15,29.0,Antwerp 1-1 Standard Liège,Antwerp,Standard Liège,16lkdpoccbh056r0v0bordo2c,33mf5x1j4e1viiif91wgi49g
+2026-03-15,29.0,Genk 1-0 Sint-Truiden,Genk,Sint-Truiden,16lkdpoccbh056r0v0bordo2c,2bs03biibb5ao8fo7843e5g4
+2026-03-14,29.0,Westerlo 1-2 Club Brugge,Westerlo,Club Brugge,16lkdpoccbh056r0v0bordo2c,4bp0f3c6l2o3udm5ubi70x04
+2026-03-14,29.0,Union Saint-Gilloise 2-0 Dender,Union Saint-Gilloise,Dender,16lkdpoccbh056r0v0bordo2c,1wwj496t086beboqc0iuhdsk
+2026-03-14,29.0,Sporting Charleroi 0-2 OH Leuven,Sporting Charleroi,OH Leuven,16lkdpoccbh056r0v0bordo2c,4t7ou8xzmiup5d5jniudx0k4
+2026-03-13,29.0,Gent 2-0 Zulte Waregem,Gent,Zulte Waregem,16lkdpoccbh056r0v0bordo2c,2pmvsm643e8tytuelbft5lp0
+2026-03-08,28.0,Sint-Truiden 2-1 Cercle Brugge,Sint-Truiden,Cercle Brugge,16lkdpoccbh056r0v0bordo2c,153f1w11fpw6ar7hrxxk4jys
+2026-03-08,28.0,Zulte Waregem 0-1 Standard Liège,Zulte Waregem,Standard Liège,16lkdpoccbh056r0v0bordo2c,dnmll4cqeqxamyik6sz7nkk
+2026-03-08,28.0,Gent 3-1 Mechelen,Gent,Mechelen,16lkdpoccbh056r0v0bordo2c,f57vlnatjynr6engvu18s7oyc
+2026-03-08,28.0,Club Brugge 2-2 Anderlecht,Club Brugge,Anderlecht,16lkdpoccbh056r0v0bordo2c,f4gaomgmwomctgnkcj66q3g2c
+2026-03-07,28.0,Union Saint-Gilloise 2-1 Genk,Union Saint-Gilloise,Genk,16lkdpoccbh056r0v0bordo2c,f4tz9gtyjresngp3145w7c0t0
+2026-03-07,28.0,Dender 2-2 Sporting Charleroi,Dender,Sporting Charleroi,16lkdpoccbh056r0v0bordo2c,1izk1yu7mph50gx2527wxez8
+2026-03-07,28.0,OH Leuven 0-1 Westerlo,OH Leuven,Westerlo,16lkdpoccbh056r0v0bordo2c,rf7k8o1xjf0xw5zrgpbtmhg
+2026-03-06,28.0,RAAL La Louvière 0-0 Antwerp,RAAL La Louvière,Antwerp,16lkdpoccbh056r0v0bordo2c,f5lplqp49otqgm3n7fbj0zcic
+2026-03-01,27.0,Cercle Brugge 0-0 Dender,Cercle Brugge,Dender,16lkdpoccbh056r0v0bordo2c,f2tlncmhxcs1o134fa40kagic
+2026-03-01,27.0,Sporting Charleroi 1-2 Club Brugge,Sporting Charleroi,Club Brugge,16lkdpoccbh056r0v0bordo2c,f42jyt2b0kdim2ekmzmq281zo
+2026-03-01,27.0,Westerlo 0-0 Union Saint-Gilloise,Westerlo,Union Saint-Gilloise,16lkdpoccbh056r0v0bordo2c,f3lardortymo57jam9tegm0wk
+2026-03-01,27.0,Genk 3-0 Gent,Genk,Gent,16lkdpoccbh056r0v0bordo2c,f1npgg0t0c2fxgph5pp3v261g
+2026-02-28,27.0,Anderlecht 5-1 OH Leuven,Anderlecht,OH Leuven,16lkdpoccbh056r0v0bordo2c,f19ucr3rev3uy5uvxjxznqsk4
+2026-02-28,27.0,Antwerp 1-0 Sint-Truiden,Antwerp,Sint-Truiden,16lkdpoccbh056r0v0bordo2c,f21nd3oqxripooovjh8ptvzf8
+2026-02-28,27.0,Mechelen 2-1 Zulte Waregem,Mechelen,Zulte Waregem,16lkdpoccbh056r0v0bordo2c,f37gfhwdif1urnj5wl6opbb4k
+2026-02-27,27.0,Standard Liège 1-1 RAAL La Louvière,Standard Liège,RAAL La Louvière,16lkdpoccbh056r0v0bordo2c,f2fpw104dlkeue9kyf2ytfa50
+2026-02-22,26.0,Westerlo 2-1 Sporting Charleroi,Westerlo,Sporting Charleroi,16lkdpoccbh056r0v0bordo2c,f0ibl06bvna0cjmcosy311jis
+2026-02-22,26.0,Zulte Waregem 2-4 Anderlecht,Zulte Waregem,Anderlecht,16lkdpoccbh056r0v0bordo2c,f03y92sdjp1k6twx04yz692c4
+2026-02-22,26.0,RAAL La Louvière 0-2 Mechelen,RAAL La Louvière,Mechelen,16lkdpoccbh056r0v0bordo2c,ezkjg5qh4pfxes13poxqf0vf8
+2026-02-22,26.0,Genk 0-3 Standard Liège,Genk,Standard Liège,16lkdpoccbh056r0v0bordo2c,eyswkvtvidrxeggtyh9pw5d78
+2026-02-21,26.0,Union Saint-Gilloise 2-1 Antwerp,Union Saint-Gilloise,Antwerp,16lkdpoccbh056r0v0bordo2c,eydix74qfme97ojm7qjsrsbv8
+2026-02-21,26.0,Club Brugge 2-1 OH Leuven,Club Brugge,OH Leuven,16lkdpoccbh056r0v0bordo2c,exzov7o3p9v5vqr86qipfm1w4
+2026-02-21,26.0,Dender 1-4 Sint-Truiden,Dender,Sint-Truiden,16lkdpoccbh056r0v0bordo2c,f0w8b0fnobdmy7z4owj77807o
+2026-02-20,26.0,Gent 0-1 Cercle Brugge,Gent,Cercle Brugge,16lkdpoccbh056r0v0bordo2c,ez6omspxkljt8su106j50tc0k
+2026-02-15,25.0,Sint-Truiden 3-2 Zulte Waregem,Sint-Truiden,Zulte Waregem,16lkdpoccbh056r0v0bordo2c,ex831bwt14o33lmd1f4myzj84
+2026-02-15,25.0,Anderlecht 0-0 RAAL La Louvière,Anderlecht,RAAL La Louvière,16lkdpoccbh056r0v0bordo2c,euwwyw2j98k429e0s4weoknx0
+2026-02-15,25.0,Antwerp 0-2 Westerlo,Antwerp,Westerlo,16lkdpoccbh056r0v0bordo2c,evaq0cyoznv6qopg6ua1akob8
+2026-02-15,25.0,Cercle Brugge 1-2 Club Brugge,Cercle Brugge,Club Brugge,16lkdpoccbh056r0v0bordo2c,ew2goxs8515mnno0uwfrxhyj8
+2026-02-14,25.0,Standard Liège 1-1 Union Saint-Gilloise,Standard Liège,Union Saint-Gilloise,16lkdpoccbh056r0v0bordo2c,evofe87bvpnp8scgm3q2h0ljo
+2026-02-14,25.0,Sporting Charleroi 2-3 Gent,Sporting Charleroi,Gent,16lkdpoccbh056r0v0bordo2c,exlr6epvnff2o4lokj51j2z9w
+2026-02-14,25.0,OH Leuven 3-2 Dender,OH Leuven,Dender,16lkdpoccbh056r0v0bordo2c,ewgb5fczpfa71pfzihlip6yok
+2026-02-13,25.0,Mechelen 2-3 Genk,Mechelen,Genk,16lkdpoccbh056r0v0bordo2c,ewu8k4xyscs651jz3g8aysrv8
+2026-02-08,24.0,Mechelen 2-0 Antwerp,Mechelen,Antwerp,16lkdpoccbh056r0v0bordo2c,etrox0jd6hg0fmere3hp3uzh0
+2026-02-08,24.0,Club Brugge 3-0 Standard Liège,Club Brugge,Standard Liège,16lkdpoccbh056r0v0bordo2c,ersrmq2rw8qwesgywqt0nthqs
+2026-02-08,24.0,Union Saint-Gilloise 2-1 RAAL La Louvière,Union Saint-Gilloise,RAAL La Louvière,16lkdpoccbh056r0v0bordo2c,es6nw78yq50n082mun0tvtfdg
+2026-02-08,24.0,Genk 2-0 Anderlecht,Genk,Anderlecht,16lkdpoccbh056r0v0bordo2c,eskhj4422627ly0covoiz8efo
+2026-02-07,24.0,Gent 1-3 OH Leuven,Gent,OH Leuven,16lkdpoccbh056r0v0bordo2c,esy974nh0dqx61hrn6g35y044
+2026-02-07,24.0,Sporting Charleroi 3-4 Cercle Brugge,Sporting Charleroi,Cercle Brugge,16lkdpoccbh056r0v0bordo2c,euj1szzq95vk4o3vf50qv0is4
+2026-02-07,24.0,Zulte Waregem 1-0 Dender,Zulte Waregem,Dender,16lkdpoccbh056r0v0bordo2c,etc612l6ja97bgkn9t7oscs9g
+2026-02-06,24.0,Westerlo 0-4 Sint-Truiden,Westerlo,Sint-Truiden,16lkdpoccbh056r0v0bordo2c,eu5dwgv34woon05xmas71ln9w
+2026-02-01,23.0,OH Leuven 2-2 Mechelen,OH Leuven,Mechelen,16lkdpoccbh056r0v0bordo2c,eqncupz92qy89z9bxks1e0t90
+2026-02-01,23.0,Union Saint-Gilloise 1-0 Club Brugge,Union Saint-Gilloise,Club Brugge,16lkdpoccbh056r0v0bordo2c,eoq56ma8dj3xdkklka2w77das
+2026-02-01,23.0,Dender 1-2 Genk,Dender,Genk,16lkdpoccbh056r0v0bordo2c,erewj57ob18s9dvwrgadrjfv8
+2026-02-01,23.0,Standard Liège 2-0 Anderlecht,Standard Liège,Anderlecht,16lkdpoccbh056r0v0bordo2c,ep3zb4us0b4omv1osvvmsof10
+2026-01-31,23.0,Sint-Truiden 0-2 Sporting Charleroi,Sint-Truiden,Sporting Charleroi,16lkdpoccbh056r0v0bordo2c,er14z0ficejcle9jz648ikh78
+2026-01-31,23.0,Zulte Waregem 0-1 Westerlo,Zulte Waregem,Westerlo,16lkdpoccbh056r0v0bordo2c,epvvurbxvwunun6d2lmyijqc4
+2026-01-31,23.0,Cercle Brugge 0-4 Antwerp,Cercle Brugge,Antwerp,16lkdpoccbh056r0v0bordo2c,eq9ngv5z8md4t4p7tzgorotg4
+2026-01-30,23.0,RAAL La Louvière 1-1 Gent,RAAL La Louvière,Gent,16lkdpoccbh056r0v0bordo2c,ephwifxt8pgci6dxxrae84rv8
+2026-01-25,22.0,Mechelen 1-1 Westerlo,Mechelen,Westerlo,16lkdpoccbh056r0v0bordo2c,eo9pdwngja3jmx7suwi28eiok
+2026-01-25,22.0,Anderlecht 0-0 Dender,Anderlecht,Dender,16lkdpoccbh056r0v0bordo2c,elvn78yf4tfi7f47u2rvcwk5w
+2026-01-25,22.0,Genk 1-1 Cercle Brugge,Genk,Cercle Brugge,16lkdpoccbh056r0v0bordo2c,emabtprwv273btjtenb4ieolw
+2026-01-25,22.0,Antwerp 0-2 Sporting Charleroi,Antwerp,Sporting Charleroi,16lkdpoccbh056r0v0bordo2c,empwqlvi4ne0i8rkhtzadhwyc
+2026-01-24,22.0,OH Leuven 0-0 Union Saint-Gilloise,OH Leuven,Union Saint-Gilloise,16lkdpoccbh056r0v0bordo2c,enw1n6mhkzvb6uptwhzs4gowk
+2026-01-24,22.0,Club Brugge 4-3 Zulte Waregem,Club Brugge,Zulte Waregem,16lkdpoccbh056r0v0bordo2c,elhaogx340v0kycpamm92goic
+2026-01-24,22.0,RAAL La Louvière 1-2 Sint-Truiden,RAAL La Louvière,Sint-Truiden,16lkdpoccbh056r0v0bordo2c,eni5fx1f7miykymmf4172tgd0
+2026-01-23,22.0,Standard Liège 0-4 Gent,Standard Liège,Gent,16lkdpoccbh056r0v0bordo2c,en3pwmf7ub7r0wgc838j7ckk4
+2026-01-18,21.0,Sint-Truiden 1-0 OH Leuven,Sint-Truiden,OH Leuven,16lkdpoccbh056r0v0bordo2c,ejqw6juegshs0txtuuxahtno4
+2026-01-18,21.0,Sporting Charleroi 2-0 Standard Liège,Sporting Charleroi,Standard Liège,16lkdpoccbh056r0v0bordo2c,ekpoicrlbz0xwi57ll0657rx0
+2026-01-18,21.0,Dender 1-0 Antwerp,Dender,Antwerp,16lkdpoccbh056r0v0bordo2c,el3novhev4o18mkk7nr5a9m38
+2026-01-18,21.0,Gent 4-2 Anderlecht,Gent,Anderlecht,16lkdpoccbh056r0v0bordo2c,eiuwoeqzne98530endjiq21hw
+2026-01-17,21.0,Union Saint-Gilloise 1-0 Mechelen,Union Saint-Gilloise,Mechelen,16lkdpoccbh056r0v0bordo2c,eiga39b574vp5rga3hfkfiql0
+2026-01-17,21.0,Westerlo 0-2 Cercle Brugge,Westerlo,Cercle Brugge,16lkdpoccbh056r0v0bordo2c,ek8awp2gucdtm69ec52q8vwgk
+2026-01-17,21.0,Zulte Waregem 2-1 Genk,Zulte Waregem,Genk,16lkdpoccbh056r0v0bordo2c,ejcqfmw1idajhzp8e8fvqgbv8
+2026-01-16,21.0,Club Brugge 2-3 RAAL La Louvière,Club Brugge,RAAL La Louvière,16lkdpoccbh056r0v0bordo2c,ei2fh3jdkvnsminobo1edlv6c
+2025-12-27,20.0,Gent 2-0 Westerlo,Gent,Westerlo,16lkdpoccbh056r0v0bordo2c,efr1ovpqynopywljiw18fwis4
+2025-12-27,20.0,Mechelen 1-1 Dender,Mechelen,Dender,16lkdpoccbh056r0v0bordo2c,ehoeeo8xnb6siylqoe8jden84
+2025-12-27,20.0,RAAL La Louvière 0-0 OH Leuven,RAAL La Louvière,OH Leuven,16lkdpoccbh056r0v0bordo2c,egwl2zpb2lsojatd5oln6xn9w
+2025-12-27,20.0,Antwerp 2-1 Zulte Waregem,Antwerp,Zulte Waregem,16lkdpoccbh056r0v0bordo2c,eg4yj4j7cky5i98bf448b3hg4
+2025-12-26,20.0,Anderlecht 1-2 Sporting Charleroi,Anderlecht,Sporting Charleroi,16lkdpoccbh056r0v0bordo2c,eez76rnpqr96yv65meugssums
+2025-12-26,20.0,Standard Liège 1-2 Sint-Truiden,Standard Liège,Sint-Truiden,16lkdpoccbh056r0v0bordo2c,egit9qjmip1dlpr2x4ck3zklw
+2025-12-26,20.0,Cercle Brugge 1-1 Union Saint-Gilloise,Cercle Brugge,Union Saint-Gilloise,16lkdpoccbh056r0v0bordo2c,ehajymo9l0adxvcg6fydjsys4
+2025-12-26,20.0,Genk 3-5 Club Brugge,Genk,Club Brugge,16lkdpoccbh056r0v0bordo2c,efd3ifcmedfrypl17mzssvnro
+2025-12-21,19.0,OH Leuven 0-2 Cercle Brugge,OH Leuven,Cercle Brugge,16lkdpoccbh056r0v0bordo2c,ecz9iyxyc5ira9n59m8cp3bis
+2025-12-21,19.0,Antwerp 2-2 Anderlecht,Antwerp,Anderlecht,16lkdpoccbh056r0v0bordo2c,eclcw59hdn8ritegazkei7pck
+2025-12-21,19.0,Sint-Truiden 1-0 Mechelen,Sint-Truiden,Mechelen,16lkdpoccbh056r0v0bordo2c,eddbx1iceroxp6r5xkt8xxtsk
+2025-12-21,19.0,Club Brugge 2-1 Gent,Club Brugge,Gent,16lkdpoccbh056r0v0bordo2c,ebsrr6iv6kemc13w3fu71nxg4
+2025-12-20,19.0,Union Saint-Gilloise 2-0 Zulte Waregem,Union Saint-Gilloise,Zulte Waregem,16lkdpoccbh056r0v0bordo2c,ec6nqo62iul04ge2x4h9npyj8
+2025-12-20,19.0,Westerlo 2-1 RAAL La Louvière,Westerlo,RAAL La Louvière,16lkdpoccbh056r0v0bordo2c,edrq9jll096hooc1uw38bg7pw
+2025-12-20,19.0,Dender 0-1 Standard Liège,Dender,Standard Liège,16lkdpoccbh056r0v0bordo2c,eelccd39hh8bqow2dwzu8zl78
+2025-12-19,19.0,Sporting Charleroi 2-2 Genk,Sporting Charleroi,Genk,16lkdpoccbh056r0v0bordo2c,ee7ghk7yri1m7ixzrtskk3cic
+2025-12-14,18.0,Genk 1-1 Westerlo,Genk,Westerlo,16lkdpoccbh056r0v0bordo2c,e92sbioxgeg23tvsj7jv5qgb8
+2025-12-14,18.0,Sporting Charleroi 1-1 Union Saint-Gilloise,Sporting Charleroi,Union Saint-Gilloise,16lkdpoccbh056r0v0bordo2c,eb11rm4epfvdt9zvfo3v104yc
+2025-12-14,18.0,Dender 1-5 Club Brugge,Dender,Club Brugge,16lkdpoccbh056r0v0bordo2c,ebet1l6twkzwo3mqeitdkg8b8
+2025-12-14,18.0,Gent 0-2 Antwerp,Gent,Antwerp,16lkdpoccbh056r0v0bordo2c,e9htix75l67ec63wt5pbx3190
+2025-12-13,18.0,Anderlecht 2-1 Sint-Truiden,Anderlecht,Sint-Truiden,16lkdpoccbh056r0v0bordo2c,e8lgf1lu36t1uwzghwxieoems
+2025-12-13,18.0,Zulte Waregem 2-2 RAAL La Louvière,Zulte Waregem,RAAL La Louvière,16lkdpoccbh056r0v0bordo2c,ea9n1hgrntpg0r4iigu8cwmj8
+2025-12-13,18.0,Cercle Brugge 2-3 Mechelen,Cercle Brugge,Mechelen,16lkdpoccbh056r0v0bordo2c,eandk9dpu1k7kbk5nv4h7ydxw
+2025-12-12,18.0,Standard Liège 0-1 OH Leuven,Standard Liège,OH Leuven,16lkdpoccbh056r0v0bordo2c,e9vop6xkarhbdtysjlqtm4w7o
+2025-12-07,17.0,OH Leuven 1-1 Zulte Waregem,OH Leuven,Zulte Waregem,16lkdpoccbh056r0v0bordo2c,e6vo7nt78kq3sax8h8o1ke4gk
+2025-12-07,17.0,Antwerp 3-0 Genk,Antwerp,Genk,16lkdpoccbh056r0v0bordo2c,e5q1yl65aqwl2zib2ee6xgkr8
+2025-12-07,17.0,Westerlo 4-0 Anderlecht,Westerlo,Anderlecht,16lkdpoccbh056r0v0bordo2c,e864sjlcp9jufg1u7h7e02z2s
+2025-12-07,17.0,Mechelen 1-0 Sporting Charleroi,Mechelen,Sporting Charleroi,16lkdpoccbh056r0v0bordo2c,e79n209mxfraedog5xuf1d7v8
+2025-12-06,17.0,Sint-Truiden 3-2 Club Brugge,Sint-Truiden,Club Brugge,16lkdpoccbh056r0v0bordo2c,e7s258li13vbx18d0db2m8178
+2025-12-06,17.0,Union Saint-Gilloise 1-1 Gent,Union Saint-Gilloise,Gent,16lkdpoccbh056r0v0bordo2c,e5c6sdcvbt21oyigsgxrqwe8k
+2025-12-06,17.0,Cercle Brugge 1-2 Standard Liège,Cercle Brugge,Standard Liège,16lkdpoccbh056r0v0bordo2c,e6hpg1ahawh9nm536vc8agnpw
+2025-12-05,17.0,RAAL La Louvière 1-2 Dender,RAAL La Louvière,Dender,16lkdpoccbh056r0v0bordo2c,e63v5dgfhd4gv1ffv83s2elg4
+2025-11-30,16.0,Gent 1-2 Sint-Truiden,Gent,Sint-Truiden,16lkdpoccbh056r0v0bordo2c,e3cyczrj7klwpgvjjjiqycg0k
+2025-11-30,16.0,Anderlecht 1-0 Union Saint-Gilloise,Anderlecht,Union Saint-Gilloise,16lkdpoccbh056r0v0bordo2c,e2fx8ogp28ye3j1mz052rpkb8
+2025-11-30,16.0,Genk 2-1 OH Leuven,Genk,OH Leuven,16lkdpoccbh056r0v0bordo2c,e2ydwakqnrmekfzdr48j9n3f8
+2025-11-30,16.0,Club Brugge 0-1 Antwerp,Club Brugge,Antwerp,16lkdpoccbh056r0v0bordo2c,e21y8hmi1ncbc3lrguudwxmvo
+2025-11-29,16.0,Sporting Charleroi 0-0 RAAL La Louvière,Sporting Charleroi,RAAL La Louvière,16lkdpoccbh056r0v0bordo2c,e4kc4fk4d1ur3g0rk1tpk5s7o
+2025-11-29,16.0,Zulte Waregem 1-1 Cercle Brugge,Zulte Waregem,Cercle Brugge,16lkdpoccbh056r0v0bordo2c,e3skmmtskznufpmvsr2e08bv8
+2025-11-29,16.0,Dender 2-2 Westerlo,Dender,Westerlo,16lkdpoccbh056r0v0bordo2c,e4yapzdifi01wd1qpehwk5t04
+2025-11-28,16.0,Mechelen 0-1 Standard Liège,Mechelen,Standard Liège,16lkdpoccbh056r0v0bordo2c,e46geam05j8vr190i7svo7h1w
+2025-11-23,15.0,OH Leuven 1-2 Sint-Truiden,OH Leuven,Sint-Truiden,16lkdpoccbh056r0v0bordo2c,e1650lh8xyaev5kzm5v3m2kgk
+2025-11-23,15.0,RAAL La Louvière 0-1 Anderlecht,RAAL La Louvière,Anderlecht,16lkdpoccbh056r0v0bordo2c,e0sc0uw1072b9k0njbh2k055g
+2025-11-23,15.0,Antwerp 1-2 Dender,Antwerp,Dender,16lkdpoccbh056r0v0bordo2c,e00iebvmki52g3kpeatz9oetw
+2025-11-23,15.0,Genk 0-1 Mechelen,Genk,Mechelen,16lkdpoccbh056r0v0bordo2c,dzmsg1d8o6bz0e8mf5ajn7e38
+2025-11-22,15.0,Club Brugge 1-0 Sporting Charleroi,Club Brugge,Sporting Charleroi,16lkdpoccbh056r0v0bordo2c,dyuh421ym143mozjh6idsbj84
+2025-11-22,15.0,Westerlo 0-0 Gent,Westerlo,Gent,16lkdpoccbh056r0v0bordo2c,e1jtdhal857wua2km5iq011jo
+2025-11-22,15.0,Union Saint-Gilloise 2-0 Cercle Brugge,Union Saint-Gilloise,Cercle Brugge,16lkdpoccbh056r0v0bordo2c,dz8rn85v1nyo4egvogyxnibkk
+2025-11-21,15.0,Standard Liège 0-0 Zulte Waregem,Standard Liège,Zulte Waregem,16lkdpoccbh056r0v0bordo2c,e0edewcmlfb3rfpp7cbca8kyc
+2025-11-09,14.0,Mechelen 1-1 Union Saint-Gilloise,Mechelen,Union Saint-Gilloise,16lkdpoccbh056r0v0bordo2c,dx9i0wpizkm5moqc3yepdmrkk
+2025-11-09,14.0,Gent 1-1 Genk,Gent,Genk,16lkdpoccbh056r0v0bordo2c,dw3rz0fq6k0lxfogwwwr92jv8
+2025-11-09,14.0,Sint-Truiden 1-0 Standard Liège,Sint-Truiden,Standard Liège,16lkdpoccbh056r0v0bordo2c,dxn44ydnm0x3w6rqeh46hdogk
+2025-11-09,14.0,Anderlecht 1-0 Club Brugge,Anderlecht,Club Brugge,16lkdpoccbh056r0v0bordo2c,dvpwtpwqdk8n92ynx9ljn0t1w
+2025-11-08,14.0,Antwerp 3-1 RAAL La Louvière,Antwerp,RAAL La Louvière,16lkdpoccbh056r0v0bordo2c,dwhyelv0be7cvfihb26gzndas
+2025-11-08,14.0,Sporting Charleroi 2-0 Westerlo,Sporting Charleroi,Westerlo,16lkdpoccbh056r0v0bordo2c,dy0yijel3fkcrftpmuesec5qs
+2025-11-08,14.0,Cercle Brugge 1-2 OH Leuven,Cercle Brugge,OH Leuven,16lkdpoccbh056r0v0bordo2c,dwvrsfezoy7lsopii72xnd1xw
+2025-11-07,14.0,Dender 2-2 Zulte Waregem,Dender,Zulte Waregem,16lkdpoccbh056r0v0bordo2c,dyghrvctjyzdo02zwplbn3sic
+2025-11-02,13.0,RAAL La Louvière 2-1 Cercle Brugge,RAAL La Louvière,Cercle Brugge,16lkdpoccbh056r0v0bordo2c,dtr6w4iviaj9yoiu9960fui38
+2025-11-02,13.0,Sint-Truiden 1-0 Antwerp,Sint-Truiden,Antwerp,16lkdpoccbh056r0v0bordo2c,duwq9gci3d1o8ffeht5eboc2c
+2025-11-02,13.0,OH Leuven 4-0 Gent,OH Leuven,Gent,16lkdpoccbh056r0v0bordo2c,duivyh7ccvqb0o2ykwgvaq5uc
+2025-11-02,13.0,Westerlo 0-1 Genk,Westerlo,Genk,16lkdpoccbh056r0v0bordo2c,dvby4relgfcry5ajkpj81naj8
+2025-11-01,13.0,Anderlecht 3-1 Mechelen,Anderlecht,Mechelen,16lkdpoccbh056r0v0bordo2c,dsxyjezwf0occ8v6gbn6d7thw
+2025-11-01,13.0,Club Brugge 2-1 Dender,Club Brugge,Dender,16lkdpoccbh056r0v0bordo2c,dsk6huhcwjvki7u0t25jfps7o
+2025-11-01,13.0,Zulte Waregem 1-4 Union Saint-Gilloise,Zulte Waregem,Union Saint-Gilloise,16lkdpoccbh056r0v0bordo2c,du52ksrpme72ifup9t4lcbmdw
+2025-10-31,13.0,Standard Liège 3-1 Sporting Charleroi,Standard Liège,Sporting Charleroi,16lkdpoccbh056r0v0bordo2c,dtdafivrl1fjgnjjhis7i9fro
+2025-10-26,12.0,Union Saint-Gilloise 2-0 Sint-Truiden,Union Saint-Gilloise,Sint-Truiden,16lkdpoccbh056r0v0bordo2c,dpgnf0gcf1xrb5lhg8aeg8lck
+2025-10-26,12.0,Genk 1-1 RAAL La Louvière,Genk,RAAL La Louvière,16lkdpoccbh056r0v0bordo2c,dpunu3piqeb5foowyk2dvm87o
+2025-10-26,12.0,Cercle Brugge 1-1 Zulte Waregem,Cercle Brugge,Zulte Waregem,16lkdpoccbh056r0v0bordo2c,dr085snb4h59jnygz93f3t9uc
+2025-10-26,12.0,Antwerp 0-1 Club Brugge,Antwerp,Club Brugge,16lkdpoccbh056r0v0bordo2c,dqmed63g1use6d7yvxqwrsoic
+2025-10-25,12.0,Gent 4-0 Standard Liège,Gent,Standard Liège,16lkdpoccbh056r0v0bordo2c,dq8fzgcqa3u5d6ei0n1mzxic4
+2025-10-25,12.0,Mechelen 1-1 OH Leuven,Mechelen,OH Leuven,16lkdpoccbh056r0v0bordo2c,drdzv152kp1zoqqdbl98trj10
+2025-10-25,12.0,Westerlo 1-1 Dender,Westerlo,Dender,16lkdpoccbh056r0v0bordo2c,drsde0835ia80wslq8jwrfllg
+2025-10-24,12.0,Sporting Charleroi 1-0 Anderlecht,Sporting Charleroi,Anderlecht,16lkdpoccbh056r0v0bordo2c,ds68pfl83c6t7ao2h965fyfis
+2025-10-20,11.0,Standard Liège 1-0 Antwerp,Standard Liège,Antwerp,16lkdpoccbh056r0v0bordo2c,dmpx2p0yjw674lxnhlwgsm044
+2025-10-19,11.0,Zulte Waregem 4-1 Gent,Zulte Waregem,Gent,16lkdpoccbh056r0v0bordo2c,dnhghky6bm79mlaviqrzsc0lw
+2025-10-19,11.0,Sint-Truiden 2-2 Anderlecht,Sint-Truiden,Anderlecht,16lkdpoccbh056r0v0bordo2c,dop2zraotfre3b9iuodxppf6c
+2025-10-19,11.0,Dender 1-3 Mechelen,Dender,Mechelen,16lkdpoccbh056r0v0bordo2c,dp2x0t9cuvm76y8ffk7h7baqc
+2025-10-19,11.0,Cercle Brugge 2-2 Genk,Cercle Brugge,Genk,16lkdpoccbh056r0v0bordo2c,dnvbnqeyhzf0bqcs0hinwal90
+2025-10-18,11.0,Union Saint-Gilloise 3-1 Sporting Charleroi,Union Saint-Gilloise,Sporting Charleroi,16lkdpoccbh056r0v0bordo2c,dmc28avvcjcqxoqgks6iswo44
+2025-10-18,11.0,OH Leuven 0-1 Club Brugge,OH Leuven,Club Brugge,16lkdpoccbh056r0v0bordo2c,dob21hsimmlz7agqzo8irt5w4
+2025-10-18,11.0,RAAL La Louvière 0-0 Westerlo,RAAL La Louvière,Westerlo,16lkdpoccbh056r0v0bordo2c,dn3nto8toelyqq2myu6s76ej8
+2025-10-05,10.0,Westerlo 2-0 OH Leuven,Westerlo,OH Leuven,16lkdpoccbh056r0v0bordo2c,dly0jj6xr9hi9nxzv17quzwno
+2025-10-05,10.0,Club Brugge 1-0 Union Saint-Gilloise,Club Brugge,Union Saint-Gilloise,16lkdpoccbh056r0v0bordo2c,dj5dvcv34cm5aqeaoj89r9iqc
+2025-10-05,10.0,Genk 2-1 Dender,Genk,Dender,16lkdpoccbh056r0v0bordo2c,dk0t9akh0a44jqwcm4mext1jo
+2025-10-05,10.0,Anderlecht 1-0 Standard Liège,Anderlecht,Standard Liège,16lkdpoccbh056r0v0bordo2c,djmayua5y68f0qd6p7vahgu8k
+2025-10-04,10.0,Antwerp 1-1 Cercle Brugge,Antwerp,Cercle Brugge,16lkdpoccbh056r0v0bordo2c,dksdljz2mhrjheelcxomms844
+2025-10-04,10.0,RAAL La Louvière 0-0 Zulte Waregem,RAAL La Louvière,Zulte Waregem,16lkdpoccbh056r0v0bordo2c,dl6c6zy77n22z1phl96olsw0k
+2025-10-04,10.0,Mechelen 1-3 Sint-Truiden,Mechelen,Sint-Truiden,16lkdpoccbh056r0v0bordo2c,dlk6rzwfli323km3ldtzx0r2s
+2025-10-03,10.0,Gent 2-1 Sporting Charleroi,Gent,Sporting Charleroi,16lkdpoccbh056r0v0bordo2c,dkeipfyeoe2j8wj7fx3rn98gk
+2025-09-28,9.0,Dender 0-0 RAAL La Louvière,Dender,RAAL La Louvière,16lkdpoccbh056r0v0bordo2c,dipg4834j5ompd76esudsntp0
+2025-09-28,9.0,Sporting Charleroi 0-2 Mechelen,Sporting Charleroi,Mechelen,16lkdpoccbh056r0v0bordo2c,di8uerk6st6a67mfl302l96hg
+2025-09-28,9.0,Cercle Brugge 2-4 Gent,Cercle Brugge,Gent,16lkdpoccbh056r0v0bordo2c,dgtgv36gx5atv2rbxi0wecljo
+2025-09-28,9.0,Sint-Truiden 1-2 Genk,Sint-Truiden,Genk,16lkdpoccbh056r0v0bordo2c,dhoo4y97kcg1jmcqd8se9zo5w
+2025-09-27,9.0,Union Saint-Gilloise 2-0 Westerlo,Union Saint-Gilloise,Westerlo,16lkdpoccbh056r0v0bordo2c,dfkoxyp8fwddt8kuqzposwz6c
+2025-09-27,9.0,Standard Liège 1-2 Club Brugge,Standard Liège,Club Brugge,16lkdpoccbh056r0v0bordo2c,dfz7i5c8caeywc76t78vuum8k
+2025-09-27,9.0,Zulte Waregem 2-0 Antwerp,Zulte Waregem,Antwerp,16lkdpoccbh056r0v0bordo2c,dge2ki0sobuagzbdvs1035dec
+2025-09-26,9.0,OH Leuven 1-1 Anderlecht,OH Leuven,Anderlecht,16lkdpoccbh056r0v0bordo2c,dh7ze0l15ri59fuhmnrs8pst0
+2025-09-24,5.0,Club Brugge 5-5 Westerlo,Club Brugge,Westerlo,16lkdpoccbh056r0v0bordo2c,d2urtmkkymitqz1yhp93nlvkk
+2025-09-23,5.0,Anderlecht 1-0 Gent,Anderlecht,Gent,16lkdpoccbh056r0v0bordo2c,d39vpkngiax2s5dz08oltri8k
+2025-09-21,8.0,Mechelen 0-0 Cercle Brugge,Mechelen,Cercle Brugge,16lkdpoccbh056r0v0bordo2c,def521jdlk6fhcwy1lqarx0yc
+2025-09-21,8.0,Club Brugge 2-0 Sint-Truiden,Club Brugge,Sint-Truiden,16lkdpoccbh056r0v0bordo2c,dcfjlasr2d5p6bx0safk69hck
+2025-09-21,8.0,Westerlo 0-2 Standard Liège,Westerlo,Standard Liège,16lkdpoccbh056r0v0bordo2c,desw4ci78wzqtzgv9safwr9qs
+2025-09-21,8.0,Genk 1-2 Union Saint-Gilloise,Genk,Union Saint-Gilloise,16lkdpoccbh056r0v0bordo2c,dd7t8ncczhgdmufdkrycuy710
+2025-09-20,8.0,Anderlecht 0-0 Antwerp,Anderlecht,Antwerp,16lkdpoccbh056r0v0bordo2c,dctchc15tdhseltrk66eo874k
+2025-09-20,8.0,Sporting Charleroi 1-2 Zulte Waregem,Sporting Charleroi,Zulte Waregem,16lkdpoccbh056r0v0bordo2c,df6qkwutnsyiy69o18amb5t78
+2025-09-20,8.0,OH Leuven 1-2 RAAL La Louvière,OH Leuven,RAAL La Louvière,16lkdpoccbh056r0v0bordo2c,de191c5ia8dqmkvpzprawob2s
+2025-09-19,8.0,Gent 3-0 Dender,Gent,Dender,16lkdpoccbh056r0v0bordo2c,ddnd8fcjkvk5559v31aub6ot0
+2025-09-17,5.0,Genk 0-1 Sporting Charleroi,Genk,Sporting Charleroi,16lkdpoccbh056r0v0bordo2c,d3ncgscky9voowfvshmo48sgk
+2025-09-14,7.0,Sint-Truiden 0-3 Westerlo,Sint-Truiden,Westerlo,16lkdpoccbh056r0v0bordo2c,dbo0ofqczmx52dg1ntbaih0d0
+2025-09-14,7.0,Anderlecht 1-1 Genk,Anderlecht,Genk,16lkdpoccbh056r0v0bordo2c,d9cnildmnxcukctoqosqwr11w
+2025-09-14,7.0,Cercle Brugge 2-3 Sporting Charleroi,Cercle Brugge,Sporting Charleroi,16lkdpoccbh056r0v0bordo2c,dba34u4bdpxe4hmocv13tumfo
+2025-09-14,7.0,Antwerp 1-2 Gent,Antwerp,Gent,16lkdpoccbh056r0v0bordo2c,d9qip7p8g87l4yk21eod30s9g
+2025-09-13,7.0,RAAL La Louvière 1-0 Club Brugge,RAAL La Louvière,Club Brugge,16lkdpoccbh056r0v0bordo2c,daihwosc4a0jmbl3l03tjbbis
+2025-09-13,7.0,Dender 0-1 Union Saint-Gilloise,Dender,Union Saint-Gilloise,16lkdpoccbh056r0v0bordo2c,dc1rywq0fip7dsgm8thgii3v8
+2025-09-13,7.0,Zulte Waregem 2-0 OH Leuven,Zulte Waregem,OH Leuven,16lkdpoccbh056r0v0bordo2c,dawbvc4ebh1knr7qctivmrod0
+2025-09-12,7.0,Standard Liège 1-1 Mechelen,Standard Liège,Mechelen,16lkdpoccbh056r0v0bordo2c,da4oiqbomm4zsnyqnnpigcges
+2025-08-31,6.0,Genk 3-2 Zulte Waregem,Genk,Zulte Waregem,16lkdpoccbh056r0v0bordo2c,d6mrg60ml084ledso8pfyy0pg
+2025-08-31,6.0,Union Saint-Gilloise 2-0 Anderlecht,Union Saint-Gilloise,Anderlecht,16lkdpoccbh056r0v0bordo2c,d69dmnz4cwryw37avjn35olxw
+2025-08-31,6.0,OH Leuven 1-0 Standard Liège,OH Leuven,Standard Liège,16lkdpoccbh056r0v0bordo2c,d7riiuoqud1d84e7gu4givjf8
+2025-08-31,6.0,Gent 1-1 Club Brugge,Gent,Club Brugge,16lkdpoccbh056r0v0bordo2c,d70aqa5t0tquqx87e10tsaaz8
+2025-08-30,6.0,Sporting Charleroi 3-1 Dender,Sporting Charleroi,Dender,16lkdpoccbh056r0v0bordo2c,d8ysan1qdctmkvjaz2adw7aqc
+2025-08-30,6.0,Westerlo 2-0 Antwerp,Westerlo,Antwerp,16lkdpoccbh056r0v0bordo2c,d8kz8v9trwreiinzarld1f3tg
+2025-08-30,6.0,Mechelen 3-2 RAAL La Louvière,Mechelen,RAAL La Louvière,16lkdpoccbh056r0v0bordo2c,d85c5w8trjcj7m7svg7nrhq8k
+2025-08-29,6.0,Cercle Brugge 1-1 Sint-Truiden,Cercle Brugge,Sint-Truiden,16lkdpoccbh056r0v0bordo2c,d7dvggbtgtm45n2ppui0mvcb8
+2025-08-24,5.0,Dender 0-1 OH Leuven,Dender,OH Leuven,16lkdpoccbh056r0v0bordo2c,d5vpyuaaynfcg6vv6ixlmfcb8
+2025-08-24,5.0,RAAL La Louvière 0-0 Union Saint-Gilloise,RAAL La Louvière,Union Saint-Gilloise,16lkdpoccbh056r0v0bordo2c,d4sih344kr2jewrx13r2jl7v8
+2025-08-24,5.0,Antwerp 2-1 Mechelen,Antwerp,Mechelen,16lkdpoccbh056r0v0bordo2c,d40vfculdopmyqvqrf9lvajv8
+2025-08-23,5.0,Zulte Waregem 0-2 Sint-Truiden,Zulte Waregem,Sint-Truiden,16lkdpoccbh056r0v0bordo2c,d5icao9yrmp4edxf9ge869tzo
+2025-08-23,5.0,Standard Liège 0-3 Cercle Brugge,Standard Liège,Cercle Brugge,16lkdpoccbh056r0v0bordo2c,d4ecqb2fqfqlsgynaori7h2j8
+2025-08-17,4.0,Cercle Brugge 4-1 Westerlo,Cercle Brugge,Westerlo,16lkdpoccbh056r0v0bordo2c,d0kjgbll62atkpyykhk5pmyok
+2025-08-17,4.0,Sporting Charleroi 1-1 Antwerp,Sporting Charleroi,Antwerp,16lkdpoccbh056r0v0bordo2c,d23o83jtk6nshrkx1ldufjqxg
+2025-08-17,4.0,Sint-Truiden 2-1 RAAL La Louvière,Sint-Truiden,RAAL La Louvière,16lkdpoccbh056r0v0bordo2c,d1pbu5eqsrjzjl4als87rksus
+2025-08-17,4.0,Dender 0-2 Anderlecht,Dender,Anderlecht,16lkdpoccbh056r0v0bordo2c,d2haklwub82xld3esoyed7qc4
+2025-08-16,4.0,Union Saint-Gilloise 3-0 Standard Liège,Union Saint-Gilloise,Standard Liège,16lkdpoccbh056r0v0bordo2c,czqtomsl4roqme4gdasykv4t0
+2025-08-16,4.0,Mechelen 1-1 Gent,Mechelen,Gent,16lkdpoccbh056r0v0bordo2c,d1bukwusnssv8t64wviw55z4k
+2025-08-16,4.0,Zulte Waregem 0-1 Club Brugge,Zulte Waregem,Club Brugge,16lkdpoccbh056r0v0bordo2c,d071da82s7jrttnhwhvtsvgno
+2025-08-15,4.0,OH Leuven 1-2 Genk,OH Leuven,Genk,16lkdpoccbh056r0v0bordo2c,d0y4sncaf09mzv9ms24ck6olw
+2025-08-10,3.0,Antwerp 3-1 OH Leuven,Antwerp,OH Leuven,16lkdpoccbh056r0v0bordo2c,cxtfvvs8g6im8v2btf5nupfro
+2025-08-10,3.0,Standard Liège 2-1 Genk,Standard Liège,Genk,16lkdpoccbh056r0v0bordo2c,cy8m0gbsoztwd4ed7d7193wus
+2025-08-10,3.0,Anderlecht 2-3 Zulte Waregem,Anderlecht,Zulte Waregem,16lkdpoccbh056r0v0bordo2c,cx2qxw4p0tw7ijhp9lfxpauj8
+2025-08-10,3.0,RAAL La Louvière 1-0 Sporting Charleroi,RAAL La Louvière,Sporting Charleroi,16lkdpoccbh056r0v0bordo2c,cym4he9mpt9tww524lfkdvqqc
+2025-08-09,3.0,Gent 2-3 Union Saint-Gilloise,Gent,Union Saint-Gilloise,16lkdpoccbh056r0v0bordo2c,cxg2gx4y7wa6pf43mbm05ajh0
+2025-08-09,3.0,Westerlo 0-1 Mechelen,Westerlo,Mechelen,16lkdpoccbh056r0v0bordo2c,czd9ippkf6ci54azw5ja2q87o
+2025-08-09,3.0,Club Brugge 2-0 Cercle Brugge,Club Brugge,Cercle Brugge,16lkdpoccbh056r0v0bordo2c,cwpaptehak3d9iwfv0h990efo
+2025-08-08,3.0,Sint-Truiden 2-0 Dender,Sint-Truiden,Dender,16lkdpoccbh056r0v0bordo2c,cyzluw8fjvll7uj0cyw4tixas
+2025-08-03,2.0,Sporting Charleroi 1-1 Sint-Truiden,Sporting Charleroi,Sint-Truiden,16lkdpoccbh056r0v0bordo2c,cwbvvo3ihe5lixd3vnbxkdic4
+2025-08-03,2.0,Union Saint-Gilloise 5-0 OH Leuven,Union Saint-Gilloise,OH Leuven,16lkdpoccbh056r0v0bordo2c,ctopnopmg8mzxf3q6rje346qc
+2025-08-03,2.0,Cercle Brugge 0-2 Anderlecht,Cercle Brugge,Anderlecht,16lkdpoccbh056r0v0bordo2c,cv77l0w0e1rgyg7gydk77fztg
+2025-08-03,2.0,Genk 1-1 Antwerp,Genk,Antwerp,16lkdpoccbh056r0v0bordo2c,cu2j8uf1vr6rdt4k1sy4idpuc
+2025-08-02,2.0,Gent 1-0 RAAL La Louvière,Gent,RAAL La Louvière,16lkdpoccbh056r0v0bordo2c,cug3rgjes87a485nptif9e87o
+2025-08-02,2.0,Standard Liège 1-1 Dender,Standard Liège,Dender,16lkdpoccbh056r0v0bordo2c,cutncfsenx29nf9zjf110r504
+2025-08-02,2.0,Westerlo 3-1 Zulte Waregem,Westerlo,Zulte Waregem,16lkdpoccbh056r0v0bordo2c,cvyfua9heb60esppgxscfosno
+2025-08-01,2.0,Mechelen 2-1 Club Brugge,Mechelen,Club Brugge,16lkdpoccbh056r0v0bordo2c,cvkwn8n7se0g9lpupr5nam1as
+2025-07-27,1.0,Sint-Truiden 3-1 Gent,Sint-Truiden,Gent,16lkdpoccbh056r0v0bordo2c,cssry12q4nad9u2uhlop10j6c
+2025-07-27,1.0,Club Brugge 2-1 Genk,Club Brugge,Genk,16lkdpoccbh056r0v0bordo2c,cpvogijafub0vlc4saztz3i8k
+2025-07-27,1.0,OH Leuven 2-2 Sporting Charleroi,OH Leuven,Sporting Charleroi,16lkdpoccbh056r0v0bordo2c,csbw4frxjcvgpv95iekqvb21g
+2025-07-27,1.0,Anderlecht 5-2 Westerlo,Anderlecht,Westerlo,16lkdpoccbh056r0v0bordo2c,cqftdiqsav55s3nr7romb0pw4
+2025-07-26,1.0,RAAL La Louvière 0-2 Standard Liège,RAAL La Louvière,Standard Liège,16lkdpoccbh056r0v0bordo2c,crd9rwfges4iisviryeb5pkpg
+2025-07-26,1.0,Zulte Waregem 1-1 Mechelen,Zulte Waregem,Mechelen,16lkdpoccbh056r0v0bordo2c,crv24qxhblgw1pgas4je6b0no
+2025-07-26,1.0,Dender 0-0 Cercle Brugge,Dender,Cercle Brugge,16lkdpoccbh056r0v0bordo2c,ctb108vw45q3h6fkie2a9z8d0
+2025-07-25,1.0,Antwerp 1-1 Union Saint-Gilloise,Antwerp,Union Saint-Gilloise,16lkdpoccbh056r0v0bordo2c,cqwgnrk8cf7og3cuzykxf7nkk

@@ -1,83 +1,130 @@
 ﻿Date,Round,Match,Home,Away,CompetitionID,MatchID
-2026-03-13,21,Carolina Ascent 1-0 Tampa Bay Sun,Carolina Ascent,Tampa Bay Sun,e98d4oial167tji58n80jkh04,3i5xyy78q9tdv9z14nkk9d2c4
-2026-03-12,21,DC Power 1-1 Dallas Trinity,DC Power,Dallas Trinity,e98d4oial167tji58n80jkh04,3ijqi0kz26ql1lth9913nxtec
-2026-03-08,19,Lexington 0-1 Dallas Trinity,Lexington,Dallas Trinity,e98d4oial167tji58n80jkh04,3fyqgusfurcsuoxe6ri2ioaok
-2026-03-07,26,Brooklyn 0-2 DC Power,Brooklyn,DC Power,e98d4oial167tji58n80jkh04,3t5i768wgukshy4msakus7aqc
-2026-02-21,20,Tampa Bay Sun 3-0 Fort Lauderdale United,Tampa Bay Sun,Fort Lauderdale United,e98d4oial167tji58n80jkh04,3hokxhvnrcvmddsof7bwh1lw4
-2026-02-21,20,Lexington 0-3 Sporting JAX,Lexington,Sporting JAX,e98d4oial167tji58n80jkh04,3h93wryqy167ingip2mjwew44
-2026-02-21,20,Carolina Ascent 2-0 Dallas Trinity,Carolina Ascent,Dallas Trinity,e98d4oial167tji58n80jkh04,3gtem4tr19xffgzlht3wd0xec
-2026-02-14,19,Tampa Bay Sun 1-1 DC Power,Tampa Bay Sun,DC Power,e98d4oial167tji58n80jkh04,3ge3zd7t4eaocv7offg7tegwk
-2026-02-14,19,Fort Lauderdale United 3-3 Brooklyn,Fort Lauderdale United,Brooklyn,e98d4oial167tji58n80jkh04,3fjfqz5tf94x5dis0xpbcek9g
-2026-02-14,19,Carolina Ascent 0-2 Spokane Zephyr,Carolina Ascent,Spokane Zephyr,e98d4oial167tji58n80jkh04,3f41aqvjrdll77rfo5sp59afo
-2026-02-11,19,Sporting JAX 3-0 Spokane Zephyr,Sporting JAX,Spokane Zephyr,e98d4oial167tji58n80jkh04,3eonma0h5qmcpsiyj6hr5oyl0
-2026-02-07,18,Fort Lauderdale United 0-4 Dallas Trinity,Fort Lauderdale United,Dallas Trinity,e98d4oial167tji58n80jkh04,3dtyk3ka9mo33fjnh9wiygb2s
-2026-02-07,18,Sporting JAX 0-1 DC Power,Sporting JAX,DC Power,e98d4oial167tji58n80jkh04,3e96hzfqqtaivif32gkq65r10
-2026-02-07,18,Carolina Ascent 1-2 Lexington,Carolina Ascent,Lexington,e98d4oial167tji58n80jkh04,3dek1k9zpuk0vpmo2mp842wpg
-2026-01-31,17,Tampa Bay Sun 2-2 Spokane Zephyr,Tampa Bay Sun,Spokane Zephyr,e98d4oial167tji58n80jkh04,3cz55gdj0xiru6jlhiktor6l0
-2026-01-31,17,Fort Lauderdale United 1-3 Lexington,Fort Lauderdale United,Lexington,e98d4oial167tji58n80jkh04,3c2jjj12bpu9s2lvh5u2as7bo
-2026-01-31,17,Sporting JAX 1-0 Carolina Ascent,Sporting JAX,Carolina Ascent,e98d4oial167tji58n80jkh04,3chwxg3fefftb0783ldv580lw
-2026-01-31,17,Dallas Trinity 1-1 Brooklyn,Dallas Trinity,Brooklyn,e98d4oial167tji58n80jkh04,3bn2sdx4nomb15b7om7x2buok
-2025-12-20,16,Fort Lauderdale United 1-3 Spokane Zephyr,Fort Lauderdale United,Spokane Zephyr,e98d4oial167tji58n80jkh04,3as9ln5ji9augiglr3kw3d6ok
-2025-12-20,16,Sporting JAX 3-1 Tampa Bay Sun,Sporting JAX,Tampa Bay Sun,e98d4oial167tji58n80jkh04,3b7qsn8mmg7lqxgnah7spu3h0
-2025-12-20,16,Dallas Trinity 1-1 Lexington,Dallas Trinity,Lexington,e98d4oial167tji58n80jkh04,3aczmwjku2bmw6upsdjzsy51w
-2025-12-20,16,Carolina Ascent 0-0 DC Power,Carolina Ascent,DC Power,e98d4oial167tji58n80jkh04,39xg3gl1tq5dbgxizrfk33cpg
-2025-12-13,15,Tampa Bay Sun 0-3 Brooklyn,Tampa Bay Sun,Brooklyn,e98d4oial167tji58n80jkh04,39htlyt2kq391mcbyzpyywq38
-2025-12-13,15,Sporting JAX 1-1 Fort Lauderdale United,Sporting JAX,Fort Lauderdale United,e98d4oial167tji58n80jkh04,391rlctx3dvxkxeqgbdipckyc
-2025-12-13,15,Dallas Trinity 1-0 Carolina Ascent,Dallas Trinity,Carolina Ascent,e98d4oial167tji58n80jkh04,386vzhqxzcqkuzg202usec5qs
-2025-12-13,15,Lexington 2-2 DC Power,Lexington,DC Power,e98d4oial167tji58n80jkh04,38mfkcpavf193chjjaiqv8f84
-2025-12-06,14,Tampa Bay Sun 0-3 Sporting JAX,Tampa Bay Sun,Sporting JAX,e98d4oial167tji58n80jkh04,37rihl32frb04o9kaljfl6ck4
-2025-12-06,14,Dallas Trinity 2-1 DC Power,Dallas Trinity,DC Power,e98d4oial167tji58n80jkh04,36uypzrok8nkq2sgd4m61w7bo
-2025-12-06,14,Lexington 1-1 Spokane Zephyr,Lexington,Spokane Zephyr,e98d4oial167tji58n80jkh04,37aekh7o437yn3bf21wwdp2j8
-2025-12-06,14,Carolina Ascent 1-0 Brooklyn,Carolina Ascent,Brooklyn,e98d4oial167tji58n80jkh04,36fk75tboee2n1v0uq5t8sl5g
-2025-11-22,13,Tampa Bay Sun 1-1 Lexington,Tampa Bay Sun,Lexington,e98d4oial167tji58n80jkh04,3600z6329398nzp77lod4cw7o
-2025-11-22,13,Sporting JAX 2-0 Fort Lauderdale United,Sporting JAX,Fort Lauderdale United,e98d4oial167tji58n80jkh04,35kmx0c6z3an08hnng5hyqyac
-2025-11-22,13,Brooklyn 1-0 Spokane Zephyr,Brooklyn,Spokane Zephyr,e98d4oial167tji58n80jkh04,355bx0p9zsbimrf4yveube2ac
-2025-11-21,13,DC Power 0-1 Carolina Ascent,DC Power,Carolina Ascent,e98d4oial167tji58n80jkh04,34pxykqkyggcdky31cnu9zrbo
-2025-11-15,12,Spokane Zephyr 0-2 Dallas Trinity,Spokane Zephyr,Dallas Trinity,e98d4oial167tji58n80jkh04,34c8l4nbgnh5lxny4du0xfaxg
-2025-11-15,12,Fort Lauderdale United 1-1 Tampa Bay Sun,Fort Lauderdale United,Tampa Bay Sun,e98d4oial167tji58n80jkh04,33wlxzqqslc8s0rcsk7pxamms
-2025-11-15,12,Brooklyn 0-2 Lexington,Brooklyn,Lexington,e98d4oial167tji58n80jkh04,33heeis7919nanrrefp1yag44
-2025-11-12,12,DC Power 3-1 Fort Lauderdale United,DC Power,Fort Lauderdale United,e98d4oial167tji58n80jkh04,3324wrh5kny725z3tdzdu77ys
-2025-11-09,11,Spokane Zephyr 0-1 Tampa Bay Sun,Spokane Zephyr,Tampa Bay Sun,e98d4oial167tji58n80jkh04,32obwoxs52yehi5mnry952sk4
-2025-11-08,11,Carolina Ascent 0-1 Fort Lauderdale United,Carolina Ascent,Fort Lauderdale United,e98d4oial167tji58n80jkh04,31sk77y772uupkp33c2vb88wk
-2025-11-08,11,Dallas Trinity 0-2 Sporting JAX,Dallas Trinity,Sporting JAX,e98d4oial167tji58n80jkh04,327kwr5bbui4062moc5y02cyc
-2025-11-08,11,Brooklyn 1-0 DC Power,Brooklyn,DC Power,e98d4oial167tji58n80jkh04,31dhaycqdsnodmnqcc4qhjwus
-2025-11-02,10,Dallas Trinity 2-3 DC Power,Dallas Trinity,DC Power,e98d4oial167tji58n80jkh04,30ydyhelklslhvkyg2e22p34k
-2025-11-01,10,Fort Lauderdale United 1-1 Brooklyn,Fort Lauderdale United,Brooklyn,e98d4oial167tji58n80jkh04,303nhebqushazsen85970srh0
-2025-10-31,10,Lexington 4-2 Sporting JAX,Lexington,Sporting JAX,e98d4oial167tji58n80jkh04,2zoixl7ytcbcxv165c0geypzo
-2025-10-30,10,Spokane Zephyr 1-2 Carolina Ascent,Spokane Zephyr,Carolina Ascent,e98d4oial167tji58n80jkh04,30iz2c0d6yjdtypqq3t9ozlzo
-2025-10-19,9,DC Power 1-1 Spokane Zephyr,DC Power,Spokane Zephyr,e98d4oial167tji58n80jkh04,2yu8h9jibccewkiryj3vyvqj8
-2025-10-18,9,Sporting JAX 1-1 Tampa Bay Sun,Sporting JAX,Tampa Bay Sun,e98d4oial167tji58n80jkh04,2ygqtbekwow0frobyszz51fkk
-2025-10-18,9,Brooklyn 1-2 Carolina Ascent,Brooklyn,Carolina Ascent,e98d4oial167tji58n80jkh04,2y1i3xpl2iudh4l8genga7fv8
-2025-10-16,9,Lexington 5-1 Fort Lauderdale United,Lexington,Fort Lauderdale United,e98d4oial167tji58n80jkh04,2z99e247nkoz05pa3kussk5qs
-2025-10-14,9,DC Power 0-1 Sporting JAX,DC Power,Sporting JAX,e98d4oial167tji58n80jkh04,2x4hl4xuuc5uzzv09fbxxn3f8
-2025-10-12,8,Spokane Zephyr 2-0 Dallas Trinity,Spokane Zephyr,Dallas Trinity,e98d4oial167tji58n80jkh04,2xm89sgml97hw1oa3x0wg2r6c
-2025-10-11,8,Brooklyn 2-2 Tampa Bay Sun,Brooklyn,Tampa Bay Sun,e98d4oial167tji58n80jkh04,2wqst1mb1pvje93fcgt2vo4yc
-2025-10-10,8,Lexington 1-1 Carolina Ascent,Lexington,Carolina Ascent,e98d4oial167tji58n80jkh04,2wbk70oxbl539zsfkr9m3pyj8
-2025-10-04,7,Spokane Zephyr 0-0 Lexington,Spokane Zephyr,Lexington,e98d4oial167tji58n80jkh04,2vhhsojanz9eos0ntu3mnbz84
-2025-10-04,7,Tampa Bay Sun 0-0 Fort Lauderdale United,Tampa Bay Sun,Fort Lauderdale United,e98d4oial167tji58n80jkh04,2vwigwsixa8q5mjfr3vnw5xqs
-2025-10-04,7,Carolina Ascent 3-2 DC Power,Carolina Ascent,DC Power,e98d4oial167tji58n80jkh04,2v2ck7dyi1bd8y4o5679medjo
-2025-10-04,7,Brooklyn 3-3 Sporting JAX,Brooklyn,Sporting JAX,e98d4oial167tji58n80jkh04,2uni53r4erjqekeoxuj925pg4
-2025-09-28,6,Brooklyn 1-2 Fort Lauderdale United,Brooklyn,Fort Lauderdale United,e98d4oial167tji58n80jkh04,2tt9bw08oritbjsn8w6e0915g
-2025-09-28,6,Carolina Ascent 3-4 Sporting JAX,Carolina Ascent,Sporting JAX,e98d4oial167tji58n80jkh04,2u8i3tg708v8rf6sgehkyjor8
-2025-09-26,6,Lexington 6-1 Dallas Trinity,Lexington,Dallas Trinity,e98d4oial167tji58n80jkh04,2te2pensr7vhn5tw15m8kyc5w
-2025-09-24,6,Carolina Ascent 0-1 Spokane Zephyr,Carolina Ascent,Spokane Zephyr,e98d4oial167tji58n80jkh04,2sz2l0z8eyezx6lmxrmiouxp0
-2025-09-20,5,Tampa Bay Sun 1-1 Dallas Trinity,Tampa Bay Sun,Dallas Trinity,e98d4oial167tji58n80jkh04,2sk0i3k6rl6goiskipksda238
-2025-09-20,5,Lexington 0-0 Spokane Zephyr,Lexington,Spokane Zephyr,e98d4oial167tji58n80jkh04,2s3aahobkv6bc13jb8mw93578
-2025-09-18,5,DC Power 2-2 Brooklyn,DC Power,Brooklyn,e98d4oial167tji58n80jkh04,2ro7lrhgq80r4i98qjemotfys
-2025-09-13,4,Spokane Zephyr 2-0 Tampa Bay Sun,Spokane Zephyr,Tampa Bay Sun,e98d4oial167tji58n80jkh04,2qvlnzzfap3gxew8y1p254ys4
-2025-09-13,4,Sporting JAX 2-2 Carolina Ascent,Sporting JAX,Carolina Ascent,e98d4oial167tji58n80jkh04,2raj7ydua30ofphmg9lsqcj6c
-2025-09-13,4,Fort Lauderdale United 4-1 Dallas Trinity,Fort Lauderdale United,Dallas Trinity,e98d4oial167tji58n80jkh04,2qgdvws9xk895odvvmmg2sn4k
-2025-09-12,4,DC Power 0-0 Lexington,DC Power,Lexington,e98d4oial167tji58n80jkh04,2q17ddjks6702a84m3dgnu710
-2025-09-07,3,Lexington 2-0 Brooklyn,Lexington,Brooklyn,e98d4oial167tji58n80jkh04,2pnrhis73vtqobmlfki4427f8
-2025-09-06,3,Spokane Zephyr 0-1 Fort Lauderdale United,Spokane Zephyr,Fort Lauderdale United,e98d4oial167tji58n80jkh04,2oshe6eab3q67dwbqkag65slw
-2025-09-06,3,Carolina Ascent 2-2 Tampa Bay Sun,Carolina Ascent,Tampa Bay Sun,e98d4oial167tji58n80jkh04,2occ13wg6fov9gybyi9njmihg
-2025-09-06,3,Sporting JAX 0-1 Dallas Trinity,Sporting JAX,Dallas Trinity,e98d4oial167tji58n80jkh04,2p7vxs37nwdtjt24bj75acrv8
-2025-09-03,3,Brooklyn 1-1 Spokane Zephyr,Brooklyn,Spokane Zephyr,e98d4oial167tji58n80jkh04,2nwfgjbvtl2d29a3mwv56upec
-2025-08-30,2,Dallas Trinity 1-0 Brooklyn,Dallas Trinity,Brooklyn,e98d4oial167tji58n80jkh04,2m4glniq0fxzn5l8vrcc30zdg
-2025-08-30,2,Tampa Bay Sun 2-3 Sporting JAX,Tampa Bay Sun,Sporting JAX,e98d4oial167tji58n80jkh04,2ngspvgxrm4pdsxdv6jw0991w
-2025-08-30,2,Fort Lauderdale United 2-2 Carolina Ascent,Fort Lauderdale United,Carolina Ascent,e98d4oial167tji58n80jkh04,2myuseud49ob620nj79jgr09g
-2025-08-30,2,DC Power 2-2 Spokane Zephyr,DC Power,Spokane Zephyr,e98d4oial167tji58n80jkh04,2mi3ixyddfk8px7qwuwr7zx90
-2025-08-23,1,Sporting JAX 1-3 DC Power,Sporting JAX,DC Power,e98d4oial167tji58n80jkh04,2kkv6wglby412mgpvfjxysj6c
-2025-08-23,1,Dallas Trinity 2-1 Spokane Zephyr,Dallas Trinity,Spokane Zephyr,e98d4oial167tji58n80jkh04,2lpd7bsccec1tfey938w93bis
-2025-08-23,1,Fort Lauderdale United 3-3 Lexington,Fort Lauderdale United,Lexington,e98d4oial167tji58n80jkh04,2l65iust6ebhk9065gxzyryms
-2025-08-23,1,Brooklyn 2-1 Tampa Bay Sun,Brooklyn,Tampa Bay Sun,e98d4oial167tji58n80jkh04,2jx1eb4765ae20srtpa9jwkd0
+2026-05-30,,Lexington 1-1 Carolina Ascent,Lexington,Carolina Ascent,e98d4oial167tji58n80jkh04,dsvf0tl0xpsot7zmcxmh0wo44
+2026-05-24,,Sporting JAX 0-1 Carolina Ascent,Sporting JAX,Carolina Ascent,e98d4oial167tji58n80jkh04,44brkyhrb9ns7mv09jrfkqwb8
+2026-05-23,,Lexington 2-0 Dallas Trinity,Lexington,Dallas Trinity,e98d4oial167tji58n80jkh04,43zmkyf5n8a57om7sm13ds93o
+2026-05-16,30.0,Dallas Trinity 4-0 Fort Lauderdale United,Dallas Trinity,Fort Lauderdale United,e98d4oial167tji58n80jkh04,418be23rzb4fdjijaeall5lp0
+2026-05-16,30.0,Carolina Ascent 3-1 Sporting JAX,Carolina Ascent,Sporting JAX,e98d4oial167tji58n80jkh04,40strdvc9ptk3o3h6wpuiezo4
+2026-05-16,30.0,Lexington 1-0 Tampa Bay Sun,Lexington,Tampa Bay Sun,e98d4oial167tji58n80jkh04,41nnfc9eygbf6jttto7eju32s
+2026-05-16,30.0,Spokane Zephyr 4-0 Brooklyn,Spokane Zephyr,Brooklyn,e98d4oial167tji58n80jkh04,423766xkca9phx2787m7dwahg
+2026-05-10,29.0,Lexington 3-1 Brooklyn,Lexington,Brooklyn,e98d4oial167tji58n80jkh04,40deivta8xv66xcnoim82zuac
+2026-05-09,29.0,Spokane Zephyr 1-0 DC Power,Spokane Zephyr,DC Power,e98d4oial167tji58n80jkh04,3ziioyjqtolttgneshnlxrx90
+2026-05-09,29.0,Tampa Bay Sun 0-2 Dallas Trinity,Tampa Bay Sun,Dallas Trinity,e98d4oial167tji58n80jkh04,3zy08y4jxuqlppc3gnruhsowk
+2026-05-09,29.0,Fort Lauderdale United 0-3 Carolina Ascent,Fort Lauderdale United,Carolina Ascent,e98d4oial167tji58n80jkh04,3z31yjgxewyc6x9irtz2rz7ys
+2026-05-06,28.0,DC Power 0-1 Sporting JAX,DC Power,Sporting JAX,e98d4oial167tji58n80jkh04,3ymznurkjjm15twppf2rpnpjo
+2026-05-03,28.0,Sporting JAX 2-1 Brooklyn,Sporting JAX,Brooklyn,e98d4oial167tji58n80jkh04,3y95h519i5vay902bz5hhxw5w
+2026-05-02,28.0,Spokane Zephyr 0-0 Lexington,Spokane Zephyr,Lexington,e98d4oial167tji58n80jkh04,3xttrdvqyjjyh1gz21q3re1hw
+2026-05-02,28.0,Fort Lauderdale United 1-2 Tampa Bay Sun,Fort Lauderdale United,Tampa Bay Sun,e98d4oial167tji58n80jkh04,3xcvykit0km7f0ha9z59bz5lg
+2026-05-01,28.0,DC Power 1-1 Dallas Trinity,DC Power,Dallas Trinity,e98d4oial167tji58n80jkh04,3wxo3so120kw9n8js8m4qwzkk
+2026-04-26,27.0,Spokane Zephyr 3-1 Fort Lauderdale United,Spokane Zephyr,Fort Lauderdale United,e98d4oial167tji58n80jkh04,3wjsy2kasus6tl2yymk0qvuhg
+2026-04-25,27.0,Tampa Bay Sun 1-2 Carolina Ascent,Tampa Bay Sun,Carolina Ascent,e98d4oial167tji58n80jkh04,3w486z50nbchni8ae7hg15qfo
+2026-04-25,27.0,Brooklyn 1-1 Dallas Trinity,Brooklyn,Dallas Trinity,e98d4oial167tji58n80jkh04,3v94t2s40qkz6qlrnaeto2fbo
+2026-04-25,27.0,Sporting JAX 1-2 Lexington,Sporting JAX,Lexington,e98d4oial167tji58n80jkh04,3vop1237kf9qrl5lhdrdntk44
+2026-04-22,27.0,DC Power 4-0 Fort Lauderdale United,DC Power,Fort Lauderdale United,e98d4oial167tji58n80jkh04,3utmuge6hdl4um1ms5qfjbpqs
+2026-04-19,26.0,Spokane Zephyr 2-1 Sporting JAX,Spokane Zephyr,Sporting JAX,e98d4oial167tji58n80jkh04,3ufvsfo245puc1f9c2ant3rbo
+2026-04-19,26.0,Dallas Trinity 0-1 Carolina Ascent,Dallas Trinity,Carolina Ascent,e98d4oial167tji58n80jkh04,3u0bgwc6jr7sbiq28vxg8m0wk
+2026-04-18,26.0,Lexington 4-0 Tampa Bay Sun,Lexington,Tampa Bay Sun,e98d4oial167tji58n80jkh04,3tkrkh3m2ef7nlnohbe0v9ces
+2026-04-12,25.0,Brooklyn 3-0 Dallas Trinity,Brooklyn,Dallas Trinity,e98d4oial167tji58n80jkh04,3r2o1sqq952m7x0gbjvykf2fo
+2026-04-11,25.0,Tampa Bay Sun 0-2 DC Power,Tampa Bay Sun,DC Power,e98d4oial167tji58n80jkh04,3sq2sfaraz1b99ymfnxpz9qms
+2026-04-11,25.0,Carolina Ascent 1-0 Lexington,Carolina Ascent,Lexington,e98d4oial167tji58n80jkh04,3ri5jrcj8kyz60xlk3rjls178
+2026-04-11,25.0,Fort Lauderdale United 1-4 Sporting JAX,Fort Lauderdale United,Sporting JAX,e98d4oial167tji58n80jkh04,3rxjyvipvr51uh4jfvg1ao0es
+2026-04-06,24.0,Fort Lauderdale United 3-1 DC Power,Fort Lauderdale United,DC Power,e98d4oial167tji58n80jkh04,3ps9h9zj9ojtf1s1ijb00ws2c
+2026-04-05,24.0,Tampa Bay Sun 1-2 Carolina Ascent,Tampa Bay Sun,Carolina Ascent,e98d4oial167tji58n80jkh04,3qn6xwgn4m5a1l3npsbsajgus
+2026-04-04,24.0,Dallas Trinity 3-1 Spokane Zephyr,Dallas Trinity,Spokane Zephyr,e98d4oial167tji58n80jkh04,3pcu7rfz6jh818ngac31u5q8k
+2026-04-04,24.0,Sporting JAX 2-0 Brooklyn,Sporting JAX,Brooklyn,e98d4oial167tji58n80jkh04,3q7segbfgt625fzjcj3yfrk7o
+2026-04-01,24.0,DC Power 0-2 Lexington,DC Power,Lexington,e98d4oial167tji58n80jkh04,3oxk6uyc9ieamdup5sbnltp90
+2026-03-31,24.0,Dallas Trinity 1-2 Tampa Bay Sun,Dallas Trinity,Tampa Bay Sun,e98d4oial167tji58n80jkh04,3ojmtg3kj2yju6212pxki62vo
+2026-03-28,23.0,Sporting JAX 1-1 Spokane Zephyr,Sporting JAX,Spokane Zephyr,e98d4oial167tji58n80jkh04,3o4bik2qy50wz9gwbbln8gs2c
+2026-03-28,23.0,Carolina Ascent 1-1 Fort Lauderdale United,Carolina Ascent,Fort Lauderdale United,e98d4oial167tji58n80jkh04,3notd6nthz6qbzketyuqzkowk
+2026-03-28,23.0,Brooklyn 0-1 Lexington,Brooklyn,Lexington,e98d4oial167tji58n80jkh04,3n966lwl974wgen9uvxnwgzys
+2026-03-26,23.0,DC Power 0-2 Tampa Bay Sun,DC Power,Tampa Bay Sun,e98d4oial167tji58n80jkh04,3mr3d2ppxmop2kkoeesie09hw
+2026-03-22,22.0,Dallas Trinity 0-4 Sporting JAX,Dallas Trinity,Sporting JAX,e98d4oial167tji58n80jkh04,3md25ou15jhewybz34k5m4w7o
+2026-03-22,22.0,Brooklyn 0-2 Carolina Ascent,Brooklyn,Carolina Ascent,e98d4oial167tji58n80jkh04,3lxjtxmcg66u1ckz1brwkh7v8
+2026-03-21,22.0,Spokane Zephyr 0-2 DC Power,Spokane Zephyr,DC Power,e98d4oial167tji58n80jkh04,3li562ike9yjoqzdww3yn1vro
+2026-03-21,22.0,Lexington 2-0 Fort Lauderdale United,Lexington,Fort Lauderdale United,e98d4oial167tji58n80jkh04,3l2j3aqxgvt4m6ddilxnaentg
+2026-03-18,22.0,Dallas Trinity 2-2 Lexington,Dallas Trinity,Lexington,e98d4oial167tji58n80jkh04,3k7nb94d0bph96xg0bl5ohfro
+2026-03-18,22.0,Tampa Bay Sun 0-3 Brooklyn,Tampa Bay Sun,Brooklyn,e98d4oial167tji58n80jkh04,3kn8jv1vk72qbg7rjktnpg5qs
+2026-03-17,22.0,DC Power 0-1 Carolina Ascent,DC Power,Carolina Ascent,e98d4oial167tji58n80jkh04,3jsadvzv08cnt0903fo0wg0es
+2026-03-14,21.0,Spokane Zephyr 3-0 Brooklyn,Spokane Zephyr,Brooklyn,e98d4oial167tji58n80jkh04,3jeipkkp6zwsuz7ovjl2gy87o
+2026-03-14,21.0,Fort Lauderdale United 0-2 Sporting JAX,Fort Lauderdale United,Sporting JAX,e98d4oial167tji58n80jkh04,3iz47vl5fpfe460ghhm7abris
+2026-03-13,21.0,Carolina Ascent 1-0 Tampa Bay Sun,Carolina Ascent,Tampa Bay Sun,e98d4oial167tji58n80jkh04,3i5xyy78q9tdv9z14nkk9d2c4
+2026-03-12,21.0,DC Power 1-1 Dallas Trinity,DC Power,Dallas Trinity,e98d4oial167tji58n80jkh04,3ijqi0kz26ql1lth9913nxtec
+2026-03-08,19.0,Lexington 0-1 Dallas Trinity,Lexington,Dallas Trinity,e98d4oial167tji58n80jkh04,3fyqgusfurcsuoxe6ri2ioaok
+2026-03-07,26.0,Brooklyn 0-2 DC Power,Brooklyn,DC Power,e98d4oial167tji58n80jkh04,3t5i768wgukshy4msakus7aqc
+2026-02-21,20.0,Tampa Bay Sun 3-0 Fort Lauderdale United,Tampa Bay Sun,Fort Lauderdale United,e98d4oial167tji58n80jkh04,3hokxhvnrcvmddsof7bwh1lw4
+2026-02-21,20.0,Lexington 0-3 Sporting JAX,Lexington,Sporting JAX,e98d4oial167tji58n80jkh04,3h93wryqy167ingip2mjwew44
+2026-02-21,20.0,Carolina Ascent 2-0 Dallas Trinity,Carolina Ascent,Dallas Trinity,e98d4oial167tji58n80jkh04,3gtem4tr19xffgzlht3wd0xec
+2026-02-14,19.0,Tampa Bay Sun 1-1 DC Power,Tampa Bay Sun,DC Power,e98d4oial167tji58n80jkh04,3ge3zd7t4eaocv7offg7tegwk
+2026-02-14,19.0,Fort Lauderdale United 3-3 Brooklyn,Fort Lauderdale United,Brooklyn,e98d4oial167tji58n80jkh04,3fjfqz5tf94x5dis0xpbcek9g
+2026-02-14,19.0,Carolina Ascent 0-2 Spokane Zephyr,Carolina Ascent,Spokane Zephyr,e98d4oial167tji58n80jkh04,3f41aqvjrdll77rfo5sp59afo
+2026-02-11,19.0,Sporting JAX 3-0 Spokane Zephyr,Sporting JAX,Spokane Zephyr,e98d4oial167tji58n80jkh04,3eonma0h5qmcpsiyj6hr5oyl0
+2026-02-07,18.0,Fort Lauderdale United 0-4 Dallas Trinity,Fort Lauderdale United,Dallas Trinity,e98d4oial167tji58n80jkh04,3dtyk3ka9mo33fjnh9wiygb2s
+2026-02-07,18.0,Sporting JAX 0-1 DC Power,Sporting JAX,DC Power,e98d4oial167tji58n80jkh04,3e96hzfqqtaivif32gkq65r10
+2026-02-07,18.0,Carolina Ascent 1-2 Lexington,Carolina Ascent,Lexington,e98d4oial167tji58n80jkh04,3dek1k9zpuk0vpmo2mp842wpg
+2026-01-31,17.0,Tampa Bay Sun 2-2 Spokane Zephyr,Tampa Bay Sun,Spokane Zephyr,e98d4oial167tji58n80jkh04,3cz55gdj0xiru6jlhiktor6l0
+2026-01-31,17.0,Fort Lauderdale United 1-3 Lexington,Fort Lauderdale United,Lexington,e98d4oial167tji58n80jkh04,3c2jjj12bpu9s2lvh5u2as7bo
+2026-01-31,17.0,Sporting JAX 1-0 Carolina Ascent,Sporting JAX,Carolina Ascent,e98d4oial167tji58n80jkh04,3chwxg3fefftb0783ldv580lw
+2026-01-31,17.0,Dallas Trinity 1-1 Brooklyn,Dallas Trinity,Brooklyn,e98d4oial167tji58n80jkh04,3bn2sdx4nomb15b7om7x2buok
+2025-12-20,16.0,Fort Lauderdale United 1-3 Spokane Zephyr,Fort Lauderdale United,Spokane Zephyr,e98d4oial167tji58n80jkh04,3as9ln5ji9augiglr3kw3d6ok
+2025-12-20,16.0,Sporting JAX 3-1 Tampa Bay Sun,Sporting JAX,Tampa Bay Sun,e98d4oial167tji58n80jkh04,3b7qsn8mmg7lqxgnah7spu3h0
+2025-12-20,16.0,Dallas Trinity 1-1 Lexington,Dallas Trinity,Lexington,e98d4oial167tji58n80jkh04,3aczmwjku2bmw6upsdjzsy51w
+2025-12-20,16.0,Carolina Ascent 0-0 DC Power,Carolina Ascent,DC Power,e98d4oial167tji58n80jkh04,39xg3gl1tq5dbgxizrfk33cpg
+2025-12-13,15.0,Tampa Bay Sun 0-3 Brooklyn,Tampa Bay Sun,Brooklyn,e98d4oial167tji58n80jkh04,39htlyt2kq391mcbyzpyywq38
+2025-12-13,15.0,Sporting JAX 1-1 Fort Lauderdale United,Sporting JAX,Fort Lauderdale United,e98d4oial167tji58n80jkh04,391rlctx3dvxkxeqgbdipckyc
+2025-12-13,15.0,Dallas Trinity 1-0 Carolina Ascent,Dallas Trinity,Carolina Ascent,e98d4oial167tji58n80jkh04,386vzhqxzcqkuzg202usec5qs
+2025-12-13,15.0,Lexington 2-2 DC Power,Lexington,DC Power,e98d4oial167tji58n80jkh04,38mfkcpavf193chjjaiqv8f84
+2025-12-06,14.0,Tampa Bay Sun 0-3 Sporting JAX,Tampa Bay Sun,Sporting JAX,e98d4oial167tji58n80jkh04,37rihl32frb04o9kaljfl6ck4
+2025-12-06,14.0,Dallas Trinity 2-1 DC Power,Dallas Trinity,DC Power,e98d4oial167tji58n80jkh04,36uypzrok8nkq2sgd4m61w7bo
+2025-12-06,14.0,Lexington 1-1 Spokane Zephyr,Lexington,Spokane Zephyr,e98d4oial167tji58n80jkh04,37aekh7o437yn3bf21wwdp2j8
+2025-12-06,14.0,Carolina Ascent 1-0 Brooklyn,Carolina Ascent,Brooklyn,e98d4oial167tji58n80jkh04,36fk75tboee2n1v0uq5t8sl5g
+2025-11-22,13.0,Tampa Bay Sun 1-1 Lexington,Tampa Bay Sun,Lexington,e98d4oial167tji58n80jkh04,3600z6329398nzp77lod4cw7o
+2025-11-22,13.0,Sporting JAX 2-0 Fort Lauderdale United,Sporting JAX,Fort Lauderdale United,e98d4oial167tji58n80jkh04,35kmx0c6z3an08hnng5hyqyac
+2025-11-22,13.0,Brooklyn 1-0 Spokane Zephyr,Brooklyn,Spokane Zephyr,e98d4oial167tji58n80jkh04,355bx0p9zsbimrf4yveube2ac
+2025-11-21,13.0,DC Power 0-1 Carolina Ascent,DC Power,Carolina Ascent,e98d4oial167tji58n80jkh04,34pxykqkyggcdky31cnu9zrbo
+2025-11-15,12.0,Spokane Zephyr 0-2 Dallas Trinity,Spokane Zephyr,Dallas Trinity,e98d4oial167tji58n80jkh04,34c8l4nbgnh5lxny4du0xfaxg
+2025-11-15,12.0,Fort Lauderdale United 1-1 Tampa Bay Sun,Fort Lauderdale United,Tampa Bay Sun,e98d4oial167tji58n80jkh04,33wlxzqqslc8s0rcsk7pxamms
+2025-11-15,12.0,Brooklyn 0-2 Lexington,Brooklyn,Lexington,e98d4oial167tji58n80jkh04,33heeis7919nanrrefp1yag44
+2025-11-12,12.0,DC Power 3-1 Fort Lauderdale United,DC Power,Fort Lauderdale United,e98d4oial167tji58n80jkh04,3324wrh5kny725z3tdzdu77ys
+2025-11-09,11.0,Spokane Zephyr 0-1 Tampa Bay Sun,Spokane Zephyr,Tampa Bay Sun,e98d4oial167tji58n80jkh04,32obwoxs52yehi5mnry952sk4
+2025-11-08,11.0,Carolina Ascent 0-1 Fort Lauderdale United,Carolina Ascent,Fort Lauderdale United,e98d4oial167tji58n80jkh04,31sk77y772uupkp33c2vb88wk
+2025-11-08,11.0,Dallas Trinity 0-2 Sporting JAX,Dallas Trinity,Sporting JAX,e98d4oial167tji58n80jkh04,327kwr5bbui4062moc5y02cyc
+2025-11-08,11.0,Brooklyn 1-0 DC Power,Brooklyn,DC Power,e98d4oial167tji58n80jkh04,31dhaycqdsnodmnqcc4qhjwus
+2025-11-02,10.0,Dallas Trinity 2-3 DC Power,Dallas Trinity,DC Power,e98d4oial167tji58n80jkh04,30ydyhelklslhvkyg2e22p34k
+2025-11-01,10.0,Fort Lauderdale United 1-1 Brooklyn,Fort Lauderdale United,Brooklyn,e98d4oial167tji58n80jkh04,303nhebqushazsen85970srh0
+2025-10-31,10.0,Lexington 4-2 Sporting JAX,Lexington,Sporting JAX,e98d4oial167tji58n80jkh04,2zoixl7ytcbcxv165c0geypzo
+2025-10-30,10.0,Spokane Zephyr 1-2 Carolina Ascent,Spokane Zephyr,Carolina Ascent,e98d4oial167tji58n80jkh04,30iz2c0d6yjdtypqq3t9ozlzo
+2025-10-19,9.0,DC Power 1-1 Spokane Zephyr,DC Power,Spokane Zephyr,e98d4oial167tji58n80jkh04,2yu8h9jibccewkiryj3vyvqj8
+2025-10-18,9.0,Sporting JAX 1-1 Tampa Bay Sun,Sporting JAX,Tampa Bay Sun,e98d4oial167tji58n80jkh04,2ygqtbekwow0frobyszz51fkk
+2025-10-18,9.0,Brooklyn 1-2 Carolina Ascent,Brooklyn,Carolina Ascent,e98d4oial167tji58n80jkh04,2y1i3xpl2iudh4l8genga7fv8
+2025-10-16,9.0,Lexington 5-1 Fort Lauderdale United,Lexington,Fort Lauderdale United,e98d4oial167tji58n80jkh04,2z99e247nkoz05pa3kussk5qs
+2025-10-14,9.0,DC Power 0-1 Sporting JAX,DC Power,Sporting JAX,e98d4oial167tji58n80jkh04,2x4hl4xuuc5uzzv09fbxxn3f8
+2025-10-12,8.0,Spokane Zephyr 2-0 Dallas Trinity,Spokane Zephyr,Dallas Trinity,e98d4oial167tji58n80jkh04,2xm89sgml97hw1oa3x0wg2r6c
+2025-10-11,8.0,Brooklyn 2-2 Tampa Bay Sun,Brooklyn,Tampa Bay Sun,e98d4oial167tji58n80jkh04,2wqst1mb1pvje93fcgt2vo4yc
+2025-10-10,8.0,Lexington 1-1 Carolina Ascent,Lexington,Carolina Ascent,e98d4oial167tji58n80jkh04,2wbk70oxbl539zsfkr9m3pyj8
+2025-10-04,7.0,Spokane Zephyr 0-0 Lexington,Spokane Zephyr,Lexington,e98d4oial167tji58n80jkh04,2vhhsojanz9eos0ntu3mnbz84
+2025-10-04,7.0,Tampa Bay Sun 0-0 Fort Lauderdale United,Tampa Bay Sun,Fort Lauderdale United,e98d4oial167tji58n80jkh04,2vwigwsixa8q5mjfr3vnw5xqs
+2025-10-04,7.0,Carolina Ascent 3-2 DC Power,Carolina Ascent,DC Power,e98d4oial167tji58n80jkh04,2v2ck7dyi1bd8y4o5679medjo
+2025-10-04,7.0,Brooklyn 3-3 Sporting JAX,Brooklyn,Sporting JAX,e98d4oial167tji58n80jkh04,2uni53r4erjqekeoxuj925pg4
+2025-09-28,6.0,Brooklyn 1-2 Fort Lauderdale United,Brooklyn,Fort Lauderdale United,e98d4oial167tji58n80jkh04,2tt9bw08oritbjsn8w6e0915g
+2025-09-28,6.0,Carolina Ascent 3-4 Sporting JAX,Carolina Ascent,Sporting JAX,e98d4oial167tji58n80jkh04,2u8i3tg708v8rf6sgehkyjor8
+2025-09-26,6.0,Lexington 6-1 Dallas Trinity,Lexington,Dallas Trinity,e98d4oial167tji58n80jkh04,2te2pensr7vhn5tw15m8kyc5w
+2025-09-24,6.0,Carolina Ascent 0-1 Spokane Zephyr,Carolina Ascent,Spokane Zephyr,e98d4oial167tji58n80jkh04,2sz2l0z8eyezx6lmxrmiouxp0
+2025-09-20,5.0,Tampa Bay Sun 1-1 Dallas Trinity,Tampa Bay Sun,Dallas Trinity,e98d4oial167tji58n80jkh04,2sk0i3k6rl6goiskipksda238
+2025-09-20,5.0,Lexington 0-0 Spokane Zephyr,Lexington,Spokane Zephyr,e98d4oial167tji58n80jkh04,2s3aahobkv6bc13jb8mw93578
+2025-09-18,5.0,DC Power 2-2 Brooklyn,DC Power,Brooklyn,e98d4oial167tji58n80jkh04,2ro7lrhgq80r4i98qjemotfys
+2025-09-13,4.0,Spokane Zephyr 2-0 Tampa Bay Sun,Spokane Zephyr,Tampa Bay Sun,e98d4oial167tji58n80jkh04,2qvlnzzfap3gxew8y1p254ys4
+2025-09-13,4.0,Sporting JAX 2-2 Carolina Ascent,Sporting JAX,Carolina Ascent,e98d4oial167tji58n80jkh04,2raj7ydua30ofphmg9lsqcj6c
+2025-09-13,4.0,Fort Lauderdale United 4-1 Dallas Trinity,Fort Lauderdale United,Dallas Trinity,e98d4oial167tji58n80jkh04,2qgdvws9xk895odvvmmg2sn4k
+2025-09-12,4.0,DC Power 0-0 Lexington,DC Power,Lexington,e98d4oial167tji58n80jkh04,2q17ddjks6702a84m3dgnu710
+2025-09-07,3.0,Lexington 2-0 Brooklyn,Lexington,Brooklyn,e98d4oial167tji58n80jkh04,2pnrhis73vtqobmlfki4427f8
+2025-09-06,3.0,Spokane Zephyr 0-1 Fort Lauderdale United,Spokane Zephyr,Fort Lauderdale United,e98d4oial167tji58n80jkh04,2oshe6eab3q67dwbqkag65slw
+2025-09-06,3.0,Carolina Ascent 2-2 Tampa Bay Sun,Carolina Ascent,Tampa Bay Sun,e98d4oial167tji58n80jkh04,2occ13wg6fov9gybyi9njmihg
+2025-09-06,3.0,Sporting JAX 0-1 Dallas Trinity,Sporting JAX,Dallas Trinity,e98d4oial167tji58n80jkh04,2p7vxs37nwdtjt24bj75acrv8
+2025-09-03,3.0,Brooklyn 1-1 Spokane Zephyr,Brooklyn,Spokane Zephyr,e98d4oial167tji58n80jkh04,2nwfgjbvtl2d29a3mwv56upec
+2025-08-30,2.0,Dallas Trinity 1-0 Brooklyn,Dallas Trinity,Brooklyn,e98d4oial167tji58n80jkh04,2m4glniq0fxzn5l8vrcc30zdg
+2025-08-30,2.0,Tampa Bay Sun 2-3 Sporting JAX,Tampa Bay Sun,Sporting JAX,e98d4oial167tji58n80jkh04,2ngspvgxrm4pdsxdv6jw0991w
+2025-08-30,2.0,Fort Lauderdale United 2-2 Carolina Ascent,Fort Lauderdale United,Carolina Ascent,e98d4oial167tji58n80jkh04,2myuseud49ob620nj79jgr09g
+2025-08-30,2.0,DC Power 2-2 Spokane Zephyr,DC Power,Spokane Zephyr,e98d4oial167tji58n80jkh04,2mi3ixyddfk8px7qwuwr7zx90
+2025-08-23,1.0,Sporting JAX 1-3 DC Power,Sporting JAX,DC Power,e98d4oial167tji58n80jkh04,2kkv6wglby412mgpvfjxysj6c
+2025-08-23,1.0,Dallas Trinity 2-1 Spokane Zephyr,Dallas Trinity,Spokane Zephyr,e98d4oial167tji58n80jkh04,2lpd7bsccec1tfey938w93bis
+2025-08-23,1.0,Fort Lauderdale United 3-3 Lexington,Fort Lauderdale United,Lexington,e98d4oial167tji58n80jkh04,2l65iust6ebhk9065gxzyryms
+2025-08-23,1.0,Brooklyn 2-1 Tampa Bay Sun,Brooklyn,Tampa Bay Sun,e98d4oial167tji58n80jkh04,2jx1eb4765ae20srtpa9jwkd0

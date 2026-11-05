@@ -1,55 +1,201 @@
 ﻿Date,Round,Match,Home,Away,CompetitionID,MatchID
-2026-03-14,6,Kyoto Sanga 1-2 Cerezo Osaka,Kyoto Sanga,Cerezo Osaka,82kx7v6msx3ibpmifw6nxurys,9bdri6clfpiexxkikqvxrik9g
-2026-03-14,6,Nagoya Grampus 0-3 Vissel Kobe,Nagoya Grampus,Vissel Kobe,82kx7v6msx3ibpmifw6nxurys,9av5wvmxwitskmiskz8wbs8pg
-2026-03-14,6,Shimizu S-Pulse 1-1 Fagiano Okayama,Shimizu S-Pulse,Fagiano Okayama,82kx7v6msx3ibpmifw6nxurys,9acdjcm2nddz0vgbglwi1lkwk
-2026-03-14,6,Kashiwa Reysol 0-1 Machida Zelvia,Kashiwa Reysol,Machida Zelvia,82kx7v6msx3ibpmifw6nxurys,7xvnek239qdkyzhh4u8nnrhuc
-2026-03-14,6,Mito Hollyhock 1-1 Tokyo,Mito Hollyhock,Tokyo,82kx7v6msx3ibpmifw6nxurys,7xd20ows7vvtetwqec5cggg7o
-2026-03-14,6,Yokohama F. Marinos 2-0 JEF United,Yokohama F. Marinos,JEF United,82kx7v6msx3ibpmifw6nxurys,7ygrrwpwd8c7q4pgk50h02al0
-2026-03-08,5,Gamba Osaka 3-2 V-Varen Nagasaki,Gamba Osaka,V-Varen Nagasaki,82kx7v6msx3ibpmifw6nxurys,97o5la73nwgl7xq5fh6xtgj6c
-2026-03-08,5,Fagiano Okayama 1-0 Kyoto Sanga,Fagiano Okayama,Kyoto Sanga,82kx7v6msx3ibpmifw6nxurys,98sl968ictrref41yjcwji0ic
-2026-03-07,5,Avispa Fukuoka 1-5 Nagoya Grampus,Avispa Fukuoka,Nagoya Grampus,82kx7v6msx3ibpmifw6nxurys,99b99sb18c6nzp3ntl0wj2wwk
-2026-03-07,5,Kashima Antlers 2-0 Tokyo Verdy,Kashima Antlers,Tokyo Verdy,82kx7v6msx3ibpmifw6nxurys,7uazl05x2fnhe97ur3uw477kk
-2026-03-07,5,Cerezo Osaka 0-0 Shimizu S-Pulse,Cerezo Osaka,Shimizu S-Pulse,82kx7v6msx3ibpmifw6nxurys,987n7x3fax4xhfcsgl9zt4mxg
-2026-03-07,5,Urawa Reds 2-0 Mito Hollyhock,Urawa Reds,Mito Hollyhock,82kx7v6msx3ibpmifw6nxurys,7ut75snvdqfxtrrrpy1vtbeac
-2026-03-07,5,Tokyo 3-0 Yokohama F. Marinos,Tokyo,Yokohama F. Marinos,82kx7v6msx3ibpmifw6nxurys,7tsywcl5kj0c3spjq881bhuz8
-2026-03-07,5,JEF United 2-1 Kashiwa Reysol,JEF United,Kashiwa Reysol,82kx7v6msx3ibpmifw6nxurys,7vbfa9z3e4h31913549zbp3pw
-2026-03-01,4,Kawasaki Frontale 2-2 Mito Hollyhock,Kawasaki Frontale,Mito Hollyhock,82kx7v6msx3ibpmifw6nxurys,7sp7rygbe59vzlgwq9svh5xjo
-2026-03-01,4,Fagiano Okayama 1-1 Nagoya Grampus,Fagiano Okayama,Nagoya Grampus,82kx7v6msx3ibpmifw6nxurys,96j5u6m4izpxbwoautynfcys4
-2026-02-28,4,V-Varen Nagasaki 1-0 Cerezo Osaka,V-Varen Nagasaki,Cerezo Osaka,82kx7v6msx3ibpmifw6nxurys,975sk1cvctvpb43fx3i4nqiac
-2026-02-28,4,Gamba Osaka 2-2 Shimizu S-Pulse,Gamba Osaka,Shimizu S-Pulse,82kx7v6msx3ibpmifw6nxurys,95hgjwl58c76rqmsw6ejebtw4
-2026-02-28,4,Tokyo 0-2 Kashiwa Reysol,Tokyo,Kashiwa Reysol,82kx7v6msx3ibpmifw6nxurys,7s61bfllpeo77302i7p65g45w
-2026-02-28,4,Urawa Reds 2-3 Kashima Antlers,Urawa Reds,Kashima Antlers,82kx7v6msx3ibpmifw6nxurys,7rnxek2a5fcvd2rd42vuos4k4
-2026-02-28,4,Yokohama F. Marinos 3-2 Tokyo Verdy,Yokohama F. Marinos,Tokyo Verdy,82kx7v6msx3ibpmifw6nxurys,7t9333hpomq1gzl8k5n9mye50
-2026-02-27,4,Vissel Kobe 2-1 Avispa Fukuoka,Vissel Kobe,Avispa Fukuoka,82kx7v6msx3ibpmifw6nxurys,960bir41di8bnpwy2tnf5mxw4
-2026-02-27,4,Sanfrecce Hiroshima 1-2 Kyoto Sanga,Sanfrecce Hiroshima,Kyoto Sanga,82kx7v6msx3ibpmifw6nxurys,94ywe3ex51z1ziq2y9ok6lono
-2026-02-27,4,Machida Zelvia 2-1 JEF United,Machida Zelvia,JEF United,82kx7v6msx3ibpmifw6nxurys,7r5kxm0hsg4oiphar1xa3xy50
-2026-02-22,3,Cerezo Osaka 1-2 Sanfrecce Hiroshima,Cerezo Osaka,Sanfrecce Hiroshima,82kx7v6msx3ibpmifw6nxurys,93rgmtl0dw3cszrmfv7kjglxw
-2026-02-22,3,Fagiano Okayama 1-2 Gamba Osaka,Fagiano Okayama,Gamba Osaka,82kx7v6msx3ibpmifw6nxurys,94dk59anzlfqd5eyw8ic8gr9w
-2026-02-22,3,Kyoto Sanga 2-0 Avispa Fukuoka,Kyoto Sanga,Avispa Fukuoka,82kx7v6msx3ibpmifw6nxurys,935owq1tuy5oxr7mmbr8v105w
-2026-02-22,3,Mito Hollyhock 1-1 JEF United,Mito Hollyhock,JEF United,82kx7v6msx3ibpmifw6nxurys,7ntrekovdny06olr9aj02i0pg
-2026-02-21,3,Kashima Antlers 2-0 Kashiwa Reysol,Kashima Antlers,Kashiwa Reysol,82kx7v6msx3ibpmifw6nxurys,7n5u7e87hgswy2z8rd8j11puc
-2026-02-21,3,Nagoya Grampus 1-3 V-Varen Nagasaki,Nagoya Grampus,V-Varen Nagasaki,82kx7v6msx3ibpmifw6nxurys,92nbaq7dkqe8mw65n4e9w9udw
-2026-02-21,3,Kawasaki Frontale 1-2 Tokyo,Kawasaki Frontale,Tokyo,82kx7v6msx3ibpmifw6nxurys,7psnryb7we224ojjo43lljk7o
-2026-02-21,3,Shimizu S-Pulse 1-0 Vissel Kobe,Shimizu S-Pulse,Vissel Kobe,82kx7v6msx3ibpmifw6nxurys,924vjpu5cqyfc952i415si49g
-2026-02-21,3,Yokohama F. Marinos 0-2 Urawa Reds,Yokohama F. Marinos,Urawa Reds,82kx7v6msx3ibpmifw6nxurys,7qh2t5l1i4f9u9ibxvo4jmhp0
-2026-02-21,3,Tokyo Verdy 2-2 Machida Zelvia,Tokyo Verdy,Machida Zelvia,82kx7v6msx3ibpmifw6nxurys,7ovu4fiw4832rtitwzwrnh82c
-2026-02-15,2,Gamba Osaka 0-0 Nagoya Grampus,Gamba Osaka,Nagoya Grampus,82kx7v6msx3ibpmifw6nxurys,901rp3r7vkxy8uf57lhshjfh0
-2026-02-15,2,Avispa Fukuoka 0-2 Cerezo Osaka,Avispa Fukuoka,Cerezo Osaka,82kx7v6msx3ibpmifw6nxurys,91m2khgdbp8x3nojtgjoqi2ac
-2026-02-15,2,Kashiwa Reysol 1-2 Tokyo Verdy,Kashiwa Reysol,Tokyo Verdy,82kx7v6msx3ibpmifw6nxurys,7llq95idv6k1o52bhlqevpw5w
-2026-02-15,2,JEF United 0-0 Kawasaki Frontale,JEF United,Kawasaki Frontale,82kx7v6msx3ibpmifw6nxurys,7l37fbzmgp077ljpytk93sys4
-2026-02-14,2,Tokyo 1-1 Urawa Reds,Tokyo,Urawa Reds,82kx7v6msx3ibpmifw6nxurys,7m3tn8nzs6afdcpv2cegzexw4
-2026-02-14,2,Kashima Antlers 1-0 Yokohama F. Marinos,Kashima Antlers,Yokohama F. Marinos,82kx7v6msx3ibpmifw6nxurys,7kl6qpoy4jzb0wa3wybfzfehg
-2026-02-14,2,Sanfrecce Hiroshima 1-1 Fagiano Okayama,Sanfrecce Hiroshima,Fagiano Okayama,82kx7v6msx3ibpmifw6nxurys,913fs8gcsqgi6vgb6fmr9c7is
-2026-02-14,2,Shimizu S-Pulse 1-1 Kyoto Sanga,Shimizu S-Pulse,Kyoto Sanga,82kx7v6msx3ibpmifw6nxurys,8zirqrjx5kz0ni93dkvalsems
-2026-02-14,2,Machida Zelvia 2-2 Mito Hollyhock,Machida Zelvia,Mito Hollyhock,82kx7v6msx3ibpmifw6nxurys,7mlu1kzatlo8ed7022vtt6ck4
-2026-02-13,2,Vissel Kobe 2-0 V-Varen Nagasaki,Vissel Kobe,V-Varen Nagasaki,82kx7v6msx3ibpmifw6nxurys,90kp3ez0j3s3ag5ebee5s287o
-2026-02-08,1,Tokyo Verdy 3-1 Mito Hollyhock,Tokyo Verdy,Mito Hollyhock,82kx7v6msx3ibpmifw6nxurys,7jie2qzrdt1xd217nvwamt6vo
-2026-02-08,1,Kawasaki Frontale 5-3 Kashiwa Reysol,Kawasaki Frontale,Kashiwa Reysol,82kx7v6msx3ibpmifw6nxurys,7k35ucqhx3ep4hg66e563sf10
-2026-02-08,1,Nagoya Grampus 1-0 Shimizu S-Pulse,Nagoya Grampus,Shimizu S-Pulse,82kx7v6msx3ibpmifw6nxurys,8xk5gl7gsw38i0qro4cs6hams
-2026-02-08,1,Avispa Fukuoka 1-1 Fagiano Okayama,Avispa Fukuoka,Fagiano Okayama,82kx7v6msx3ibpmifw6nxurys,8yz83miae9iq4prhj79o0mlg4
-2026-02-07,1,Cerezo Osaka 0-0 Gamba Osaka,Cerezo Osaka,Gamba Osaka,82kx7v6msx3ibpmifw6nxurys,8yatsd5i5ol01ngqpuc3jdk44
-2026-02-07,1,Tokyo 1-1 Kashima Antlers,Tokyo,Kashima Antlers,82kx7v6msx3ibpmifw6nxurys,7iwe4vwhhb2wl9zvd7atnhct0
-2026-02-07,1,JEF United 0-2 Urawa Reds,JEF United,Urawa Reds,82kx7v6msx3ibpmifw6nxurys,7ia0tzr4m7sc9re02kud7o45w
-2026-02-06,1,V-Varen Nagasaki 1-3 Sanfrecce Hiroshima,V-Varen Nagasaki,Sanfrecce Hiroshima,82kx7v6msx3ibpmifw6nxurys,8wh9a4co6e8vmbfjttxdl8bo4
-2026-02-06,1,Kyoto Sanga 1-1 Vissel Kobe,Kyoto Sanga,Vissel Kobe,82kx7v6msx3ibpmifw6nxurys,8vvk8t52nro6rl4uw4f2ruaz8
-2026-02-06,1,Yokohama F. Marinos 2-3 Machida Zelvia,Yokohama F. Marinos,Machida Zelvia,82kx7v6msx3ibpmifw6nxurys,7hljx5xpd8xj466qdv9zj04k4
+2026-06-06,,Kawasaki Frontale 0-1 Sanfrecce Hiroshima,Kawasaki Frontale,Sanfrecce Hiroshima,82kx7v6msx3ibpmifw6nxurys,djpxtw7mxy8tpumnpa7v469lg
+2026-06-06,,Kashiwa Reysol 0-1 Kyoto Sanga,Kashiwa Reysol,Kyoto Sanga,82kx7v6msx3ibpmifw6nxurys,x0q99091zj3qs6kejq80bmdw
+2026-06-06,,Yokohama F. Marinos 3-0 Shimizu S-Pulse,Yokohama F. Marinos,Shimizu S-Pulse,82kx7v6msx3ibpmifw6nxurys,8nv6acfalv5tvcrebip2zlno4
+2026-06-06,,Urawa Reds 0-2 Fagiano Okayama,Urawa Reds,Fagiano Okayama,82kx7v6msx3ibpmifw6nxurys,bmj9e5tprkhdxle9mdp2xql1w
+2026-06-06,,Tokyo Verdy 2-4 Gamba Osaka,Tokyo Verdy,Gamba Osaka,82kx7v6msx3ibpmifw6nxurys,42pzix3sfpkvm1ia75cgjuaz8
+2026-06-06,,Mito Hollyhock 0-1 V-Varen Nagasaki,Mito Hollyhock,V-Varen Nagasaki,82kx7v6msx3ibpmifw6nxurys,98zcnlyhlmik8dy0gt5rihous
+2026-06-06,,Machida Zelvia 0-0 Nagoya Grampus,Machida Zelvia,Nagoya Grampus,82kx7v6msx3ibpmifw6nxurys,4r81h480ac1ecrcltfi6637dg
+2026-06-06,,Tokyo 1-3 Cerezo Osaka,Tokyo,Cerezo Osaka,82kx7v6msx3ibpmifw6nxurys,ehb4v0uty6acsnaneov49j4es
+2026-06-06,,Kashima Antlers 2-0 Vissel Kobe,Kashima Antlers,Vissel Kobe,82kx7v6msx3ibpmifw6nxurys,6gjcp4nmw3me7p2q5t4d1wr2s
+2026-06-06,,JEF United 1-2 Avispa Fukuoka,JEF United,Avispa Fukuoka,82kx7v6msx3ibpmifw6nxurys,4bqg0im08la44zi9b6dl9r6dw
+2026-05-31,,Fagiano Okayama 1-1 Urawa Reds,Fagiano Okayama,Urawa Reds,82kx7v6msx3ibpmifw6nxurys,bm71f7af9syg2pts4ifem3k0k
+2026-05-31,,Shimizu S-Pulse 1-1 Yokohama F. Marinos,Shimizu S-Pulse,Yokohama F. Marinos,82kx7v6msx3ibpmifw6nxurys,8nivrru6wwppokkjfw95mjwno
+2026-05-30,,Kyoto Sanga 2-6 Kashiwa Reysol,Kyoto Sanga,Kashiwa Reysol,82kx7v6msx3ibpmifw6nxurys,wokgc4a58luwmlt9ss1f6yac
+2026-05-30,,V-Varen Nagasaki 1-0 Mito Hollyhock,V-Varen Nagasaki,Mito Hollyhock,82kx7v6msx3ibpmifw6nxurys,98np95d3xnfqbfy1tmndk2plg
+2026-05-30,,Avispa Fukuoka 2-2 JEF United,Avispa Fukuoka,JEF United,82kx7v6msx3ibpmifw6nxurys,8x1pvgtfynd6gk16epswl4b2s
+2026-05-30,,Gamba Osaka 1-1 Tokyo Verdy,Gamba Osaka,Tokyo Verdy,82kx7v6msx3ibpmifw6nxurys,42epcwf62d2ys7xd3id1voc2c
+2026-05-30,,Cerezo Osaka 2-2 Tokyo,Cerezo Osaka,Tokyo,82kx7v6msx3ibpmifw6nxurys,egzqyo5lxca49uzcllyveni8k
+2026-05-30,,Sanfrecce Hiroshima 2-1 Kawasaki Frontale,Sanfrecce Hiroshima,Kawasaki Frontale,82kx7v6msx3ibpmifw6nxurys,djeb8g9vzzkcydoqmy3gkwo44
+2026-05-30,,Vissel Kobe 5-0 Kashima Antlers,Vissel Kobe,Kashima Antlers,82kx7v6msx3ibpmifw6nxurys,6g7kkv8rsujoj3hvvpk1m9jpw
+2026-05-30,,Nagoya Grampus 2-2 Machida Zelvia,Nagoya Grampus,Machida Zelvia,82kx7v6msx3ibpmifw6nxurys,4qwcgbfmbbeoqxonqywf4la1g
+2026-05-24,18.0,Shimizu S-Pulse 1-2 Gamba Osaka,Shimizu S-Pulse,Gamba Osaka,82kx7v6msx3ibpmifw6nxurys,a87c6383o7tuff6wcezk4rr4k
+2026-05-24,18.0,Tokyo Verdy 0-6 Yokohama F. Marinos,Tokyo Verdy,Yokohama F. Marinos,82kx7v6msx3ibpmifw6nxurys,8v9kz58j9tu9i8xkebca5auj8
+2026-05-24,18.0,Mito Hollyhock 1-3 Kawasaki Frontale,Mito Hollyhock,Kawasaki Frontale,82kx7v6msx3ibpmifw6nxurys,8u7s81nfoenuo198vm8s74tn8
+2026-05-24,18.0,Fagiano Okayama 2-3 Cerezo Osaka,Fagiano Okayama,Cerezo Osaka,82kx7v6msx3ibpmifw6nxurys,a6l7iejhdxb5xv9ia2uyokefo
+2026-05-23,18.0,Kyoto Sanga 1-0 V-Varen Nagasaki,Kyoto Sanga,V-Varen Nagasaki,82kx7v6msx3ibpmifw6nxurys,a62llywo6njoe337q310gb3f8
+2026-05-23,18.0,Kashiwa Reysol 4-2 JEF United,Kashiwa Reysol,JEF United,82kx7v6msx3ibpmifw6nxurys,8uqee4fptjjl0iez5dvou63o4
+2026-05-23,18.0,Kashima Antlers 1-0 Tokyo,Kashima Antlers,Tokyo,82kx7v6msx3ibpmifw6nxurys,8totdgqa23rnqp2qbpubtek2c
+2026-05-23,18.0,Avispa Fukuoka 0-1 Vissel Kobe,Avispa Fukuoka,Vissel Kobe,82kx7v6msx3ibpmifw6nxurys,a7of9nbf0p3sbkb7xk5kwrf9w
+2026-05-23,18.0,Sanfrecce Hiroshima 4-2 Nagoya Grampus,Sanfrecce Hiroshima,Nagoya Grampus,82kx7v6msx3ibpmifw6nxurys,a740espx4k65cjxzbp71yfjf8
+2026-05-22,18.0,Machida Zelvia 1-0 Urawa Reds,Machida Zelvia,Urawa Reds,82kx7v6msx3ibpmifw6nxurys,8t5twple1yys91tpek5uljpqs
+2026-05-17,17.0,Kawasaki Frontale 1-1 Machida Zelvia,Kawasaki Frontale,Machida Zelvia,82kx7v6msx3ibpmifw6nxurys,8s2th7ji1f2sazaogyngnfmdw
+2026-05-17,17.0,Cerezo Osaka 6-1 Nagoya Grampus,Cerezo Osaka,Nagoya Grampus,82kx7v6msx3ibpmifw6nxurys,a3vbkzh6d7qe5zbz6bpvqv95g
+2026-05-17,17.0,Kyoto Sanga 0-4 Sanfrecce Hiroshima,Kyoto Sanga,Sanfrecce Hiroshima,82kx7v6msx3ibpmifw6nxurys,a3c302ajio626t27nbdibt5w4
+2026-05-17,17.0,Fagiano Okayama 2-0 Shimizu S-Pulse,Fagiano Okayama,Shimizu S-Pulse,82kx7v6msx3ibpmifw6nxurys,a4e7ekblg6fqqdsws65bn3fv8
+2026-05-17,17.0,JEF United 0-2 Kashima Antlers,JEF United,Kashima Antlers,82kx7v6msx3ibpmifw6nxurys,8rk97cumqll8nqxrzhkuyhst0
+2026-05-17,17.0,V-Varen Nagasaki 2-2 Vissel Kobe,V-Varen Nagasaki,Vissel Kobe,82kx7v6msx3ibpmifw6nxurys,a4wjgd7o3axwn0qx0eyemiqs4
+2026-05-16,17.0,Yokohama F. Marinos 0-1 Kashiwa Reysol,Yokohama F. Marinos,Kashiwa Reysol,82kx7v6msx3ibpmifw6nxurys,8sljrlokbhzxvfmut9lubwetw
+2026-05-16,17.0,Urawa Reds 0-0 Tokyo,Urawa Reds,Tokyo,82kx7v6msx3ibpmifw6nxurys,8r1xw679i79dd08zoutma4bo4
+2026-05-16,17.0,Mito Hollyhock 0-1 Tokyo Verdy,Mito Hollyhock,Tokyo Verdy,82kx7v6msx3ibpmifw6nxurys,8qjehv29av259z3dtzuazkowk
+2026-05-13,12.0,Vissel Kobe 1-0 Kyoto Sanga,Vissel Kobe,Kyoto Sanga,82kx7v6msx3ibpmifw6nxurys,9rsgaolknwklfy5a0nk35t34k
+2026-05-13,12.0,Machida Zelvia 0-0 Tokyo Verdy,Machida Zelvia,Tokyo Verdy,82kx7v6msx3ibpmifw6nxurys,8c87wwjl9cfzs4msltiuba784
+2026-05-10,16.0,JEF United 0-2 Machida Zelvia,JEF United,Machida Zelvia,82kx7v6msx3ibpmifw6nxurys,8o8c8ak6lujvdktknlcwf87bo
+2026-05-10,16.0,Nagoya Grampus 3-0 Kyoto Sanga,Nagoya Grampus,Kyoto Sanga,82kx7v6msx3ibpmifw6nxurys,a16uy1aiw98l89vwk623m8z6c
+2026-05-10,16.0,Kashiwa Reysol 1-0 Kawasaki Frontale,Kashiwa Reysol,Kawasaki Frontale,82kx7v6msx3ibpmifw6nxurys,8orpsh3nhqjcvowqiejl2llhw
+2026-05-10,16.0,Gamba Osaka 0-1 Sanfrecce Hiroshima,Gamba Osaka,Sanfrecce Hiroshima,82kx7v6msx3ibpmifw6nxurys,a1pf4y5gybmk8ya4nevis4hlg
+2026-05-10,16.0,Tokyo 2-1 Tokyo Verdy,Tokyo,Tokyo Verdy,82kx7v6msx3ibpmifw6nxurys,8pcpntivrxh78iz7fzs07f9qs
+2026-05-10,16.0,Vissel Kobe 0-3 Fagiano Okayama,Vissel Kobe,Fagiano Okayama,82kx7v6msx3ibpmifw6nxurys,a2spppy0yd77k1sauu51b0kd0
+2026-05-10,16.0,Shimizu S-Pulse 1-1 Avispa Fukuoka,Shimizu S-Pulse,Avispa Fukuoka,82kx7v6msx3ibpmifw6nxurys,a0odmwj3cprzqx8qm7x6vsys4
+2026-05-10,16.0,Yokohama F. Marinos 1-1 Kashima Antlers,Yokohama F. Marinos,Kashima Antlers,82kx7v6msx3ibpmifw6nxurys,8q0r9me3qlbcfx9vvrh3z728k
+2026-05-09,16.0,Cerezo Osaka 3-2 V-Varen Nagasaki,Cerezo Osaka,V-Varen Nagasaki,82kx7v6msx3ibpmifw6nxurys,a29vpa8qtwbgnb6qr0gj4idqs
+2026-05-09,16.0,Mito Hollyhock 1-4 Urawa Reds,Mito Hollyhock,Urawa Reds,82kx7v6msx3ibpmifw6nxurys,8nm7blot466fukelv2o0lkglw
+2026-05-06,15.0,Kashiwa Reysol 0-1 Urawa Reds,Kashiwa Reysol,Urawa Reds,82kx7v6msx3ibpmifw6nxurys,8ldw5d0b61z5j7m6jqygkzkes
+2026-05-06,15.0,Kawasaki Frontale 1-0 Tokyo Verdy,Kawasaki Frontale,Tokyo Verdy,82kx7v6msx3ibpmifw6nxurys,8n3pli63nm32y9munebunci6s
+2026-05-06,15.0,Machida Zelvia 2-0 Yokohama F. Marinos,Machida Zelvia,Yokohama F. Marinos,82kx7v6msx3ibpmifw6nxurys,8mktezr3bbl3focbda05c251w
+2026-05-06,15.0,Kashima Antlers 3-0 Mito Hollyhock,Kashima Antlers,Mito Hollyhock,82kx7v6msx3ibpmifw6nxurys,8kf4x0wvlgyzyuxc57wwqxyc4
+2026-05-06,15.0,Sanfrecce Hiroshima 1-1 Vissel Kobe,Sanfrecce Hiroshima,Vissel Kobe,82kx7v6msx3ibpmifw6nxurys,9z4rexrukhn9y98cohlk4mb6c
+2026-05-06,15.0,Tokyo 0-3 JEF United,Tokyo,JEF United,82kx7v6msx3ibpmifw6nxurys,8m1nrj9gka7fxn940qt5nxf6c
+2026-05-06,15.0,Avispa Fukuoka 1-1 Kyoto Sanga,Avispa Fukuoka,Kyoto Sanga,82kx7v6msx3ibpmifw6nxurys,9znbc54tw4a7hcp79rw9t48pg
+2026-05-06,15.0,Nagoya Grampus 2-1 Gamba Osaka,Nagoya Grampus,Gamba Osaka,82kx7v6msx3ibpmifw6nxurys,9ylcxouf83eax13ijflxatw5w
+2026-05-06,15.0,V-Varen Nagasaki 2-1 Fagiano Okayama,V-Varen Nagasaki,Fagiano Okayama,82kx7v6msx3ibpmifw6nxurys,a05vpicpixd2xvfbvhj54ewwk
+2026-05-06,15.0,Shimizu S-Pulse 1-1 Cerezo Osaka,Shimizu S-Pulse,Cerezo Osaka,82kx7v6msx3ibpmifw6nxurys,9y333b3qczea2dhea27gukob8
+2026-05-03,14.0,V-Varen Nagasaki 1-2 Nagoya Grampus,V-Varen Nagasaki,Nagoya Grampus,82kx7v6msx3ibpmifw6nxurys,9xk9egyqzkmooy5fdlsh8up04
+2026-05-03,14.0,Kashima Antlers 1-1 Machida Zelvia,Kashima Antlers,Machida Zelvia,82kx7v6msx3ibpmifw6nxurys,8hisulc1k0ld3k94rri3sd5p0
+2026-05-03,14.0,Cerezo Osaka 1-1 Avispa Fukuoka,Cerezo Osaka,Avispa Fukuoka,82kx7v6msx3ibpmifw6nxurys,9wheojmnk2kzhs54ftuulbjtg
+2026-05-03,14.0,Tokyo Verdy 1-0 Kashiwa Reysol,Tokyo Verdy,Kashiwa Reysol,82kx7v6msx3ibpmifw6nxurys,8j5e52xsut3h8g12o3pijb7kk
+2026-05-02,14.0,Urawa Reds 2-0 JEF United,Urawa Reds,JEF United,82kx7v6msx3ibpmifw6nxurys,8i24kb5g12a6kdzszbfsfui38
+2026-05-02,14.0,Gamba Osaka 5-0 Vissel Kobe,Gamba Osaka,Vissel Kobe,82kx7v6msx3ibpmifw6nxurys,9vyxuuta3btfp3g7ip3rtgkr8
+2026-05-02,14.0,Kyoto Sanga 1-2 Shimizu S-Pulse,Kyoto Sanga,Shimizu S-Pulse,82kx7v6msx3ibpmifw6nxurys,9vg3oznxiekeutzexvutsz28k
+2026-05-02,14.0,Yokohama F. Marinos 1-1 Mito Hollyhock,Yokohama F. Marinos,Mito Hollyhock,82kx7v6msx3ibpmifw6nxurys,8jo8ftouwsmuw04cn8h6epdec
+2026-05-02,14.0,Tokyo 2-0 Kawasaki Frontale,Tokyo,Kawasaki Frontale,82kx7v6msx3ibpmifw6nxurys,8imftatpxeznh5im99l02ntas
+2026-05-02,14.0,Fagiano Okayama 1-0 Sanfrecce Hiroshima,Fagiano Okayama,Sanfrecce Hiroshima,82kx7v6msx3ibpmifw6nxurys,9wzz7g4v4mvw73gkfk8arkwt0
+2026-04-29,13.0,Kashiwa Reysol 1-3 Tokyo,Kashiwa Reysol,Tokyo,82kx7v6msx3ibpmifw6nxurys,8gepq3ajsqvxzlnkn3zbrxfys
+2026-04-29,13.0,Mito Hollyhock 2-2 Machida Zelvia,Mito Hollyhock,Machida Zelvia,82kx7v6msx3ibpmifw6nxurys,8eue02wgd65t90e0d8uo4z4lw
+2026-04-29,13.0,Kyoto Sanga 1-1 Gamba Osaka,Kyoto Sanga,Gamba Osaka,82kx7v6msx3ibpmifw6nxurys,9twt3i2cwbge1urdc12aue80k
+2026-04-29,13.0,Nagoya Grampus 1-1 Fagiano Okayama,Nagoya Grampus,Fagiano Okayama,82kx7v6msx3ibpmifw6nxurys,9tdzu6j0fbeh7lsqrywafivbo
+2026-04-29,13.0,Urawa Reds 2-0 Kawasaki Frontale,Urawa Reds,Kawasaki Frontale,82kx7v6msx3ibpmifw6nxurys,8fda1bugzx6dblxvprfhft5w4
+2026-04-29,13.0,Avispa Fukuoka 2-2 Sanfrecce Hiroshima,Avispa Fukuoka,Sanfrecce Hiroshima,82kx7v6msx3ibpmifw6nxurys,9uxr49p5n57pfmkdbvgzbdlp0
+2026-04-29,13.0,Vissel Kobe 0-0 Cerezo Osaka,Vissel Kobe,Cerezo Osaka,82kx7v6msx3ibpmifw6nxurys,9ufapt8pso7tc2b8z1uibqyvo
+2026-04-29,13.0,JEF United 2-3 Yokohama F. Marinos,JEF United,Yokohama F. Marinos,82kx7v6msx3ibpmifw6nxurys,8fw2afhet25pdnfzra7338gt0
+2026-04-29,13.0,Shimizu S-Pulse 1-2 V-Varen Nagasaki,Shimizu S-Pulse,V-Varen Nagasaki,82kx7v6msx3ibpmifw6nxurys,9svf4mepdbwkh5s4rdhslzk7o
+2026-04-29,13.0,Tokyo Verdy 2-1 Kashima Antlers,Tokyo Verdy,Kashima Antlers,82kx7v6msx3ibpmifw6nxurys,8gz78tcpl6beap2z66vckwems
+2026-04-25,12.0,V-Varen Nagasaki 1-1 Gamba Osaka,V-Varen Nagasaki,Gamba Osaka,82kx7v6msx3ibpmifw6nxurys,9r9zbjhemv0xn8fbz6z7fqxas
+2026-04-25,12.0,Sanfrecce Hiroshima 2-1 Cerezo Osaka,Sanfrecce Hiroshima,Cerezo Osaka,82kx7v6msx3ibpmifw6nxurys,9sazgdhz1nz78ls477zgd0kr8
+2026-04-25,12.0,Kawasaki Frontale 2-1 JEF United,Kawasaki Frontale,JEF United,82kx7v6msx3ibpmifw6nxurys,8ebujeexhcr27j4tobux4lrf8
+2026-04-25,12.0,Fagiano Okayama 2-0 Avispa Fukuoka,Fagiano Okayama,Avispa Fukuoka,82kx7v6msx3ibpmifw6nxurys,9qrljmwp8c1si4r9ecs60lbmc
+2026-04-25,12.0,Shimizu S-Pulse 0-2 Nagoya Grampus,Shimizu S-Pulse,Nagoya Grampus,82kx7v6msx3ibpmifw6nxurys,9q8uyx2tfunvmzb0p8jlt2ntg
+2026-04-25,12.0,Urawa Reds 2-3 Yokohama F. Marinos,Urawa Reds,Yokohama F. Marinos,82kx7v6msx3ibpmifw6nxurys,8dtaa6jyjdscxakyj7qtbi4gk
+2026-04-24,12.0,Tokyo 5-2 Mito Hollyhock,Tokyo,Mito Hollyhock,82kx7v6msx3ibpmifw6nxurys,8datc3f29fkv810xceqnb5m38
+2026-04-24,12.0,Kashiwa Reysol 0-1 Kashima Antlers,Kashiwa Reysol,Kashima Antlers,82kx7v6msx3ibpmifw6nxurys,8cqt4bz0bc1zgbhzbczq7bz84
+2026-04-22,17.0,Gamba Osaka 1-2 Avispa Fukuoka,Gamba Osaka,Avispa Fukuoka,82kx7v6msx3ibpmifw6nxurys,a5f4hj3yfb5ofekke7oraw7x0
+2026-04-19,11.0,Nagoya Grampus 2-2 Avispa Fukuoka,Nagoya Grampus,Avispa Fukuoka,82kx7v6msx3ibpmifw6nxurys,9nnswz3ycy5tvc5v78fyxr40k
+2026-04-19,11.0,Gamba Osaka 2-2 Fagiano Okayama,Gamba Osaka,Fagiano Okayama,82kx7v6msx3ibpmifw6nxurys,9o6i4g1xsv16q2ot46cehw45w
+2026-04-19,11.0,Mito Hollyhock 2-0 Kashiwa Reysol,Mito Hollyhock,Kashiwa Reysol,82kx7v6msx3ibpmifw6nxurys,8a5wnpy4p9mpza23r7wmniwwk
+2026-04-18,11.0,Cerezo Osaka 3-0 Kyoto Sanga,Cerezo Osaka,Kyoto Sanga,82kx7v6msx3ibpmifw6nxurys,9opb70clu3n1qjrmw6dkik4k4
+2026-04-18,11.0,Tokyo Verdy 1-0 JEF United,Tokyo Verdy,JEF United,82kx7v6msx3ibpmifw6nxurys,8aojfg66vncrcyqu4r3jjvwno
+2026-04-18,11.0,Sanfrecce Hiroshima 2-0 V-Varen Nagasaki,Sanfrecce Hiroshima,V-Varen Nagasaki,82kx7v6msx3ibpmifw6nxurys,9pqa4zx2qfca3pnzdza2fdlp0
+2026-04-18,11.0,Kashima Antlers 1-0 Urawa Reds,Kashima Antlers,Urawa Reds,82kx7v6msx3ibpmifw6nxurys,89nk26jc5d275o33ryjpmedjo
+2026-04-18,11.0,Yokohama F. Marinos 1-2 Kawasaki Frontale,Yokohama F. Marinos,Kawasaki Frontale,82kx7v6msx3ibpmifw6nxurys,8b76gf1e6j6ucroh79o7vbaqc
+2026-04-12,10.0,Kawasaki Frontale 0-2 Kashima Antlers,Kawasaki Frontale,Kashima Antlers,82kx7v6msx3ibpmifw6nxurys,88g547e2vdx6g1ksgniqiz09g
+2026-04-12,10.0,Urawa Reds 1-1 Tokyo Verdy,Urawa Reds,Tokyo Verdy,82kx7v6msx3ibpmifw6nxurys,86uqogjwdwlqdx90w6be6xhqs
+2026-04-11,10.0,Gamba Osaka 0-1 Cerezo Osaka,Gamba Osaka,Cerezo Osaka,82kx7v6msx3ibpmifw6nxurys,9lhfl3whrno1begpzehbb5yqc
+2026-04-11,10.0,Kyoto Sanga 5-1 Fagiano Okayama,Kyoto Sanga,Fagiano Okayama,82kx7v6msx3ibpmifw6nxurys,9kw6vtx491dv0cdud8w2bdg5w
+2026-04-11,10.0,Vissel Kobe 3-2 Nagoya Grampus,Vissel Kobe,Nagoya Grampus,82kx7v6msx3ibpmifw6nxurys,9m07vb0h0m7i39ww0fa0moo44
+2026-04-11,10.0,Yokohama F. Marinos 1-3 Tokyo,Yokohama F. Marinos,Tokyo,82kx7v6msx3ibpmifw6nxurys,895aybu4sk6u5imh0o7zadiqc
+2026-04-11,10.0,Avispa Fukuoka 1-0 V-Varen Nagasaki,Avispa Fukuoka,V-Varen Nagasaki,82kx7v6msx3ibpmifw6nxurys,9n1ogj30jwo9iikgou00nnlzo
+2026-04-11,10.0,Sanfrecce Hiroshima 1-1 Shimizu S-Pulse,Sanfrecce Hiroshima,Shimizu S-Pulse,82kx7v6msx3ibpmifw6nxurys,9mj5e4tf0kjrdzb8mlqaqsahg
+2026-04-11,10.0,Machida Zelvia 1-0 Kashiwa Reysol,Machida Zelvia,Kashiwa Reysol,82kx7v6msx3ibpmifw6nxurys,87w04h16q7ozjiqnh0x1py784
+2026-04-11,10.0,JEF United 1-1 Mito Hollyhock,JEF United,Mito Hollyhock,82kx7v6msx3ibpmifw6nxurys,87dhp6ha9m5g7ldf864whruvo
+2026-04-05,9.0,Kawasaki Frontale 3-2 Urawa Reds,Kawasaki Frontale,Urawa Reds,82kx7v6msx3ibpmifw6nxurys,86c2wzxaqh98ndelal21flixg
+2026-04-05,9.0,Tokyo 0-0 Machida Zelvia,Tokyo,Machida Zelvia,82kx7v6msx3ibpmifw6nxurys,85tiwg82cqijb58jaa2y8bpjo
+2026-04-05,9.0,Sanfrecce Hiroshima 0-1 Avispa Fukuoka,Sanfrecce Hiroshima,Avispa Fukuoka,82kx7v6msx3ibpmifw6nxurys,9jutgggm3cdr67d381c38jevo
+2026-04-05,9.0,Fagiano Okayama 1-4 Vissel Kobe,Fagiano Okayama,Vissel Kobe,82kx7v6msx3ibpmifw6nxurys,9jcf9z7lj8kmrh822l8b17ifo
+2026-04-05,9.0,Kashiwa Reysol 3-0 Yokohama F. Marinos,Kashiwa Reysol,Yokohama F. Marinos,82kx7v6msx3ibpmifw6nxurys,85an9uxw90rvqxpws2bnmfh1w
+2026-04-05,9.0,V-Varen Nagasaki 0-3 Shimizu S-Pulse,V-Varen Nagasaki,Shimizu S-Pulse,82kx7v6msx3ibpmifw6nxurys,9kdfw4wlhm5rozq42qbkbywwk
+2026-04-04,9.0,Gamba Osaka 2-0 Kyoto Sanga,Gamba Osaka,Kyoto Sanga,82kx7v6msx3ibpmifw6nxurys,9itnznmiee4mrhwd5o289yxas
+2026-04-04,9.0,Nagoya Grampus 3-0 Cerezo Osaka,Nagoya Grampus,Cerezo Osaka,82kx7v6msx3ibpmifw6nxurys,9i9jpvm0oajciqt5y486hvxuc
+2026-04-04,9.0,Mito Hollyhock 1-1 Kashima Antlers,Mito Hollyhock,Kashima Antlers,82kx7v6msx3ibpmifw6nxurys,84986s7on7iv7wrwxhpv7yp04
+2026-04-04,9.0,JEF United 3-2 Tokyo Verdy,JEF United,Tokyo Verdy,82kx7v6msx3ibpmifw6nxurys,84rqmn1b54cqpbgskooezbndg
+2026-04-01,11.0,Vissel Kobe 2-0 Shimizu S-Pulse,Vissel Kobe,Shimizu S-Pulse,82kx7v6msx3ibpmifw6nxurys,9p7syv8nq4txaszq8w11ezhn8
+2026-04-01,11.0,Machida Zelvia 0-3 Tokyo,Machida Zelvia,Tokyo,82kx7v6msx3ibpmifw6nxurys,8bpw86rtkjew9yk29kaw0c5ck
+2026-03-28,5.0,Machida Zelvia 1-1 Kawasaki Frontale,Machida Zelvia,Kawasaki Frontale,82kx7v6msx3ibpmifw6nxurys,7vtnt1ak816rn1qx155rniw44
+2026-03-27,5.0,Vissel Kobe 2-1 Sanfrecce Hiroshima,Vissel Kobe,Sanfrecce Hiroshima,82kx7v6msx3ibpmifw6nxurys,99tx7r7p75nftq51e5orybpxw
+2026-03-22,8.0,Kashiwa Reysol 3-0 Mito Hollyhock,Kashiwa Reysol,Mito Hollyhock,82kx7v6msx3ibpmifw6nxurys,82nmg60lysxzs7cggwafnv09g
+2026-03-22,8.0,Urawa Reds 1-2 Machida Zelvia,Urawa Reds,Machida Zelvia,82kx7v6msx3ibpmifw6nxurys,824ppz7ozceqiwff242b3f1uc
+2026-03-22,8.0,Cerezo Osaka 1-1 Vissel Kobe,Cerezo Osaka,Vissel Kobe,82kx7v6msx3ibpmifw6nxurys,9gp9w9xgetwdit3chfoegpz4k
+2026-03-22,8.0,Kawasaki Frontale 0-5 Yokohama F. Marinos,Kawasaki Frontale,Yokohama F. Marinos,82kx7v6msx3ibpmifw6nxurys,83q9x2cp0b9pii9oxa81yavx0
+2026-03-22,8.0,Kashima Antlers 2-1 JEF United,Kashima Antlers,JEF United,82kx7v6msx3ibpmifw6nxurys,81m5f8xzq9oab042l1d82eiac
+2026-03-22,8.0,Kyoto Sanga 1-1 Nagoya Grampus,Kyoto Sanga,Nagoya Grampus,82kx7v6msx3ibpmifw6nxurys,9g6w2k9yd501kqncgvnbux91w
+2026-03-22,8.0,Tokyo Verdy 0-0 Tokyo,Tokyo Verdy,Tokyo,82kx7v6msx3ibpmifw6nxurys,8367fm9030vx1n1d0c87mgsgk
+2026-03-22,8.0,Shimizu S-Pulse 3-1 Sanfrecce Hiroshima,Shimizu S-Pulse,Sanfrecce Hiroshima,82kx7v6msx3ibpmifw6nxurys,9fo3qujka434ckw8y27b1fod0
+2026-03-21,8.0,Avispa Fukuoka 2-2 Gamba Osaka,Avispa Fukuoka,Gamba Osaka,82kx7v6msx3ibpmifw6nxurys,9hqq8pzzwladorn14038uvqj8
+2026-03-21,8.0,Fagiano Okayama 0-1 V-Varen Nagasaki,Fagiano Okayama,V-Varen Nagasaki,82kx7v6msx3ibpmifw6nxurys,9h8411e30yzk4m2mwwtwj24gk
+2026-03-18,7.0,Machida Zelvia 0-3 Kashima Antlers,Machida Zelvia,Kashima Antlers,82kx7v6msx3ibpmifw6nxurys,813iry3uzweqf0zpacr3ssvf8
+2026-03-18,7.0,Urawa Reds 1-1 Kashiwa Reysol,Urawa Reds,Kashiwa Reysol,82kx7v6msx3ibpmifw6nxurys,7zjgyluvb4draysv3j0nhgahg
+2026-03-18,7.0,V-Varen Nagasaki 1-2 Kyoto Sanga,V-Varen Nagasaki,Kyoto Sanga,82kx7v6msx3ibpmifw6nxurys,9f58ory1m20dzzpvl3kvcfytw
+2026-03-18,7.0,Avispa Fukuoka 1-1 Shimizu S-Pulse,Avispa Fukuoka,Shimizu S-Pulse,82kx7v6msx3ibpmifw6nxurys,9emo0fcq05j2t9wumvfyi1dsk
+2026-03-18,7.0,Vissel Kobe 2-2 Gamba Osaka,Vissel Kobe,Gamba Osaka,82kx7v6msx3ibpmifw6nxurys,9e4agpfvz1bt6ubrwd1ys8iz8
+2026-03-18,7.0,Nagoya Grampus 2-1 Sanfrecce Hiroshima,Nagoya Grampus,Sanfrecce Hiroshima,82kx7v6msx3ibpmifw6nxurys,9czcvxj96bj5mynrb37797n6c
+2026-03-18,7.0,Tokyo Verdy 0-2 Kawasaki Frontale,Tokyo Verdy,Kawasaki Frontale,82kx7v6msx3ibpmifw6nxurys,80kz0g0acxvom98qmh0issmqc
+2026-03-18,7.0,JEF United 1-2 Tokyo,JEF United,Tokyo,82kx7v6msx3ibpmifw6nxurys,802femyfvout16o7q5rq7845w
+2026-03-18,7.0,Mito Hollyhock 1-0 Yokohama F. Marinos,Mito Hollyhock,Yokohama F. Marinos,82kx7v6msx3ibpmifw6nxurys,7z01ih1bt4qoweriwu9cqhst0
+2026-03-18,7.0,Cerezo Osaka 1-2 Fagiano Okayama,Cerezo Osaka,Fagiano Okayama,82kx7v6msx3ibpmifw6nxurys,9djqe6i44nohzszmssws03zf8
+2026-03-15,6.0,V-Varen Nagasaki 1-0 Avispa Fukuoka,V-Varen Nagasaki,Avispa Fukuoka,82kx7v6msx3ibpmifw6nxurys,9cerehbrxcpp0bi9k0bcs9jbo
+2026-03-14,6.0,Tokyo Verdy 1-0 Urawa Reds,Tokyo Verdy,Urawa Reds,82kx7v6msx3ibpmifw6nxurys,7wbtvpxyakzfsqdeazoxoio0k
+2026-03-14,6.0,Sanfrecce Hiroshima 2-0 Gamba Osaka,Sanfrecce Hiroshima,Gamba Osaka,82kx7v6msx3ibpmifw6nxurys,9bw7pno5cur12jy85lyy0x6ac
+2026-03-14,6.0,Kashima Antlers 1-0 Kawasaki Frontale,Kashima Antlers,Kawasaki Frontale,82kx7v6msx3ibpmifw6nxurys,7wuf1rnmmm39x1cz8y0chur6c
+2026-03-14,6.0,Kyoto Sanga 1-2 Cerezo Osaka,Kyoto Sanga,Cerezo Osaka,82kx7v6msx3ibpmifw6nxurys,9bdri6clfpiexxkikqvxrik9g
+2026-03-14,6.0,Nagoya Grampus 0-3 Vissel Kobe,Nagoya Grampus,Vissel Kobe,82kx7v6msx3ibpmifw6nxurys,9av5wvmxwitskmiskz8wbs8pg
+2026-03-14,6.0,Shimizu S-Pulse 1-1 Fagiano Okayama,Shimizu S-Pulse,Fagiano Okayama,82kx7v6msx3ibpmifw6nxurys,9acdjcm2nddz0vgbglwi1lkwk
+2026-03-14,6.0,Kashiwa Reysol 0-1 Machida Zelvia,Kashiwa Reysol,Machida Zelvia,82kx7v6msx3ibpmifw6nxurys,7xvnek239qdkyzhh4u8nnrhuc
+2026-03-14,6.0,Mito Hollyhock 1-1 Tokyo,Mito Hollyhock,Tokyo,82kx7v6msx3ibpmifw6nxurys,7xd20ows7vvtetwqec5cggg7o
+2026-03-14,6.0,Yokohama F. Marinos 2-0 JEF United,Yokohama F. Marinos,JEF United,82kx7v6msx3ibpmifw6nxurys,7ygrrwpwd8c7q4pgk50h02al0
+2026-03-08,5.0,Gamba Osaka 3-2 V-Varen Nagasaki,Gamba Osaka,V-Varen Nagasaki,82kx7v6msx3ibpmifw6nxurys,97o5la73nwgl7xq5fh6xtgj6c
+2026-03-08,5.0,Fagiano Okayama 1-0 Kyoto Sanga,Fagiano Okayama,Kyoto Sanga,82kx7v6msx3ibpmifw6nxurys,98sl968ictrref41yjcwji0ic
+2026-03-07,5.0,Avispa Fukuoka 1-5 Nagoya Grampus,Avispa Fukuoka,Nagoya Grampus,82kx7v6msx3ibpmifw6nxurys,99b99sb18c6nzp3ntl0wj2wwk
+2026-03-07,5.0,Kashima Antlers 2-0 Tokyo Verdy,Kashima Antlers,Tokyo Verdy,82kx7v6msx3ibpmifw6nxurys,7uazl05x2fnhe97ur3uw477kk
+2026-03-07,5.0,Cerezo Osaka 0-0 Shimizu S-Pulse,Cerezo Osaka,Shimizu S-Pulse,82kx7v6msx3ibpmifw6nxurys,987n7x3fax4xhfcsgl9zt4mxg
+2026-03-07,5.0,Urawa Reds 2-0 Mito Hollyhock,Urawa Reds,Mito Hollyhock,82kx7v6msx3ibpmifw6nxurys,7ut75snvdqfxtrrrpy1vtbeac
+2026-03-07,5.0,Tokyo 3-0 Yokohama F. Marinos,Tokyo,Yokohama F. Marinos,82kx7v6msx3ibpmifw6nxurys,7tsywcl5kj0c3spjq881bhuz8
+2026-03-07,5.0,JEF United 2-1 Kashiwa Reysol,JEF United,Kashiwa Reysol,82kx7v6msx3ibpmifw6nxurys,7vbfa9z3e4h31913549zbp3pw
+2026-03-01,4.0,Kawasaki Frontale 2-2 Mito Hollyhock,Kawasaki Frontale,Mito Hollyhock,82kx7v6msx3ibpmifw6nxurys,7sp7rygbe59vzlgwq9svh5xjo
+2026-03-01,4.0,Fagiano Okayama 1-1 Nagoya Grampus,Fagiano Okayama,Nagoya Grampus,82kx7v6msx3ibpmifw6nxurys,96j5u6m4izpxbwoautynfcys4
+2026-02-28,4.0,V-Varen Nagasaki 1-0 Cerezo Osaka,V-Varen Nagasaki,Cerezo Osaka,82kx7v6msx3ibpmifw6nxurys,975sk1cvctvpb43fx3i4nqiac
+2026-02-28,4.0,Gamba Osaka 2-2 Shimizu S-Pulse,Gamba Osaka,Shimizu S-Pulse,82kx7v6msx3ibpmifw6nxurys,95hgjwl58c76rqmsw6ejebtw4
+2026-02-28,4.0,Tokyo 0-2 Kashiwa Reysol,Tokyo,Kashiwa Reysol,82kx7v6msx3ibpmifw6nxurys,7s61bfllpeo77302i7p65g45w
+2026-02-28,4.0,Urawa Reds 2-3 Kashima Antlers,Urawa Reds,Kashima Antlers,82kx7v6msx3ibpmifw6nxurys,7rnxek2a5fcvd2rd42vuos4k4
+2026-02-28,4.0,Yokohama F. Marinos 3-2 Tokyo Verdy,Yokohama F. Marinos,Tokyo Verdy,82kx7v6msx3ibpmifw6nxurys,7t9333hpomq1gzl8k5n9mye50
+2026-02-27,4.0,Vissel Kobe 2-1 Avispa Fukuoka,Vissel Kobe,Avispa Fukuoka,82kx7v6msx3ibpmifw6nxurys,960bir41di8bnpwy2tnf5mxw4
+2026-02-27,4.0,Sanfrecce Hiroshima 1-2 Kyoto Sanga,Sanfrecce Hiroshima,Kyoto Sanga,82kx7v6msx3ibpmifw6nxurys,94ywe3ex51z1ziq2y9ok6lono
+2026-02-27,4.0,Machida Zelvia 2-1 JEF United,Machida Zelvia,JEF United,82kx7v6msx3ibpmifw6nxurys,7r5kxm0hsg4oiphar1xa3xy50
+2026-02-22,3.0,Cerezo Osaka 1-2 Sanfrecce Hiroshima,Cerezo Osaka,Sanfrecce Hiroshima,82kx7v6msx3ibpmifw6nxurys,93rgmtl0dw3cszrmfv7kjglxw
+2026-02-22,3.0,Fagiano Okayama 1-2 Gamba Osaka,Fagiano Okayama,Gamba Osaka,82kx7v6msx3ibpmifw6nxurys,94dk59anzlfqd5eyw8ic8gr9w
+2026-02-22,3.0,Kyoto Sanga 2-0 Avispa Fukuoka,Kyoto Sanga,Avispa Fukuoka,82kx7v6msx3ibpmifw6nxurys,935owq1tuy5oxr7mmbr8v105w
+2026-02-22,3.0,Mito Hollyhock 1-1 JEF United,Mito Hollyhock,JEF United,82kx7v6msx3ibpmifw6nxurys,7ntrekovdny06olr9aj02i0pg
+2026-02-21,3.0,Kashima Antlers 2-0 Kashiwa Reysol,Kashima Antlers,Kashiwa Reysol,82kx7v6msx3ibpmifw6nxurys,7n5u7e87hgswy2z8rd8j11puc
+2026-02-21,3.0,Nagoya Grampus 1-3 V-Varen Nagasaki,Nagoya Grampus,V-Varen Nagasaki,82kx7v6msx3ibpmifw6nxurys,92nbaq7dkqe8mw65n4e9w9udw
+2026-02-21,3.0,Kawasaki Frontale 1-2 Tokyo,Kawasaki Frontale,Tokyo,82kx7v6msx3ibpmifw6nxurys,7psnryb7we224ojjo43lljk7o
+2026-02-21,3.0,Shimizu S-Pulse 1-0 Vissel Kobe,Shimizu S-Pulse,Vissel Kobe,82kx7v6msx3ibpmifw6nxurys,924vjpu5cqyfc952i415si49g
+2026-02-21,3.0,Yokohama F. Marinos 0-2 Urawa Reds,Yokohama F. Marinos,Urawa Reds,82kx7v6msx3ibpmifw6nxurys,7qh2t5l1i4f9u9ibxvo4jmhp0
+2026-02-21,3.0,Tokyo Verdy 2-2 Machida Zelvia,Tokyo Verdy,Machida Zelvia,82kx7v6msx3ibpmifw6nxurys,7ovu4fiw4832rtitwzwrnh82c
+2026-02-15,2.0,Gamba Osaka 0-0 Nagoya Grampus,Gamba Osaka,Nagoya Grampus,82kx7v6msx3ibpmifw6nxurys,901rp3r7vkxy8uf57lhshjfh0
+2026-02-15,2.0,Avispa Fukuoka 0-2 Cerezo Osaka,Avispa Fukuoka,Cerezo Osaka,82kx7v6msx3ibpmifw6nxurys,91m2khgdbp8x3nojtgjoqi2ac
+2026-02-15,2.0,Kashiwa Reysol 1-2 Tokyo Verdy,Kashiwa Reysol,Tokyo Verdy,82kx7v6msx3ibpmifw6nxurys,7llq95idv6k1o52bhlqevpw5w
+2026-02-15,2.0,JEF United 0-0 Kawasaki Frontale,JEF United,Kawasaki Frontale,82kx7v6msx3ibpmifw6nxurys,7l37fbzmgp077ljpytk93sys4
+2026-02-14,2.0,Tokyo 1-1 Urawa Reds,Tokyo,Urawa Reds,82kx7v6msx3ibpmifw6nxurys,7m3tn8nzs6afdcpv2cegzexw4
+2026-02-14,2.0,Kashima Antlers 1-0 Yokohama F. Marinos,Kashima Antlers,Yokohama F. Marinos,82kx7v6msx3ibpmifw6nxurys,7kl6qpoy4jzb0wa3wybfzfehg
+2026-02-14,2.0,Sanfrecce Hiroshima 1-1 Fagiano Okayama,Sanfrecce Hiroshima,Fagiano Okayama,82kx7v6msx3ibpmifw6nxurys,913fs8gcsqgi6vgb6fmr9c7is
+2026-02-14,2.0,Shimizu S-Pulse 1-1 Kyoto Sanga,Shimizu S-Pulse,Kyoto Sanga,82kx7v6msx3ibpmifw6nxurys,8zirqrjx5kz0ni93dkvalsems
+2026-02-14,2.0,Machida Zelvia 2-2 Mito Hollyhock,Machida Zelvia,Mito Hollyhock,82kx7v6msx3ibpmifw6nxurys,7mlu1kzatlo8ed7022vtt6ck4
+2026-02-13,2.0,Vissel Kobe 2-0 V-Varen Nagasaki,Vissel Kobe,V-Varen Nagasaki,82kx7v6msx3ibpmifw6nxurys,90kp3ez0j3s3ag5ebee5s287o
+2026-02-08,1.0,Tokyo Verdy 3-1 Mito Hollyhock,Tokyo Verdy,Mito Hollyhock,82kx7v6msx3ibpmifw6nxurys,7jie2qzrdt1xd217nvwamt6vo
+2026-02-08,1.0,Kawasaki Frontale 5-3 Kashiwa Reysol,Kawasaki Frontale,Kashiwa Reysol,82kx7v6msx3ibpmifw6nxurys,7k35ucqhx3ep4hg66e563sf10
+2026-02-08,1.0,Nagoya Grampus 1-0 Shimizu S-Pulse,Nagoya Grampus,Shimizu S-Pulse,82kx7v6msx3ibpmifw6nxurys,8xk5gl7gsw38i0qro4cs6hams
+2026-02-08,1.0,Avispa Fukuoka 1-1 Fagiano Okayama,Avispa Fukuoka,Fagiano Okayama,82kx7v6msx3ibpmifw6nxurys,8yz83miae9iq4prhj79o0mlg4
+2026-02-07,1.0,Cerezo Osaka 0-0 Gamba Osaka,Cerezo Osaka,Gamba Osaka,82kx7v6msx3ibpmifw6nxurys,8yatsd5i5ol01ngqpuc3jdk44
+2026-02-07,1.0,Tokyo 1-1 Kashima Antlers,Tokyo,Kashima Antlers,82kx7v6msx3ibpmifw6nxurys,7iwe4vwhhb2wl9zvd7atnhct0
+2026-02-07,1.0,JEF United 0-2 Urawa Reds,JEF United,Urawa Reds,82kx7v6msx3ibpmifw6nxurys,7ia0tzr4m7sc9re02kud7o45w
+2026-02-06,1.0,V-Varen Nagasaki 1-3 Sanfrecce Hiroshima,V-Varen Nagasaki,Sanfrecce Hiroshima,82kx7v6msx3ibpmifw6nxurys,8wh9a4co6e8vmbfjttxdl8bo4
+2026-02-06,1.0,Kyoto Sanga 1-1 Vissel Kobe,Kyoto Sanga,Vissel Kobe,82kx7v6msx3ibpmifw6nxurys,8vvk8t52nro6rl4uw4f2ruaz8
+2026-02-06,1.0,Yokohama F. Marinos 2-3 Machida Zelvia,Yokohama F. Marinos,Machida Zelvia,82kx7v6msx3ibpmifw6nxurys,7hljx5xpd8xj466qdv9zj04k4

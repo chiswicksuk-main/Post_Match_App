@@ -1,4 +1,455 @@
 ﻿Date,Round,Match,Home,Away,CompetitionID,MatchID
+2026-11-01,0,Portland Timbers 3-1 Houston Dynamo,Portland Timbers,Houston Dynamo,6i6n0jkbh9zzij6s8htfjh2j8,cmmrba6q8ao26q8ttvhvhd7v8
+2026-11-01,0,LAFC 1-3 Minnesota United,LAFC,Minnesota United,6i6n0jkbh9zzij6s8htfjh2j8,cl2sppgu1kvos06tizxmbs0t0
+2026-11-01,0,New England 1-2 Inter Miami,New England,Inter Miami,6i6n0jkbh9zzij6s8htfjh2j8,cm4x36dcbu81amxegje31ki6s
+2026-11-01,0,Atlanta United 3-1 Toronto,Atlanta United,Toronto,6i6n0jkbh9zzij6s8htfjh2j8,clmus95quf9iit8hyefyifs44
+2026-11-01,0,Nashville SC 3-2 New York RB,Nashville SC,New York RB,6i6n0jkbh9zzij6s8htfjh2j8,cfn15711ik6wixftoaxmzfllg
+2026-11-01,0,Vancouver Whitecaps 5-1 Seattle Sounders,Vancouver Whitecaps,Seattle Sounders,6i6n0jkbh9zzij6s8htfjh2j8,ckk0kedxbltzuog17ysbf9w5w
+2026-10-31,0,Colorado Rapids 2-4 Chicago Fire,Colorado Rapids,Chicago Fire,6i6n0jkbh9zzij6s8htfjh2j8,cit0l2j332fl9sgmuz7zkevbo
+2026-10-31,0,SJ Earthquakes 2-1 Real Salt Lake,SJ Earthquakes,Real Salt Lake,6i6n0jkbh9zzij6s8htfjh2j8,ck24sr33psgnh8gixja5q5edw
+2026-10-31,0,LA Galaxy 4-1 Austin,LA Galaxy,Austin,6i6n0jkbh9zzij6s8htfjh2j8,cjfeme3ci4lrn61cwhnddj2tw
+2026-10-31,0,St. Louis City 0-1 San Diego,St. Louis City,San Diego,6i6n0jkbh9zzij6s8htfjh2j8,ci8sf0x0hbpgfbunp0do0zxuc
+2026-10-31,0,Sporting KC 1-1 Dallas,Sporting KC,Dallas,6i6n0jkbh9zzij6s8htfjh2j8,chqor05jtdb3kqqogkpxtuo0k
+2026-10-31,0,NYCFC 1-1 Montréal,NYCFC,Montréal,6i6n0jkbh9zzij6s8htfjh2j8,ch8x10tywufc5efxsdgsbrml0
+2026-10-31,0,Columbus Crew 3-0 DC United,Columbus Crew,DC United,6i6n0jkbh9zzij6s8htfjh2j8,cgpo5cds3qdi3tmc2l3bzo9p0
+2026-10-31,0,Cincinnati 1-0 Philadelphia Union,Cincinnati,Philadelphia Union,6i6n0jkbh9zzij6s8htfjh2j8,cf4prgf19vyj8bwjiq5dxjhuc
+2026-10-31,0,Charlotte 4-0 Orlando City,Charlotte,Orlando City,6i6n0jkbh9zzij6s8htfjh2j8,cg79aosr4wu495t1rlq8jruhg
+2026-10-28,0,Vancouver Whitecaps 4-1 San Diego,Vancouver Whitecaps,San Diego,6i6n0jkbh9zzij6s8htfjh2j8,cemlb16snvvj1dx7kav5cx4pg
+2026-10-28,0,Seattle Sounders 0-1 Houston Dynamo,Seattle Sounders,Houston Dynamo,6i6n0jkbh9zzij6s8htfjh2j8,ce4m1jmo5z4le7dnu6mxp9vro
+2026-10-28,0,SJ Earthquakes 2-2 Colorado Rapids,SJ Earthquakes,Colorado Rapids,6i6n0jkbh9zzij6s8htfjh2j8,cdmsmwh0hmb3gjmy7bspmpvkk
+2026-10-28,0,St. Louis City 2-3 Portland Timbers,St. Louis City,Portland Timbers,6i6n0jkbh9zzij6s8htfjh2j8,cczuaet79ouhiqucfmyx29hck
+2026-10-28,0,Nashville SC 0-0 Philadelphia Union,Nashville SC,Philadelphia Union,6i6n0jkbh9zzij6s8htfjh2j8,ccbco876sq9cymghc77ck62hg
+2026-10-28,0,Minnesota United 3-1 Sporting KC,Minnesota United,Sporting KC,6i6n0jkbh9zzij6s8htfjh2j8,cblpbsk7xcc75dlnakq1rygb8
+2026-10-28,0,Dallas 0-2 Columbus Crew,Dallas,Columbus Crew,6i6n0jkbh9zzij6s8htfjh2j8,cb1xvn18qvrsigb4epu91pn2s
+2026-10-28,0,Chicago Fire 2-2 Orlando City,Chicago Fire,Orlando City,6i6n0jkbh9zzij6s8htfjh2j8,cajh9fhnz60rnxes1j5mqpno4
+2026-10-28,0,Austin 1-2 Real Salt Lake,Austin,Real Salt Lake,6i6n0jkbh9zzij6s8htfjh2j8,c9zke622d4jtztodepjfy8wt0
+2026-10-28,0,Toronto 2-1 DC United,Toronto,DC United,6i6n0jkbh9zzij6s8htfjh2j8,c9g5547o9risvh8ix0hqyhst0
+2026-10-28,0,NYCFC 2-1 Atlanta United,NYCFC,Atlanta United,6i6n0jkbh9zzij6s8htfjh2j8,c8wysn3abis8glrbect0e1mhg
+2026-10-28,0,New England 3-2 New York RB,New England,New York RB,6i6n0jkbh9zzij6s8htfjh2j8,c8f23lgcrddpkzgzqwusvg3ro
+2026-10-28,0,Inter Miami 2-2 Cincinnati,Inter Miami,Cincinnati,6i6n0jkbh9zzij6s8htfjh2j8,c7wnsese02rsd4dhwd46wsis4
+2026-10-28,0,Charlotte 4-0 Montréal,Charlotte,Montréal,6i6n0jkbh9zzij6s8htfjh2j8,c7e6vckcuevx66a4r1d17vuac
+2026-10-25,0,LAFC 2-2 LA Galaxy,LAFC,LA Galaxy,6i6n0jkbh9zzij6s8htfjh2j8,c6vzqswu7qzbwujs2bez2bw9g
+2026-10-24,0,San Diego 2-2 Seattle Sounders,San Diego,Seattle Sounders,6i6n0jkbh9zzij6s8htfjh2j8,c6dnrz4rz56zqit57b94aaot0
+2026-10-24,0,Portland Timbers 3-2 Charlotte,Portland Timbers,Charlotte,6i6n0jkbh9zzij6s8htfjh2j8,c5uaz8hppl7brc2lt75ork5xw
+2026-10-24,0,Real Salt Lake 3-0 St. Louis City,Real Salt Lake,St. Louis City,6i6n0jkbh9zzij6s8htfjh2j8,c5bff9qcxoloehvv3y7hvu4no
+2026-10-24,0,Colorado Rapids 1-0 Vancouver Whitecaps,Colorado Rapids,Vancouver Whitecaps,6i6n0jkbh9zzij6s8htfjh2j8,c4q373q3au7g8vmhdadthv66s
+2026-10-24,0,Sporting KC 1-2 Austin,Sporting KC,Austin,6i6n0jkbh9zzij6s8htfjh2j8,c47ze3inoinz9q5xti18etw5w
+2026-10-24,0,Houston Dynamo 0-0 Minnesota United,Houston Dynamo,Minnesota United,6i6n0jkbh9zzij6s8htfjh2j8,c3ph8l0w9w3zmw7h0mjw0opas
+2026-10-24,0,Dallas 3-0 SJ Earthquakes,Dallas,SJ Earthquakes,6i6n0jkbh9zzij6s8htfjh2j8,c37cwsnfjjla1kp7ta4duqg44
+2026-10-24,0,Philadelphia Union 1-2 New England,Philadelphia Union,New England,6i6n0jkbh9zzij6s8htfjh2j8,c2nst0gpt6umon6yttwz0cs9g
+2026-10-24,0,Orlando City 2-2 NYCFC,Orlando City,NYCFC,6i6n0jkbh9zzij6s8htfjh2j8,c20sfn7oaemew3i419h48yxhw
+2026-10-24,0,DC United 0-2 Cincinnati,DC United,Cincinnati,6i6n0jkbh9zzij6s8htfjh2j8,c1gn6couktpwfn8tljz8xxnh0
+2026-10-24,0,Atlanta United 2-3 Chicago Fire,Atlanta United,Chicago Fire,6i6n0jkbh9zzij6s8htfjh2j8,c0mo9rdmdxkgu5dwoyhuz6zv8
+2026-10-24,0,New York RB 2-0 Inter Miami,New York RB,Inter Miami,6i6n0jkbh9zzij6s8htfjh2j8,bzdi4sbk3vlmsrcdns5zljfh0
+2026-10-24,0,Columbus Crew 4-2 Toronto,Columbus Crew,Toronto,6i6n0jkbh9zzij6s8htfjh2j8,byt7ax5ycht29uja13z8pz3mc
+2026-10-24,0,Montréal 0-2 Nashville SC,Montréal,Nashville SC,6i6n0jkbh9zzij6s8htfjh2j8,bzw0yh5bx7vvviz3m6wn8953o
+2026-10-21,0,Cincinnati 2-1 DC United,Cincinnati,DC United,6i6n0jkbh9zzij6s8htfjh2j8,a7t297d7xwm5swon9my95r0us
+2026-10-18,0,Cincinnati 0-2 Columbus Crew,Cincinnati,Columbus Crew,6i6n0jkbh9zzij6s8htfjh2j8,bybbxld58xc7x3sfcdl5softg
+2026-10-17,0,Seattle Sounders 1-1 Montréal,Seattle Sounders,Montréal,6i6n0jkbh9zzij6s8htfjh2j8,bxt6d5w5euupbv4parcjzqtck
+2026-10-17,0,SJ Earthquakes 1-1 Nashville SC,SJ Earthquakes,Nashville SC,6i6n0jkbh9zzij6s8htfjh2j8,bxbcimwm6hxks7it9q87eye50
+2026-10-17,0,Portland Timbers 0-0 Colorado Rapids,Portland Timbers,Colorado Rapids,6i6n0jkbh9zzij6s8htfjh2j8,bwryj1e3cjhgjk8xtpwcbnris
+2026-10-17,0,LA Galaxy 2-2 San Diego,LA Galaxy,San Diego,6i6n0jkbh9zzij6s8htfjh2j8,bw9r58o2jg9emv6s4cfu6xhqs
+2026-10-17,0,Sporting KC 1-3 Real Salt Lake,Sporting KC,Real Salt Lake,6i6n0jkbh9zzij6s8htfjh2j8,bvrrwgpp8vvj2th3ug0k1tyqc
+2026-10-17,0,Houston Dynamo 2-2 Dallas,Houston Dynamo,Dallas,6i6n0jkbh9zzij6s8htfjh2j8,bv9lxfpo5e575g6mkvluci6ms
+2026-10-17,0,Austin 1-2 Vancouver Whitecaps,Austin,Vancouver Whitecaps,6i6n0jkbh9zzij6s8htfjh2j8,burf4jbwhh6fkg1ge7g1065n8
+2026-10-17,0,Orlando City 4-1 DC United,Orlando City,DC United,6i6n0jkbh9zzij6s8htfjh2j8,bu8uvbom2gtfsu11exe9h4hec
+2026-10-17,0,New York RB 0-2 Toronto,New York RB,Toronto,6i6n0jkbh9zzij6s8htfjh2j8,btlgqxe9iqxgdnp8rthrkdgr8
+2026-10-17,0,NYCFC 1-1 LAFC,NYCFC,LAFC,6i6n0jkbh9zzij6s8htfjh2j8,bt1xgak63jurjz4wxl3uacefo
+2026-10-17,0,New England 1-0 Chicago Fire,New England,Chicago Fire,6i6n0jkbh9zzij6s8htfjh2j8,bsk6ik5ng2z80pnurnsbwbdp0
+2026-10-17,0,Atlanta United 1-3 Inter Miami,Atlanta United,Inter Miami,6i6n0jkbh9zzij6s8htfjh2j8,bs1sxlv3v1cis1pebfve35xxw
+2026-10-17,0,Minnesota United 3-2 St. Louis City,Minnesota United,St. Louis City,6i6n0jkbh9zzij6s8htfjh2j8,brjumu80rt3u0nxs3klaj5rmc
+2026-10-17,0,Philadelphia Union 2-2 Charlotte,Philadelphia Union,Charlotte,6i6n0jkbh9zzij6s8htfjh2j8,br1kuk0icykqbnkl7u7ky7x90
+2026-10-14,0,San Diego 3-3 Houston Dynamo,San Diego,Houston Dynamo,6i6n0jkbh9zzij6s8htfjh2j8,bqhhdxkbgz944ryrbc9d0ji1g
+2026-10-14,0,LAFC 3-1 Austin,LAFC,Austin,6i6n0jkbh9zzij6s8htfjh2j8,bpxhtgvfzc7l8c5mg859t7nys
+2026-10-14,0,LA Galaxy 2-0 Portland Timbers,LA Galaxy,Portland Timbers,6i6n0jkbh9zzij6s8htfjh2j8,bpdj8ovnr1yujr6lihkw8f384
+2026-10-14,0,Real Salt Lake 1-1 SJ Earthquakes,Real Salt Lake,SJ Earthquakes,6i6n0jkbh9zzij6s8htfjh2j8,boviknpfk2n4l1efiarurfztg
+2026-10-14,0,Colorado Rapids 2-2 Minnesota United,Colorado Rapids,Minnesota United,6i6n0jkbh9zzij6s8htfjh2j8,boawm871ba5wmkfpdjks462hg
+2026-10-14,0,St. Louis City 0-0 Vancouver Whitecaps,St. Louis City,Vancouver Whitecaps,6i6n0jkbh9zzij6s8htfjh2j8,bnsu2vzzwywv5nlapiaazjzmc
+2026-10-14,0,Nashville SC 4-0 Sporting KC,Nashville SC,Sporting KC,6i6n0jkbh9zzij6s8htfjh2j8,bnaz9wwri583j024mn7j5muqc
+2026-10-14,0,Dallas 1-0 Seattle Sounders,Dallas,Seattle Sounders,6i6n0jkbh9zzij6s8htfjh2j8,bmsur6w6j762l4gls6oy7ubro
+2026-10-14,0,Chicago Fire 1-3 Philadelphia Union,Chicago Fire,Philadelphia Union,6i6n0jkbh9zzij6s8htfjh2j8,bm8gf9sqx4ae5xnavrfvbsiz8
+2026-10-14,0,Toronto 3-3 Orlando City,Toronto,Orlando City,6i6n0jkbh9zzij6s8htfjh2j8,bln7lmzma0s8kohg4s1x1w844
+2026-10-14,0,Montréal 0-3 Atlanta United,Montréal,Atlanta United,6i6n0jkbh9zzij6s8htfjh2j8,bl50mlccfchfge3pv2ge2z6l0
+2026-10-14,0,Inter Miami 2-0 NYCFC,Inter Miami,NYCFC,6i6n0jkbh9zzij6s8htfjh2j8,bkltkvozsc2pzi8w6dvaa6vbo
+2026-10-14,0,DC United 2-1 New York RB,DC United,New York RB,6i6n0jkbh9zzij6s8htfjh2j8,bk3lljl4y9gtvhx9g439767f8
+2026-10-14,0,Columbus Crew 3-1 Charlotte,Columbus Crew,Charlotte,6i6n0jkbh9zzij6s8htfjh2j8,bjlcfn27cvy7upjalv9i89ous
+2026-10-14,0,Cincinnati 2-3 New England,Cincinnati,New England,6i6n0jkbh9zzij6s8htfjh2j8,bj127bpsoeqwkd2kbriyv3ok4
+2026-10-11,0,St. Louis City 6-2 LA Galaxy,St. Louis City,LA Galaxy,6i6n0jkbh9zzij6s8htfjh2j8,bij7jy1pgyb9crj799u6oovmc
+2026-10-10,0,LAFC 1-1 Vancouver Whitecaps,LAFC,Vancouver Whitecaps,6i6n0jkbh9zzij6s8htfjh2j8,bi117rkvmkh2c1fibj4l8a8lw
+2026-10-10,0,Colorado Rapids 1-1 SJ Earthquakes,Colorado Rapids,SJ Earthquakes,6i6n0jkbh9zzij6s8htfjh2j8,bhhagz9uq0ue4weh62knvks2c
+2026-10-10,0,Minnesota United 2-2 Houston Dynamo,Minnesota United,Houston Dynamo,6i6n0jkbh9zzij6s8htfjh2j8,bgyiyiazdj8rq08hdtzl3b8d0
+2026-10-10,0,Sporting KC 3-3 Portland Timbers,Sporting KC,Portland Timbers,6i6n0jkbh9zzij6s8htfjh2j8,bgfzx3vubofcinqojwn63lx5g
+2026-10-10,0,Austin 1-4 Nashville SC,Austin,Nashville SC,6i6n0jkbh9zzij6s8htfjh2j8,bfxwp5s22hfau3s8wdchcfx90
+2026-10-10,0,Philadelphia Union 2-1 Real Salt Lake,Philadelphia Union,Real Salt Lake,6i6n0jkbh9zzij6s8htfjh2j8,bfehwh1q6zcb8gyxxhujhcc9g
+2026-10-10,0,Orlando City 3-2 Columbus Crew,Orlando City,Columbus Crew,6i6n0jkbh9zzij6s8htfjh2j8,beui5lhotbtuikm1orde2z3f8
+2026-10-10,0,New York RB 4-1 San Diego,New York RB,San Diego,6i6n0jkbh9zzij6s8htfjh2j8,beaggmmmokyx479wlnuhrbml0
+2026-10-10,0,New England 0-3 Seattle Sounders,New England,Seattle Sounders,6i6n0jkbh9zzij6s8htfjh2j8,bdqbs0rj5km6cwhfulb16pvkk
+2026-10-10,0,Inter Miami 4-0 DC United,Inter Miami,DC United,6i6n0jkbh9zzij6s8htfjh2j8,bd7co0l42ywys1b3kti8q8bh0
+2026-10-10,0,Charlotte 3-2 Dallas,Charlotte,Dallas,6i6n0jkbh9zzij6s8htfjh2j8,bcpiobbt1hk1js2a1pm4bt15g
+2026-10-10,0,Atlanta United 1-3 Cincinnati,Atlanta United,Cincinnati,6i6n0jkbh9zzij6s8htfjh2j8,bc732bomxmvlhgmg72bws93is
+2026-10-10,0,Chicago Fire 2-1 NYCFC,Chicago Fire,NYCFC,6i6n0jkbh9zzij6s8htfjh2j8,bbozo1hjmx8tpl539rilgr85w
+2026-10-10,0,Toronto 2-1 Montréal,Toronto,Montréal,6i6n0jkbh9zzij6s8htfjh2j8,bb4auw2l5ns3tv4o07a2dtez8
+2026-10-06,0,Chicago Fire 3-1 Vancouver Whitecaps,Chicago Fire,Vancouver Whitecaps,6i6n0jkbh9zzij6s8htfjh2j8,8loizj0rybtsuh2xemzlu9i50
+2026-10-01,0,Seattle Sounders 2-1 Sporting KC,Seattle Sounders,Sporting KC,6i6n0jkbh9zzij6s8htfjh2j8,alfcdy1y9whp5iqwus2s5hnh0
+2026-09-30,0,New York RB 0-3 St. Louis City,New York RB,St. Louis City,6i6n0jkbh9zzij6s8htfjh2j8,b4hco6x8cvfy2u6jdejuvzmz8
+2026-09-27,0,Columbus Crew 2-1 Inter Miami,Columbus Crew,Inter Miami,6i6n0jkbh9zzij6s8htfjh2j8,baho4mtiigm4o2yzx5be5qas4
+2026-09-26,0,Vancouver Whitecaps 3-3 DC United,Vancouver Whitecaps,DC United,6i6n0jkbh9zzij6s8htfjh2j8,b9vdeafm2fiqfecfm8b2vy590
+2026-09-26,0,SJ Earthquakes 3-1 Portland Timbers,SJ Earthquakes,Portland Timbers,6i6n0jkbh9zzij6s8htfjh2j8,b9cpuxp0xx3whdk5r40c79dzo
+2026-09-26,0,LA Galaxy 3-2 Colorado Rapids,LA Galaxy,Colorado Rapids,6i6n0jkbh9zzij6s8htfjh2j8,b8uhc8iddmfb1u8thfrynz8r8
+2026-09-26,0,Real Salt Lake 3-0 New England,Real Salt Lake,New England,6i6n0jkbh9zzij6s8htfjh2j8,b8aq2ne9s609onjq6wy3e6wwk
+2026-09-26,0,Seattle Sounders 3-1 Minnesota United,Seattle Sounders,Minnesota United,6i6n0jkbh9zzij6s8htfjh2j8,b7nntjjolvtzm7cuwj9wl6oes
+2026-09-26,0,Nashville SC 2-0 Toronto,Nashville SC,Toronto,6i6n0jkbh9zzij6s8htfjh2j8,b74bivokrz27oodlvliswvdhw
+2026-09-26,0,Houston Dynamo 0-2 Sporting KC,Houston Dynamo,Sporting KC,6i6n0jkbh9zzij6s8htfjh2j8,b6mj6u77hvq8ix9vx083vp2xg
+2026-09-26,0,Dallas 1-0 LAFC,Dallas,LAFC,6i6n0jkbh9zzij6s8htfjh2j8,b617xd995vff6lmn1936h5c7o
+2026-09-26,0,Austin 3-3 San Diego,Austin,San Diego,6i6n0jkbh9zzij6s8htfjh2j8,b5hgzj1hhi79adpczz5cribkk
+2026-09-26,0,Philadelphia Union 4-2 Orlando City,Philadelphia Union,Orlando City,6i6n0jkbh9zzij6s8htfjh2j8,b4za9yklts4uh96hwnj8du904
+2026-09-26,0,Montréal 3-1 Cincinnati,Montréal,Cincinnati,6i6n0jkbh9zzij6s8htfjh2j8,b3z9u09f3knrs4ok3296nitqs
+2026-09-26,0,Charlotte 0-1 Chicago Fire,Charlotte,Chicago Fire,6i6n0jkbh9zzij6s8htfjh2j8,b3fkksdyib5druf3vlg1jz0us
+2026-09-26,0,Atlanta United 2-2 NYCFC,Atlanta United,NYCFC,6i6n0jkbh9zzij6s8htfjh2j8,b2vecepuqgcocrw1vuywtwvtg
+2026-09-23,0,Seattle Sounders 2-0 Real Salt Lake,Seattle Sounders,Real Salt Lake,6i6n0jkbh9zzij6s8htfjh2j8,6w6jacu1q38mpnialfxehtx5g
+2026-09-20,0,Inter Miami 2-2 San Diego,Inter Miami,San Diego,6i6n0jkbh9zzij6s8htfjh2j8,b29i71qj98len4bema3499n2s
+2026-09-19,0,Portland Timbers 0-1 Atlanta United,Portland Timbers,Atlanta United,6i6n0jkbh9zzij6s8htfjh2j8,b14rdsbog6l6nxatjk2fs3evo
+2026-09-19,0,Colorado Rapids 3-3 Seattle Sounders,Colorado Rapids,Seattle Sounders,6i6n0jkbh9zzij6s8htfjh2j8,azc5yd2frxa1efbhrlcdht5hw
+2026-09-19,0,Real Salt Lake 0-3 Vancouver Whitecaps,Real Salt Lake,Vancouver Whitecaps,6i6n0jkbh9zzij6s8htfjh2j8,b0hhb4sfg90zwzommj9dp3dw4
+2026-09-19,0,Nashville SC 3-0 Chicago Fire,Nashville SC,Chicago Fire,6i6n0jkbh9zzij6s8htfjh2j8,azy36tfld6kntyde5r60ad5as
+2026-09-19,0,St. Louis City 3-1 Toronto,St. Louis City,Toronto,6i6n0jkbh9zzij6s8htfjh2j8,ayu21m83t38ay6ynxtyk6cdn8
+2026-09-19,0,Minnesota United 2-3 LA Galaxy,Minnesota United,LA Galaxy,6i6n0jkbh9zzij6s8htfjh2j8,ayajvmgnyt2yvsvrj5hi0gr9w
+2026-09-19,0,Sporting KC 3-4 Philadelphia Union,Sporting KC,Philadelphia Union,6i6n0jkbh9zzij6s8htfjh2j8,axpeft8x443trrzkbmqcc3e38
+2026-09-19,0,Houston Dynamo 2-2 Cincinnati,Houston Dynamo,Cincinnati,6i6n0jkbh9zzij6s8htfjh2j8,ax5mjatk8r734rly2sd4r90k4
+2026-09-19,0,Dallas 0-0 Austin,Dallas,Austin,6i6n0jkbh9zzij6s8htfjh2j8,awkqztl342jp5kzvppaqhdez8
+2026-09-19,0,SJ Earthquakes 2-2 LAFC,SJ Earthquakes,LAFC,6i6n0jkbh9zzij6s8htfjh2j8,b1ohyd8dwcuq5ioszmj8po7pw
+2026-09-19,0,New England 4-2 Orlando City,New England,Orlando City,6i6n0jkbh9zzij6s8htfjh2j8,avz2spx26nkug6cgxp8z83lzo
+2026-09-19,0,Montréal 0-2 Columbus Crew,Montréal,Columbus Crew,6i6n0jkbh9zzij6s8htfjh2j8,avfmjx8rkbpxxpo0wa05t9lhw
+2026-09-19,0,DC United 1-2 Charlotte,DC United,Charlotte,6i6n0jkbh9zzij6s8htfjh2j8,auxsqidbco62nrmjc93xqqgwk
+2026-09-18,0,NYCFC 0-1 New York RB,NYCFC,New York RB,6i6n0jkbh9zzij6s8htfjh2j8,auck86o3nj8c9599upsscy49g
+2026-09-13,0,San Diego 0-5 Philadelphia Union,San Diego,Philadelphia Union,6i6n0jkbh9zzij6s8htfjh2j8,attapei7roljeyjobjxrc5s7o
+2026-09-13,0,Vancouver Whitecaps 1-2 Austin,Vancouver Whitecaps,Austin,6i6n0jkbh9zzij6s8htfjh2j8,at9r3v2j7vyml7xa8nw85qcd0
+2026-09-13,0,Chicago Fire 1-2 New England,Chicago Fire,New England,6i6n0jkbh9zzij6s8htfjh2j8,asq9f5a2phmhpyo2bezg4wr9w
+2026-09-12,0,SJ Earthquakes 1-0 Houston Dynamo,SJ Earthquakes,Houston Dynamo,6i6n0jkbh9zzij6s8htfjh2j8,as7jx5tgwezp0hqouxpx3z0us
+2026-09-12,0,LA Galaxy 1-1 Seattle Sounders,LA Galaxy,Seattle Sounders,6i6n0jkbh9zzij6s8htfjh2j8,arngw60ux3u86orqdp95o6jv8
+2026-09-12,0,Real Salt Lake 0-2 NYCFC,Real Salt Lake,NYCFC,6i6n0jkbh9zzij6s8htfjh2j8,ar5g6pffsh6oj2sdb8rww21w4
+2026-09-12,0,Colorado Rapids 1-0 Montréal,Colorado Rapids,Montréal,6i6n0jkbh9zzij6s8htfjh2j8,aqnfy97cah7fsfbhfmxloj6z8
+2026-09-12,0,St. Louis City 4-2 Minnesota United,St. Louis City,Minnesota United,6i6n0jkbh9zzij6s8htfjh2j8,aq4h7mdxgbxbg2xytxubb56ac
+2026-09-12,0,Sporting KC 3-1 LAFC,Sporting KC,LAFC,6i6n0jkbh9zzij6s8htfjh2j8,aplysxt78qhsen7za3raul5p0
+2026-09-12,0,Dallas 2-1 Portland Timbers,Dallas,Portland Timbers,6i6n0jkbh9zzij6s8htfjh2j8,ap44m2l7f62wnetdsb8ss6zo4
+2026-09-12,0,Orlando City 3-0 Toronto,Orlando City,Toronto,6i6n0jkbh9zzij6s8htfjh2j8,aolwrqzq69mo93jk6khbzc5jo
+2026-09-12,0,Inter Miami 2-2 Nashville SC,Inter Miami,Nashville SC,6i6n0jkbh9zzij6s8htfjh2j8,ao1te0voub6o2e49jgbwmcahg
+2026-09-12,0,DC United 0-0 Atlanta United,DC United,Atlanta United,6i6n0jkbh9zzij6s8htfjh2j8,anjm498y6u0lzgfe1z3ceprmc
+2026-09-12,0,Columbus Crew 0-1 New York RB,Columbus Crew,New York RB,6i6n0jkbh9zzij6s8htfjh2j8,an1ofmr6umo27911e6rkakcgk
+2026-09-12,0,Cincinnati 3-3 Charlotte,Cincinnati,Charlotte,6i6n0jkbh9zzij6s8htfjh2j8,amhar1hcbtaa8gmsgvh0pa61g
+2026-09-09,0,Vancouver Whitecaps 3-0 LA Galaxy,Vancouver Whitecaps,LA Galaxy,6i6n0jkbh9zzij6s8htfjh2j8,alzabe0gvymtv2rfnkma5gn4k
+2026-09-09,0,San Diego 2-3 SJ Earthquakes,San Diego,SJ Earthquakes,6i6n0jkbh9zzij6s8htfjh2j8,akxevz6af4c5eg1q7us1om6fo
+2026-09-09,0,Portland Timbers 2-2 St. Louis City,Portland Timbers,St. Louis City,6i6n0jkbh9zzij6s8htfjh2j8,akexqtwyudxghh1zzebn1a590
+2026-09-09,0,LAFC 2-0 New York RB,LAFC,New York RB,6i6n0jkbh9zzij6s8htfjh2j8,ajwvkwkpd9bgvgsk4a71y5ct0
+2026-09-09,0,Minnesota United 1-2 Dallas,Minnesota United,Dallas,6i6n0jkbh9zzij6s8htfjh2j8,ajerbtplc6doqa6gzlhff4sus
+2026-09-09,0,Houston Dynamo 2-1 Real Salt Lake,Houston Dynamo,Real Salt Lake,6i6n0jkbh9zzij6s8htfjh2j8,aiws48uufrszoplhge71p22hg
+2026-09-09,0,Chicago Fire 1-1 Inter Miami,Chicago Fire,Inter Miami,6i6n0jkbh9zzij6s8htfjh2j8,aieiw565fskepmryhb8r3ws9g
+2026-09-09,0,Austin 1-1 Colorado Rapids,Austin,Colorado Rapids,6i6n0jkbh9zzij6s8htfjh2j8,ahwfbeeg1dn0zaf8vpjncxses
+2026-09-09,0,NYCFC 1-2 New England,NYCFC,New England,6i6n0jkbh9zzij6s8htfjh2j8,ag9ulr7t53ytigp91k1uvwavo
+2026-09-09,0,Philadelphia Union 5-0 Cincinnati,Philadelphia Union,Cincinnati,6i6n0jkbh9zzij6s8htfjh2j8,agsrtue8rdmpan63ygo2x4jro
+2026-09-09,0,Toronto 2-1 Nashville SC,Toronto,Nashville SC,6i6n0jkbh9zzij6s8htfjh2j8,ahc539gh5qiz7q5zgnrcdeplg
+2026-09-09,0,Montréal 1-2 Charlotte,Montréal,Charlotte,6i6n0jkbh9zzij6s8htfjh2j8,afpomfkq5yl6o3o6pwxwx7nys
+2026-09-09,0,DC United 2-1 Columbus Crew,DC United,Columbus Crew,6i6n0jkbh9zzij6s8htfjh2j8,af2nrhgyg9smahlr6bmdrzlec
+2026-09-09,0,Atlanta United 2-3 Orlando City,Atlanta United,Orlando City,6i6n0jkbh9zzij6s8htfjh2j8,aehfpp2k8vaheqj1wtqvmfqj8
+2026-09-05,0,Vancouver Whitecaps 1-3 St. Louis City,Vancouver Whitecaps,St. Louis City,6i6n0jkbh9zzij6s8htfjh2j8,adzegxyipjsqn41d8zldqpbtg
+2026-09-05,0,Portland Timbers 5-4 Minnesota United,Portland Timbers,Minnesota United,6i6n0jkbh9zzij6s8htfjh2j8,adhf06t4h7qsob5eszmzo5t04
+2026-09-05,0,Real Salt Lake 2-2 LAFC,Real Salt Lake,LAFC,6i6n0jkbh9zzij6s8htfjh2j8,acyh6rpp9lsvsqbsjez6gjx1w
+2026-09-05,0,LA Galaxy 2-1 New England,LA Galaxy,New England,6i6n0jkbh9zzij6s8htfjh2j8,acfljm5t4krw31himv1hbh2j8
+2026-09-05,0,Inter Miami 2-2 Atlanta United,Inter Miami,Atlanta United,6i6n0jkbh9zzij6s8htfjh2j8,a8tiih33co1b4famjes6pckyc
+2026-09-05,0,Seattle Sounders 0-0 New York RB,Seattle Sounders,New York RB,6i6n0jkbh9zzij6s8htfjh2j8,abv6ywuoy07qvy0virewik4k4
+2026-09-05,0,Dallas 4-3 Sporting KC,Dallas,Sporting KC,6i6n0jkbh9zzij6s8htfjh2j8,abd1xo9qkabdm2oubbqr2b0no
+2026-09-05,0,Austin 1-1 SJ Earthquakes,Austin,SJ Earthquakes,6i6n0jkbh9zzij6s8htfjh2j8,aaui7k3l68w6vtcxkv7zf2fis
+2026-09-05,0,Toronto 4-4 Chicago Fire,Toronto,Chicago Fire,6i6n0jkbh9zzij6s8htfjh2j8,aac5ixqiqir30mghbc1p5kftg
+2026-09-05,0,Philadelphia Union 2-0 Montréal,Philadelphia Union,Montréal,6i6n0jkbh9zzij6s8htfjh2j8,a9tqapjbmkaic5h3tvri4pous
+2026-09-05,0,Orlando City 1-0 San Diego,Orlando City,San Diego,6i6n0jkbh9zzij6s8htfjh2j8,a9bo0bqq2m7hnay22qqf0jpxw
+2026-09-05,0,Columbus Crew 3-0 Colorado Rapids,Columbus Crew,Colorado Rapids,6i6n0jkbh9zzij6s8htfjh2j8,a8b7qvu3dzasbmo23r0ldd72s
+2026-09-05,0,Charlotte 0-0 Houston Dynamo,Charlotte,Houston Dynamo,6i6n0jkbh9zzij6s8htfjh2j8,a7b6pkbtwnxffcknyhawsccgk
+2026-09-04,0,NYCFC 0-0 Nashville SC,NYCFC,Nashville SC,6i6n0jkbh9zzij6s8htfjh2j8,a6qth12m7q4u2ppm4k6dsvjtg
+2026-08-30,0,St. Louis City 3-3 Dallas,St. Louis City,Dallas,6i6n0jkbh9zzij6s8htfjh2j8,a68h15n56q1xvo7t3ozjrwx04
+2026-08-30,0,Columbus Crew 1-3 New England,Columbus Crew,New England,6i6n0jkbh9zzij6s8htfjh2j8,9zypffgigs3htoqtecsc6uadw
+2026-08-29,0,San Diego 3-1 LA Galaxy,San Diego,LA Galaxy,6i6n0jkbh9zzij6s8htfjh2j8,a5qhb91tqaxl256oe8mih4glw
+2026-08-29,0,Portland Timbers 1-2 Austin,Portland Timbers,Austin,6i6n0jkbh9zzij6s8htfjh2j8,a5861f9h40p18s7p7urdr8tg4
+2026-08-29,0,Colorado Rapids 1-0 Real Salt Lake,Colorado Rapids,Real Salt Lake,6i6n0jkbh9zzij6s8htfjh2j8,a4q1kh1lmgxy045eu3osbrml0
+2026-08-29,0,Nashville SC 4-0 Cincinnati,Nashville SC,Cincinnati,6i6n0jkbh9zzij6s8htfjh2j8,a480ea3vmdyeqz1o71mn3lt78
+2026-08-29,0,Minnesota United 3-3 Orlando City,Minnesota United,Orlando City,6i6n0jkbh9zzij6s8htfjh2j8,a3pnymzz4ve5qcmdhqz3yrsb8
+2026-08-29,0,Sporting KC 0-3 Vancouver Whitecaps,Sporting KC,Vancouver Whitecaps,6i6n0jkbh9zzij6s8htfjh2j8,a37do9l58gfqyfezx64dzask4
+2026-08-29,0,Houston Dynamo 0-0 SJ Earthquakes,Houston Dynamo,SJ Earthquakes,6i6n0jkbh9zzij6s8htfjh2j8,a2p2mz1v2ajw6oei5dwffzsic
+2026-08-29,0,Toronto 1-1 NYCFC,Toronto,NYCFC,6i6n0jkbh9zzij6s8htfjh2j8,a269y5zhhzk71f8okqsxnz02c
+2026-08-29,0,New York RB 1-3 Philadelphia Union,New York RB,Philadelphia Union,6i6n0jkbh9zzij6s8htfjh2j8,a1iitm2tze47ufrgzmaax9444
+2026-08-29,0,Inter Miami 7-1 Montréal,Inter Miami,Montréal,6i6n0jkbh9zzij6s8htfjh2j8,a0yvk34ccqro7oche0305pwk4
+2026-08-29,0,DC United 0-0 LAFC,DC United,LAFC,6i6n0jkbh9zzij6s8htfjh2j8,a0gwvx9ix7p259m8upu1eebys
+2026-08-29,0,Atlanta United 0-2 Charlotte,Atlanta United,Charlotte,6i6n0jkbh9zzij6s8htfjh2j8,9zgt6w1zrk40vt1t5ry2i7fv8
+2026-08-29,0,Seattle Sounders 2-2 Chicago Fire,Seattle Sounders,Chicago Fire,6i6n0jkbh9zzij6s8htfjh2j8,9yz2l2qkb1wwto0kybehrwp3o
+2026-08-23,0,Atlanta United 2-1 Sporting KC,Atlanta United,Sporting KC,6i6n0jkbh9zzij6s8htfjh2j8,9ydzwiltkj5lym4g21n95a2vo
+2026-08-23,0,New England 1-1 NYCFC,New England,NYCFC,6i6n0jkbh9zzij6s8htfjh2j8,9xvso2cbufuwqod8jyuexrmz8
+2026-08-22,0,SJ Earthquakes 1-5 Minnesota United,SJ Earthquakes,Minnesota United,6i6n0jkbh9zzij6s8htfjh2j8,9xdtm0zler3ygix0kmcycpk44
+2026-08-22,0,San Diego 3-0 Colorado Rapids,San Diego,Colorado Rapids,6i6n0jkbh9zzij6s8htfjh2j8,9wvztex4auys13t4wc8rzjm6s
+2026-08-22,0,LAFC 1-1 Portland Timbers,LAFC,Portland Timbers,6i6n0jkbh9zzij6s8htfjh2j8,9wbuywjg6i01y6xipgxl8ldzo
+2026-08-22,0,Vancouver Whitecaps 5-0 Dallas,Vancouver Whitecaps,Dallas,6i6n0jkbh9zzij6s8htfjh2j8,9vq2n37ztqlacuwkzz7i88glw
+2026-08-22,0,Austin 1-1 Philadelphia Union,Austin,Philadelphia Union,6i6n0jkbh9zzij6s8htfjh2j8,9u4ukfyoeaifkpceqzoppcc9g
+2026-08-22,0,St. Louis City 2-1 Houston Dynamo,St. Louis City,Houston Dynamo,6i6n0jkbh9zzij6s8htfjh2j8,9v5qrmg8oj7zhurd36gviie50
+2026-08-22,0,Nashville SC 3-2 Columbus Crew,Nashville SC,Columbus Crew,6i6n0jkbh9zzij6s8htfjh2j8,9umryn519r569kg2armijihw4
+2026-08-22,0,Orlando City 2-1 Real Salt Lake,Orlando City,Real Salt Lake,6i6n0jkbh9zzij6s8htfjh2j8,9tmwgt06xdpg8jhvismy4z9ck
+2026-08-22,0,New York RB 1-1 Chicago Fire,New York RB,Chicago Fire,6i6n0jkbh9zzij6s8htfjh2j8,9t4qs86aeh3rh0nw0kvktuln8
+2026-08-22,0,Montréal 2-2 LA Galaxy,Montréal,LA Galaxy,6i6n0jkbh9zzij6s8htfjh2j8,9smnceadmw2znq6csb38m41ec
+2026-08-22,0,Inter Miami 1-2 Toronto,Inter Miami,Toronto,6i6n0jkbh9zzij6s8htfjh2j8,9s4klgc8hd5jdi6y5sd55hpuc
+2026-08-22,0,Cincinnati 1-1 Seattle Sounders,Cincinnati,Seattle Sounders,6i6n0jkbh9zzij6s8htfjh2j8,9rmpu8u10z5zxfnkdso0jtyc4
+2026-08-22,0,Charlotte 3-1 DC United,Charlotte,DC United,6i6n0jkbh9zzij6s8htfjh2j8,9r2o3cmjpubpdkqima09gg2s4
+2026-08-19,0,Vancouver Whitecaps 0-1 Houston Dynamo,Vancouver Whitecaps,Houston Dynamo,6i6n0jkbh9zzij6s8htfjh2j8,9qhnu1ai0426izavn9hw10gt0
+2026-08-19,0,Portland Timbers 3-1 San Diego,Portland Timbers,San Diego,6i6n0jkbh9zzij6s8htfjh2j8,9pzhuk2ovkhza0ya28593jeac
+2026-08-19,0,LA Galaxy 1-0 SJ Earthquakes,LA Galaxy,SJ Earthquakes,6i6n0jkbh9zzij6s8htfjh2j8,9phcngwan5f0c6e4viafzfhn8
+2026-08-19,0,Seattle Sounders 1-2 Austin,Seattle Sounders,Austin,6i6n0jkbh9zzij6s8htfjh2j8,9oyfl5yt30axj37g5p54jgfmc
+2026-08-19,0,Real Salt Lake 3-4 Dallas,Real Salt Lake,Dallas,6i6n0jkbh9zzij6s8htfjh2j8,9ogmg83fm4mrkdunuyr9o81lg
+2026-08-19,0,Colorado Rapids 1-0 LAFC,Colorado Rapids,LAFC,6i6n0jkbh9zzij6s8htfjh2j8,9nyw8o57e9b2conlmuocx7hn8
+2026-08-19,0,Minnesota United 1-2 Atlanta United,Minnesota United,Atlanta United,6i6n0jkbh9zzij6s8htfjh2j8,9mytct50nlstoz6vqgv8pl1xw
+2026-08-19,0,Sporting KC 1-1 St. Louis City,Sporting KC,St. Louis City,6i6n0jkbh9zzij6s8htfjh2j8,9ngs5povg3ahoa49xv52wk3dg
+2026-08-19,0,Toronto 3-3 Charlotte,Toronto,Charlotte,6i6n0jkbh9zzij6s8htfjh2j8,9mgia1wge0yw4kqhxel16sv10
+2026-08-19,0,Philadelphia Union 2-2 Inter Miami,Philadelphia Union,Inter Miami,6i6n0jkbh9zzij6s8htfjh2j8,9lw4gx6qexo5u6icudh7nq044
+2026-08-19,0,Orlando City 1-2 Chicago Fire,Orlando City,Chicago Fire,6i6n0jkbh9zzij6s8htfjh2j8,9ldxdb16h6fut5lhlrqpcqgic
+2026-08-19,0,New York RB 0-1 Nashville SC,New York RB,Nashville SC,6i6n0jkbh9zzij6s8htfjh2j8,9kw24dz98qmde8snidqe819g4
+2026-08-19,0,DC United 0-3 New England,DC United,New England,6i6n0jkbh9zzij6s8htfjh2j8,9ke763x9fn87p7qod2gcfa1p0
+2026-08-19,0,Columbus Crew 1-2 Montréal,Columbus Crew,Montréal,6i6n0jkbh9zzij6s8htfjh2j8,9jw5ydapyouoenmrf1f6avjf8
+2026-08-19,0,Cincinnati 2-1 NYCFC,Cincinnati,NYCFC,6i6n0jkbh9zzij6s8htfjh2j8,9je7lbankfudxlbumt1ext4pg
+2026-08-16,0,Seattle Sounders 0-2 Vancouver Whitecaps,Seattle Sounders,Vancouver Whitecaps,6i6n0jkbh9zzij6s8htfjh2j8,9iwefpiz3wmu0rgs6jdcsgqhg
+2026-08-16,0,Austin 1-2 Dallas,Austin,Dallas,6i6n0jkbh9zzij6s8htfjh2j8,9ecycgo5jm1wr9blre250xmvo
+2026-08-16,0,NYCFC 2-3 Philadelphia Union,NYCFC,Philadelphia Union,6i6n0jkbh9zzij6s8htfjh2j8,9iee3bu6emun8zt8u8eweritw
+2026-08-16,0,Chicago Fire 2-1 Portland Timbers,Chicago Fire,Portland Timbers,6i6n0jkbh9zzij6s8htfjh2j8,9hw3zxzlhguxh9k6da8bpmhas
+2026-08-15,0,SJ Earthquakes 1-3 St. Louis City,SJ Earthquakes,St. Louis City,6i6n0jkbh9zzij6s8htfjh2j8,9he0jd7ucruuh302ps90b0etw
+2026-08-15,0,LAFC 0-1 San Diego,LAFC,San Diego,6i6n0jkbh9zzij6s8htfjh2j8,9gu0um9e26tuhylcnv4b68d1w
+2026-08-15,0,Real Salt Lake 1-1 Minnesota United,Real Salt Lake,Minnesota United,6i6n0jkbh9zzij6s8htfjh2j8,9gbvrl8om6tez03qi7t5di0wk
+2026-08-15,0,Colorado Rapids 2-0 Sporting KC,Colorado Rapids,Sporting KC,6i6n0jkbh9zzij6s8htfjh2j8,9fu548vh9p1ffboohahkl4hec
+2026-08-15,0,Nashville SC 4-1 Inter Miami,Nashville SC,Inter Miami,6i6n0jkbh9zzij6s8htfjh2j8,9fccpr21xo202cx3ey9nxcydw
+2026-08-15,0,Houston Dynamo 1-0 LA Galaxy,Houston Dynamo,LA Galaxy,6i6n0jkbh9zzij6s8htfjh2j8,9eutql9xqxxfyj02bv89nlhck
+2026-08-15,0,Toronto 2-1 New England,Toronto,New England,6i6n0jkbh9zzij6s8htfjh2j8,9duxefyxv0mtzj7ymzocy0mxg
+2026-08-15,0,Orlando City 1-1 Cincinnati,Orlando City,Cincinnati,6i6n0jkbh9zzij6s8htfjh2j8,9dcb8nfd00p4h3zs5b5tpln9w
+2026-08-15,0,Montréal 1-1 DC United,Montréal,DC United,6i6n0jkbh9zzij6s8htfjh2j8,9cuppt19akevtuyzqg631rvo4
+2026-08-15,0,Charlotte 3-1 Columbus Crew,Charlotte,Columbus Crew,6i6n0jkbh9zzij6s8htfjh2j8,9cbw4ogrmv50cdu2asgma7klw
+2026-08-15,0,Atlanta United 2-1 New York RB,Atlanta United,New York RB,6i6n0jkbh9zzij6s8htfjh2j8,9bprq5cvyafe3sqo550u7qjv8
+2026-08-08,0,New England 0-2 Houston Dynamo,New England,Houston Dynamo,6i6n0jkbh9zzij6s8htfjh2j8,5slhns39haust0548nhqmdatw
+2026-08-01,0,Portland Timbers 2-1 Seattle Sounders,Portland Timbers,Seattle Sounders,6i6n0jkbh9zzij6s8htfjh2j8,9b6qlz6zs6bmrbhyapex2v95g
+2026-08-01,0,LA Galaxy 0-0 Dallas,LA Galaxy,Dallas,6i6n0jkbh9zzij6s8htfjh2j8,9ant7x5hrzeyyn005tb7sox78
+2026-08-01,0,Cincinnati 4-2 SJ Earthquakes,Cincinnati,SJ Earthquakes,6i6n0jkbh9zzij6s8htfjh2j8,94gn32y1ucx6g0a62ipj7o2l0
+2026-08-01,0,Colorado Rapids 1-0 Austin,Colorado Rapids,Austin,6i6n0jkbh9zzij6s8htfjh2j8,9a5v09beof5pbcbmvk3ula238
+2026-08-01,0,St. Louis City 1-1 Real Salt Lake,St. Louis City,Real Salt Lake,6i6n0jkbh9zzij6s8htfjh2j8,99ncdtnjjkz1ixyfbcyotcowk
+2026-08-01,0,Minnesota United 1-1 San Diego,Minnesota United,San Diego,6i6n0jkbh9zzij6s8htfjh2j8,994tcwq9ojlqqxrfrwy8q4ges
+2026-08-01,0,Sporting KC 0-2 Houston Dynamo,Sporting KC,Houston Dynamo,6i6n0jkbh9zzij6s8htfjh2j8,98mwolrhyjktjl08dv4o4ch78
+2026-08-01,0,Chicago Fire 2-1 Charlotte,Chicago Fire,Charlotte,6i6n0jkbh9zzij6s8htfjh2j8,984pubvo3mplxbiwlfvpzcq38
+2026-08-01,0,Inter Miami 2-2 Columbus Crew,Inter Miami,Columbus Crew,6i6n0jkbh9zzij6s8htfjh2j8,95itj2yvdn9w62n98xx81m2ac
+2026-08-01,0,Vancouver Whitecaps 1-1 LAFC,Vancouver Whitecaps,LAFC,6i6n0jkbh9zzij6s8htfjh2j8,97me1o7u5mo5cs6mgtexy4e1g
+2026-08-01,0,Philadelphia Union 3-2 Atlanta United,Philadelphia Union,Atlanta United,6i6n0jkbh9zzij6s8htfjh2j8,97438fnfrqakpxd8yzkiyyx3o
+2026-08-01,0,New York RB 3-2 Orlando City,New York RB,Orlando City,6i6n0jkbh9zzij6s8htfjh2j8,96jwryqd1udc27edqabt0fgno
+2026-08-01,0,Montréal 2-2 New England,Montréal,New England,6i6n0jkbh9zzij6s8htfjh2j8,961xmpy1o5dwvboa24ntbuoes
+2026-08-01,0,DC United 2-2 Nashville SC,DC United,Nashville SC,6i6n0jkbh9zzij6s8htfjh2j8,950yyl7koaifxe7j45wjvrw2c
+2026-07-31,0,NYCFC 1-1 Toronto,NYCFC,Toronto,6i6n0jkbh9zzij6s8htfjh2j8,93v4wzsq13mn1wty45quaadqs
+2026-07-25,0,SJ Earthquakes 1-1 LA Galaxy,SJ Earthquakes,LA Galaxy,6i6n0jkbh9zzij6s8htfjh2j8,93c8c33uc2dxsh9x4hgmkgnbo
+2026-07-25,0,Portland Timbers 2-1 Real Salt Lake,Portland Timbers,Real Salt Lake,6i6n0jkbh9zzij6s8htfjh2j8,92u6h132trpx2rtuj0llpeg44
+2026-07-25,0,LAFC 4-0 Sporting KC,LAFC,Sporting KC,6i6n0jkbh9zzij6s8htfjh2j8,92cdghyl80p41wf2tmlimritw
+2026-07-25,0,San Diego 1-0 Dallas,San Diego,Dallas,6i6n0jkbh9zzij6s8htfjh2j8,91ul3x280ghmt65i41ds6mh3o
+2026-07-25,0,Orlando City 1-0 Nashville SC,Orlando City,Nashville SC,6i6n0jkbh9zzij6s8htfjh2j8,8za2mvjeeeojizuhyvgu8t6hg
+2026-07-25,0,St. Louis City 1-0 Colorado Rapids,St. Louis City,Colorado Rapids,6i6n0jkbh9zzij6s8htfjh2j8,91amem1xdtjcu8fhc94t855as
+2026-07-25,0,Minnesota United 0-0 Vancouver Whitecaps,Minnesota United,Vancouver Whitecaps,6i6n0jkbh9zzij6s8htfjh2j8,90ssz2oe6bnts13z8ah2zciz8
+2026-07-25,0,Houston Dynamo 3-0 Austin,Houston Dynamo,Austin,6i6n0jkbh9zzij6s8htfjh2j8,909wulg2hpzyq74fjmgdgrxg4
+2026-07-25,0,Philadelphia Union 1-0 Seattle Sounders,Philadelphia Union,Seattle Sounders,6i6n0jkbh9zzij6s8htfjh2j8,8zs1tjyl8plhxeb8v4vdilc0k
+2026-07-25,0,NYCFC 3-1 Chicago Fire,NYCFC,Chicago Fire,6i6n0jkbh9zzij6s8htfjh2j8,8y2cx49wqbksechxrvp9tda8k
+2026-07-25,0,New England 4-1 Atlanta United,New England,Atlanta United,6i6n0jkbh9zzij6s8htfjh2j8,8xkejhd2pvh17x913sy32ydck
+2026-07-25,0,Montréal 0-1 Inter Miami,Montréal,Inter Miami,6i6n0jkbh9zzij6s8htfjh2j8,8x21zefvqf8voc6gzzl2r9250
+2026-07-25,0,DC United 2-1 Toronto,DC United,Toronto,6i6n0jkbh9zzij6s8htfjh2j8,8whvjar1o4pl3fpft2di43e38
+2026-07-25,0,Columbus Crew 2-1 Cincinnati,Columbus Crew,Cincinnati,6i6n0jkbh9zzij6s8htfjh2j8,8vvhqtqym4uo6upzrf1dafxn8
+2026-07-25,0,New York RB 0-2 Charlotte,New York RB,Charlotte,6i6n0jkbh9zzij6s8htfjh2j8,8ysc6r20kndw5xg9d5cpmw74k
+2026-07-22,0,SJ Earthquakes 0-4 Orlando City,SJ Earthquakes,Orlando City,6i6n0jkbh9zzij6s8htfjh2j8,8vd2lv45psnnldezl4l45nj84
+2026-07-22,0,Portland Timbers 2-2 Dallas,Portland Timbers,Dallas,6i6n0jkbh9zzij6s8htfjh2j8,8uv4u1m6hia1xotnk77hi3c44
+2026-07-22,0,LAFC 3-1 Real Salt Lake,LAFC,Real Salt Lake,6i6n0jkbh9zzij6s8htfjh2j8,8ud822d07kdny543od2fqhgyc
+2026-07-22,0,LA Galaxy 1-3 St. Louis City,LA Galaxy,St. Louis City,6i6n0jkbh9zzij6s8htfjh2j8,8tubiqn15657tvsxyo5al87pw
+2026-07-22,0,Colorado Rapids 1-0 San Diego,Colorado Rapids,San Diego,6i6n0jkbh9zzij6s8htfjh2j8,8tc4g1zfwbl715pk66mc4t2j8
+2026-07-22,0,Austin 3-1 Seattle Sounders,Austin,Seattle Sounders,6i6n0jkbh9zzij6s8htfjh2j8,8rak4pg0aikz592xz61ltlst0
+2026-07-22,0,Nashville SC 1-0 Montréal,Nashville SC,Montréal,6i6n0jkbh9zzij6s8htfjh2j8,8subr89iixjauvagl71wnxpg4
+2026-07-22,0,Sporting KC 2-1 Minnesota United,Sporting KC,Minnesota United,6i6n0jkbh9zzij6s8htfjh2j8,8sabreb1awutcwm7fkbd94cno
+2026-07-22,0,Houston Dynamo 1-1 DC United,Houston Dynamo,DC United,6i6n0jkbh9zzij6s8htfjh2j8,8rsjnrdqvslxuzl3b78c9bhg4
+2026-07-22,0,Charlotte 2-2 Atlanta United,Charlotte,Atlanta United,6i6n0jkbh9zzij6s8htfjh2j8,8qqwepj6ypfmoibbxp4ewfpck
+2026-07-22,0,Philadelphia Union 3-1 New York RB,Philadelphia Union,New York RB,6i6n0jkbh9zzij6s8htfjh2j8,8q8wowkggmkbnmgtzfv6ckn4k
+2026-07-22,0,New England 0-0 Toronto,New England,Toronto,6i6n0jkbh9zzij6s8htfjh2j8,8pqn86fh43xevjl368ale191w
+2026-07-22,0,Inter Miami 3-2 Chicago Fire,Inter Miami,Chicago Fire,6i6n0jkbh9zzij6s8htfjh2j8,8p8ex2cvq543pfsedjatclgd0
+2026-07-22,0,Columbus Crew 1-2 NYCFC,Columbus Crew,NYCFC,6i6n0jkbh9zzij6s8htfjh2j8,8oqeqyu9bqj9dcsquh9x0qfpw
+2026-07-22,0,Cincinnati 4-3 Vancouver Whitecaps,Cincinnati,Vancouver Whitecaps,6i6n0jkbh9zzij6s8htfjh2j8,8o89zt76v0dl6ifdcm7ynantg
+2026-07-17,0,LA Galaxy 0-3 LAFC,LA Galaxy,LAFC,6i6n0jkbh9zzij6s8htfjh2j8,8npx1g22j2v6pzcum44x83axg
+2026-07-17,0,Nashville SC 1-0 Atlanta United,Nashville SC,Atlanta United,6i6n0jkbh9zzij6s8htfjh2j8,8n83i61mz2he6p5286fyqv6s4
+2026-07-16,0,Seattle Sounders 1-5 Portland Timbers,Seattle Sounders,Portland Timbers,6i6n0jkbh9zzij6s8htfjh2j8,8mq3c6kykxd0oiexrznjq1hqs
+2026-07-16,0,St. Louis City 3-2 Sporting KC,St. Louis City,Sporting KC,6i6n0jkbh9zzij6s8htfjh2j8,8m887iq7imigr5ig28c54iot0
+2026-07-16,0,Montréal 0-0 Toronto,Montréal,Toronto,6i6n0jkbh9zzij6s8htfjh2j8,8l6tboiv0fjwym7m4d4tqod1w
+2026-05-24,0,LAFC 1-0 Seattle Sounders,LAFC,Seattle Sounders,6i6n0jkbh9zzij6s8htfjh2j8,8koxdego11eemjoqgeuzihs0k
+2026-05-24,0,Inter Miami 6-4 Philadelphia Union,Inter Miami,Philadelphia Union,6i6n0jkbh9zzij6s8htfjh2j8,8k5pq0y6auxz3780cal6w9tlg
+2026-05-24,0,Columbus Crew 2-0 Atlanta United,Columbus Crew,Atlanta United,6i6n0jkbh9zzij6s8htfjh2j8,8jkodvm9ndoaaa2vdfzzjbw2c
+2026-05-23,0,LA Galaxy 1-1 Houston Dynamo,LA Galaxy,Houston Dynamo,6i6n0jkbh9zzij6s8htfjh2j8,8j2gg66rnmwbggbp7u3r9bf2s
+2026-05-23,0,San Diego 2-4 Vancouver Whitecaps,San Diego,Vancouver Whitecaps,6i6n0jkbh9zzij6s8htfjh2j8,8ikn0ri81aads0w2o8vj5q0ic
+2026-05-23,0,Portland Timbers 1-3 SJ Earthquakes,Portland Timbers,SJ Earthquakes,6i6n0jkbh9zzij6s8htfjh2j8,8i25o6ojz7ou1wfd6ive9ypec
+2026-05-23,0,Colorado Rapids 1-2 Dallas,Colorado Rapids,Dallas,6i6n0jkbh9zzij6s8htfjh2j8,8hjtzr5hkjlrdsa6mcrtdmxw4
+2026-05-23,0,Nashville SC 2-1 NYCFC,Nashville SC,NYCFC,6i6n0jkbh9zzij6s8htfjh2j8,8h1pyz7vg3i13sk2kp6252f4k
+2026-05-23,0,Sporting KC 1-2 New York RB,Sporting KC,New York RB,6i6n0jkbh9zzij6s8htfjh2j8,8fwksfs4ds357it76bka1ox04
+2026-05-23,0,Chicago Fire 2-1 Toronto,Chicago Fire,Toronto,6i6n0jkbh9zzij6s8htfjh2j8,8feezjm8f4hfs6odo4gleu80k
+2026-05-23,0,DC United 4-4 Montréal,DC United,Montréal,6i6n0jkbh9zzij6s8htfjh2j8,8ew9b8lo4fmctgp1mbowy7x90
+2026-05-23,0,Cincinnati 6-2 Orlando City,Cincinnati,Orlando City,6i6n0jkbh9zzij6s8htfjh2j8,8ee7bxleyyl44tw2t27bu1ams
+2026-05-23,0,Charlotte 1-0 New England,Charlotte,New England,6i6n0jkbh9zzij6s8htfjh2j8,8dw9ie06gyq8wy33m3wfwlh5g
+2026-05-23,0,Minnesota United 1-1 Real Salt Lake,Minnesota United,Real Salt Lake,6i6n0jkbh9zzij6s8htfjh2j8,8geiaz56su4qmpdhdf3rbsys4
+2026-05-23,0,St. Louis City 3-0 Austin,St. Louis City,Austin,6i6n0jkbh9zzij6s8htfjh2j8,8deax6mbv2kc0yxvyk3oii3v8
+2026-05-17,0,Nashville SC 3-2 LAFC,Nashville SC,LAFC,6i6n0jkbh9zzij6s8htfjh2j8,8cvvisawgicvqpk5qq4equhhw
+2026-05-17,0,Inter Miami 2-0 Portland Timbers,Inter Miami,Portland Timbers,6i6n0jkbh9zzij6s8htfjh2j8,8cbs5z9grjdqr1vg821uob3f8
+2026-05-16,0,SJ Earthquakes 2-3 Dallas,SJ Earthquakes,Dallas,6i6n0jkbh9zzij6s8htfjh2j8,8btxsobky4333urapawxannro
+2026-05-16,0,San Diego 3-3 Cincinnati,San Diego,Cincinnati,6i6n0jkbh9zzij6s8htfjh2j8,8bacpz6cfcxssgnav1m54u3o4
+2026-05-16,0,Real Salt Lake 2-1 Colorado Rapids,Real Salt Lake,Colorado Rapids,6i6n0jkbh9zzij6s8htfjh2j8,8asfujbak2vgn9fkbhhw9d2c4
+2026-05-16,0,Seattle Sounders 0-2 LA Galaxy,Seattle Sounders,LA Galaxy,6i6n0jkbh9zzij6s8htfjh2j8,8aacd4o5otg57f8lz2etr3zmc
+2026-05-16,0,Houston Dynamo 1-0 Vancouver Whitecaps,Houston Dynamo,Vancouver Whitecaps,6i6n0jkbh9zzij6s8htfjh2j8,89s9l0whawbrihd7kuxvjsnpw
+2026-05-16,0,Austin 1-2 Sporting KC,Austin,Sporting KC,6i6n0jkbh9zzij6s8htfjh2j8,89ae0l245w8caebmdyihh0sno
+2026-05-16,0,Philadelphia Union 1-1 Columbus Crew,Philadelphia Union,Columbus Crew,6i6n0jkbh9zzij6s8htfjh2j8,88si62wwos7cj5xpyznx5lhqs
+2026-05-16,0,Orlando City 1-1 Atlanta United,Orlando City,Atlanta United,6i6n0jkbh9zzij6s8htfjh2j8,88ahe96nemxzfqe88b8kxp82c
+2026-05-16,0,New York RB 1-1 NYCFC,New York RB,NYCFC,6i6n0jkbh9zzij6s8htfjh2j8,87sp609b7pjnep1u07k6ng3ro
+2026-05-16,0,New England 2-1 Minnesota United,New England,Minnesota United,6i6n0jkbh9zzij6s8htfjh2j8,87azs1nst342j7bd2y6cevh1w
+2026-05-16,0,DC United 1-1 St. Louis City,DC United,St. Louis City,6i6n0jkbh9zzij6s8htfjh2j8,869dq9719reesrbgs4q1m9dec
+2026-05-16,0,Charlotte 3-1 Toronto,Charlotte,Toronto,6i6n0jkbh9zzij6s8htfjh2j8,85rfphiaq2ghvmy8055d8b11w
+2026-05-16,0,Montréal 0-2 Chicago Fire,Montréal,Chicago Fire,6i6n0jkbh9zzij6s8htfjh2j8,86szfh5792177edgjx4z3fehg
+2026-05-13,0,Seattle Sounders 3-2 SJ Earthquakes,Seattle Sounders,SJ Earthquakes,6i6n0jkbh9zzij6s8htfjh2j8,859h5t6805vgh76u624lwagic
+2026-05-13,0,San Diego 5-0 Austin,San Diego,Austin,6i6n0jkbh9zzij6s8htfjh2j8,84r4ekxdtiegyikul2c8qs5qs
+2026-05-13,0,Real Salt Lake 3-0 Houston Dynamo,Real Salt Lake,Houston Dynamo,6i6n0jkbh9zzij6s8htfjh2j8,849dd8smxmvyukmtvdhcjktn8
+2026-05-13,0,St. Louis City 2-1 LAFC,St. Louis City,LAFC,6i6n0jkbh9zzij6s8htfjh2j8,83rb0egassjsfvwgungpirnkk
+2026-05-13,0,Minnesota United 0-1 Colorado Rapids,Minnesota United,Colorado Rapids,6i6n0jkbh9zzij6s8htfjh2j8,8346fbl3caqzylgx40fxooq38
+2026-05-13,0,Sporting KC 3-1 LA Galaxy,Sporting KC,LA Galaxy,6i6n0jkbh9zzij6s8htfjh2j8,82lxws5tzycjhyqp7vyrovm6s
+2026-05-13,0,Dallas 2-3 Vancouver Whitecaps,Dallas,Vancouver Whitecaps,6i6n0jkbh9zzij6s8htfjh2j8,823wz7oecerc1tp6eyiwu3wno
+2026-05-13,0,Orlando City 4-3 Philadelphia Union,Orlando City,Philadelphia Union,6i6n0jkbh9zzij6s8htfjh2j8,81lxdvdog3yrmenqik8ilbzmc
+2026-05-13,0,New York RB 3-2 Columbus Crew,New York RB,Columbus Crew,6i6n0jkbh9zzij6s8htfjh2j8,810qb2pnvlphf97m7qatdxkb8
+2026-05-13,0,New England 0-3 Nashville SC,New England,Nashville SC,6i6n0jkbh9zzij6s8htfjh2j8,80igkmncqq444cblkw2udwnx0
+2026-05-13,0,Montréal 2-2 Portland Timbers,Montréal,Portland Timbers,6i6n0jkbh9zzij6s8htfjh2j8,7zxagz9fi3s422jqgfrte2qs4
+2026-05-13,0,DC United 1-3 Chicago Fire,DC United,Chicago Fire,6i6n0jkbh9zzij6s8htfjh2j8,7zbh3rso75wf8k3e51rsbgtuc
+2026-05-13,0,Cincinnati 3-5 Inter Miami,Cincinnati,Inter Miami,6i6n0jkbh9zzij6s8htfjh2j8,7yteyg7wg2sqeexqt49zpwefo
+2026-05-13,0,Charlotte 0-1 NYCFC,Charlotte,NYCFC,6i6n0jkbh9zzij6s8htfjh2j8,7ybhehv05amqbl95vf6zoqvis
+2026-05-10,0,LAFC 1-4 Houston Dynamo,LAFC,Houston Dynamo,6i6n0jkbh9zzij6s8htfjh2j8,7xrp1w4xaaijyo3nk69ptrbx0
+2026-05-10,0,Minnesota United 2-2 Austin,Minnesota United,Austin,6i6n0jkbh9zzij6s8htfjh2j8,7x9dx8mch4pstwrlvv6cxijv8
+2026-05-10,0,NYCFC 3-0 Columbus Crew,NYCFC,Columbus Crew,6i6n0jkbh9zzij6s8htfjh2j8,7wqy2i1kyjz53fx4sjwp5f9ck
+2026-05-09,0,Seattle Sounders 1-1 San Diego,Seattle Sounders,San Diego,6i6n0jkbh9zzij6s8htfjh2j8,7w83wmojuo4eqjww1wleuvs44
+2026-05-09,0,SJ Earthquakes 1-1 Vancouver Whitecaps,SJ Earthquakes,Vancouver Whitecaps,6i6n0jkbh9zzij6s8htfjh2j8,7vo4e6qzyspl9mbugknmw5s7o
+2026-05-09,0,Portland Timbers 6-0 Sporting KC,Portland Timbers,Sporting KC,6i6n0jkbh9zzij6s8htfjh2j8,7v68jn40sygmw05swrcomcqac
+2026-05-09,0,Colorado Rapids 0-1 St. Louis City,Colorado Rapids,St. Louis City,6i6n0jkbh9zzij6s8htfjh2j8,7uo43ijuj0j2kd6x23bi0gkyc
+2026-05-09,0,Nashville SC 2-2 DC United,Nashville SC,DC United,6i6n0jkbh9zzij6s8htfjh2j8,7u5lv2v7giomuuw4chrzxez2s
+2026-05-09,0,Dallas 3-1 Real Salt Lake,Dallas,Real Salt Lake,6i6n0jkbh9zzij6s8htfjh2j8,7tne4l3ugjsap0mbg90vjt3is
+2026-05-09,0,New England 2-1 Philadelphia Union,New England,Philadelphia Union,6i6n0jkbh9zzij6s8htfjh2j8,7t4zoqy28psybnfed48icbifo
+2026-05-09,0,Charlotte 2-2 Cincinnati,Charlotte,Cincinnati,6i6n0jkbh9zzij6s8htfjh2j8,7smxsn5piaeh14cv2tv41lmhg
+2026-05-09,0,Atlanta United 1-2 LA Galaxy,Atlanta United,LA Galaxy,6i6n0jkbh9zzij6s8htfjh2j8,7s29b1dx1fmj12qzk4b10yc5w
+2026-05-09,0,Montréal 2-0 Orlando City,Montréal,Orlando City,6i6n0jkbh9zzij6s8htfjh2j8,7qzklzvj4xzjrg1zvm0yk43dg
+2026-05-09,0,Chicago Fire 1-3 New York RB,Chicago Fire,New York RB,6i6n0jkbh9zzij6s8htfjh2j8,7qdzp9u1zh6vxhseguttmny1g
+2026-05-09,0,Toronto 2-4 Inter Miami,Toronto,Inter Miami,6i6n0jkbh9zzij6s8htfjh2j8,7rhuoeip5ihb5v5zlrh9690r8
+2026-05-03,0,Austin 2-0 St. Louis City,Austin,St. Louis City,6i6n0jkbh9zzij6s8htfjh2j8,7pw1e68tef6i71rn67wmflrmc
+2026-05-03,0,NYCFC 0-2 DC United,NYCFC,DC United,6i6n0jkbh9zzij6s8htfjh2j8,7pecsf2lk4j6l92pme01cpel0
+2026-05-02,0,LA Galaxy 1-1 Vancouver Whitecaps,LA Galaxy,Vancouver Whitecaps,6i6n0jkbh9zzij6s8htfjh2j8,7owhf1cnpwmykvgth50vwx2c4
+2026-05-02,0,San Diego 2-2 LAFC,San Diego,LAFC,6i6n0jkbh9zzij6s8htfjh2j8,7oeck9roht8maq319od7g90d0
+2026-05-02,0,Houston Dynamo 1-0 Colorado Rapids,Houston Dynamo,Colorado Rapids,6i6n0jkbh9zzij6s8htfjh2j8,7nvgkrzbrkpvdgg1wd1ctkf10
+2026-05-02,0,Chicago Fire 2-3 Cincinnati,Chicago Fire,Cincinnati,6i6n0jkbh9zzij6s8htfjh2j8,7narv4vp3c8rse9el7ar2xhqs
+2026-05-02,0,Philadelphia Union 0-0 Nashville SC,Philadelphia Union,Nashville SC,6i6n0jkbh9zzij6s8htfjh2j8,7mquniklb7gycu3y043dyp3x0
+2026-05-02,0,New York RB 0-2 Dallas,New York RB,Dallas,6i6n0jkbh9zzij6s8htfjh2j8,7m8c00aeue4zx3yh3r6hmw74k
+2026-05-02,0,New England 1-0 Charlotte,New England,Charlotte,6i6n0jkbh9zzij6s8htfjh2j8,7lof40m0g4hvlzruj7kchpu6s
+2026-05-02,0,Columbus Crew 2-3 Minnesota United,Columbus Crew,Minnesota United,6i6n0jkbh9zzij6s8htfjh2j8,7l42s9i1xk0qyf0x7g4ea1s0k
+2026-05-02,0,Atlanta United 3-1 Montréal,Atlanta United,Montréal,6i6n0jkbh9zzij6s8htfjh2j8,7kjf98iy8ba1f587axy8nqf4k
+2026-05-02,0,Inter Miami 3-4 Orlando City,Inter Miami,Orlando City,6i6n0jkbh9zzij6s8htfjh2j8,7jvkz4obo6iuid4madimxludw
+2026-05-02,0,Real Salt Lake 2-0 Portland Timbers,Real Salt Lake,Portland Timbers,6i6n0jkbh9zzij6s8htfjh2j8,7iuz43fqcf064jdl8rx9oiej8
+2026-05-02,0,Sporting KC 1-1 Seattle Sounders,Sporting KC,Seattle Sounders,6i6n0jkbh9zzij6s8htfjh2j8,7icen2khqjuyfpbgms5y1jqj8
+2026-05-02,0,Toronto 1-1 SJ Earthquakes,Toronto,SJ Earthquakes,6i6n0jkbh9zzij6s8htfjh2j8,7jdr8p4ke0aihcty9fbzcirys
+2026-04-26,0,LA Galaxy 2-1 Real Salt Lake,LA Galaxy,Real Salt Lake,6i6n0jkbh9zzij6s8htfjh2j8,7hu7py1yjaxsy9z6vnmxkb504
+2026-04-25,0,Vancouver Whitecaps 3-1 Colorado Rapids,Vancouver Whitecaps,Colorado Rapids,6i6n0jkbh9zzij6s8htfjh2j8,7hbxnkh75jgl4zkfyoiccg178
+2026-04-25,0,Seattle Sounders 2-1 Dallas,Seattle Sounders,Dallas,6i6n0jkbh9zzij6s8htfjh2j8,7gsrcuq5mrtje2jkl24wq79jo
+2026-04-25,0,San Diego 1-2 Portland Timbers,San Diego,Portland Timbers,6i6n0jkbh9zzij6s8htfjh2j8,7g4e0df82hf5d2f8wasv54xzo
+2026-04-25,0,St. Louis City 2-3 SJ Earthquakes,St. Louis City,SJ Earthquakes,6i6n0jkbh9zzij6s8htfjh2j8,7felz1ebtx5ufc3rup5hbzok4
+2026-04-25,0,Nashville SC 4-2 Charlotte,Nashville SC,Charlotte,6i6n0jkbh9zzij6s8htfjh2j8,7evh8rcljni5abbrv9zx5bb4k
+2026-04-25,0,Chicago Fire 5-0 Sporting KC,Chicago Fire,Sporting KC,6i6n0jkbh9zzij6s8htfjh2j8,7eda6d5e3whuu9pe0pnodkf10
+2026-04-25,0,Austin 2-0 Houston Dynamo,Austin,Houston Dynamo,6i6n0jkbh9zzij6s8htfjh2j8,7dszyi8fzfq4e4u87wxeilnv8
+2026-04-25,0,Inter Miami 1-1 New England,Inter Miami,New England,6i6n0jkbh9zzij6s8htfjh2j8,7db01q4tk13jeb4bhp4p8ikus
+2026-04-25,0,DC United 3-2 Orlando City,DC United,Orlando City,6i6n0jkbh9zzij6s8htfjh2j8,7ct43c8d3c39qyvcwpopzcmxg
+2026-04-25,0,Columbus Crew 2-0 Philadelphia Union,Columbus Crew,Philadelphia Union,6i6n0jkbh9zzij6s8htfjh2j8,7caztwcoxmd91lavw30af09as
+2026-04-25,0,Cincinnati 2-0 New York RB,Cincinnati,New York RB,6i6n0jkbh9zzij6s8htfjh2j8,7brl8ix308exwl5kxrr978nx0
+2026-04-25,0,Minnesota United 0-1 LAFC,Minnesota United,LAFC,6i6n0jkbh9zzij6s8htfjh2j8,7arf38uptcfc6utrxfmrwmsk4
+2026-04-25,0,Montréal 1-0 NYCFC,Montréal,NYCFC,6i6n0jkbh9zzij6s8htfjh2j8,7b9gzx4h41pv5hrerw8x0l990
+2026-04-25,0,Toronto 1-2 Atlanta United,Toronto,Atlanta United,6i6n0jkbh9zzij6s8htfjh2j8,7a6vtnspuhc6f5iuav14wy3h0
+2026-04-22,0,SJ Earthquakes 5-1 Austin,SJ Earthquakes,Austin,6i6n0jkbh9zzij6s8htfjh2j8,79omo3fm9w6yw1xgp7wtv5jpw
+2026-04-22,0,LAFC 0-0 Colorado Rapids,LAFC,Colorado Rapids,6i6n0jkbh9zzij6s8htfjh2j8,795ktjzmtf8onz4dq8ze5ixas
+2026-04-22,0,Columbus Crew 2-1 LA Galaxy,Columbus Crew,LA Galaxy,6i6n0jkbh9zzij6s8htfjh2j8,74wiam2gq1z1jilq46mwammms
+2026-04-22,0,Real Salt Lake 0-2 Inter Miami,Real Salt Lake,Inter Miami,6i6n0jkbh9zzij6s8htfjh2j8,78icms6a423klyyz72yutgf84
+2026-04-22,0,Houston Dynamo 1-0 San Diego,Houston Dynamo,San Diego,6i6n0jkbh9zzij6s8htfjh2j8,77zyu8rocoll3vhv9vtbigmxg
+2026-04-22,0,Dallas 0-1 Minnesota United,Dallas,Minnesota United,6i6n0jkbh9zzij6s8htfjh2j8,77hpnx3dd29ncmr0xcdcponis
+2026-04-22,0,Atlanta United 1-2 New England,Atlanta United,New England,6i6n0jkbh9zzij6s8htfjh2j8,74ecy6uwgk64y5tj1u93tetjo
+2026-04-22,0,Toronto 3-3 Philadelphia Union,Toronto,Philadelphia Union,6i6n0jkbh9zzij6s8htfjh2j8,76zismxpyqvxrxfdky2f3eyok
+2026-04-22,0,Orlando City 4-1 Charlotte,Orlando City,Charlotte,6i6n0jkbh9zzij6s8htfjh2j8,76hehnkwv4dmjre6f6hawvuvo
+2026-04-22,0,New York RB 4-4 DC United,New York RB,DC United,6i6n0jkbh9zzij6s8htfjh2j8,75yv331xhhn7p6gtfkmzbxslw
+2026-04-22,0,NYCFC 4-4 Cincinnati,NYCFC,Cincinnati,6i6n0jkbh9zzij6s8htfjh2j8,75gclf5icew5et00cnuedxpuc
+2026-04-19,0,LAFC 1-4 SJ Earthquakes,LAFC,SJ Earthquakes,6i6n0jkbh9zzij6s8htfjh2j8,73w70uvpzywizv1g54fxzou8k
+2026-04-18,0,Seattle Sounders 4-1 St. Louis City,Seattle Sounders,St. Louis City,6i6n0jkbh9zzij6s8htfjh2j8,73cenbfzx3icw0j07x8s02xhw
+2026-04-18,0,Real Salt Lake 4-2 San Diego,Real Salt Lake,San Diego,6i6n0jkbh9zzij6s8htfjh2j8,72tycotobk2d0x9wklmnfp990
+2026-04-18,0,Minnesota United 2-0 Portland Timbers,Minnesota United,Portland Timbers,6i6n0jkbh9zzij6s8htfjh2j8,72bxwa1lgo86fe930eg94waok
+2026-04-18,0,Dallas 2-2 LA Galaxy,Dallas,LA Galaxy,6i6n0jkbh9zzij6s8htfjh2j8,71trzlr1grw8wlfu3duyb8cus
+2026-04-18,0,Philadelphia Union 0-0 DC United,Philadelphia Union,DC United,6i6n0jkbh9zzij6s8htfjh2j8,71afwvdicxyv8tb9xv48bxc0k
+2026-04-18,0,Orlando City 0-1 Houston Dynamo,Orlando City,Houston Dynamo,6i6n0jkbh9zzij6s8htfjh2j8,70ryhr0kcio8k32ywv7rmrbpw
+2026-04-18,0,NYCFC 1-2 Charlotte,NYCFC,Charlotte,6i6n0jkbh9zzij6s8htfjh2j8,709ltbharjtt8xgvu24eb06xg
+2026-04-18,0,New England 2-1 Columbus Crew,New England,Columbus Crew,6i6n0jkbh9zzij6s8htfjh2j8,6zov2t04bf6tbqxfnuu2nhrtg
+2026-04-18,0,Cincinnati 3-3 Chicago Fire,Cincinnati,Chicago Fire,6i6n0jkbh9zzij6s8htfjh2j8,6z6tp4kx3cl1lthob0n4of02c
+2026-04-18,0,Atlanta United 0-2 Nashville SC,Atlanta United,Nashville SC,6i6n0jkbh9zzij6s8htfjh2j8,6yor0ooa7g4pnthq2xcz2tmok
+2026-04-18,0,Colorado Rapids 2-3 Inter Miami,Colorado Rapids,Inter Miami,6i6n0jkbh9zzij6s8htfjh2j8,6xosjsnulywchuknonsm2qkus
+2026-04-18,0,Montréal 4-1 New York RB,Montréal,New York RB,6i6n0jkbh9zzij6s8htfjh2j8,6y6r9lu2gpm0ebhpa44eh88ic
+2026-04-18,0,Toronto 3-3 Austin,Toronto,Austin,6i6n0jkbh9zzij6s8htfjh2j8,6woqskxzz6x6424tdnyp9bjtg
+2026-04-17,0,Vancouver Whitecaps 3-0 Sporting KC,Vancouver Whitecaps,Sporting KC,6i6n0jkbh9zzij6s8htfjh2j8,6x6rjmq09f6ofgwhvxvcw2hp0
+2026-04-12,0,Columbus Crew 1-1 Orlando City,Columbus Crew,Orlando City,6i6n0jkbh9zzij6s8htfjh2j8,6vld32ft3aneyy0ry7oy0hwd0
+2026-04-11,0,San Diego 1-2 Minnesota United,San Diego,Minnesota United,6i6n0jkbh9zzij6s8htfjh2j8,6uzpq1u1owmijpo7xdqkg721g
+2026-04-11,0,Colorado Rapids 6-2 Houston Dynamo,Colorado Rapids,Houston Dynamo,6i6n0jkbh9zzij6s8htfjh2j8,6ufvj9mlp75ozk3rqyonzxr10
+2026-04-11,0,Sporting KC 1-3 SJ Earthquakes,Sporting KC,SJ Earthquakes,6i6n0jkbh9zzij6s8htfjh2j8,6twdowx8apch2v2lohxid82z8
+2026-04-11,0,Dallas 1-1 St. Louis City,Dallas,St. Louis City,6i6n0jkbh9zzij6s8htfjh2j8,6tb1nctlxlbktd6so0m5e3cwk
+2026-04-11,0,Chicago Fire 1-0 Atlanta United,Chicago Fire,Atlanta United,6i6n0jkbh9zzij6s8htfjh2j8,6srmf2psb6ooyezb8w0spflzo
+2026-04-11,0,Vancouver Whitecaps 2-0 NYCFC,Vancouver Whitecaps,NYCFC,6i6n0jkbh9zzij6s8htfjh2j8,6s84y6cyilqhj0b946vx2kzdg
+2026-04-11,0,New England 1-0 DC United,New England,DC United,6i6n0jkbh9zzij6s8htfjh2j8,6rjmbpi1l7fzhsixq106qfwus
+2026-04-11,0,Inter Miami 2-2 New York RB,Inter Miami,New York RB,6i6n0jkbh9zzij6s8htfjh2j8,6qzww5blfgp5vk742ym2si9sk
+2026-04-11,0,Charlotte 1-2 Nashville SC,Charlotte,Nashville SC,6i6n0jkbh9zzij6s8htfjh2j8,6qbjjspngbkd8bynykpjcn5zo
+2026-04-11,0,Portland Timbers 2-1 LAFC,Portland Timbers,LAFC,6i6n0jkbh9zzij6s8htfjh2j8,6p397mdib0muiw04eb462arys
+2026-04-11,0,Montréal 1-2 Philadelphia Union,Montréal,Philadelphia Union,6i6n0jkbh9zzij6s8htfjh2j8,6pnrjvnkn2xbzxhmlw1ul60pg
+2026-04-11,0,Austin 1-2 LA Galaxy,Austin,LA Galaxy,6i6n0jkbh9zzij6s8htfjh2j8,6ojewcv04na5te09oiwegsfmc
+2026-04-11,0,Toronto 1-1 Cincinnati,Toronto,Cincinnati,6i6n0jkbh9zzij6s8htfjh2j8,6o1fnhpexnunhy6uz3i04vfv8
+2026-04-04,0,Vancouver Whitecaps 3-2 Portland Timbers,Vancouver Whitecaps,Portland Timbers,6i6n0jkbh9zzij6s8htfjh2j8,6njb5p6snmgwsdetkr6z1nbbo
+2026-04-04,0,SJ Earthquakes 3-0 San Diego,SJ Earthquakes,San Diego,6i6n0jkbh9zzij6s8htfjh2j8,6mxkyz5z34kpwyec4xbgt0hlg
+2026-04-04,0,LA Galaxy 1-2 Minnesota United,LA Galaxy,Minnesota United,6i6n0jkbh9zzij6s8htfjh2j8,6md0yci7sbw8a9xuwlzfecj6c
+2026-04-04,0,LAFC 6-0 Orlando City,LAFC,Orlando City,6i6n0jkbh9zzij6s8htfjh2j8,6lrtzkpsuh38e9bknu7btzw2c
+2026-04-04,0,Houston Dynamo 0-1 Seattle Sounders,Houston Dynamo,Seattle Sounders,6i6n0jkbh9zzij6s8htfjh2j8,6l7g7xzg4kcu09s0l3jsyq0b8
+2026-04-04,0,Chicago Fire 1-0 Nashville SC,Chicago Fire,Nashville SC,6i6n0jkbh9zzij6s8htfjh2j8,6ko2jshicocfunq24qsl6sidw
+2026-04-04,0,New York RB 4-2 Cincinnati,New York RB,Cincinnati,6i6n0jkbh9zzij6s8htfjh2j8,6k4m6yakit84h6lfjr75aqtjo
+2026-04-04,0,NYCFC 1-1 St. Louis City,NYCFC,St. Louis City,6i6n0jkbh9zzij6s8htfjh2j8,6jhlg9dyz9ehl4fcdskiop53o
+2026-04-04,0,Inter Miami 2-2 Austin,Inter Miami,Austin,6i6n0jkbh9zzij6s8htfjh2j8,6iy2m1l2ikp7xscliwbf1ta8k
+2026-04-04,0,DC United 0-4 Dallas,DC United,Dallas,6i6n0jkbh9zzij6s8htfjh2j8,6iej5e6ghrk2ylfl5zxaaef4k
+2026-04-04,0,Charlotte 2-1 Philadelphia Union,Charlotte,Philadelphia Union,6i6n0jkbh9zzij6s8htfjh2j8,6hv3ovwzt7xcylcyrp2hy06c4
+2026-04-04,0,Atlanta United 1-3 Columbus Crew,Atlanta United,Columbus Crew,6i6n0jkbh9zzij6s8htfjh2j8,6ha6qkecnejqskhu0s67w2ihg
+2026-04-04,0,Real Salt Lake 3-1 Sporting KC,Real Salt Lake,Sporting KC,6i6n0jkbh9zzij6s8htfjh2j8,6gqk2vpfwrc6r1w7pnlublvkk
+2026-04-04,0,New England 3-0 Montréal,New England,Montréal,6i6n0jkbh9zzij6s8htfjh2j8,6g81obtpab693e23q6yc092qc
+2026-04-04,0,Toronto 3-2 Colorado Rapids,Toronto,Colorado Rapids,6i6n0jkbh9zzij6s8htfjh2j8,6fq6h6s6289ewbby9cgcnx6hg
+2026-03-22,0,San Diego 2-2 Real Salt Lake,San Diego,Real Salt Lake,6i6n0jkbh9zzij6s8htfjh2j8,6f6pqaovfddhsb9vd8o6ki1w4
+2026-03-22,0,Portland Timbers 1-1 LA Galaxy,Portland Timbers,LA Galaxy,6i6n0jkbh9zzij6s8htfjh2j8,6eow9wdjui26pbm9r6kztslqs
+2026-03-22,0,Minnesota United 0-0 Seattle Sounders,Minnesota United,Seattle Sounders,6i6n0jkbh9zzij6s8htfjh2j8,6e4y6q37wysmob6m7t5nr23o4
+2026-03-22,0,NYCFC 2-3 Inter Miami,NYCFC,Inter Miami,6i6n0jkbh9zzij6s8htfjh2j8,6dmpayfaz8g3e6mcjnj6dgljo
+2026-03-22,0,Cincinnati 4-3 Montréal,Cincinnati,Montréal,6i6n0jkbh9zzij6s8htfjh2j8,6afvupj1i60xda0ls1dzmagwk
+2026-03-21,0,Vancouver Whitecaps 0-1 SJ Earthquakes,Vancouver Whitecaps,SJ Earthquakes,6i6n0jkbh9zzij6s8htfjh2j8,6d3zbh3icpovcevoluaqvg5ck
+2026-03-21,0,Austin 0-0 LAFC,Austin,LAFC,6i6n0jkbh9zzij6s8htfjh2j8,6axqeb2godqchevjfpl5lw104
+2026-03-21,0,St. Louis City 3-1 New England,St. Louis City,New England,6i6n0jkbh9zzij6s8htfjh2j8,6clruv0vd214ob79wry82stg4
+2026-03-21,0,Sporting KC 1-4 Colorado Rapids,Sporting KC,Colorado Rapids,6i6n0jkbh9zzij6s8htfjh2j8,6c068ydk9gzpfzf3sifsfi7mc
+2026-03-21,0,Dallas 4-3 Houston Dynamo,Dallas,Houston Dynamo,6i6n0jkbh9zzij6s8htfjh2j8,6bhs8x9sr59ryh2izp343ji8k
+2026-03-21,0,Charlotte 6-1 New York RB,Charlotte,New York RB,6i6n0jkbh9zzij6s8htfjh2j8,69vlyl328v8ncuucwtf2rd3is
+2026-03-21,0,Atlanta United 0-0 DC United,Atlanta United,DC United,6i6n0jkbh9zzij6s8htfjh2j8,69ddmkslbrdb27gvn0lsjoopg
+2026-03-21,0,Nashville SC 5-0 Orlando City,Nashville SC,Orlando City,6i6n0jkbh9zzij6s8htfjh2j8,68til5oitmvm3nctmresfdqfo
+2026-03-21,0,Philadelphia Union 1-2 Chicago Fire,Philadelphia Union,Chicago Fire,6i6n0jkbh9zzij6s8htfjh2j8,68bhbbiswf15nfzzb3cvfnuok
+2026-03-21,0,Toronto 2-1 Columbus Crew,Toronto,Columbus Crew,6i6n0jkbh9zzij6s8htfjh2j8,67tkelkl9ippr039r56y8eiok
+2026-03-15,0,SJ Earthquakes 0-1 Seattle Sounders,SJ Earthquakes,Seattle Sounders,6i6n0jkbh9zzij6s8htfjh2j8,67bg61wsmy1q663l7mc0uar6c
+2026-03-15,0,Vancouver Whitecaps 6-0 Minnesota United,Vancouver Whitecaps,Minnesota United,6i6n0jkbh9zzij6s8htfjh2j8,66bjdyusgd83xjl9o1wx3ztas
+2026-03-15,0,New England 6-1 Cincinnati,New England,Cincinnati,6i6n0jkbh9zzij6s8htfjh2j8,66tl1yjg4x37wx27219d20iz8
+2026-03-14,0,LAFC 2-0 St. Louis City,LAFC,St. Louis City,6i6n0jkbh9zzij6s8htfjh2j8,65thmrivauititb0ffblsefis
+2026-03-14,0,Real Salt Lake 2-1 Austin,Real Salt Lake,Austin,6i6n0jkbh9zzij6s8htfjh2j8,65aw1b9i2o5rp87m7xzp391ck
+2026-03-14,0,LA Galaxy 1-2 Sporting KC,LA Galaxy,Sporting KC,6i6n0jkbh9zzij6s8htfjh2j8,64smma5dd1zkw7u9rl0o0bg2c
+2026-03-14,0,Houston Dynamo 3-2 Portland Timbers,Houston Dynamo,Portland Timbers,6i6n0jkbh9zzij6s8htfjh2j8,64ap8oy6qlguhuduwtrzxrm6s
+2026-03-14,0,Dallas 3-3 San Diego,Dallas,San Diego,6i6n0jkbh9zzij6s8htfjh2j8,63r71405qppjrnin2bvix9jx0
+2026-03-14,0,Chicago Fire 1-2 DC United,Chicago Fire,DC United,6i6n0jkbh9zzij6s8htfjh2j8,6396jhhews923rqs9xd7d9wk4
+2026-03-14,0,Orlando City 2-1 Montréal,Orlando City,Montréal,6i6n0jkbh9zzij6s8htfjh2j8,62qz8q7wasdmm9txpz9oijc44
+2026-03-14,0,NYCFC 3-1 Colorado Rapids,NYCFC,Colorado Rapids,6i6n0jkbh9zzij6s8htfjh2j8,628x1vlcnpp2alagkkzvuw3ys
+2026-03-14,0,Charlotte 0-0 Inter Miami,Charlotte,Inter Miami,6i6n0jkbh9zzij6s8htfjh2j8,61qphfgww5vpve2l06kocxus4
+2026-03-14,0,Columbus Crew 0-1 Nashville SC,Columbus Crew,Nashville SC,6i6n0jkbh9zzij6s8htfjh2j8,6185hrk6zmzmmgef5baersq38
+2026-03-14,0,Atlanta United 3-1 Philadelphia Union,Atlanta United,Philadelphia Union,6i6n0jkbh9zzij6s8htfjh2j8,60q3uxp2jhbg1sthj0otkh0r8
+2026-03-14,0,Toronto 1-1 New York RB,Toronto,New York RB,6i6n0jkbh9zzij6s8htfjh2j8,607lyyau2gf8drkxd1rya2has
 2026-03-08,0,Cincinnati 0-1 Toronto,Cincinnati,Toronto,6i6n0jkbh9zzij6s8htfjh2j8,5zpr52kd2kh0lbe2heqzpssus
 2026-03-08,0,New York RB 0-3 Montréal,New York RB,Montréal,6i6n0jkbh9zzij6s8htfjh2j8,5z7mezyyzqo231vundlggchzo
 2026-03-07,0,Portland Timbers 1-4 Vancouver Whitecaps,Portland Timbers,Vancouver Whitecaps,6i6n0jkbh9zzij6s8htfjh2j8,5yo00zhxtrlafcywv75qoxno4
